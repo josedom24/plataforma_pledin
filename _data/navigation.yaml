@@ -1,0 +1,47 @@
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  - title: "Cursos"
+    url: #
+  - title: "Módulos"
+    url: #
+  - title: "Presentación"
+    url: /about/
+
+
+blog:
+  - title: Blog
+    children:
+      - title: "Posts"
+        url: /blog/
+      - title: "Historial"
+        url: /posts/
+      - title: "Etiquetas"
+        url: /tags/
+      - title: "Feed"
+        url: feed.xml
+
+cursos:
+  - title: Cursos
+    children:
+      - title: "Máquinas virtuales para la puesta en marcha de un portal educativo (2006)"
+        url: #
+      
+all:
+  - title: Blog
+    children:
+      - title: "Posts"
+        url: /blog/
+      - title: "Historial"
+        url: /posts/
+      - title: "Etiquetas"
+        url: /tags/
+      - title: "Feed"
+        url: feed.xml
+  - title: Cursos
+    children:
+      - title: "Máquinas virtuales para la puesta en marcha de un portal educativo (2006)"
+        url: #
+ 
