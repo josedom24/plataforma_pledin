@@ -32,39 +32,39 @@ title: Máquinas virtuales para la puesta en marcha de un portal educativo (2006
 
 ### Actividades
 
-* [Instalar Xen en modo puente](doc/Instalar_Xen_en_modo_puente.md)
-* [Instalar VMware Server con la configuración de red por defecto](doc/Instalar_VMware_Server_con_la_configuracion_de_red_por_defecto.md)
-* [Modificar GRUB para incluir otro núcleo para Xen](doc/Modificar_GRUB_para_incluir_otro_nucleo_para_Xen.md)
+* [Instalar Xen en modo puente](doc/Instalar_Xen_en_modo_puente.html)
+* [Instalar VMware Server con la configuración de red por defecto](doc/Instalar_VMware_Server_con_la_configuracion_de_red_por_defecto.html)
+* [Modificar GRUB para incluir otro núcleo para Xen](doc/Modificar_GRUB_para_incluir_otro_nucleo_para_Xen.html)
 
 ## Creación de una red virtual con DMZ y MZ
 
-* [Crear una red virtual con Xen, segmentada en dos subredes.](doc/Crear_una_red_virtual_con_Xen,_segmentada_en_dos_subredes..md)
-* [Crear una red virtual con VMware Server, segmentada en dos subredes.](doc/Crear_una_red_virtual_con_VMware_Server,_segmentada_en_dos_subredes..md)
+* [Crear una red virtual con Xen, segmentada en dos subredes.](doc/Crear_una_red_virtual_con_Xen,_segmentada_en_dos_subredes..html)
+* [Crear una red virtual con VMware Server, segmentada en dos subredes.](doc/Crear_una_red_virtual_con_VMware_Server,_segmentada_en_dos_subredes..html)
 
 ## Cortafuegos con IPtables
 
 * [Introducción a los cortafuegos (UOC)](files/UOC_cortafuegos.pdf)
 * [Tutorial de IPtables de Pello Xabier Altadill](files/IPtables_pello.pdf)
-* [Implementar un cortafuegos](doc/Implementar_un_cortafuegos.md)
+* [Implementar un cortafuegos](doc/Implementar_un_cortafuegos.html)
 
 ## Servidor Apache. webalizer y awstats
 
 * [Presentación Servidor Web](files/pres_apache.pdf)
 * [Servidor Apache2. Virtual Hosting. Awstats y webalizer.](files/apache.pdf)
-* [Configurar dos subdominios](doc/Configurar_dos_subdominios.md)
-* [Configuración de awstats para virtual hosting](doc/Configuracion_de_awstats_para_virtual_hosting.md)
+* [Configurar dos subdominios](doc/Configurar_dos_subdominios.html)
+* [Configuración de awstats para virtual hosting](doc/Configuracion_de_awstats_para_virtual_hosting.html)
 
 ## Servidor ftp
 
 * [Presentación Servidor Ftp](files/pres_proftpd.pdf)
 * [Servidor ftp - proFTPd](files/proftp2.pdf)
-* [Crear un ftp anónimo](doc/Crear_un_ftp_anonimo.md)
+* [Crear un ftp anónimo](doc/Crear_un_ftp_anonimo.html)
 
 ## Squid proxy-cache
 
 * [Squid FAQ](http://www.squid-cache.org/Doc/FAQ/FAQ.html)
 * [Squid, un proxy caché para Linux](files/squid.pdf)
-* [Implementar squid como proxy transparente para la red local](doc/Implementar_squid_como_proxy_transparente_para_la_red_local.md)
+* [Implementar squid como proxy transparente para la red local](doc/Implementar_squid_como_proxy_transparente_para_la_red_local.html)
 
 ## Dnsmasq como servidor DNS para una RAL
 
@@ -74,7 +74,7 @@ title: Máquinas virtuales para la puesta en marcha de un portal educativo (2006
 
 * [Presentación webs dinámicas](files/pres_web_dinamicas.pdf)
 * [Paginas web dinamicas. Implantacion del portal educativo. Moodle y Joomla!](files/web_dinamica2.pdf)
-* [Instalar xoops](doc/Instalar_xoops.md)
+* [Instalar xoops](doc/Instalar_xoops.html)
 
 ## Servidor de correo electrónico. Postfix
 
