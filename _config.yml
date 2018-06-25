@@ -84,6 +84,4 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: "cursos"
-      pagination:
-        enabled: false
       
