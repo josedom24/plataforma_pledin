@@ -7,7 +7,8 @@ layout: single
 author_profile: true
 classes: wide
 sidebar:
-  nav: "all"
+  nav: "blog"
+
 ---
 * [Máquinas virtuales para la puesta en marcha de un portal educativo (2006)](mv_portal_educativo_2006)
 * [Curso HELVIA - IES Gonzalo Nazareno (2007)](helvia_iesgn_2007)
