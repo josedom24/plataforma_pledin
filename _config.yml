@@ -83,4 +83,4 @@ defaults:
       toc: true
       sidebar:
         nav: "cursos"
-      permalink: /:collection/:path.html
+      
