@@ -23,7 +23,7 @@ baseurl: "/pledin" # the subpath of your site, e.g. /blog
 url: "http://plataforma.josedomingo.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pledin_jd
 github_username:  josedom24
-
+paginate: 0
 
 timezone: Europe/Madrid
 
