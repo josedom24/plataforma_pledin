@@ -1,1 +1,3 @@
-# Implementar squid como proxy transparente para la red local
+---
+title: Implementar squid como proxy transparente para la red local
+---

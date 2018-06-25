@@ -1,1 +1,3 @@
-# Instalar Xen en modo puente
+---
+title: Instalar Xen en modo puente
+---
