@@ -1,6 +1,5 @@
 ---
 title: Configuración de awstats para virtual hosting
-permalink: /:collection/:path.html
 ---
 
 Configurar awstats para obtener las estadístcas de los dos subdominios creados en la tarea anterior, hay que entregar:
