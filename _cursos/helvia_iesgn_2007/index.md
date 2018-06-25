@@ -1,6 +1,6 @@
 ---
+title: Curso HELVIA - IES Gonzalo Nazareno (2007)
 ---
-# Curso HELVIA - IES Gonzalo Nazareno (2007)
 
 ## Curso impartido en el instituto IES Gonzalo Nazareno sobre la plataforma educativa HELVIA.
 
