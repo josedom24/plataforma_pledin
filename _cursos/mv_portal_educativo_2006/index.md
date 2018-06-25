@@ -1,6 +1,8 @@
 ---
 title: Máquinas virtuales para la puesta en marcha de un portal educativo (2006)
+permanlik: /:collection/:path
 ---
+
 
 ## Objetivos
 
