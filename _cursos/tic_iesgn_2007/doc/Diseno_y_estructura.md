@@ -31,17 +31,12 @@ Una práctica recomendable es corregir la caza entre todos y dar oportunidad de 
 
 **Algunos consejos útiles para diseñar cazas del tesoro:**
 
->![](http://www.aula21.net/cazas/imagenes/papel.gif) Identificar claramente el tema y el área de la caza (esto ayudará posteriormente, sobre todo si la publicamos y la compartimos con otros docentes por Internet).
-> 
-> ![](http://www.aula21.net/cazas/imagenes/papel.gif)Se debe procurar que las preguntas provoquen el pensamiento y la reflexión. Los estudiantes no deben limitarse a ?copiar y pegar?, deben pensar para responder.
-> 
-> ![](http://www.aula21.net/cazas/imagenes/papel.gif)Menos es más. Nunca deberíamos incluir más de diez vínculos. Con niños pequeños, lo ideal es uno o dos.
-> 
-> ![](http://www.aula21.net/cazas/imagenes/papel.gif)Se debe fijar un límite de tiempo para la caza del tesoro y monitorizar qué hacen los estudiantes: si se atascan con el navegador, si se distraen, si terminan muy rápidamente y sus respuestas iniciales son superficiales, si han entendido la tarea, etc.
-> 
-> ![](http://www.aula21.net/cazas/imagenes/papel.gif) Se debe planificar cómo compartirán la información los alumnos; una hoja de trabajo a mano o algún otro tipo de producto (una presentación, un texto electrónico, etc.).
-> 
-> ![](http://www.aula21.net/cazas/imagenes/papel.gif) Finalmente, se debe comprobar si hay vínculos muertos: la web es muy volátil y lo que un día está, al siguiente ha cambiado.
+*  Identificar claramente el tema y el área de la caza (esto ayudará posteriormente, sobre todo si la publicamos y la compartimos con otros docentes por Internet).
+* Se debe procurar que las preguntas provoquen el pensamiento y la reflexión. Los estudiantes no deben limitarse a ?copiar y pegar?, deben pensar para responder.
+* Menos es más. Nunca deberíamos incluir más de diez vínculos. Con niños pequeños, lo ideal es uno o dos.
+* Se debe fijar un límite de tiempo para la caza del tesoro y monitorizar qué hacen los estudiantes: si se atascan con el navegador, si se distraen, si terminan muy rápidamente y sus respuestas iniciales son superficiales, si han entendido la tarea, etc.
+* Se debe planificar cómo compartirán la información los alumnos; una hoja de trabajo a mano o algún otro tipo de producto (una presentación, un texto electrónico, etc.).
+* Finalmente, se debe comprobar si hay vínculos muertos: la web es muy volátil y lo que un día está, al siguiente ha cambiado.
 > 
 > 
 > 
