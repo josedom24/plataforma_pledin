@@ -1,5 +1,5 @@
 ---
-title: Trabajando con imágenes: Gimp, inkscape, gThumb Gimp  
+title: "Trabajando con imágenes: Gimp, inkscape, gThumb Gimp"
 ---
 
 ![gimp](../img/gimp.jpg "gimp")  

@@ -1,5 +1,5 @@
 ---
-title: Operaciones con ficheros\: Abrir, guardar,... 
+title: "Operaciones con ficheros: Abrir, guardar,..."
 ---
   
 ## Writer  

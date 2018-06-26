@@ -1,5 +1,5 @@
 ---
-title: Usuarios remotos: Gesuser 2
+title: "Usuarios remotos: Gesuser 2"
 ---
 
 Gesuser es una herramienta que se utiliza para gestionar los usuarios del centro de una manera intuitiva y con la posibilidad de repartir las tareas de coordinación con los compañeros.  
