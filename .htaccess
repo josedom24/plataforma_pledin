@@ -1,70 +1,70 @@
 Options FollowSymLinks
 RewriteEngine On
 RewriteCond %{QUERY_STRING} id=572
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/temario.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/temario.pdf [R]
 RewriteCond %{QUERY_STRING} id=574
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/Intro_virt.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/Intro_virt.pdf [R]
 RewriteCond %{QUERY_STRING} id=575
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/xen_es_tldp.tgz
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/xen_es_tldp.tgz [R]
 RewriteCond %{QUERY_STRING} id=576
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/curso_xen.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/curso_xen.pdf [R]
 RewriteCond %{QUERY_STRING} id=577
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/vmware_inst.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/vmware_inst.pdf [R]
 RewriteCond %{QUERY_STRING} id=578
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/redes_xen_vmware.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/redes_xen_vmware.pdf [R]
 RewriteCond %{QUERY_STRING} id=580
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/user-xen.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/user-xen.pdf [R]
 RewriteCond %{QUERY_STRING} id=581
-RewriteRule ^mod/url/view.php$ cursos/mv_portal_educativo_2006/http://wiki.xensource.com
+RewriteRule ^mod/url/view.php$ http://wiki.xensource.com [R]
 RewriteCond %{QUERY_STRING} id=582
-RewriteRule ^mod/url/view.php$ cursos/mv_portal_educativo_2006/http://www.vmware.com/support/pubs/server_pubs.html
+RewriteRule ^mod/url/view.php$ http://www.vmware.com/support/pubs/server_pubs.html [R]
 RewriteCond %{QUERY_STRING} id=609
-RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Instalar_Xen_en_modo_puente.html
+RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Instalar_Xen_en_modo_puente.html [R]
 RewriteCond %{QUERY_STRING} id=610
-RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Instalar_VMware_Server_con_la_configuracion_de_red_por_defecto.html
+RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Instalar_VMware_Server_con_la_configuracion_de_red_por_defecto.html [R]
 RewriteCond %{QUERY_STRING} id=611
-RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Modificar_GRUB_para_incluir_otro_nucleo_para_Xen.html
+RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Modificar_GRUB_para_incluir_otro_nucleo_para_Xen.html [R]
 RewriteCond %{QUERY_STRING} id=612
-RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Crear_una_red_virtual_con_Xen_segmentada_en_dos_subredes.html
+RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Crear_una_red_virtual_con_Xen_segmentada_en_dos_subredes.html [R]
 RewriteCond %{QUERY_STRING} id=613
-RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Crear_una_red_virtual_con_VMware_Server_segmentada_en_dos_subredes.html
+RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Crear_una_red_virtual_con_VMware_Server_segmentada_en_dos_subredes.html [R]
 RewriteCond %{QUERY_STRING} id=589
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/UOC_cortafuegos.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/UOC_cortafuegos.pdf [R]
 RewriteCond %{QUERY_STRING} id=590
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/IPtables_pello.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/IPtables_pello.pdf [R]
 RewriteCond %{QUERY_STRING} id=614
-RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Implementar_un_cortafuegos.html
+RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Implementar_un_cortafuegos.html [R]
 RewriteCond %{QUERY_STRING} id=592
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/pres_apache.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/pres_apache.pdf [R]
 RewriteCond %{QUERY_STRING} id=593
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/apache.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/apache.pdf [R]
 RewriteCond %{QUERY_STRING} id=615
-RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Configurar_dos_subdominios.html
+RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Configurar_dos_subdominios.html [R]
 RewriteCond %{QUERY_STRING} id=616
-RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Configuracion_de_awstats_para_virtual_hosting.html
+RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Configuracion_de_awstats_para_virtual_hosting.html [R]
 RewriteCond %{QUERY_STRING} id=596
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/pres_proftpd.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/pres_proftpd.pdf [R]
 RewriteCond %{QUERY_STRING} id=597
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/proftp2.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/proftp2.pdf [R]
 RewriteCond %{QUERY_STRING} id=617
-RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Crear_un_ftp_anonimo.html
+RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Crear_un_ftp_anonimo.html [R]
 RewriteCond %{QUERY_STRING} id=599
-RewriteRule ^mod/url/view.php$ cursos/mv_portal_educativo_2006/http://www.squid-cache.org/Doc/FAQ/FAQ.html
+RewriteRule ^mod/url/view.php$ http://www.squid-cache.org/Doc/FAQ/FAQ.html [R]
 RewriteCond %{QUERY_STRING} id=600
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/squid.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/squid.pdf [R]
 RewriteCond %{QUERY_STRING} id=618
-RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Implementar_squid_como_proxy_transparente_para_la_red_local.html
+RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Implementar_squid_como_proxy_transparente_para_la_red_local.html [R]
 RewriteCond %{QUERY_STRING} id=602
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/dns.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/dns.pdf [R]
 RewriteCond %{QUERY_STRING} id=603
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/pres_web_dinamicas.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/pres_web_dinamicas.pdf [R]
 RewriteCond %{QUERY_STRING} id=604
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/web_dinamica2.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/web_dinamica2.pdf [R]
 RewriteCond %{QUERY_STRING} id=619
-RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Instalar_xoops.html
+RewriteRule ^mod/assign/view.php$ cursos/mv_portal_educativo_2006/doc/Instalar_xoops.html [R]
 RewriteCond %{QUERY_STRING} id=606
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/correo-e.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/correo-e.pdf [R]
 RewriteCond %{QUERY_STRING} id=607
-RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/unixsec-2.1.pdf
+RewriteRule ^mod/resource/view.php$ cursos/mv_portal_educativo_2006/files/unixsec-2.1.pdf [R]
 RewriteCond %{QUERY_STRING} id=608
-RewriteRule ^mod/url/view.php$ cursos/mv_portal_educativo_2006/http://www.uoc.edu/posgrado/matricula_abierta/web/materiales_libres.html
+RewriteRule ^mod/url/view.php$ http://www.uoc.edu/posgrado/matricula_abierta/web/materiales_libres.html [R]
