@@ -1,5 +1,7 @@
 Options FollowSymLinks
 RewriteEngine On
+RewriteLog "/var/log/apache2/rewrite.log"
+RewriteLogLevel 3
 RewriteCond %{QUERY_STRING} id=572
 RewriteRule ^mod/resource/view.php$ files/temario.pdf
 RewriteCond %{QUERY_STRING} id=574
