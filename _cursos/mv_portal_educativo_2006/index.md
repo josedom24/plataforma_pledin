@@ -35,7 +35,7 @@ permalink: /:collection/:path
 ### Actividades
 
 * [Instalar Xen en modo puente](doc/Instalar_Xen_en_modo_puente.html)
-* [Instalar VMware Server con la configuración de red por defecto](doc/Instalar_VMware_Server_con_la_configuracion_de_red_por_defect.html)
+* [Instalar VMware Server con la configuración de red por defecto](doc/Instalar_VMware_Server_con_la_configuracion_de_red_por_defecto.html)
 * [Modificar GRUB para incluir otro núcleo para Xen](doc/Modificar_GRUB_para_incluir_otro_nucleo_para_Xen.html)
 
 ## Creación de una red virtual con DMZ y MZ
