@@ -40,8 +40,8 @@ permalink: /:collection/:path
 
 ## Creación de una red virtual con DMZ y MZ
 
-* [Crear una red virtual con Xen, segmentada en dos subredes.](doc/Crear_una_red_virtual_con,_segmentada_en_dos_subredes.html)
-* [Crear una red virtual con VMware Server, segmentada en dos subredes.](doc/Crear_una_red_virtual_con_VMware_Server,_segmentada_en_dos_subredes.html)
+* [Crear una red virtual con Xen, segmentada en dos subredes.](doc/Crear_una_red_virtual_con_segmentada_en_dos_subredes.html)
+* [Crear una red virtual con VMware Server, segmentada en dos subredes.](doc/Crear_una_red_virtual_con_VMware_Server_segmentada_en_dos_subredes.html)
 
 ## Cortafuegos con IPtables
 
