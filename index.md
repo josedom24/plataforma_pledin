@@ -7,6 +7,10 @@ layout: single
 author_profile: true
 classes: wide
 ---
+# Plataforma Educativa Informática
+
+Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está mantenida por [José Domingo Muñoz](http://plataforma2.josedomingo.org/pledin/about/) y aquí podéis encontrar cursos relacionados con el mundo informático y la educación. Puedes acceder también al [Blog PLEDIN](http://www2.josedomingo.org/), donde encontrarás noticias y documentación relacionada con estos temas, y la página "modulos" donde estoy recopilando los contenidos de los distintos módulos que imparto en los ciclos formativos de informáticas del IES Gonzalo Nazareno. 
+
 * [Máquinas virtuales para la puesta en marcha de un portal educativo (2006)](cursos/mv_portal_educativo_2006)
 * [Curso HELVIA - IES Gonzalo Nazareno (2007)](cursos/helvia_iesgn_2007)
 * [Curso TIC - IES Gonzalo Nazareno (2007)](cursos/tic_iesgn_2007)
