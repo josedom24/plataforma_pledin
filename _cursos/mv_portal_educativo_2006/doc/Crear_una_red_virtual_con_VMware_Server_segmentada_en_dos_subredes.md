@@ -1,5 +1,5 @@
 ---
-title: Crear una red virtual con VMware Server, segmentada en dos subredes.
+title: Crear una red virtual con VMware Server segmentada en dos subredes
 ---
 
 Enviar un fichero que incluya:
