@@ -1,10 +1,8 @@
 main:
-  - title: "Inicio"
-    url: /
   - title: "Blog"
-    url: /blog/
+    url: http://www2.josedomingo.org
   - title: "Cursos"
-    url: #
+    url: http://plataforma2.josedomingo.org
   - title: "Módulos"
     url: #
   - title: "Presentación"
