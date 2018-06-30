@@ -12,9 +12,49 @@ main:
 
 
 cursos:
-  - title: Cursos
+  - title: Servicios y TIC
     children:
+      - title: "Servicios en GNU/Linux (Nivel Intermedio) (2011)"
+        url: servicios_gnu_linux_nivel_intermedio_2011
+      - title: "Servicios en GNU/Linux. Portal Educativo (2010)"
+        url: servicios_gnu_linux_portal_educativo_2010
+      - title: "Introducción a los Servicios en GNU/Linux (2008)"
+        url: servicios_gnu_linux_2008
+      - title: "Curso TIC - IES Gonzalo Nazareno (2007)"
+        url: cursos/tic2007
+      - title: "Curso HELVIA - IES Gonzalo Nazareno (2007)"
+        url: cursos/helvia2007
       - title: "Máquinas virtuales para la puesta en marcha de un portal educativo (2006)"
+        url: cursos/mv2006
+  - title: Cloud Computing y OpenStack
+    children:
+      - title: "Curso de infraestructura Cloud con OpenStack. Universidad de Almería (2017) (github)"
         url: #
+      - title: "Curso OpenStack (2016) (github.io)"
+        url: #
+      - title: "Introducción al Cloud Computing con OpenStack y OpenShift (2015) (github.io)"
+        url: #
+      - title: "Administración de infraestructura en la nube con OpenStack (2015) (github.io)"
+        url: #
+      - title: "Fundamentos de Cloud Computing con OpenStack y OpenShift (2014) (en github.io)"
+        url: #
+      - title: "Jornadas Cloud Computing (2013)"
+        url: #
+      - title: "Proyecto Cloud Computing (2012)"
+        url: #
+
+    - title: OpenWebinars
+    children:
+      - title: "Introducción a la programación con pseudocódigo (2018)"
+        url: #
+      - title: "Curso Apache2.4 (2018)"
+        url: #
+      - title: "Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)"
+        url: #
+      - title: "Curso de python3 (2017)"
+        url: #
+
+
+
       
  
