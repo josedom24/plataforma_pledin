@@ -1,5 +1,6 @@
-# Servicios en GNU/Linux. Portal Educativo (2010)
-
+---
+title: Servicios en GNU/Linux. Portal Educativo (2010)
+---
 ![](img/titulo.jpg)
 
 
