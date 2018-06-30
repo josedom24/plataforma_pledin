@@ -264,3 +264,63 @@ RewriteCond %{QUERY_STRING} id=760
 RewriteRule ^mod/url/view.php$ http://www.cnice.mec.es/noticias/recursos_internet_aula/? [R,L]
 RewriteCond %{QUERY_STRING} id=761
 RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Guia_del_trabajo_no_presencial.html? [R,L]
+
+
+RewriteCond %{QUERY_STRING} id=773
+RewriteRule ^mod/url/view.php$ http://www.juntadeandalucia.es/averroes/helvia/sitio/index.cgi?wid_seccion=1? [R,L]
+RewriteCond %{QUERY_STRING} id=774
+RewriteRule ^mod/url/view.php$ http://www.gonzalonazareno.org? [R,L]
+RewriteCond %{QUERY_STRING} id=775
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/Helvia_usuario.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=776
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/video1.avi? [R,L]
+RewriteCond %{QUERY_STRING} id=777
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/video2.avi? [R,L]
+RewriteCond %{QUERY_STRING} id=779
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/01_acceso_plataforma.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=780
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/02_panel_superior.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=781
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/03_archivos.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=782
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/04_enlaces.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=783
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/05_noticias.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=784
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/06_calendario.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=785
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/07_correo.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=786
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/08_foros.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=787
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/09_chat.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=788
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/10_anuncios.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=789
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/11_calificaciones.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=791
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/encuesta.odt? [R,L]
+RewriteCond %{QUERY_STRING} id=792
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/Administrador_responsable.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=793
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/Administrador_grupo.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=794
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/manual_administracion_aula_Helvia.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=795
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/Manual_web_helvia.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=796
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/Manual_BITACORA_helvia.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=798
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/Practicas-_Administrador_responsable.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=799
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/Practicas-_Administrador_grupo.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=800
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/helvia2007/files/trabajo_no_presencial.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=801
+RewriteRule ^mod/url/view.php$ http://www.juntadeandalucia.es/averroes/helvia/sitio/index.cgi? [R,L]
+RewriteCond %{QUERY_STRING} id=802
+RewriteRule ^mod/url/view.php$ http://www.angelmorales.org/Formacion_2007/index.html? [R,L]
+RewriteCond %{QUERY_STRING} id=803
+RewriteRule ^mod/url/view.php$ http://www.juntadeandalucia.es/averroes/cepdeelejido/moodle/course/view.php?id=24? [R,L]
+RewriteCond %{QUERY_STRING} id=804
+RewriteRule ^mod/url/view.php$ http://www.josedomingo.org/web/course/view.php?id=27? [R,L]
