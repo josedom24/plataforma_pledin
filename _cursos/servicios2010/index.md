@@ -39,11 +39,11 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Indice de NAT, LAMP y gestión DNS externo](doc/Indice_de_NAT,_LAMP_y_gestion_DNS_externo.html)
 * [1.- NAT: Compartir una dirección IP pública entre varios equipos](doc/NAT_Compartir_una_direccion_IP_publica_entre_varios_equipos.html)
     * [Ejercicio: Configuración de NAT del entorno de trabajo](doc/Ejercicio_Configuracion_de_NAT_del_entorno_de_trabajo.html)
-* [2.- Instalación de un servidor LAMP (Linux, Apache, MySQL y PHP)](doc/Instalacion_de_un_servidor_LAMP__Linux,_Apache,_MySQL_y_PHP_.html)
+* [2.- Instalación de un servidor LAMP (Linux, Apache, MySQL y PHP)](doc/Instalacion_de_un_servidor_LAMP_Linux,_Apache,_MySQL_y_PHP.html)
     * [Instalación y configuración de apache [pdf]](files/apache.pdf)
     * [Ejercicio: Instalación del sistema LAMP](doc/Ejercicio_Instalacion_del_sistema_LAMP.html)
 * [3.- Instalación de la plataforma educativa moodle](doc/Instalacion_de_la_plataforma_educativa_moodle.html)
-    * [Ejercicio: Instalar la plataforma educativa moodle](doc/Ejercicio:Instalar_la_plataforma_educativa_moodle.html)
+    * [Ejercicio: Instalar la plataforma educativa moodle](doc/Ejercicio_Instalar_la_plataforma_educativa_moodle.html)
 * [4.- Gestión de DNS externo](doc/Gestion_de_DNS_externo.html)
 * [Tarea: Acceso a moodle desde el exterior](doc/Tarea_Acceso_a_moodle_desde_el_exterior.html)
 
@@ -92,7 +92,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 **Documentación formato web**
 
 * [Directivas a configurar](doc/Directivas_a_configurar.html)
-    * [Ejercicio: Configuración](doc/Ejercicio:_Configuracion.html)
+    * [Ejercicio: Configuración](doc/Ejercicio_Configuracion.html)
 * [Ficheros](doc/Ficheros.html)
     * [Ejercicio: ficheros del servidor](doc/Ejercicio_ficheros_del_servidor.html)
 * [Ejemplos preliminares. Correo en Avatar](doc/Ejemplos_preliminares_Correo_en_Avatar.html)
@@ -100,7 +100,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 * [Avatar como servidor de correo de los clientes de nuestra red](doc/Avatar_como_servidor_de_correo_de_los_clientes_de_nuestra_red.html)
     * [Ejercicio: correo interno en la red MZ](doc/Ejercicio_correo_interno_en_la_red_MZ.html)
 * [Configuración de Postfix a través de un relay host autenticado](doc/Configuracion_de_Postfix_a_traves_de_un_relay_host_autenticado.html)
-    * [Ejercicio: configuración; solución a los casos 3 y 5.](doc/Ejercicio_configuracion\_solucion_a_los_casos_3_y_5.html)
+    * [Ejercicio: configuración; solución a los casos 3 y 5.](doc/Ejercicio_configuracion_solucion_a_los_casos_3_y_5.html)
 * [Lectura del correo: Dovecot IMAP + POP](doc/Lectura_del_correo_Dovecot_IMAP_+_POP.html)
     * [Ejercicio: Lectura desde un cliente](doc/Ejercicio_Lectura_desde_un_cliente.html)
     * [Ejercicio: Squirrelmail como webmail](doc/Ejercicio_Squirrelmail_como_webmail.html)
