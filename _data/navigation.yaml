@@ -12,20 +12,16 @@ main:
 
 
 cursos:
-  - title: Servicios y TIC
+  - title: OpenWebinars
     children:
-      - title: "Servicios en GNU/Linux (Nivel Intermedio) (2011)"
-        url: servicios_gnu_linux_nivel_intermedio_2011
-      - title: "Servicios en GNU/Linux. Portal Educativo (2010)"
-        url: servicios_gnu_linux_portal_educativo_2010
-      - title: "Introducción a los Servicios en GNU/Linux (2008)"
-        url: servicios_gnu_linux_2008
-      - title: "Curso TIC - IES Gonzalo Nazareno (2007)"
-        url: cursos/tic2007
-      - title: "Curso HELVIA - IES Gonzalo Nazareno (2007)"
-        url: cursos/helvia2007
-      - title: "Máquinas virtuales para la puesta en marcha de un portal educativo (2006)"
-        url: cursos/mv2006
+      - title: "Introducción a la programación con pseudocódigo (2018)"
+        url: #
+      - title: "Curso Apache2.4 (2018)"
+        url: #
+      - title: "Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)"
+        url: #
+      - title: "Curso de python3 (2017)"
+        url: #
   - title: Cloud Computing y OpenStack
     children:
       - title: "Curso de infraestructura Cloud con OpenStack. Universidad de Almería (2017) (github)"
@@ -43,17 +39,21 @@ cursos:
       - title: "Proyecto Cloud Computing (2012)"
         url: #
 
-  - title: OpenWebinars
+  - title: Servicios y TIC
     children:
-      - title: "Introducción a la programación con pseudocódigo (2018)"
-        url: #
-      - title: "Curso Apache2.4 (2018)"
-        url: #
-      - title: "Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)"
-        url: #
-      - title: "Curso de python3 (2017)"
-        url: #
-
+      - title: "Servicios en GNU/Linux (Nivel Intermedio) (2011)"
+        url: servicios_gnu_linux_nivel_intermedio_2011
+      - title: "Servicios en GNU/Linux. Portal Educativo (2010)"
+        url: servicios_gnu_linux_portal_educativo_2010
+      - title: "Introducción a los Servicios en GNU/Linux (2008)"
+        url: servicios_gnu_linux_2008
+      - title: "Curso TIC - IES Gonzalo Nazareno (2007)"
+        url: cursos/tic2007
+      - title: "Curso HELVIA - IES Gonzalo Nazareno (2007)"
+        url: cursos/helvia2007
+      - title: "Máquinas virtuales para la puesta en marcha de un portal educativo (2006)"
+        url: cursos/mv2006
+  
 
 
       
