@@ -11,11 +11,28 @@ classes: wide
 
 Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está mantenida por [José Domingo Muñoz](http://www2.josedomingo.org/pledin/about/) y aquí podéis encontrar cursos relacionados con el mundo informático y la educación. Puedes acceder también al [Blog PLEDIN](http://www2.josedomingo.org/), donde encontrarás noticias y documentación relacionada con estos temas, y la página "modulos" donde estoy recopilando los contenidos de los distintos módulos que imparto en los ciclos formativos de informáticas del IES Gonzalo Nazareno. 
 
-* [Máquinas virtuales para la puesta en marcha de un portal educativo (2006)](cursos/mv2006)
-* [Curso HELVIA - IES Gonzalo Nazareno (2007)](cursos/helvia2007)
-* [Curso TIC - IES Gonzalo Nazareno (2007)](cursos/tic2007)
-* [Introducción a los Servicios en GNU/Linux (2008)](servicios_gnu_linux_2008)
-* [Servicios en GNU/Linux. Portal Educativo (2010)](servicios_gnu_linux_portal_educativo_2010)
-* [Servicios en GNU/Linux (Nivel Intermedio) (2011)](servicios_gnu_linux_nivel_intermedio_2011)
-* [Proyecto Cloud Computing (2012)](proyecto_cloud_computing_2012)
+## OpenWebinars
+
+* [Introducción a la programación con pseudocódigo (2018)]()
+* [Curso Apache2.4 (2018)]()
+* [Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)]()
+* [Curso de python3 (2017)]()
+
+## Cloud Computing y OpenStack
+
+* [Curso de infraestructura Cloud con OpenStack. Universidad de Almería (2017) (github)]()
+* [Curso OpenStack (2016) (github.io)]()
+* [Introducción al Cloud Computing con OpenStack y OpenShift (2015) (github.io)]()
+* [Administración de infraestructura en la nube con OpenStack (2015) (github.io)]()
+* [Fundamentos de Cloud Computing con OpenStack y OpenShift (2014) (en github.io)]()
 * [Jornadas Cloud Computing (2013)](jornadas_cloud_computing_2013)
+* [Proyecto Cloud Computing (2012)](proyecto_cloud_computing_2012)
+
+## Servicios y TIC
+
+* [Servicios en GNU/Linux (Nivel Intermedio) (2011)](servicios_gnu_linux_nivel_intermedio_2011)
+* [Servicios en GNU/Linux. Portal Educativo (2010)](servicios_gnu_linux_portal_educativo_2010)
+* [Introducción a los Servicios en GNU/Linux (2008)](servicios_gnu_linux_2008)
+* [Curso TIC - IES Gonzalo Nazareno (2007)](cursos/tic2007)
+* [Curso HELVIA - IES Gonzalo Nazareno (2007)](cursos/helvia2007)
+* [Máquinas virtuales para la puesta en marcha de un portal educativo (2006)](cursos/mv2006)

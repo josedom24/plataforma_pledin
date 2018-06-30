@@ -82,5 +82,6 @@ defaults:
       comments: false
       toc: true
       toc_sticky: true
-      
+      sidebar:
+        nav: "cursos"
       
