@@ -1,5 +1,5 @@
 ---
-title: Instalación de un CMS: Moodle
+title: "Instalación de un CMS: Moodle"
 ---
 
 En esta práctica vamos a instalar un gestor de contenido especializado para entornos educativo como es Moodle. Moodle está implementado con PHP y necesita una base de datos para guardar información.  

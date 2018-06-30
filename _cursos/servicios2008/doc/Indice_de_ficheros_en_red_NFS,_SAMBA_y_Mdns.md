@@ -1,5 +1,5 @@
 ---
-title: Índice de ficheros en red: NFS, SAMBA y Mdns
+title: Índice de ficheros en red - NFS, SAMBA y Mdns
 ---
 
 * Compartir ficheros en entornos UNIX con NFS

@@ -1,5 +1,5 @@
 ---
-title: Índice de cortafuegos: iptables
+title: "Índice de cortafuegos: iptables"
 ---
 
 * Descripción de la tabla filter

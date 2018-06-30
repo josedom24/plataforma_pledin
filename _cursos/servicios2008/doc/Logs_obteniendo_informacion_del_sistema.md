@@ -1,5 +1,5 @@
 ---
-title: Logs: obteniendo información del sistema
+title: Logs, obteniendo información del sistema
 ---
 
 ## ¿Qué es un log(registro)?

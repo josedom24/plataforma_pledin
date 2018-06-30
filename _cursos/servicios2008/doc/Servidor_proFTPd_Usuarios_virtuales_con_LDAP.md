@@ -1,5 +1,5 @@
 ---
-title: Servidor proFTPd: Usuarios virtuales con LDAP
+title: "Servidor proFTPd: Usuarios virtuales con LDAP"
 ---
 
 Al igual que otros muchos servicios proftp puede almacenar la información de autenticación de usuarios en LDAP, por lo que se suele denominar a éstos usuarios virtuales para diferenciarlos de los usuarios reales o del sistema.  

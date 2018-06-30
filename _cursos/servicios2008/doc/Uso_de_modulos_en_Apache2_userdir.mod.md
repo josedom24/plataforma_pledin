@@ -1,5 +1,5 @@
 ---
-title: Uso de módulos en Apache2: userdir.mod
+title: "Uso de módulos en Apache2: userdir.mod"
 ---
 
 El objetivo de esta práctica es usar el módulo `userdir.mod` de apache2 que nos va a permitir que cada usuario tenga un directorio público en su home (`public_html`) donde guardará su página personal.  

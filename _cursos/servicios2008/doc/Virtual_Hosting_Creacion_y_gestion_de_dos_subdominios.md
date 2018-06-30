@@ -1,5 +1,5 @@
 ---
-title: Virtual Hosting: Creación y gestión de dos subdominios
+title: "Virtual Hosting: Creación y gestión de dos subdominios"
 ---
 
 El objetivo de esta práctica es la construcción de un sitio web que se pueda asemejar a las necesidades de un centro educativo. En las prácticas posteriores iremos mejorando la solución.  
