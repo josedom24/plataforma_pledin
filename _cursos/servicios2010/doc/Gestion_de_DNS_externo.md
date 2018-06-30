@@ -1,5 +1,5 @@
 ---
-title: "4.- Gestión de DNS externo
+title: "4.- Gestión de DNS externo"
 ---
 
 El objetivo final de las dos primeras unidades, es configurar y administrar de manera básica nuestro servidor avatar, y montar un servidor web con una plataforma educativa moodle accesible desde Internet.
@@ -75,4 +75,4 @@ Además cuando hemos instalado moodle, hemos indicado durante la instalación la
 
     $CFG->wwwroot = 'http://avatar.dynalias.com/plataforma';
 
-Siendo "plataforma" el nombre del directorio donde se ha instalado moodle."
+Siendo "plataforma" el nombre del directorio donde se ha instalado moodle.

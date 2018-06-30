@@ -1,5 +1,5 @@
 ---
-title: "2.- Instalación de un servidor LAMP (Linux, Apache, MySQL y PHP)
+title: "2.- Instalación de un servidor LAMP (Linux, Apache, MySQL y PHP)"
 ---
 
 ## Instalación de LAMP
@@ -50,4 +50,4 @@ De esta manera, cuando en en navegador del cliente pongamos `http://avatar`, deb
 
 Y si queremos acceder al gestor de la base de datos debemos acceder a `http://avatar/phpmyadmin`
 
-![phpmyadmin](../img/phpmyadmin.png "phpmyadmin")"
+![phpmyadmin](../img/phpmyadmin.png "phpmyadmin")

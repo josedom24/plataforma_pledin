@@ -1,5 +1,5 @@
 ---
-title: "1.- NAT: Compartir una dirección IP pública entre varios equipos
+title: "1.- NAT: Compartir una dirección IP pública entre varios equipos"
 ---
 
 ## NAT
@@ -97,4 +97,4 @@ Una forma sencilla de ejecutar esta instrucción cuando levantemos la interfaz d
      up iptables -t nat -A POSTROUTING -o eth0 -s 192.168.2.0/24 -j MASQUERADE
      down iptables -t nat -D POSTROUTING -o eth0 -s 192.168.2.0/24 -j MASQUERADE
 
-(Los participantes del curso básico tendrán ocasión de "divertirse" con iptables en la unidad 5 :-) )"
+(Los participantes del curso básico tendrán ocasión de "divertirse" con iptables en la unidad 5 :-) )

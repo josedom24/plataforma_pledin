@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: Sincronización de directorios con Unison
+title: "Ejercicio: Sincronización de directorios con Unison"
 ---
 
 ## Sincronización de directorios con Unison
@@ -63,4 +63,4 @@ Determinemos nuestro ejercicio: desde el servidor avatar vamos a usar el program
 * Crea un perfil llamado `backup.prf` donde indiques el directorio que quieres copiar del cliente (`home`) (este directorio también tendrá que ponerlo en el parámetro `prefer`) y el directorio donde vamos a copiar `/var/backups/home_cliente`. Los demás parámetros los puedes dejar igual que en el ejemplo. Recuerda que debes guardar el fichero en `/root/.unison`.  
 * Puedes comprobar la copia ejecutando desde avatar: `unison bacup` y a continuación puedes programar la tarea, pero comprobando si el cliente está encendido, por ejemplo:  
 
-        0 7 * * * if ping -c 1 cliente.example.com; then unison backup; fi"
+        0 7 * * * if ping -c 1 cliente.example.com; then unison backup; fi

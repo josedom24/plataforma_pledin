@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: Control de acceso
+title: "Ejercicio: Control de acceso"
 ---
 
 ## Control de acceso  
@@ -30,4 +30,4 @@ En nuestro caso vamos a denegar el acceso a contenido de videos flash, para ello
         http_reply_access deny flash
 
 
-2. Comprueba el acceso desde el cliente a una página web que contenga contenido flash.  "
+2. Comprueba el acceso desde el cliente a una página web que contenga contenido flash.  

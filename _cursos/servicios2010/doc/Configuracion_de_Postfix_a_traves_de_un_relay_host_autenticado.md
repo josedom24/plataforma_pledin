@@ -1,5 +1,5 @@
 ---
-title: "Configuración de Postfix a través de un relay host autenticado
+title: "Configuración de Postfix a través de un relay host autenticado"
 ---
 
 ## Figura: cliente, Avatar, gmail
@@ -162,4 +162,3 @@ Para tener una visión global de los [ficheros](../doc/Ficheros.md) a configurar
 * De cara a solventar estos problemas de seguridad, Netscape, Inc. introdujo el protocolo SSL (Secure Sockets Layer), que ha ido evolucionando en el protocolo estandarizado TLS (Transportation Layer Security). Ofrece tanto encriptación de la comunicación (frenando las escuchas) como autenticación fuerte (asegurando que ambas partes de una comunicación son correctamente identificadas y que la comunicación no puede ser alterada).
 * Postfix/TLS no implementa el protocolo TLS por sí mismo, sino que usa el paquete OpenSSL para esta tarea. En la página de OpenSSL, [www.openssl.org](http://www.openssl.org/), pueden encontrarse enlaces a documentación que profundiza en el protocolo y sus características.
 * Comprueba con `dpkg -l openssl` que tienes instalado el paquete.
-"

@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: Instalación y configuración de squid
+title: "Ejercicio: Instalación y configuración de squid"
 ---
 
 ## Instalación del proxy-cache squid  
@@ -47,4 +47,4 @@ Los posibles códigos que nos podemos encontrar en las líneas de ese fichero de
     
 *   **TCP_REFRESH_MISS.** El objeto solicitado estaba en cache pero su timeout había expirado por lo que se realiza una petición para comprobar si el objeto ha sido modificado desde la petición anterior. La respuesta contiene el nuevo objeto indicando que el objeto que contenía nuestra cache era antiguo y por lo tanto se produce un fallo en cache.
     
-*   **TCP_MEM_HIT.** Indica que el objeto solicitado residía en cache y tambíén en memoria por lo que no se tiene que leer del disco,y por lo tanto, se produce un acierto."
+*   **TCP_MEM_HIT.** Indica que el objeto solicitado residía en cache y tambíén en memoria por lo que no se tiene que leer del disco,y por lo tanto, se produce un acierto.

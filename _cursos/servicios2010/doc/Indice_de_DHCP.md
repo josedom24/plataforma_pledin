@@ -1,5 +1,5 @@
 ---
-title: " Índice de DHCP
+title: " Índice de DHCP"
 ---
 
 1. Definición de DHCP  
@@ -7,4 +7,4 @@ title: " Índice de DHCP
 3. Configuración del servidor
     * Configuración básica del servidor
     * Reserva de direcciones IP asignada a equipos determinados
-4. Configuración del servidor DHCP en el esquema de red seleccionado"
+4. Configuración del servidor DHCP en el esquema de red seleccionado

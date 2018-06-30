@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: Registro de actividades del sistema: logcheck
+title: "Ejercicio: Registro de actividades del sistema: logcheck"
 ---
 
 ## logcheck
@@ -23,4 +23,4 @@ Para redirigir el correo que va dirigido al root a nuestro usuario, podemos modi
 
 Tan sólo nos queda ejecutar el comando `newaliases` para que los cambios se lleven a efecto.  
 
-Además si tenemos instalado un servidor SMTP (`exim4`, `postfix`) y queremos que esa notificación sea redirigida a una dirección de correo externa, podemos crear en la cuenta de usuario un fichero llamado `.forward` donde indicaremos la cuenta de correo donde queremos recibir la notificación."
+Además si tenemos instalado un servidor SMTP (`exim4`, `postfix`) y queremos que esa notificación sea redirigida a una dirección de correo externa, podemos crear en la cuenta de usuario un fichero llamado `.forward` donde indicaremos la cuenta de correo donde queremos recibir la notificación.

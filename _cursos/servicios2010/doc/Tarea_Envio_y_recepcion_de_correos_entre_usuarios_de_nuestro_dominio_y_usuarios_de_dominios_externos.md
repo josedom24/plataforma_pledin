@@ -1,5 +1,5 @@
 ---
-title: "Tarea: Envío y recepción de correos entre usuarios de nuestro dominio y usuarios de dominios externos.
+title: "Tarea: Envío y recepción de correos entre usuarios de nuestro dominio y usuarios de dominios externos."
 ---
 
 **Objetivo**: envío de correo desde Internet a una cuenta del dominio de Avatar y respuesta de éste al primero.
@@ -21,4 +21,4 @@ title: "Tarea: Envío y recepción de correos entre usuarios de nuestro dominio 
 
 * Paso 3:
 
-    * Captura de la bandeja de entrada del destinatario en el que se muestre la recepción del mensaje-respuesta (es decir, de la pantalla de tu programa de correo habitual, como gmail,hotmail, ...)"
+    * Captura de la bandeja de entrada del destinatario en el que se muestre la recepción del mensaje-respuesta (es decir, de la pantalla de tu programa de correo habitual, como gmail,hotmail, ...)

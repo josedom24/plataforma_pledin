@@ -1,5 +1,5 @@
 ---
-title: "3.- Instalación del sistema operativo
+title: "3.- Instalación del sistema operativo"
 ---
 
 El sistema operativo que vamos a utilizar en nuestro servidor avatar es Debian GNU/Linux 5.0 (Lenny). Lo próximo que tenemos que hacer es la instalación del sistema operativo en el servidor, para ello deberás descargarte una imagen ISO del instalador y realizar la instalación en el equipo que hayas elegido para que sea avatar. Te ponemos algunos enlaces que te pueden ser de ayuda en la instalación:
@@ -34,4 +34,4 @@ Si dispones de conexión a Internet durante la instalación de avatar, recomenda
 
 
 
-* * *"
+* * *

@@ -1,5 +1,5 @@
 ---
-title: "Utilización de DNS dinámico en una red local
+title: "Utilización de DNS dinámico en una red local"
 ---
 
 ## DNS dinámico
@@ -19,4 +19,4 @@ que indica los métodos que se van a utilizar para la resolución de nombres de 
   
 Para que los registros que incluyamos en el servidor DNS de forma dinámica sean efectivos, debemos comprobar que no existe ninguna línea para los equipos avatar y cliente en los ficheros `/etc/hosts` de ambos equipos y verificar que ambos tienen como servidor DNS sólo a avatar.  
   
-La forma de configurar Bind9 y DHCP3-server para que actualicen de forma dinámica los nombres de los equipos de la red local se detalla en el documento pdf siguiente."
+La forma de configurar Bind9 y DHCP3-server para que actualicen de forma dinámica los nombres de los equipos de la red local se detalla en el documento pdf siguiente.

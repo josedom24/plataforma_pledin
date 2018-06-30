@@ -1,5 +1,5 @@
 ---
-title: "Lectura del correo: Dovecot IMAP + POP
+title: "Lectura del correo: Dovecot IMAP + POP"
 ---
 
 ## Objetivo
@@ -80,4 +80,4 @@ En la figura anterior se hace la lectura de los mensajes del usuario `alumno@ava
 
 ## Caso 8: acceso desde Internet
 
-Si queremos leer el correo desde fuera de nuestra red local, debemos configurar nuestro router para que reenvíe el tráfico POP y/o IMAP hacia nuestro servidor avatar (de la misma forma que hicimos con HTTP o SMTP). ¿Te atreves?"
+Si queremos leer el correo desde fuera de nuestra red local, debemos configurar nuestro router para que reenvíe el tráfico POP y/o IMAP hacia nuestro servidor avatar (de la misma forma que hicimos con HTTP o SMTP). ¿Te atreves?

@@ -1,5 +1,5 @@
 ---
-title: "Configuración del servidor DHCP
+title: "Configuración del servidor DHCP"
 ---
 
 ## Configuración del servidor
@@ -68,4 +68,3 @@ Ejercicios a realizar:
 * Crea en el servidor DHCP una sección HOST para conceder a tu cliente una dirección IP determinada.
 * Obtén una nueva dirección IP en el cliente y comprueba que es la que has asignado por medio de la sección host.
 
-"

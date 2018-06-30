@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: Instalación y configuración de Bind9 como servidor DNS maestro
+title: "Ejercicio: Instalación y configuración de Bind9 como servidor DNS maestro"
 ---
 
 ## Instalación y funcionamiento como dns cache
@@ -37,4 +37,4 @@ Para poder acceder a nuestra página web desde la red local vamos a crear otra z
 
 1. Modifica los ficheros `/etc/resolv.conf` de avatar y el cliente indicando la dirección IP del servidor DNS (avatar)
 2. En el tema anterior hemos conseguido que el cliente tome una dirección IP dinámica, para realizar esta tarea configura una IP fija en el cliente (192.168.2.2). Para ver como sincronizar el servidor DHCP con el DNS mira el tema correspondiente en el nivel intermedio.
-3. El fichero `/etc/hosts`, tanto de avatar como del cliente no debe haber indicada ninguna resolución estática."
+3. El fichero `/etc/hosts`, tanto de avatar como del cliente no debe haber indicada ninguna resolución estática.

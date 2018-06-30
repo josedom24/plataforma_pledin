@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: Utilización de APT y manejo básico del sistema
+title: "Ejercicio: Utilización de APT y manejo básico del sistema"
 ---
 
 Si no has utilizado anteriormente un sistema GNU/Linux o lo has hecho sólo desde el entorno gráfico, te recomendamos que realices a tu criterio alguna de las siguientes prácticas: 
@@ -12,4 +12,3 @@ Si no has utilizado anteriormente un sistema GNU/Linux o lo has hecho sólo desd
 * [Logs: obteniendo información del sistema](http://plataforma.josedomingo.org/pledin/mod/page/view.php?id=1000)
 
 Utiliza el foro general para plantear cualquier duda en la realización de estas prácticas.
-"

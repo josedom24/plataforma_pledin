@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: Cortafuegos elemental con política DROP
+title: "Ejercicio: Cortafuegos elemental con política DROP"
 ---
 
 El conjunto de reglas más simple que podríamos implementar en un equipo con política por defecto DROP sería el siguiente:
@@ -43,4 +43,3 @@ Es posible mejorar las reglas anteriores sin perder ninguna funcionalidad consid
 ## Cortafuegos elemental con iptables y política DROP
 
 1. Ejecuta las reglas anteriores en avatar y comprueba el funcionamiento con el equipo cliente
-"

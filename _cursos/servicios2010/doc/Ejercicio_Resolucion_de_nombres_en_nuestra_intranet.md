@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: Resolución de nombres en nuestra intranet
+title: "Ejercicio: Resolución de nombres en nuestra intranet"
 ---
 
 Actualmente en nuestra red local 192.168.2.0/24 realizamos una resolución de nombres de forma local o estática. esta resolución se realiza mediante el fichero `/etc/hosts`, que en nuestro cliente debe estar de la siguiente manera:  
@@ -19,4 +19,4 @@ Por otro lado, si la resolución no se puede llevar a cabo con las reglas estát
 * Si necesitamos cambiar los servidores DNS, ¿cuántos cambios tendríamos que realizar?
 * ¿Qué ventajas obtendríamos si instalaremos en nuestro servidor un servidor DNS cache para la resolución de nombres?
 
-Por lo tanto, es muy beneficioso para nuestra intranet instalar un servidor DNS maestro, para la resolución de nombres en nuestra red local, y cache para realizar de forma más rápida la resolución de nombres de internet."
+Por lo tanto, es muy beneficioso para nuestra intranet instalar un servidor DNS maestro, para la resolución de nombres en nuestra red local, y cache para realizar de forma más rápida la resolución de nombres de internet.

@@ -1,5 +1,5 @@
 ---
-title: "Ejemplos preliminares. Correo en Avatar
+title: "Ejemplos preliminares. Correo en Avatar"
 ---
 
 ## Figura:
@@ -34,4 +34,3 @@ En la documentación entregada en pdf, se explica cómo montar un servidor de co
 
         ![Problemas con IP Dinámica](../img/Caso3-avatar-mensajelog.jpg "Problemas con IP Dinámica")  
 
-"

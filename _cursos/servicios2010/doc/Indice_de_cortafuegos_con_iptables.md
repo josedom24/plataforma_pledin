@@ -1,5 +1,5 @@
 ---
-title: " Índice de cortafuegos con iptables
+title: " Índice de cortafuegos con iptables"
 ---
 
 1. Sintaxis básica de iptables 
@@ -8,4 +8,4 @@ title: " Índice de cortafuegos con iptables
     * Cadenas INPUT y OUTPUT
     * Cadena FORWARD 
 4. Cadenas INPUT y OUTPUT
-5. Source NAT y Destination NAT"
+5. Source NAT y Destination NAT

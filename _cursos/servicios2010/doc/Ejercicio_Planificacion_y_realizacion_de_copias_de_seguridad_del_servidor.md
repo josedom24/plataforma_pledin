@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: Planificación y realización de copias de seguridad del servidor
+title: "Ejercicio: Planificación y realización de copias de seguridad del servidor"
 ---
 
 ## Realización de script para realizar la copia de seguridad del servidor
@@ -58,4 +58,4 @@ Algunas observaciones a tener en cuenta:
     ## Si el día actual es domingo realizamos copia completa
     ...
     ##sino realizamos copia incremental
-    ..."
+    ...

@@ -1,5 +1,5 @@
 ---
-title: "Avatar como servidor de correo de los clientes de nuestra red 
+title: "Avatar como servidor de correo de los clientes de nuestra red "
 ---
 
 * Figura: a la figura anterior le añadimos 2 situaciones más, los casos 4 y 5.
@@ -86,4 +86,4 @@ title: "Avatar como servidor de correo de los clientes de nuestra red
         relay-domains = juntadeandalucia.es
 
 * Prueba a hacer envíos de correos a usuarios de otros dominios en Internet tanto en modo telnet como con Evolution.
-* No olvides que puedes tener problemas de envío si tu IP es dinámica. Puedes comprobarlo en el fichero de log (`/var/log/alumno`). Solucionaremos este asunto en el siguiente apartado."
+* No olvides que puedes tener problemas de envío si tu IP es dinámica. Puedes comprobarlo en el fichero de log (`/var/log/alumno`). Solucionaremos este asunto en el siguiente apartado.

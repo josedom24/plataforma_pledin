@@ -1,5 +1,5 @@
 ---
-title: "Índice de gestión remota, estado del sistema, actualizaciones y copias de seguridad
+title: "Índice de gestión remota, estado del sistema, actualizaciones y copias de seguridad"
 ---
 
 1. Gestión remota usando ssh  
@@ -22,4 +22,4 @@ title: "Índice de gestión remota, estado del sistema, actualizaciones y copias
 4. Planificación y realización de copias de seguridad  
 
     * Realización de script para realizar la copia de seguridad del servidor
-    * Sincronización de directorios con `Unison`"
+    * Sincronización de directorios con `Unison`

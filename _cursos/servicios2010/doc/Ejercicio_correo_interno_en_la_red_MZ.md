@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: correo interno en la red MZ 
+title: "Ejercicio: correo interno en la red MZ "
 ---
 
 ## Objetivo 
@@ -16,4 +16,4 @@ Ahora vas a realizar el envío entre usuarios del dominio de Avatar (`avatar.doe
 2. Envía un mensaje a la cuenta "usuario1" de avatar (correo enviado a `usuario1@avatar.doesntexist.org`).
 3. Comprueba en Avatar que el usuario 1 ha recibido correo del usuario2 (con mail o leyendo el buzón del usuario1)
   
-> Observación: tras la realización de este ejercicio habrás puesto en práctica el caso 4."
+> Observación: tras la realización de este ejercicio habrás puesto en práctica el caso 4.

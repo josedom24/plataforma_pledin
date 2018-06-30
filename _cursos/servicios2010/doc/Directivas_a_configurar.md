@@ -1,5 +1,5 @@
 ---
-title: "Directivas a configurar 
+title: "Directivas a configurar "
 ---
 
 Revisemos las directivas a tener en cuenta en nuestra configuración (`/etc/postfix/main.cf`): 
@@ -16,4 +16,4 @@ Observa que en la configuración anterior se usa el nombre `avatar.doesntexist.o
 
 * Con `mynetworks` se indican las IPs desde las que pueden enviarse mensajes. En esta configuración sólo se admiten desde el propio servidor de correo Avatar. 
 
-* Por último, con `myorigin` se indica el dominio con el que el servidor enviará correo, el cual está configurado en `/etc/mailname` y cuyo contenido es `avatar.doesntexist.org`."
+* Por último, con `myorigin` se indica el dominio con el que el servidor enviará correo, el cual está configurado en `/etc/mailname` y cuyo contenido es `avatar.doesntexist.org`.

@@ -1,5 +1,5 @@
 ---
-title: "Cortafuegos con iptables con política por defecto DROP
+title: "Cortafuegos con iptables con política por defecto DROP"
 ---
 
 Sube un fichero de texto (.txt) con las líneas de iptables necesarias para crear un cortafuegos con las siguientes características:  
@@ -12,4 +12,3 @@ Añade en el fichero con todas las reglas la salida de las instrucciones despué
   
     iptables -t nat -L -n -v
     iptables -L -n -v
-"

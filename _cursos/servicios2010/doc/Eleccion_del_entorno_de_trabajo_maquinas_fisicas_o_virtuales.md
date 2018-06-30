@@ -1,5 +1,5 @@
 ---
-title: "2.- Elección del entorno de trabajo: máquinas físicas o virtuales
+title: "2.- Elección del entorno de trabajo: máquinas físicas o virtuales"
 ---
 
 Ya conocemos el esquema de red que vamos a implementar: un servidor (avatar) conectado a Internet por eth0, los clientes de nuestra red estarán conectados al servidor mediante la otra interfaz de red, eth1. El servidor se irá configurando y administrando para ofrecer distintos servicios a los clientes internos y externos.  
@@ -35,4 +35,4 @@ En este apartado vamos a responder a la siguiente pregunta: ¿qué alternativas 
     * La máquina virtual cliente estará conectada al segmento de red conectado a la interfaz veth1 del servidor.
 
   
-**IMPORTANTE**: Nosotros recomendamos que utilicéis la primera alternativa, que es la forma más real de simular el esquema seleccionado y os recomendamos utilizar alguna de las otras dos sólo si os desenvolvéis con soltura con las máquinas virtuales. Todo el contenido del curso se basará en la primera opción, pero no es difícil hacer el paralelismo a cualquiera de las tres alternativas."
+**IMPORTANTE**: Nosotros recomendamos que utilicéis la primera alternativa, que es la forma más real de simular el esquema seleccionado y os recomendamos utilizar alguna de las otras dos sólo si os desenvolvéis con soltura con las máquinas virtuales. Todo el contenido del curso se basará en la primera opción, pero no es difícil hacer el paralelismo a cualquiera de las tres alternativas.

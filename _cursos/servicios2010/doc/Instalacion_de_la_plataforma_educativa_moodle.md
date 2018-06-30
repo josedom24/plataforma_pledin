@@ -1,5 +1,5 @@
 ---
-title: "3.- Instalación de la plataforma educativa moodle
+title: "3.- Instalación de la plataforma educativa moodle"
 ---
 
 **Moodle** es un [Ambiente Educativo Virtual](http://es.wikipedia.org/wiki/Ambiente_Educativo_Virtual "Ambiente Educativo Virtual"), sistema de gestión de cursos, de [distribución libre](http://es.wikipedia.org/wiki/Software_libre "Software libre"), que ayuda a los educadores a crear comunidades de aprendizaje en línea. Este tipo de plataformas tecnológicas también se conoce como [LMS (Learning Management System)](http://es.wikipedia.org/wiki/LMS_%28Learning_Management_System%29 "LMS (Learning Management System)").  
@@ -90,4 +90,4 @@ La última versión de moodle es la 1.9.7, y la página de descarga es: [http://
 
         * [Moodle para Profesores](http://www.josedomingo.org/web/course/view.php?id=9)
         * [Moodle para Estudiantes](http://www.josedomingo.org/web/course/view.php?id=8)
-        * [Características de Moodle](http://www.josedomingo.org/web/course/view.php?id=10)"
+        * [Características de Moodle](http://www.josedomingo.org/web/course/view.php?id=10)

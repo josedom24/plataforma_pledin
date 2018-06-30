@@ -1,5 +1,5 @@
 ---
-title: "Índice de Proxy Web: Squid
+title: "Índice de Proxy Web: Squid"
 ---
 
 1. Definición de proxy-cache  
@@ -10,4 +10,4 @@ title: "Índice de Proxy Web: Squid
 
 3. Control de acceso  
 4. Autentificación de usuarios  
-5. Proxy transparente"
+5. Proxy transparente

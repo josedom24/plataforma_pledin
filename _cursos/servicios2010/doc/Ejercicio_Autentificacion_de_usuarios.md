@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: Autentificación de usuarios
+title: "Ejercicio: Autentificación de usuarios"
 ---
 
 En este ejercicio vamos a ver distintas maneras de utilizar el servicio del proxy-cache. En primer lugar obligaremos al usuario a autentificarse para poder navegar por internet y a continuación introduciremos el concepto de proxy transparente, donde el cliente no tendrá que configurar el navegador y forzaremos que el acceso a internet pase por el proxy-cache.  
@@ -40,4 +40,4 @@ Si te fijas hemos añadido el ACL pass_web al ACL `hostpermitidos`.
 
 En contraposición a la navegación a través de un proxy con autenticación que hemos visto anteriormente, existe la posibilidad de configurar squid para que todos los usuarios de una red naveguen a través del proxy sin necesidad de tener que configurar cada una de sus aplicaciones, esto es lo que se denomina proxy transparente. Es más, se hace para que naveguen a través del proxy sin saberlo o sin quererlo, asumiendo todas las restricciones que éste imponga.  
   
-La implementación de un proxy transparente se verá en el siguiente tema, ya que es necesario crear una regla de iptables para que todas las peticiones que se hagan al puerto 80 se redireccionen al puerto 3178."
+La implementación de un proxy transparente se verá en el siguiente tema, ya que es necesario crear una regla de iptables para que todas las peticiones que se hagan al puerto 80 se redireccionen al puerto 3178.

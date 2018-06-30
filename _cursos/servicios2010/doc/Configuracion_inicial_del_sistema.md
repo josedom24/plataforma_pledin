@@ -1,5 +1,5 @@
 ---
-title: "4.- Configuración inicial del sistema
+title: "4.- Configuración inicial del sistema"
 ---
 
 Durante la instalación del sistema la mayoría de los parámetros que comentamos en esta sección quedarán definidos, aunque es conveniente repasar todos ellos para verificar la correcta configuración del sistema y familiarizarnos con algunos ficheros de configuración.  
@@ -128,4 +128,4 @@ En este fichero se especifican las relaciones entre direcciones IP y nombres de 
 En este fichero se encuentra las direcciones de los servidores DNS, que nos van a permitir la traducción de nombres a direcciones IP y tendrá una línea por cada servidor DNS que queramos utilizar, por ejemplo utilizando los servidores DNS públicos de Google nos quedarían las líneas:  
 
     nameserver 8.8.8.8
-    nameserver 8.8.4.4"
+    nameserver 8.8.4.4

@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: Herramientas para gestionar las actualización de paquetes 
+title: "Ejercicio: Herramientas para gestionar las actualización de paquetes "
 ---
 
 Las actualizaciones automáticas de los paquetes del sistema, o la notificación de los mismos, es una tarea importante que deben realiza los administradores de sistema. Lo que pretendemos con este ejercicio es aprender herramientas que nos permiten automatizar las tareas de actualización que puede ser mas que beneficioso, sobre todo por el ahorro de tiempo.  
@@ -32,4 +32,4 @@ Es decir que realiza la actualización del sistema, descarga los paquetes necesa
   
 De esta forma podremos evitarnos la tarea de buscar actualizaciones a daca uno de los paquetes que tenemos instalados en el sistema, ya que recibiremos toda esta información en nuestro correo. Y si estamos de acuerdo con las actualizaciones, solo restará un:  
   
-    # apt-get dist-upgrade"
+    # apt-get dist-upgrade

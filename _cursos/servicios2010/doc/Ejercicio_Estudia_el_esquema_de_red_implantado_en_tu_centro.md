@@ -1,5 +1,5 @@
 ---
-title: "Ejercicio: Estudia el esquema de red implantado en tu centro
+title: "Ejercicio: Estudia el esquema de red implantado en tu centro"
 ---
 
 Realiza un estudio de la configuración y esquema de red que hay implantada en tu instituto. 
@@ -10,4 +10,3 @@ Realiza un estudio de la configuración y esquema de red que hay implantada en t
 * ¿Qué sistema operativo tiene instalado el servidor?
 * Si crees conveniente, comenta en el foro general las ventajas e inconvenientes del esquema de red implantado en tu instituto y si son necesarias algunas modificaciones.
 
-"

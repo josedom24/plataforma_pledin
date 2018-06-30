@@ -1,5 +1,5 @@
 ---
-title: "Índice de Sistema centralizado de cuentas: Kerberos, LDAP y NFS4
+title: "Índice de Sistema centralizado de cuentas: Kerberos, LDAP y NFS4"
 ---
 
 1. Características del montaje
@@ -7,4 +7,4 @@ title: "Índice de Sistema centralizado de cuentas: Kerberos, LDAP y NFS4
 3. Instalación y configuración de Kerberos y LDAP
 4. GSSAPI: Conexión entre Kerberos y LDAP
 5. Autenticación del sistema con Kerberos (pam-krb)
-6. NFS4 con Kerberos"
+6. NFS4 con Kerberos
