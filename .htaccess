@@ -324,3 +324,215 @@ RewriteCond %{QUERY_STRING} id=803
 RewriteRule ^mod/url/view.php$ http://www.juntadeandalucia.es/averroes/cepdeelejido/moodle/course/view.php?id=24? [R,L]
 RewriteCond %{QUERY_STRING} id=804
 RewriteRule ^mod/url/view.php$ http://www.josedomingo.org/web/course/view.php?id=27? [R,L]
+
+
+RewriteCond %{QUERY_STRING} id=977
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/GuiaGeneral.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=978
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Contenido_del_curso.html? [R,L]
+RewriteCond %{QUERY_STRING} id=980
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/BOLSA_DE_AYUDA.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1115
+RewriteRule ^mod/assign/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Actividad_no_presencial.html? [R,L]
+RewriteCond %{QUERY_STRING} id=982
+RewriteRule ^mod/url/view.php$ http://www.josedomingo.org/web/file.php/1/cursos_comprimidos/Introduccion_a_los_Servicios_en_GNULinux.zip? [R,L]
+RewriteCond %{QUERY_STRING} id=983
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Indice_de_introduccion.html? [R,L]
+RewriteCond %{QUERY_STRING} id=985
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Manejar_paquetes_en_Debian.html? [R,L]
+RewriteCond %{QUERY_STRING} id=986
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Estructura_basica_del_paquete_"servicio".html? [R,L]
+RewriteCond %{QUERY_STRING} id=988
+RewriteRule ^mod/url/view.php$ http://www.debian.org/doc/manuals/apt-howto/index.es.html#contents? [R,L]
+RewriteCond %{QUERY_STRING} id=989
+RewriteRule ^mod/url/view.php$ http://www.esdebian.org/foro/22093/tutorial-aptitude? [R,L]
+RewriteCond %{QUERY_STRING} id=990
+RewriteRule ^mod/url/view.php$ http://linuxhelp.blogspot.com/2005/12/concise-apt-get-dpkg-primer-for-new.html? [R,L]
+RewriteCond %{QUERY_STRING} id=991
+RewriteRule ^mod/url/view.php$ http://www.debian-administration.org/articles/212? [R,L]
+RewriteCond %{QUERY_STRING} id=992
+RewriteRule ^mod/url/view.php$ http://www.linuxtotal.com.mx/index.php?cont=info_admon_012? [R,L]
+RewriteCond %{QUERY_STRING} id=993
+RewriteRule ^mod/url/view.php$ http://ftp.cl.debian.org/man-es/ethernet.html? [R,L]
+RewriteCond %{QUERY_STRING} id=995
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Uso_basico_de_APT.html? [R,L]
+RewriteCond %{QUERY_STRING} id=996
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Trabajando_con_los_repositorios.html? [R,L]
+RewriteCond %{QUERY_STRING} id=997
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Mas_opciones_de_APT.html? [R,L]
+RewriteCond %{QUERY_STRING} id=998
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Trabajando_con_paquetes_Instalando_servicios.html? [R,L]
+RewriteCond %{QUERY_STRING} id=999
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Niveles_de_ejecucion_Arranque_y_parada_de_los_servicios.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1000
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Logs_obteniendo_informacion_del_sistema.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1001
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Configuracion_basica_de_red.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1002
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Indice_de_DNS.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1004
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/dns.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1006
+RewriteRule ^mod/url/view.php$ http://blog.smaldone.com.ar/2006/12/05/como-funciona-el-dns/? [R,L]
+RewriteCond %{QUERY_STRING} id=1008
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Ficheros_importantes_en_la_resolucion_de_nombres.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1009
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Consultas_a_un_servidor_DNS_con_dig.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1010
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Instalacion_y_configuracion_de_DNSmasq_como_DNS_cache_forward_en_una_red_local.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1011
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Instalacion_y_configuracion_de_Bind9_como_servidor_DNS_master_en_una_red_local.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1012
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Indice_de_DHCP.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1014
+RewriteRule ^mod/url/view.php$ http://albertomolina.wordpress.com/dns-dinamico/? [R,L]
+RewriteCond %{QUERY_STRING} id=1016
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/DHCP.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1017
+RewriteRule ^mod/url/view.php$ http://es.wikipedia.org/wiki/APIPA? [R,L]
+RewriteCond %{QUERY_STRING} id=1019
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Instalacion_del_servidor_DHCP.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1020
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Configuracion_del_servidor_DHCP.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1021
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/DNS_dinamico.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1022
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Configuracion_de_un_servidor_PXE_para_instalacion_por_red.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1023
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/postfix_ldap_ou_ldif.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1024
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Indice_de_OpenLDAP.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1026
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/autenticacion_ldap.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1028
+RewriteRule ^mod/url/view.php$ http://en.wikipedia.org/wiki/List_of_LDAP_software#Server_software? [R,L]
+RewriteCond %{QUERY_STRING} id=1029
+RewriteRule ^mod/url/view.php$ http://www.zytrax.com/books/ldap/ape/? [R,L]
+RewriteCond %{QUERY_STRING} id=1030
+RewriteRule ^mod/url/view.php$ http://technology.artifact-software.com/LDAPSchema/ldapschema.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1032
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Crear_manualmente_un_usuario_en_UNIX.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1033
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Crear_la_estructura_basica_de_un_directorio_para_la_autenticacion_de_usuarios.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1034
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Configurar_un_equipo_cliente_para_autenticacion_mediante_LDAP.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1035
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Indice_de_correo_electronico.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1037
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/correo-e.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1039
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Ejemplo_de_una_comunicacion_SMTP_wikipedia.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1040
+RewriteRule ^mod/url/view.php$ http://www.zytrax.com/books/ldap/ape/courier.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1042
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Instalacion_y_confuguracion_basica_de_postfix.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1043
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Alias_y_redirecciones.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1044
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Servidor_IMAP_y_POP.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1045
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/webmail.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1046
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Configuracion_de_postfix_para_el_uso_de_usuarios_virtuales_de_un_directorio_LDAP.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1047
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Configurar_postfix_para_enviar_a_traves_de_un_relay_host_autenticado.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1048
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Indice_de_servidor_FTP.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1050
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/proftp2.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1052
+RewriteRule ^mod/url/view.php$ http://null-lab.hacklabs.org/mediaw/index.php/Instalar_Proftp_anonimo_bajo_Debian_en_3,56_minutos? [R,L]
+RewriteCond %{QUERY_STRING} id=1054
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Instalacion_y_puesta_en_marcha_del_servidor_proFTPd.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1055
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Servidor_proFTPd_Usuarios_virtuales_con_LDAP.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1056
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Creacion_de_un_FTP_Anonimo.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1058
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Indice_de_LAMP.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1060
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/pres_apache.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1061
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/apache.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1062
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Instalacion_de_Apache+PHP+MySQL.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1063
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/pressphp.ppt? [R,L]
+RewriteCond %{QUERY_STRING} id=1064
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/web_dinamica2.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1066
+RewriteRule ^mod/url/view.php$ http://es.wikipedia.org/wiki/LAMP? [R,L]
+RewriteCond %{QUERY_STRING} id=1067
+RewriteRule ^mod/url/view.php$ http://dns.bdat.net/documentos/apache/? [R,L]
+RewriteCond %{QUERY_STRING} id=1068
+RewriteRule ^mod/url/view.php$ http://es2.php.net/manual/es/index.php? [R,L]
+RewriteCond %{QUERY_STRING} id=1069
+RewriteRule ^mod/url/view.php$ http://dev.mysql.com/doc/refman/5.0/es/index.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1070
+RewriteRule ^mod/url/view.php$ http://www.cepazahar.org/recursos/file.php/2/tema6/cap06/moodle.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1071
+RewriteRule ^mod/url/view.php$ http://docs.moodle.org/en/LDAP_authentication? [R,L]
+RewriteCond %{QUERY_STRING} id=1073
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Virtual_Hosting_Creacion_y_gestion_de_dos_subdominios.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1074
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Uso_de_modulos_en_Apache2_userdir_mod.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1075
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Configuracion_de_awstats_para_virtual_hosting.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1076
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Instalacion_de_un_CMS_Moodle.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1077
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Autenticacion_mediante_LDAP_en_moodle.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1079
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Instalacion_de_phpmyadmin.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1080
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Instalacion_de_phpldapadmin.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1081
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Instalacion_de_squirrelmail.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1082
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Indice_de_NAT_y_proxy.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1084
+RewriteRule ^mod/url/view.php$ http://albertomolina.wordpress.com/2009/01/09/nat-con-iptables/? [R,L]
+RewriteCond %{QUERY_STRING} id=1085
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/squid.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1087
+RewriteRule ^mod/url/view.php$ http://infosofia.blogdns.com:8089/2008/01/24/servidor-proxy-de-archivos-debian-approx/? [R,L]
+RewriteCond %{QUERY_STRING} id=1089
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Configuracion_de_SNAT_para_la_red_virtual.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1090
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Instalacion_y_configuracion_de_squid.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1091
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Proxy_transparente_con_squid_e_iptables.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1092
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Configuracion_de_un_proxy_APT_con_approx.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1093
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Indice_de_ficheros_en_red_NFS_SAMBA_y_Mdns.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1095
+RewriteRule ^mod/url/view.php$ http://albertomolina.wordpress.com/2008/07/07/utilizando-mdns-en-una-red-local/? [R,L]
+RewriteCond %{QUERY_STRING} id=1096
+RewriteRule ^mod/url/view.php$ http://albertomolina.wordpress.com/2008/07/09/compartir-ficheros-con-avahi/? [R,L]
+RewriteCond %{QUERY_STRING} id=1098
+RewriteRule ^mod/url/view.php$ http://en.wikipedia.org/wiki/Portmap? [R,L]
+RewriteCond %{QUERY_STRING} id=1099
+RewriteRule ^mod/url/view.php$ http://usuarios.lycos.es/caralbornozc/nfs.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1100
+RewriteRule ^mod/url/view.php$ http://es.tldp.org/Manuales-LuCAS/USANDO-SAMBA/usando-samba.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1101
+RewriteRule ^mod/url/view.php$ http://us1.samba.org/samba/docs/man/Samba-HOWTO-Collection/? [R,L]
+RewriteCond %{QUERY_STRING} id=1103
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Compartir_ficheros_usando_NFS.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1104
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Centralizacion_de_usuarios_usando_LDAP_y_NFS.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1105
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Compartir_ficheros_usando_SAMBA.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1106
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Compartir_fichero_con_Mdns_y_avahi.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1107
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Indice_de_cortafuegos_iptables.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1109
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/files/firewall.sh? [R,L]
+RewriteCond %{QUERY_STRING} id=1111
+RewriteRule ^mod/url/view.php$ http://es.tldp.org/Manuales-LuCAS/doc-iptables-firewall/doc-iptables-firewall-html/? [R,L]
+RewriteCond %{QUERY_STRING} id=1113
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Cortafuegos_elemental_con_politica_por_defecto_ACCEPT.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1114
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/servicios2008/doc/Cortafuegos_con_politica_por_defecto_DROP.html? [R,L]
