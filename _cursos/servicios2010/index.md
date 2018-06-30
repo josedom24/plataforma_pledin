@@ -18,7 +18,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 ![](img/t0.jpg)
 
 
-## UNIDAD 0.- Puesta en marcha del entorno de trabajo
+## UNIDAD 0. Puesta en marcha del entorno de trabajo
 
 * [Índice de Puesta en marcha del entorno de trabajo](doc/Indice_de_Puesta_en_marcha_del_entorno_de_trabajo.html)
 * [1.- Esquema de la red de trabajo](doc/Esquema_de_la_red_de_trabajo.html)
@@ -34,7 +34,7 @@ Servicios en GNU/Linux. Portal Educativo de Alberto Molina Coballes, José Domin
 
 ![](img/t1.jpg)
 
-## UNIDAD 1.- NAT, LAMP, gestión de DNS externo
+## UNIDAD 1. NAT, LAMP, gestión de DNS externo
 
 * [Indice de NAT, LAMP y gestión DNS externo](doc/Indice_de_NAT,_LAMP_y_gestion_DNS_externo.html)
 * [1.- NAT: Compartir una dirección IP pública entre varios equipos](doc/NAT_Compartir_una_direccion_IP_publica_entre_varios_equipos.html)
