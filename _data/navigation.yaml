@@ -46,7 +46,7 @@ cursos:
       - title: "Servicios en GNU/Linux. Portal Educativo (2010)"
         url: servicios_gnu_linux_portal_educativo_2010
       - title: "Introducción a los Servicios en GNU/Linux (2008)"
-        url: servicios_gnu_linux_2008
+        url: cursos/servicios2008
       - title: "Curso TIC - IES Gonzalo Nazareno (2007)"
         url: cursos/tic2007
       - title: "Curso HELVIA - IES Gonzalo Nazareno (2007)"

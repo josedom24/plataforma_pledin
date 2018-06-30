@@ -32,7 +32,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 * [Servicios en GNU/Linux (Nivel Intermedio) (2011)](servicios_gnu_linux_nivel_intermedio_2011)
 * [Servicios en GNU/Linux. Portal Educativo (2010)](servicios_gnu_linux_portal_educativo_2010)
-* [Introducción a los Servicios en GNU/Linux (2008)](servicios_gnu_linux_2008)
+* [Introducción a los Servicios en GNU/Linux (2008)](cursos/servicios2008)
 * [Curso TIC - IES Gonzalo Nazareno (2007)](cursos/tic2007)
 * [Curso HELVIA - IES Gonzalo Nazareno (2007)](cursos/helvia2007)
 * [Máquinas virtuales para la puesta en marcha de un portal educativo (2006)](cursos/mv2006)
