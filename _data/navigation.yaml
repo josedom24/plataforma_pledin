@@ -43,7 +43,7 @@ cursos:
       - title: "Proyecto Cloud Computing (2012)"
         url: #
 
-    - title: OpenWebinars
+  - title: OpenWebinars
     children:
       - title: "Introducción a la programación con pseudocódigo (2018)"
         url: #
