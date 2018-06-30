@@ -68,3 +68,199 @@ RewriteCond %{QUERY_STRING} id=607
 RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/mv2006/files/unixsec-2.1.pdf? [R,L]
 RewriteCond %{QUERY_STRING} id=608
 RewriteRule ^mod/url/view.php$ http://www.uoc.edu/posgrado/matricula_abierta/web/materiales_libres.html [R,L]
+
+
+RewriteCond %{QUERY_STRING} id=653
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Presentacion_del_curso.html? [R,L]
+RewriteCond %{QUERY_STRING} id=656
+RewriteRule ^mod/url/view.php$ http://www.juntadeandalucia.es/averroes/iesatalaya/manuales/Guia_Guadalinex_V3.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=657
+RewriteRule ^mod/url/view.php$ http://www.juntadeandalucia.es/averroes/guadalinex/files/guia_centros_tic.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=659
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/files/Plataforma_Educativa_Moodle.odp? [R,L]
+RewriteCond %{QUERY_STRING} id=660
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/files/conocimiento_libre.odp? [R,L]
+RewriteCond %{QUERY_STRING} id=661
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/files/conocimiento_libre.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=662
+RewriteRule ^mod/url/view.php$ http://www.juntadeandalucia.es/averroes/centros-tic/14700316/archivos/_72/POSIBILIDADES_EDUCATIVAS_DE_LAS_TICs.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=664
+RewriteRule ^mod/url/view.php$ http://www.guadalinex.org? [R,L]
+RewriteCond %{QUERY_STRING} id=665
+RewriteRule ^mod/url/view.php$ http://www.wikimedia.org? [R,L]
+RewriteCond %{QUERY_STRING} id=666
+RewriteRule ^mod/url/view.php$ http://www.gutenberg.org/browse/languages/es? [R,L]
+RewriteCond %{QUERY_STRING} id=667
+RewriteRule ^mod/url/view.php$ http://www.leergratis.com? [R,L]
+RewriteCond %{QUERY_STRING} id=669
+RewriteRule ^mod/url/view.php$ http://es.wikipedia.org/wiki/Copyleft? [R,L]
+RewriteCond %{QUERY_STRING} id=670
+RewriteRule ^mod/url/view.php$ http://www.gnu.org/philosophy/right-to-read.es.html? [R,L]
+RewriteCond %{QUERY_STRING} id=671
+RewriteRule ^mod/url/view.php$ http://cyber.law.harvard.edu/blogs/gems/ion/secreativo.swf? [R,L]
+RewriteCond %{QUERY_STRING} id=672
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/files/Culturalibre.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=673
+RewriteRule ^mod/url/view.php$ http://www.xlsemanal.com/web/firma.php?id_firma=472&id_edicion=143? [R,L]
+RewriteCond %{QUERY_STRING} id=674
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/files/David-Bravo-Copia-este-libro.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=675
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Componentes_Hardware.html? [R,L]
+RewriteCond %{QUERY_STRING} id=676
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Estudio_de_los_componentes_de_un_aula_TIC.html? [R,L]
+RewriteCond %{QUERY_STRING} id=677
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Uso_de_los_ordenadores_en_una_aula_TIC.html? [R,L]
+RewriteCond %{QUERY_STRING} id=678
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Normas_de_uso_de_las_aulas_TIC.html? [R,L]
+RewriteCond %{QUERY_STRING} id=679
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Solucion_de_problemas_mas_frecuentes_que_nos_podemos_encontrar_en_un_aula_TIC.html? [R,L]
+RewriteCond %{QUERY_STRING} id=680
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/files/problemas.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=681
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Recomendaciones_para_aulas_inalambricas.html? [R,L]
+RewriteCond %{QUERY_STRING} id=762
+RewriteRule ^mod/assign/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Puesta_a_punto_de_un_aula_TIC.html? [R,L]
+RewriteCond %{QUERY_STRING} id=683
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/El_sistema_de_ficheros.html? [R,L]
+RewriteCond %{QUERY_STRING} id=763
+RewriteRule ^mod/assign/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Crear_una_estructura_de_Carpetas.html? [R,L]
+RewriteCond %{QUERY_STRING} id=685
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Trabajando_con_unidades_extraibles.html? [R,L]
+RewriteCond %{QUERY_STRING} id=764
+RewriteRule ^mod/assign/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Manejo_de_unidades_de_memoria_USB.html? [R,L]
+RewriteCond %{QUERY_STRING} id=687
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Trabajar_con_permisos_de_ficheros.html? [R,L]
+RewriteCond %{QUERY_STRING} id=688
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Operaciones_con_ficheros:_Abrir_guardar__.html? [R,L]
+RewriteCond %{QUERY_STRING} id=765
+RewriteRule ^mod/assign/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Ejercicios_de_guardar_archivos.html? [R,L]
+RewriteCond %{QUERY_STRING} id=690
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Grabar_CD__DVD.html? [R,L]
+RewriteCond %{QUERY_STRING} id=766
+RewriteRule ^mod/assign/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Hacer_una_copia_de_seguridad_en_un_CD.html? [R,L]
+RewriteCond %{QUERY_STRING} id=692
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Lista_de_aplicaciones_en_Guadalinex_v3.html? [R,L]
+RewriteCond %{QUERY_STRING} id=693
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Estudio_de_los_distintos_formatos_de_ficheros.html? [R,L]
+RewriteCond %{QUERY_STRING} id=694
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/El_paquete_ofimatico_OpenOffice.html? [R,L]
+RewriteCond %{QUERY_STRING} id=695
+RewriteRule ^mod/url/view.php$ http://wiki.gleducar.org.ar/wiki/Manual_Writer? [R,L]
+RewriteCond %{QUERY_STRING} id=696
+RewriteRule ^mod/url/view.php$ http://wiki.gleducar.org.ar/wiki/Manual_Calc? [R,L]
+RewriteCond %{QUERY_STRING} id=697
+RewriteRule ^mod/url/view.php$ http://wiki.gleducar.org.ar/wiki/Manual_Impress? [R,L]
+RewriteCond %{QUERY_STRING} id=767
+RewriteRule ^mod/assign/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Crear_una_presentacion_en_Impress.html? [R,L]
+RewriteCond %{QUERY_STRING} id=699
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Lectura_de_documentos_pdf.html? [R,L]
+RewriteCond %{QUERY_STRING} id=768
+RewriteRule ^mod/assign/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/OpenOffice_y_PDF.html? [R,L]
+RewriteCond %{QUERY_STRING} id=701
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Trabajar_con_ficheros_comprimidos.html? [R,L]
+RewriteCond %{QUERY_STRING} id=702
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/files/tic.zip? [R,L]
+RewriteCond %{QUERY_STRING} id=769
+RewriteRule ^mod/assign/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Ejercicio_con_ficheros_comprimidos.html? [R,L]
+RewriteCond %{QUERY_STRING} id=704
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Navegacion_por_internet_con_Firefox.html? [R,L]
+RewriteCond %{QUERY_STRING} id=770
+RewriteRule ^mod/assign/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Obteniendo_informacion_de_Internet.html? [R,L]
+RewriteCond %{QUERY_STRING} id=706
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Sindicacion_de_contenidos_web_Lectores_de_noticias.html? [R,L]
+RewriteCond %{QUERY_STRING} id=771
+RewriteRule ^mod/assign/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Anadir_"novedades"_de_la_Consejeria_de_Educacion_en_el_programa_Liferea.html? [R,L]
+RewriteCond %{QUERY_STRING} id=708
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Trabajando_con_imagenes:_Gimp_inkscape_gThumb.html? [R,L]
+RewriteCond %{QUERY_STRING} id=709
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/files/imagen.jpg? [R,L]
+RewriteCond %{QUERY_STRING} id=710
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Trabajando_con_video_y_sonido.html? [R,L]
+RewriteCond %{QUERY_STRING} id=711
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/files/Bach.mp3? [R,L]
+RewriteCond %{QUERY_STRING} id=712
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/files/video.avi? [R,L]
+RewriteCond %{QUERY_STRING} id=713
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Autentificacion_en_el_sistema_Ventajas_del_trabajo_multiusuario.html? [R,L]
+RewriteCond %{QUERY_STRING} id=714
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Usuarios_remotos:_Gesuser_2.html? [R,L]
+RewriteCond %{QUERY_STRING} id=716
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Utilizacion_del_canon_virtual.html? [R,L]
+RewriteCond %{QUERY_STRING} id=717
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Filtro_de_contenidos.html? [R,L]
+RewriteCond %{QUERY_STRING} id=718
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Manual_de_uso_de_la_camara_de_video_digital_Captura_de_video_con_Kino.html? [R,L]
+RewriteCond %{QUERY_STRING} id=719
+RewriteRule ^mod/url/view.php$ http://www.es.gnome.org/documentacion/articulos/kino/kino/? [R,L]
+RewriteCond %{QUERY_STRING} id=720
+RewriteRule ^mod/url/view.php$ http://yourmachines.org/tutorials/kino.html? [R,L]
+RewriteCond %{QUERY_STRING} id=721
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Webs_Educativas.html? [R,L]
+RewriteCond %{QUERY_STRING} id=722
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Programas_Educativos_en_Gudalinex_-_Ciencias.html? [R,L]
+RewriteCond %{QUERY_STRING} id=723
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Programas_Educativos_en_Gudalinex_-_Geografia.html? [R,L]
+RewriteCond %{QUERY_STRING} id=724
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Programas_Educativos_en_Gudalinex_-_Idiomas.html? [R,L]
+RewriteCond %{QUERY_STRING} id=725
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Programas_Educativos_en_Gudalinex_-_Lengua.html? [R,L]
+RewriteCond %{QUERY_STRING} id=726
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Programas_Educativos_en_Gudalinex_-_Matematicas.html? [R,L]
+RewriteCond %{QUERY_STRING} id=727
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Programas_Educativos_en_Gudalinex_-_Musica.html? [R,L]
+RewriteCond %{QUERY_STRING} id=728
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Programas_Educativos_en_Gudalinex_-_Tecnologia.html? [R,L]
+RewriteCond %{QUERY_STRING} id=729
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Utilidades_y_programas_educativos_en_el_servidor_de_contenidos.html? [R,L]
+RewriteCond %{QUERY_STRING} id=731
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/¿Que_es_una_WebQuest.html? [R,L]
+RewriteCond %{QUERY_STRING} id=732
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Estructura.html? [R,L]
+RewriteCond %{QUERY_STRING} id=733
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Para_seber_mas_.html? [R,L]
+RewriteCond %{QUERY_STRING} id=734
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Ejemplos_de_WebQuests.html? [R,L]
+RewriteCond %{QUERY_STRING} id=735
+RewriteRule ^mod/url/view.php$ http://ciudad.latinol.com/paloma2006/? [R,L]
+RewriteCond %{QUERY_STRING} id=737
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/¿Que_son.html? [R,L]
+RewriteCond %{QUERY_STRING} id=738
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Diseno_y_estructura.html? [R,L]
+RewriteCond %{QUERY_STRING} id=739
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Para_saber_mas_.html? [R,L]
+RewriteCond %{QUERY_STRING} id=740
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Ejemplos_de_Cazas_de_Tesoro.html? [R,L]
+RewriteCond %{QUERY_STRING} id=741
+RewriteRule ^mod/url/view.php$ http://iessapostol.juntaextremadura.net/latin/cazatesoros/sociedad/index.html? [R,L]
+RewriteCond %{QUERY_STRING} id=743
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/¿Que_es_JClic.html? [R,L]
+RewriteCond %{QUERY_STRING} id=744
+RewriteRule ^mod/url/view.php$ http://clic.xtec.es/es/jclic/? [R,L]
+RewriteCond %{QUERY_STRING} id=745
+RewriteRule ^mod/url/view.php$ http://www.juntadeandalucia.es/averroes/jclic/? [R,L]
+RewriteCond %{QUERY_STRING} id=746
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Recursos_sobre_JClic.html? [R,L]
+RewriteCond %{QUERY_STRING} id=747
+RewriteRule ^mod/url/view.php$ http://clic.edu365.cat/db/act_es.jsp?id=1273? [R,L]
+RewriteCond %{QUERY_STRING} id=749
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/¿Que_es_Squeak.html? [R,L]
+RewriteCond %{QUERY_STRING} id=750
+RewriteRule ^mod/url/view.php$ http://swiki.agro.uba.ar/small_land/232? [R,L]
+RewriteCond %{QUERY_STRING} id=751
+RewriteRule ^mod/url/view.php$ http://swiki.agro.uba.ar/small_land? [R,L]
+RewriteCond %{QUERY_STRING} id=753
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/¿Que_es_Hot_Potatoes.html? [R,L]
+RewriteCond %{QUERY_STRING} id=754
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Recursos_webs_sobre_Hot_Potatoes.html? [R,L]
+RewriteCond %{QUERY_STRING} id=755
+RewriteRule ^mod/url/view.php$ http://endrino.cnice.mecd.es/~hotp0050/jmodestosuarez/index.htm? [R,L]
+RewriteCond %{QUERY_STRING} id=757
+RewriteRule ^mod/url/view.php$ http://www.josedomingo.org/web/course/view.php?id=44? [R,L]
+RewriteCond %{QUERY_STRING} id=758
+RewriteRule ^mod/url/view.php$ http://primaria.educalibre.cl/files/blogeducativo_edgardo_primaria.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=759
+RewriteRule ^mod/url/view.php$ http://www.victoriacollege.edu/departments/bio/Animations/iworx/blood_pressure.html? [R,L]
+RewriteCond %{QUERY_STRING} id=760
+RewriteRule ^mod/url/view.php$ http://www.cnice.mec.es/noticias/recursos_internet_aula/? [R,L]
+RewriteCond %{QUERY_STRING} id=761
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/tic2007/doc/Guia_del_trabajo_no_presencial.html? [R,L]
