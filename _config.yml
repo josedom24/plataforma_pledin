@@ -69,6 +69,11 @@ collections:
   cursos:
     output: true
     permalink: /:collection/:path
+  openwebinars:
+    output: true
+    permalink: /cursos/:path
+
+
 
 defaults:
   - scope:
