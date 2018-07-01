@@ -37,14 +37,14 @@ cursos:
       - title: "Jornadas Cloud Computing (2013)"
         url: #
       - title: "Proyecto Cloud Computing (2012)"
-        url: #
+        url: cursos/cloud2012
 
   - title: Servicios y TIC
     children:
       - title: "Servicios en GNU/Linux (Nivel Intermedio) (2011)"
-        url: servicios_gnu_linux_nivel_intermedio_2011
+        url: cursos/servicios2011
       - title: "Servicios en GNU/Linux. Portal Educativo (2010)"
-        url: servicios_gnu_linux_portal_educativo_2010
+        url: cursos/servicios2010
       - title: "Introducción a los Servicios en GNU/Linux (2008)"
         url: cursos/servicios2008
       - title: "Curso TIC - IES Gonzalo Nazareno (2007)"

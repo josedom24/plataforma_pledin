@@ -26,7 +26,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 * [Administración de infraestructura en la nube con OpenStack (2015) (github.io)]()
 * [Fundamentos de Cloud Computing con OpenStack y OpenShift (2014) (en github.io)]()
 * [Jornadas Cloud Computing (2013)](jornadas_cloud_computing_2013)
-* [Proyecto Cloud Computing (2012)](proyecto_cloud_computing_2012)
+* [Proyecto Cloud Computing (2012)](cursos/cloud2012)
 
 ## Servicios y TIC
 

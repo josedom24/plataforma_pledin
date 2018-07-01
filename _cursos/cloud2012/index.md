@@ -1,4 +1,6 @@
-# Proyecto Cloud Computing (2012)
+---
+title: Proyecto Cloud Computing (2012)
+---
 
 ## Proyecto de Innovación Implantación y puesta a punto de la infraestructura de un cloud computing privado para el despliegue de servicios en la nube
 
