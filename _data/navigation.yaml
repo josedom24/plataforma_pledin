@@ -35,7 +35,7 @@ cursos:
       - title: "Fundamentos de Cloud Computing con OpenStack y OpenShift (2014) (en github.io)"
         url: #
       - title: "Jornadas Cloud Computing (2013)"
-        url: #
+        url: cursos/cloud2013
       - title: "Proyecto Cloud Computing (2012)"
         url: cursos/cloud2012
 
