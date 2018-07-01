@@ -25,15 +25,15 @@ cursos:
   - title: Cloud Computing y OpenStack
     children:
       - title: "Curso de infraestructura Cloud con OpenStack. Universidad de Almería (2017) (github)"
-        url: #
+        url: https://github.com/iesgn/curso-ual17
       - title: "Curso OpenStack (2016) (github.io)"
-        url: #
+        url: http://iesgn.github.io/emergya/
       - title: "Introducción al Cloud Computing con OpenStack y OpenShift (2015) (github.io)"
-        url: #
+        url: http://iesgn.github.io/cloud3/
       - title: "Administración de infraestructura en la nube con OpenStack (2015) (github.io)"
-        url: #
+        url: http://iesgn.github.io/cloud2/
       - title: "Fundamentos de Cloud Computing con OpenStack y OpenShift (2014) (en github.io)"
-        url: #
+        url: http://iesgn.github.com/cloud
       - title: "Jornadas Cloud Computing (2013)"
         url: cursos/cloud2013
       - title: "Proyecto Cloud Computing (2012)"
