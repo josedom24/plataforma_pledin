@@ -1,4 +1,4 @@
-Options FollowSymLinks
+Options FollowSymLinks MultiViews
 RewriteEngine On
 RewriteCond %{QUERY_STRING} id=572
 RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/mv2006/files/temario.pdf? [R,L]
