@@ -1,6 +1,6 @@
 ---
 title: Introducción a python
-permalink: u1/index.html
+permalink: curso/u1/index.html
 ---
 ## Características de Python 
 
