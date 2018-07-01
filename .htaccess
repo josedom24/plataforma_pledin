@@ -829,3 +829,61 @@ RewriteCond %{QUERY_STRING} id=1503
 RewriteRule ^mod/url/view.php$ http://db.tt/DqaTTgun? [R,L]
 RewriteCond %{QUERY_STRING} id=1504
 RewriteRule ^mod/url/view.php$ http://db.tt/cBDjWjs0? [R,L]
+
+
+RewriteCond %{QUERY_STRING} id=1623
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/doc/Objetivos_y_contenidos_de_las_jornadas.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1624
+RewriteRule ^mod/url/view.php$ http://www.gonzalonazareno.org/cloud/? [R,L]
+RewriteCond %{QUERY_STRING} id=1626
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/files/jornadas-1.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1627
+RewriteRule ^mod/url/view.php$ http://aws.amazon.com/es/? [R,L]
+RewriteCond %{QUERY_STRING} id=1628
+RewriteRule ^mod/url/view.php$ http://www.windowsazure.com/? [R,L]
+RewriteCond %{QUERY_STRING} id=1629
+RewriteRule ^mod/url/view.php$ http://www.rackspace.com/cloud/? [R,L]
+RewriteCond %{QUERY_STRING} id=1630
+RewriteRule ^mod/url/view.php$ https://www.hpcloud.com/? [R,L]
+RewriteCond %{QUERY_STRING} id=1631
+RewriteRule ^mod/url/view.php$ https://developers.google.com/appengine/? [R,L]
+RewriteCond %{QUERY_STRING} id=1632
+RewriteRule ^mod/url/view.php$ https://openshift.redhat.com/app/? [R,L]
+RewriteCond %{QUERY_STRING} id=1633
+RewriteRule ^mod/url/view.php$ http://www.heroku.com/? [R,L]
+RewriteCond %{QUERY_STRING} id=1635
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/files/jornadas-2.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1636
+RewriteRule ^mod/url/view.php$ http://www.openstack.org? [R,L]
+RewriteCond %{QUERY_STRING} id=1637
+RewriteRule ^mod/url/view.php$ http://www.trystack.org? [R,L]
+RewriteCond %{QUERY_STRING} id=1638
+RewriteRule ^mod/url/view.php$ http://devstack.org/? [R,L]
+RewriteCond %{QUERY_STRING} id=1640
+RewriteRule ^mod/url/view.php$ http://www.gonzalonazareno.org/cloud/material/intro-horizon.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1641
+RewriteRule ^mod/url/view.php$ http://vimeo.com/51806641? [R,L]
+RewriteCond %{QUERY_STRING} id=1642
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/doc/Ejercicio_Trabajar_con_instancias_Linux.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1643
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/doc/Ejercicio_Acceso_a_instancias_Linux_con_claves_privadas_publicas.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1644
+RewriteRule ^mod/url/view.php$ http://vimeo.com/52254675? [R,L]
+RewriteCond %{QUERY_STRING} id=1645
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/doc/Ejercicio_Trabajar_con_instancias_Windows.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1646
+RewriteRule ^mod/url/view.php$ http://openstacktrainingmadrid.eventbrite.com/? [R,L]
+RewriteCond %{QUERY_STRING} id=1647
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/files/jornadas-3.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1648
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/doc/Ejercicio_Trabajando_con_snapshots.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1649
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/doc/Ejercicio_Trabajando_con_volumenes.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1651
+RewriteRule ^mod/url/view.php$ http://albertomolina.wordpress.com/2012/12/26/instalacion-de-joomla-en-openshift/? [R,L]
+RewriteCond %{QUERY_STRING} id=1652
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/doc/Ejercicio_Instalacion_de_joomla_en_OpenShift.html? [R,L]
+RewriteCond %{QUERY_STRING} id=1654
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/files/jornadas-4.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1655
+RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/doc/Debate_sobre_la_utilizacion_de_esta_tecnologia_en_nuestra_practica_docente.html? [R,L]
