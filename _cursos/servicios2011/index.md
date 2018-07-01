@@ -45,7 +45,7 @@ Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domi
 
 ## Unidad 2.- Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4
 
-* [Índice de Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4](doc/Indice_de_Sistema_centralizado_de_cuentas_Kerberos,_OpenLDAP_y_NFS4.html)
+* [Índice de Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4](doc/Indice_de_Sistema_centralizado_de_cuentas_Kerberos_OpenLDAP_y_NFS4.html)
     * [Sistema de cuentas de usuario centralizadas con Kerberos 5, OpenLDAP y NFS4](files/krb_ldap.pdf)
     * [Tarea: Sistema de cuentas centralizadas](doc/Tarea_Sistema_de_cuentas_centralizadas.html)
 
@@ -56,7 +56,7 @@ Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domi
 
 ## Servidor apache: Módulos. HTTPS
 
-* [Índice de Servidor apache: Módulos. HTTPS](doc/Indice_de_Servidor_apache_Modulos._HTTPS.html)
+* [Índice de Servidor apache: Módulos. HTTPS](doc/Indice_de_Servidor_apache_Modulos_HTTPS.html)
     * [Utilización de módulos en Apache](files/apache-modular.pdf)
     * [HTTPS en Apache2](files/https.pdf)
     * [Acceso cifrado en Joomla](files/joomla-cifrado.pdf)
@@ -81,14 +81,14 @@ Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domi
 
 ## Unidad 5.- Gestión remota, estado del sistema, actualizaciones y copias de seguridad
 
-* [Índice de gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Indice_de_gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.html)
+* [Índice de gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Indice_de_gestion_remota_estado_del_sistema_actualizaciones_y_copias_de_seguridad.html)
     * [Utilización elemental de ssh](files/ssh.pdf)
     * [Ejercicio: Gestión remota usando SSH](doc/Ejercicio_Gestion_remota_usando_SSH.html)
     * [Ejercicio: Registro de actividades del sistema: logcheck](doc/Ejercicio_Registro_de_actividades_del_sistema_logcheck.html)
     * [Ejercicio: Herramientas para gestionar las actualización de paquetes](doc/Ejercicio_Herramientas_para_gestionar_las_actualizacion_de_paquetes.html)
     * [Ejercicio: Planificación y realización de copias de seguridad del servidor](doc/Ejercicio_Planificacion_y_realizacion_de_copias_de_seguridad_del_servidor.html)
     * [Ejercicio: Sincronización de directorios con Unison](doc/Ejercicio_Sincronizacion_de_directorios_con_Unison.html)
-    * [Tarea: Gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Tarea_Gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.html)
+    * [Tarea: Gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Tarea_Gestion_remota_estado_del_sistema_actualizaciones_y_copias_de_seguridad.html)
 
 
 ### Recursos de interés
