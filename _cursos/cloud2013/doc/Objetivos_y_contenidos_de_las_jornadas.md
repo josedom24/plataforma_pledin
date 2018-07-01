@@ -1,4 +1,6 @@
-# Objetivos y contenidos de las jornadas
+---
+title: "Objetivos y contenidos de las jornadas"
+---
 
 ## Objetivos
 

@@ -1,4 +1,6 @@
-# Ejercicio - Acceso a instancias Linux con claves privadas/públicas
+---
+title: "Ejercicio - Acceso a instancias Linux con claves privadas/públicas"
+---
 
 Trabajar con imágenes que tengan definida la contraseña del root no es conveniente ya que, si no tenemos la precaución de modificarla, cualquiera puede acceder a la instancia. Es por lo que lo normal es acceder a las intancias utilizando un par de claves ssh (privada/pública). En este caso la clave pública que vamos a generar la podemos inyectar en la instancia a la hora de crearla.
 

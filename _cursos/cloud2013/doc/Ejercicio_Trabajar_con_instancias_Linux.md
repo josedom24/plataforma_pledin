@@ -1,4 +1,6 @@
-# Ejercicio - Trabajar con instancias Linux
+---
+title: "Ejercicio - Trabajar con instancias Linux"
+---
 
 1. Accede a "horizon" con la URL `http://jupiter.gonzalonazareno.org` e introduce el nombre de usuario y la contraseña que te han dado durante estas jornadas.
 2. Comprueba el proyecto al que perteneces.

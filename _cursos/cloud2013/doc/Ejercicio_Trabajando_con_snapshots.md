@@ -1,4 +1,6 @@
-# Ejercicio - Trabajando con snapshots
+---
+title: "Ejercicio - Trabajando con snapshots"
+---
 
 1. Crea una imagen de un sistema operativo Linux.
 2. Una vez que has accedido al sistema instala el servidor web apache2:
