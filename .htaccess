@@ -793,3 +793,39 @@ RewriteCond %{QUERY_STRING} id=1475
 RewriteRule ^mod/url/view.php$ http://www.linuca.org/body.phtml?nIdNoticia=256? [R,L]
 RewriteCond %{QUERY_STRING} id=1476
 RewriteRule ^mod/url/view.php$ http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html? [R,L]
+
+
+RewriteCond %{QUERY_STRING} id=1485
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2012/files/anexo-ii.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1486
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2012/files/memoria-final.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1487
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2012/files/03.01.IntroVirtualizacion.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1488
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2012/files/03.02.KVM.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1489
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2012/files/iaas-educacion.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1490
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2012/files/cloud_en_la_educacion.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1491
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2012/files/intro-openstack.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1494
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2012/files/intro-horizon.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1495
+RewriteRule ^mod/url/view.php$ http://vimeo.com/51806641? [R,L]
+RewriteCond %{QUERY_STRING} id=1496
+RewriteRule ^mod/url/view.php$ http://vimeo.com/52254675? [R,L]
+RewriteCond %{QUERY_STRING} id=1497
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2012/files/nova-cli.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1498
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2012/files/infraestructura.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1499
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2012/files/bk-admin-openstack.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1500
+RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2012/files/apis-openstack.pdf? [R,L]
+RewriteCond %{QUERY_STRING} id=1502
+RewriteRule ^mod/url/view.php$ http://db.tt/B6KnBir1? [R,L]
+RewriteCond %{QUERY_STRING} id=1503
+RewriteRule ^mod/url/view.php$ http://db.tt/DqaTTgun? [R,L]
+RewriteCond %{QUERY_STRING} id=1504
+RewriteRule ^mod/url/view.php$ http://db.tt/cBDjWjs0? [R,L]
