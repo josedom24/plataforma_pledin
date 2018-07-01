@@ -1,4 +1,6 @@
-# Ejercicio: Herramientas para gestionar las actualización de paquetes 
+---
+title: "Ejercicio: Herramientas para gestionar las actualización de paquetes "
+---
 
 Las actualizaciones automáticas de los paquetes del sistema, o la notificación de los mismos, es una tarea importante que deben realiza los administradores de sistema. Lo que pretendemos con este ejercicio es aprender herramientas que nos permiten automatizar las tareas de actualización que puede ser mas que beneficioso, sobre todo por el ahorro de tiempo.  
   

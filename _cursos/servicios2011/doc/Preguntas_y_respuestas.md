@@ -1,4 +1,6 @@
-# Preguntas y respuestas
+---
+title: "Preguntas y respuestas"
+---
 
 ## ¿Qué voy a aprender en este curso?
 

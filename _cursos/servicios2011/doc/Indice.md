@@ -1,4 +1,6 @@
-# Índice
+---
+title: "Índice"
+---
 
 * Introducción
 * Conceptos generales

@@ -1,4 +1,6 @@
-# Tarea: Sistema de cuentas centralizadas
+---
+title: "Tarea: Sistema de cuentas centralizadas"
+---
 
 1. Instala y configura los servicios ntp, slapd y kerberos en avatar y cliente siguiendo las indicaciones de la documentación.
 2. Realiza un login con el usuario `prueba` (o cualquier otro que hayas creado en Kerberos/LDAP) en cliente y avatar.

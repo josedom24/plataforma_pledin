@@ -1,4 +1,6 @@
-# Ejercicio: Registro de actividades del sistema: logcheck
+---
+title: "Ejercicio: Registro de actividades del sistema: logcheck"
+---
 
 ## logcheck
 

@@ -1,4 +1,6 @@
-# Índice: DNS dinámico
+---
+title: "Índice: DNS dinámico"
+---
 
 * Instalación y configuración de bind9 
 * Instalación y configuración de dhcp3-server 

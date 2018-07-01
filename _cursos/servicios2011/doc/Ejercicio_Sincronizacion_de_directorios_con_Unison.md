@@ -1,4 +1,6 @@
-# Ejercicio: Sincronización de directorios con Unison
+---
+title: "Ejercicio: Sincronización de directorios con Unison"
+---
 
 ## Sincronización de directorios con Unison
   

@@ -30,7 +30,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## Servicios y TIC
 
-* [Servicios en GNU/Linux (Nivel Intermedio) (2011)](servicios_gnu_linux_nivel_intermedio_2011)
+* [Servicios en GNU/Linux (Nivel Intermedio) (2011)](cursos/servicios2011)
 * [Servicios en GNU/Linux. Portal Educativo (2010)](cursos/servicios2010)
 * [Introducción a los Servicios en GNU/Linux (2008)](cursos/servicios2008)
 * [Curso TIC - IES Gonzalo Nazareno (2007)](cursos/tic2007)

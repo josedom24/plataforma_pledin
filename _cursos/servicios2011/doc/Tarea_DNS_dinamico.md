@@ -1,4 +1,6 @@
-# Tarea: DNS dinámico
+---
+title: "Tarea: DNS dinámico"
+---
 
 Partiendo de las características del servidor DNS y el servidor DHCP presentadas en el documento: *Utilización de DNS dinámico en una red local*, configura ambos servicios para permitir la actualización dinámica de las direcciones IP asignadas en el servidor DNS.
 

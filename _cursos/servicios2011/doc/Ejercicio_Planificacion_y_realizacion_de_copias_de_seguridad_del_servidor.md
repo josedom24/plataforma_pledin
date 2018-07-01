@@ -1,4 +1,6 @@
-# Ejercicio: Planificación y realización de copias de seguridad del servidor
+---
+title: "Ejercicio: Planificación y realización de copias de seguridad del servidor"
+---
 
 ## Realización de script para realizar la copia de seguridad del servidor
 

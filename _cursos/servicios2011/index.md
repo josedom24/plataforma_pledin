@@ -1,5 +1,6 @@
-# Servicios en GNU/Linux (Nivel Intermedio) (2011)
-
+---
+title: Servicios en GNU/Linux (Nivel Intermedio) (2011)
+---
 ## Objetivos
 
 * Instalar y configurar servicios en GNU/Linux. (NIVEL INTERMEDIO)
@@ -23,30 +24,30 @@ Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domi
 
 ## Unidad 0.- Puesta en marcha
 
-* [Preguntas y respuestas](doc/Preguntas_y_respuestas.md)
-* [Instalación del sistema operativo](doc/Instalacion_del_sistema_operativo.md)
+* [Preguntas y respuestas](doc/Preguntas_y_respuestas.html)
+* [Instalación del sistema operativo](doc/Instalacion_del_sistema_operativo.html)
 
 ## Unidad 1.- Sincronización de ISC DHCP3 y Bind9: DNS dinámico
 
-* [Índice: DNS dinámico](doc/Indice_DNS_dinamico.md)
-    * [Utilización de DNS dinámico en una red local](doc/Utilizacion_de_DNS_dinamico_en_una_red_local.md)
+* [Índice: DNS dinámico](doc/Indice_DNS_dinamico.html)
+    * [Utilización de DNS dinámico en una red local](doc/Utilizacion_de_DNS_dinamico_en_una_red_local.html)
     * [DNS dinámico](files/ddns.pdf)
-    * [Tarea: DNS dinámico](doc/Tarea_DNS_dinamico.md)
+    * [Tarea: DNS dinámico](doc/Tarea_DNS_dinamico.html)
 
 ### Recursos de interés 
 
 * [Documentación: Instalacion y configuración del servidor DHCP [dhcp.pdf]](http://www.josedomingo.org/web/mod/resource/view.php?id=2057)
 * [Documentación: Servidor de Nombres de Dominio: bind9 [pdf]](http://www.josedomingo.org/web/mod/resource/view.php?id=2062)
-* [Consultas a un servidor DNS con dig](doc/Consultas_a_un_servidor_DNS_con_dig.md)
+* [Consultas a un servidor DNS con dig](doc/Consultas_a_un_servidor_DNS_con_dig.html)
 * [Esquema: Proceso [jpeg]](files/EsquemaProceso.jpeg)
 * [Esquema: Servidor DHCP [jpeg]](files/EsquemaFicherosDHCP.jpeg)
 * [Esquema: Servidor DNS [jpeg]](files/EsquemaFicherosDNS.jpeg)
 
 ## Unidad 2.- Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4
 
-* [Índice de Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4](doc/Indice_de_Sistema_centralizado_de_cuentas_Kerberos,_OpenLDAP_y_NFS4.md)
+* [Índice de Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4](doc/Indice_de_Sistema_centralizado_de_cuentas_Kerberos,_OpenLDAP_y_NFS4.html)
     * [Sistema de cuentas de usuario centralizadas con Kerberos 5, OpenLDAP y NFS4](files/krb_ldap.pdf)
-    * [Tarea: Sistema de cuentas centralizadas](doc/Tarea_Sistema_de_cuentas_centralizadas.md)
+    * [Tarea: Sistema de cuentas centralizadas](doc/Tarea_Sistema_de_cuentas_centralizadas.html)
 
 ### Recursos de interés
 
@@ -55,11 +56,11 @@ Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domi
 
 ## Servidor apache: Módulos. HTTPS
 
-* [Índice de Servidor apache: Módulos. HTTPS](doc/Indice_de_Servidor_apache_Modulos._HTTPS.md)
+* [Índice de Servidor apache: Módulos. HTTPS](doc/Indice_de_Servidor_apache_Modulos._HTTPS.html)
     * [Utilización de módulos en Apache](files/apache-modular.pdf)
     * [HTTPS en Apache2](files/https.pdf)
     * [Acceso cifrado en Joomla](files/joomla-cifrado.pdf)
-    * [Tarea Servidor apache](doc/Tarea_Servidor_apache.md)
+    * [Tarea Servidor apache](doc/Tarea_Servidor_apache.html)
 
 ### Recursos de interés
 
@@ -67,27 +68,27 @@ Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domi
 
 ## Servidor de correo
 
-* [Índice](doc/Indice.md)
+* [Índice](doc/Indice.html)
     * [Correo electrónico](files/correo-e.pdf)
-    * [Tarea Correo](doc/Tarea_Correo.md)
+    * [Tarea Correo](doc/Tarea_Correo.html)
 
 ### Recursos de interés
 
-* [Sitios recomendados](doc/Sitios_recomendados.md)
+* [Sitios recomendados](doc/Sitios_recomendados.html)
 * [Esquema: Ficheros Postfix](files/1-estructuraficheros.jpg)
 * [Esquema: Ficheros Postfix con smarthost](files/16-FicherosSmarthost.jpeg)
 * [Esquema: Ficheros Postfix + Dovecot (y smarthost)](files/18-FicherosDovecot.jpeg)
 
 ## Unidad 5.- Gestión remota, estado del sistema, actualizaciones y copias de seguridad
 
-* [Índice de gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Indice_de_gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.md)
+* [Índice de gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Indice_de_gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.html)
     * [Utilización elemental de ssh](files/ssh.pdf)
-    * [Ejercicio: Gestión remota usando SSH](doc/Ejercicio_Gestion_remota_usando_SSH.md)
-    * [Ejercicio: Registro de actividades del sistema: logcheck](doc/Ejercicio_Registro_de_actividades_del_sistema_logcheck.md)
-    * [Ejercicio: Herramientas para gestionar las actualización de paquetes](doc/Ejercicio_Herramientas_para_gestionar_las_actualizacion_de_paquetes.md)
-    * [Ejercicio: Planificación y realización de copias de seguridad del servidor](doc/Ejercicio_Planificacion_y_realizacion_de_copias_de_seguridad_del_servidor.md)
-    * [Ejercicio: Sincronización de directorios con Unison](doc/Ejercicio_Sincronizacion_de_directorios_con_Unison.md)
-    * [Tarea: Gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Tarea_Gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.md)
+    * [Ejercicio: Gestión remota usando SSH](doc/Ejercicio_Gestion_remota_usando_SSH.html)
+    * [Ejercicio: Registro de actividades del sistema: logcheck](doc/Ejercicio_Registro_de_actividades_del_sistema_logcheck.html)
+    * [Ejercicio: Herramientas para gestionar las actualización de paquetes](doc/Ejercicio_Herramientas_para_gestionar_las_actualizacion_de_paquetes.html)
+    * [Ejercicio: Planificación y realización de copias de seguridad del servidor](doc/Ejercicio_Planificacion_y_realizacion_de_copias_de_seguridad_del_servidor.html)
+    * [Ejercicio: Sincronización de directorios con Unison](doc/Ejercicio_Sincronizacion_de_directorios_con_Unison.html)
+    * [Tarea: Gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Tarea_Gestion_remota,_estado_del_sistema,_actualizaciones_y_copias_de_seguridad.html)
 
 
 ### Recursos de interés

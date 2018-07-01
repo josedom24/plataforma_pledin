@@ -1,4 +1,6 @@
-# Índice de Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4
+---
+title: "Índice de Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4"
+---
 
 * Características del montaje
 * Instalación y configuración de LDAP

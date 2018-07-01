@@ -1,4 +1,6 @@
-# Utilización de DNS dinámico en una red local
+---
+title: "Utilización de DNS dinámico en una red local"
+---
 
 ## DNS dinámico
 

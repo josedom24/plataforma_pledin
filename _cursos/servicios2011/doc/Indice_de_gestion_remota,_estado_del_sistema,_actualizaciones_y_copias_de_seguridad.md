@@ -1,4 +1,6 @@
-# Índice de gestión remota, estado del sistema, actualizaciones y copias de seguridad
+---
+title: "Índice de gestión remota, estado del sistema, actualizaciones y copias de seguridad"
+---
 
 1. Gestión remota usando ssh
 

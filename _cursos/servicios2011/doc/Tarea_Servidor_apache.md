@@ -1,4 +1,6 @@
-# Tarea Servidor apache
+---
+title: "Tarea Servidor apache"
+---
 
 Esta tarea consiste en configurar un sitio web con el CMS Joomla y configurarlo para que el proceso de autenticación se realice de forma segura cifrando el acceso con SSL, para ello deberás realizar los siguientes pasos:
 
