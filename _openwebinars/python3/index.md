@@ -1,6 +1,4 @@
 ---
-title: "-"
----
 title: "Curso: Introducción a python3"
 ---
 
@@ -137,8 +135,6 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 	* Función reduce
 	* list comprehension
 
-
-
 24. [Tipo de datos secuencia: Tuplas](curso/u24)
 	* Construcción de una tupla
 	* Empaquetado y desempaquetado de tuplas
@@ -190,7 +186,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 	* Función next(), reversed()
 	* Generadores
 
- ### Tipos de datos mapas
+	### Tipos de datos mapas
 
 33. [Tipo de datos mapa: diccionario](curso/u33)
 	* Definición de diccionarios. Constructor dict

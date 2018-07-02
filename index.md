@@ -16,7 +16,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 * [Introducción a la programación con pseudocódigo (2018)]()
 * [Curso Apache2.4 (2018)]()
 * [Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)]()
-* [Curso de python3 (2017)](curso/python3/)
+* [Curso de python3 (2017)](cursos/python3/)
 
 ## Cloud Computing y OpenStack
 
