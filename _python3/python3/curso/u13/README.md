@@ -3,6 +3,8 @@ title: "Tipo de datos booleanos"
 permalink: /cursos/python3/curso/u13/index.html
 ---
 
+* [Presentación de la unidad](u13.pdf)
+
 ## Tipo booleano
 
 El tipo booleano o lógico se considera en python3 como un subtipo del tipo entero. Se puede representar dos valores: verdadero o false (True, False).

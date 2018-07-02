@@ -3,6 +3,8 @@ title: "Estructura del programa"
 permalink: /cursos/python3/curso/u06/index.html
 ---
 
+* [Presentación de la unidad](u6.pdf)
+
 * Un programa python está formado por instrucciones que acaban en un caracter de "salto de línea". 
 * El punto y coma “;” se puede usar para separar varias sentencias en una misma línea, pero no se aconseja su uso.
 * Una línea empiza en la primera posición, si tenemos instrucciones dentro de un bloque de una estrucura de control de flujo habra que hacer una identación.

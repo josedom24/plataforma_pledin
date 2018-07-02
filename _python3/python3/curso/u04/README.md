@@ -3,6 +3,8 @@ title: "Entornos de desarrollos y editores de texto"
 permalink: /cursos/python3/curso/u04/index.html
 ---
 
+* [Presentación de la unidad](u4.pdf)
+
 Una decisión importante que debes tomar cuando empiezas a trabajar en informática es acerca del editor o editores de texto que vas a utilizar. Hay muchas opciones y aspectos a considerar. Además en determinadas entornos es posible que no sea suficiente con utilizar un simple editor de texto y sea el necesario el uso de un IDE (entorno de desarrollo integrado), que además de la posibilidad  de editar el código, nos ofrezca otras herramientas: depuración de código, generación automático de código, ayuda integrada, manejo del proyecto, gestión de los sistemas de control de versiones,...
 
 A La hora de decidir en qué entorno trabajar, nos deberíamos hacer las siguientes preguntas:

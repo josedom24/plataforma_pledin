@@ -2,8 +2,9 @@
 title: "Tipos de datos"
 permalink: /cursos/python3/curso/u09/index.html
 ---
+* [Presentación de la unidad](u9.pdf)
 
-Podemos concreatar aún más los tipos de datos (o clases) de los objetos que manejamos en el lenguaje:
+Podemos concretar aún más los tipos de datos (o clases) de los objetos que manejamos en el lenguaje:
 
 * Tipos númericos
 	* Tipo entero (int)

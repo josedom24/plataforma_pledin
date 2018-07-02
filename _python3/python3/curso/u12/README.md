@@ -3,6 +3,8 @@ title: "Tipo de datos numéricos"
 permalink: /cursos/python3/curso/u12/index.html
 ---
 
+* [Presentación de la unidad](u12.pdf)
+
 Python3 trabaja con tres tipos numéricos:
 
 * Enteros (int): Representan todos los números enteros (positivos, negativos y 0), sin parte decimal. En python3 este tipo no tiene limitación de espacio. 

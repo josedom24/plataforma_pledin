@@ -3,6 +3,8 @@ title: "Funciones y constantes predefinidas"
 permalink: /cursos/python3/curso/u07/index.html
 ---
 
+* [Presentación de la unidad](u7.pdf)
+
 ## Funciones predefinidas
 
 Tenemos una serie de funciones predefinidas en python3:

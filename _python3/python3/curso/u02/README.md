@@ -3,6 +3,8 @@ title: "Python2 us Python3"
 permalink: /cursos/python3/curso/u02/index.html
 ---
 
+* [Presentación de la unidad](u2.pdf)
+
 ## python 2.x y python 3.x
 
 La ultima versión 2.x fue la 2.7 de 2010, contando con soporte hasta el final de su vida útil. No está en desarrollo.

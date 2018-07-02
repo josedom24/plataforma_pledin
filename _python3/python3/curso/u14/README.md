@@ -5,7 +5,7 @@ permalink: /cursos/python3/curso/u14/index.html
 
 Escribir un programa que pregunte al usuario su nombre, y luego lo salude.
 
-Solución
+[Solución](ejercicio1.py)
 
 	#!/usr/bin/env python
 	nombre=input("Dime tu nombre:")
@@ -13,7 +13,7 @@ Solución
 
 Calcular el perímetro y área de un rectángulo dada su base y su altura.
 
-Solución
+[Solución](ejercicio2.py)
 
 	#!/usr/bin/env python
 	base=float(input("Dime la base:"))
@@ -24,7 +24,7 @@ Solución
 
 Calcular el perímetro y área de un círculo dado su radio.
 
-Solución
+[Solución](ejercicio3.py)
 
 	#!/usr/bin/env python
 	import math
@@ -35,7 +35,7 @@ Solución
 
 Dados dos números, mostrar la suma, resta, división y multiplicación de ambos.
 
-Solución
+[Solución](ejercicio4.py)
 
 	#!/usr/bin/env python
 	num1=float(input("Numero1:"))
@@ -44,7 +44,7 @@ Solución
 
 Escribir un programa que le pida una palabra al usuario, para luego imprimirla 1000 veces, con espacios intermedios.
 
-Solución
+[Solución](ejercicio5.py)
 
 	#!/usr/bin/env python
 	palabra=input("Dime una palabra:")
@@ -54,7 +54,7 @@ Realiza un programa que reciba una cantidad de minutos y muestre por pantalla a 
 
 Por ejemplo: 1000 minutos son 16 horas y 40 minutos.
 
-Solución
+[Solución](ejercicio6.py)
 
 	#!/usr/bin/env python
 	minutos=int(input("Minutos:"))

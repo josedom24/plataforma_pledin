@@ -3,6 +3,8 @@ title: "Instalación de python3 "
 permalink: /cursos/python3/curso/u03/index.html
 ---
 
+* [Presentación de la unidad](u3.pdf)
+
 La página principal para descargar las distintas versiones es:[www.python.org/downloads/](https://www.python.org/downloads/).
 
 ## Instalación en Linux

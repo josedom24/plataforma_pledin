@@ -2,6 +2,7 @@
 title: "Trabajando con variables"
 permalink: /cursos/python3/curso/u10/index.html
 ---
+* [Presentación de la unidad](u10.pdf)
 
 Como hemos indicado anteriormente las variables en python no se declaran, se determina su tipo en tiempo de ejecución empleando una técnica que se lama **tipado dinámico**.
 

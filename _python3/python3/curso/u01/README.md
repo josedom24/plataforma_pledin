@@ -3,6 +3,8 @@ title: "Introducción a python"
 permalink: /cursos/python3/curso/u01/index.html
 ---
 
+* [Presentación de la unidad](u1.pdf)
+
 ## Características de Python 
 
 Python es un lenguaje:

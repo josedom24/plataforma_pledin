@@ -3,6 +3,8 @@ title: "Datos"
 permalink: /cursos/python3/curso/u08/index.html
 ---
 
+* [Presentación de la unidad](u8.pdf)
+
 ## Literales, variables y expresiones
 
 ### Literales
