@@ -10,6 +10,23 @@ main:
   - title: "Presentación"
     url: http://www2.josedomingo.org/pledin/about/
 
+python3:
+
+  - title: Introducción
+    children:
+      - title: Introducción a python
+        url: curso/u1
+      - title: Python2 us python3
+        url: curso/u2
+      - title: Instalación de python3
+        url: curso/u3
+      - title: Entornos de desarrollos y editores de texto
+        url: curso/u4
+      - title: Mi primer programa en python3
+        url: curso/u5
+
+
+
 
 cursos:
   - title: OpenWebinars
