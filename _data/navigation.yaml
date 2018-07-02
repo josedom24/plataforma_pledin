@@ -15,15 +15,15 @@ python3:
   - title: Introducción
     children:
       - title: Introducción a python
-        url: cursos/python3/curso/u1
+        url: cursos/python3/curso/u01
       - title: Python2 us python3
-        url: cursos/python3/curso/u2
+        url: cursos/python3/curso/u02
       - title: Instalación de python3
-        url: cursos/python3/curso/u3
+        url: cursos/python3/curso/u03
       - title: Entornos de desarrollos y editores de texto
-        url: cursos/python3/curso/u4
+        url: cursos/python3/curso/u04
       - title: Mi primer programa en python3
-        url: cursos/python3/curso/u5
+        url: cursos/python3/curso/u05
 
   - title: Estructura del lenguaje
     children:

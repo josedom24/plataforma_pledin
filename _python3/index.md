@@ -18,19 +18,19 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 
 **Introducción**
 
-1. [Introducción a python](curso/u1)
-2. [Python2 us python3](curso/u2)
-3. [Instalación de python3](curso/u3)
+1. [Introducción a python](curso/u01)
+2. [Python2 us python3](curso/u02)
+3. [Instalación de python3](curso/u03)
 	* Instalación en linux debian/Ubuntu
 	* Instalación en otras distribuciones linux
 	* Instalación en Windows
 	* Instalación en Mac
-4. [Entornos de desarrollos y editores de texto](curso/u4)
+4. [Entornos de desarrollos y editores de texto](curso/u04)
 	* IDE python
 	* Editores de textos
 	* IDE us Editores de texto
 	* Características de los editores de textos
-5. [Mi primer programa en python3](curso/u5)
+5. [Mi primer programa en python3](curso/u05)
 	* Uso del interprete
 	* Escribimos un programa
 	* Ejecución de programas usando shebang
@@ -38,23 +38,23 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 
     **Estructura del lenguaje**
 
-6. [Estructura del programa](curso/u6)
+6. [Estructura del programa](curso/u06)
 	* Estructura de programa
 	* Los comentarios
 	* Palabras reservadas
 	* Ejemplo
-7. [Funciones y constantes predefinidas](curso/u7)
+7. [Funciones y constantes predefinidas](curso/u07)
 	* Funciones predefinidas
 	* Algunos ejemplos de funciones
 	* Constantes predefinidas: False,True,None, ...
 	* Ayuda, función help()
-8. [Datos](curso/u8)
+8. [Datos](curso/u08)
 	* Literales, variables y expresiones
 	* Definición, borrado y ámbito de variables
 	* Operadores. Precedencia de operadores
 	* Función eval()
 
-9. [Tipos de datos](curso/u9)
+9. [Tipos de datos](curso/u09)
 	* Clasificación de tipos de datos
 	* Función type()
 	* Función isistance()
