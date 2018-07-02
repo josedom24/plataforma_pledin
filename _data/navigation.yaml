@@ -156,7 +156,7 @@ flask:
   - title: Curso Flask
     children:
       - title: Introducción al curso
-        url: cursos/flask/curso/u0 
+        url: cursos/flask/curso/u0/u0.pdf 
   - title: Introducción a la programación web
     children:
       - title: Protocolo HTTP

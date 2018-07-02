@@ -3,6 +3,8 @@ title: "Introducción a flask"
 permalink: /cursos/flask/curso/u05/index.html
 ---
 
+* [Presentación de la unidad](u5.pdf)
+
 Flask es un "micro" framework escrito en Python y concebido para facilitar el desarrollo de aplicaciones Web bajo el patrón MVC.
 
 ## ¿Qué es un framework?

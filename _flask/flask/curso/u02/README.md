@@ -3,6 +3,8 @@ title: "Programación web dinámica"
 permalink: /cursos/flask/curso/u02/index.html
 ---
 
+* [Presentación de la unidad](u2.pdf)
+
 ## Páginas web dinámicas
 
 Las páginas web dinámicas son aquellas en las que la información presentada se genera a partir de una petición del usuario de la página.
