@@ -23,7 +23,7 @@ La salida es `Hola Pepe`. La plantilla se compone de una variable `{{nombre}}` q
 Una plantilla puede estar formada por texto, y algunos de los siguientes elementos:
 
 * Variables, se indican con `{{ ... }}`
-* Instrucciones, se indican con `{% ... %}`
+* Instrucciones, se indican con {%raw%}`{% ... %}`{%endraw%}
 * Comentarios, se indican con `{# ... #}`
 
 ## Variables en las plantillas
@@ -77,7 +77,7 @@ Para ver todos los filtros accede a la [lista de filtros](http://jinja.pocoo.org
 ### for
 
 Nos permite recorrer una secuencia, veamos un ejemplo sencillo. Es compatible con la sentencia `for` de python.
-
+	{%raw%}
 	temp7='''
 	<ul>
 	{% for elem in elems -%}
@@ -86,7 +86,7 @@ Nos permite recorrer una secuencia, veamos un ejemplo sencillo. Es compatible co
 	</ul>
 	'''
 	print(Template(temp7).render(elems=["amarillo","verde","rojo"]))
-
+	{%endraw%}
 La salida es:
 
 	<ul>
@@ -110,7 +110,7 @@ En un bloque `for` tenemos acceso a varias variables, veamos las más interesant
 Nos permite preguntar por el valor de una variable o si una variable existe. Es compatible con la sentencia `if` de python.
 
 Ejemplo:
-
+	{%raw%}
 	temp9='''
 	{% if elems %}
 	<ul>
@@ -125,7 +125,7 @@ Ejemplo:
 	{% endif %}
 	'''
 	print(Template(temp9).render(elems=[1,2,3,4]))
-
+	{%endraw%}
 Y la salida será:
 
 	<ul>
