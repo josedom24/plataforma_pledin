@@ -125,4 +125,4 @@ Para terminar con otro ejemplo, solo los administradores pueden modificar y borr
 {%endraw%}
 ## Código ejemplo de esta unidad
 
-[Código](../../ejemplos/u30)
+[Código](https://github.com/josedom24/curso_flask/tree/master/ejemplos/u30)

@@ -206,4 +206,4 @@ y la plantilla `inicio.html` quedaría:
 
 ## Código ejemplo de esta unidad
 
-[Código](../../ejemplos/u22)
+[Código](https://github.com/josedom24/curso_flask/tree/master/ejemplos/u22)
