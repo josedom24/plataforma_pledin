@@ -18,7 +18,7 @@ Veamos un ejemplo de cómo podemos generar HTML a partir de una plantilla en Fla
     	return render_template("template1.html",nombre=nombre)
 
 La plantilla:
-
+	{%raw%}
 	<!DOCTYPE html>
 	<html lang="es">
 	<head>
@@ -40,7 +40,7 @@ La plantilla:
 	    {% endif %}
 	</body>
 	</html>
-
+	{%endraw%}
 Y la salida:
 
 ![template1](img/template1.png)
@@ -58,7 +58,7 @@ En este caso veremos un ejemplo donde mandamos varias variables a la plantilla:
 		return render_template("template2.html",num1=num1,num2=num2,resultado=resultado)
 
 La plantilla:
-
+	{%raw%}
 	...
 	    <h2>Suma</h2>
 	    {% if resultado>0 %}
@@ -68,7 +68,7 @@ La plantilla:
 	    {% endif %}
 	    <h3>{{resultado}}</h3>
 	...
-
+	{%endraw%}
 Y la salida:
 
 ![template2](img/template2.png)
@@ -82,14 +82,14 @@ Como vemos en el ejemplo anterior, si los números no se pueden sumar se generar
 		return render_template("error.html",error="Página no encontrada..."), 404
 
 La plantilla:
-
+	{%raw%}
 	...
 	    <header>
 	       <h1>{{error}}</h1>
 	       <img src="{{ url_for('static', filename='img/tux.png')}}"/>
 	    </header>   
 	...
-
+{%endraw%}
 ## Uso de for en una plantilla
 
 En este caso vamos a mostrar la tabla de multiplicar de un número, en la plantilla vamos a generar un bucle con 10 iteraciones usando el tipo de datos `range`:
@@ -103,14 +103,14 @@ En este caso vamos a mostrar la tabla de multiplicar de un número, en la planti
 		return render_template("template3.html",num=numero)
 
 La plantilla:
-
+{%raw%}
 	...
 	    <h2>Tabla de multiplicar</h2>
 	    {% for i in range(1,11) -%}
 	      <p>{{num}} * {{i}} = {{num*i}}</p>
 	    {% endfor -%}
 	...
-
+{%endraw%}
 Y la salida:
 
 ![template3](img/template3.png)
@@ -128,7 +128,7 @@ En realidad vamos a mandar una lista de diccionarios, donde tenemos información
 		return render_template("template4.html",enlaces=enlaces)
 
 La plantilla:
-
+{%raw%}
 	...
 	    <h2>Enlaces</h2>
 		{% if enlaces %}
@@ -141,7 +141,7 @@ La plantilla:
 	    	<p>No hay enlaces></p>
 	    {% endif %}
 	...
-
+{%endraw%}
 Y la salida:
 
 ![template4](img/template4.png)

@@ -22,7 +22,7 @@ La salida es `Hola Pepe`. La plantilla se compone de una variable `{{nombre}}` q
 
 Una plantilla puede estar formada por texto, y algunos de los siguientes elementos:
 
-* Variables, se indican con `{{ ... }}`
+* Variables, se indican con {%raw%}`{{ ... }}`{%endraw%}
 * Instrucciones, se indican con {%raw%}`{% ... %}`{%endraw%}
 * Comentarios, se indican con `{# ... #}`
 
@@ -55,7 +55,7 @@ Un filtro me permite modificar una variable. Son distintas funciones que me modi
 	temp5='Hola {{nombre|striptags|title}}'
 	print(Template(temp5).render(nombre="   pepe  "))	
 
-	temp6="los datos son {{ lista|join(', ') }}"
+	temp6="los datos son {%raw%}{{ lista|join(', ') }}"{%endraw%}
 	print(Template(temp6).render(lista=["amarillo","verde","rojo"]))	
 
 	temp6="El ultimo elemento tiene {{ lista|last|length}} caracteres"
