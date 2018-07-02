@@ -16,7 +16,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 
 ## Unidades
 
-  **Introducción**
+**Introducción**
 
 1. [Introducción a python](curso/u1)
 2. [Python2 us python3](curso/u2)
@@ -36,7 +36,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 	* Ejecución de programas usando shebang
 	* Guía de estilo
 
-  **Estructura del lenguaje**
+    **Estructura del lenguaje**
 
 6. [Estructura del programa](curso/u6)
 	* Estructura de programa
@@ -72,7 +72,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 	* Formateando cadenas de caracteres
 	* Función format()
 
-**Tipos de datos numéricos**
+    **Tipos de datos numéricos**
 
 12. [Tipo de datos numéricos](curso/u12) 
 	* Enteros
@@ -91,7 +91,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 
 14. [Ejercicios de programas sencillos](curso/u14)
 
-**Estructuras de control**
+    **Estructuras de control**
 
 15. [Estructura de control: Alternativas](curso/u15)
 	* Alternativas simples
@@ -109,7 +109,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 
 18. [Ejercicios de repetitivas](curso/u18)
 
-**Tipos de datos secuencia**
+    **Tipos de datos secuencia**
 
 19. [Tipo de datos secuencia](curso/u19)
 	* Enumeración de los tipos secuencias
@@ -186,7 +186,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 	* Función next(), reversed()
 	* Generadores
 
-**Tipos de datos mapas**
+    **Tipos de datos mapas**
 
 33. [Tipo de datos mapa: diccionario](curso/u33)
 	* Definición de diccionarios. Constructor dict
@@ -202,7 +202,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 
 35. [Ejercicios de diccionarios](curso/u35)
 
-**Trabajar con ficheros**
+    **Trabajar con ficheros**
 
 36. [Lectura y escritura de ficheros de textos](curso/u36)
 	* Función open()
@@ -220,7 +220,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 	* Leer ficheros json
 	* Escribir ficheros json
 
-**Errores y Excepciones**
+    **Errores y Excepciones**
 
 39. [Excepciones](curso/u39)
 	* Errores sintácticos y errores de ejecución
@@ -228,7 +228,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 	* Obteniendo información de las excpciones
 	* Propagando excepciones. raise
 
-**Módulos, paquetes y namespaces**
+    **Módulos, paquetes y namespaces**
 
 40. [Módulos y paquetes](curso/u40)
 	* Módulos, paquetes
@@ -266,7 +266,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 	* Creando entornos virtuales con `venv`
 	* Instalando paquetes en nuestro entorno virtual
 
-**Programación estructurada y modular**
+    **Programación estructurada y modular**
 
 45. [Introducción a las funciones](curso/u45)
 	* Introducción a la programación estructurada y modular
@@ -289,12 +289,12 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 	* Decoradores
 	* Funciones generadoras
 
-**Ejercicios programación estructurada y modular**
+    **Ejercicios programación estructurada y modular**
 
 48. [Ejercicios con funciones](curso/u48)
 49. [Programación estructurada y modular: Ejemplo completo](curso/u49)
 
-**Programación orientada a objetos**
+    **Programación orientada a objetos**
 
 50. [Programación orientada a objetos](curso/u50)
 	* Introducción a la Programación Orientada a Objetos
@@ -329,7 +329,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 	* Funciones issubclass() y isinstance() 
 	* Delegación
 
-**Ejercicios programación orientada a objetos**
+    **Ejercicios programación orientada a objetos**
 
 54. [Programación orientadas a objetos: Ejemplo completo](curso/u54)
 
