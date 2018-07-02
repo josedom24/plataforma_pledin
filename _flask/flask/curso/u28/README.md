@@ -8,7 +8,7 @@ En esta unidad vamos a estudiar como un usuario se puede registrar en nuestra ap
 ## Registro de nuevos usuarios
 
 En la plantilla `base.html` hemos introducido un enlace para el registro de nuevos usuarios (si no hay un usuario logueado) y para acceder al perfil (si el usuario está logueado):
-
+{%raw%}
 	{% if session["id"] %}
           <a class="navbar-brand " href="/perfil/{{ session["username"]}}"> Perfil</a>
           <a class="navbar-brand " href="/logout"> {{ session["username"]}} (Salir)</a>
@@ -16,7 +16,7 @@ En la plantilla `base.html` hemos introducido un enlace para el registro de nuev
           <a class="navbar-brand " href="/login">Login</a>
           <a class="navbar-brand " href="/registro">Registro</a>
     {% endif %}
-
+{%endraw%}
 En el programa principal hemos creado una ruta `registro` que nos permite mostrar el formulario de registro, si los datos introducidos son válidos (el usuario indicado no existe en la base de datos) se crea un nuevo usuario:
 
 	@app.route("/registro",methods=["get","post"])
@@ -41,21 +41,21 @@ El formulario utilizado para crear el nuevo usuario se llama `formUsuario` y lo 
 El usuario puede modificar sus datos accediendo a la ruta `perfil`. Utilizamos el mismo formulario `formUsuario`, pero la plantilla que lo visualiza (`usuarios_new.html`) muestra elementos diferentes según sea el registro o el perfil:
 
 * Si estamos registrando un nuevo usuario muestra un cuadro de texto para introducir el nombre de usuario, si estamos en el perfil muestra el mismo cuadro de texto pero en modo sólo lectura, para simplificar el proceso:
-
+{%raw%}
 		{% if not perfil %}
           {{form.username.label() }}{{form.username(size="100",class="form-control")}}<br/>
         {% else %}
           {{form.username.label() }}{{form.username(readonly="readonly",size="100",class="form-control")}}<br/>
         {% endif %} 
-
+{%endraw%}
 * Si estamos registrando un nuevo usuario muestra un cuadro de texto para introducir la contraseña, si estamos en el perfil muestra un enlace para cambiar la contraseña:
-
+{%raw%}
 		{% if not perfil %}
           {{form.password.label() }}{{form.password(size="100",class="form-control")}}<br/>
         {% else %}
           <a href="/changepassword/{{session["username"]}}">Cambiar contraseña</a><br/>
         {% endif %}
-
+{%endraw%}
 La ruta `perfil` muetra el formulario y cambia los datos que modifiquemos, menos la contraseña:
 
 	@app.route('/perfil/<username>', methods=["get","post"])

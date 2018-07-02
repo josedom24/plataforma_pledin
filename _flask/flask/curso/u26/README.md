@@ -18,9 +18,9 @@ Tenemos que volver a generar la base de datos para que tenga efecto este cambio.
 ## Borrando artículos
 
 Lo primero es insertar un enlace en la página principal que nos permita borrar artículos (se añade un enlace por cada artículo), para ello en la plantilla `inicio.html`:
-
+{%raw%}
 	<td><a href="{{url_for('articulos_delete',id=art.id)}}"><span class="glyphicon glyphicon-trash"></span> Borrar</a></td>
-
+{%endraw%}
 * Vamos a usar un formulario (`formSINO`) para confirmar que queremos borrar una artículo. Este formulario, simplemente nos ofrece dos botones (Sí o No) para confirmar el borrado. En el fichero `forms.py`:
 
 		class formSINO(FlaskForm):      

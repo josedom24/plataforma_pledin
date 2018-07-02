@@ -25,14 +25,14 @@ Además hemos introducido una validación, indicando que es necesario indicar un
 ## Generando el formulario
 
 De forma similar a lo que vimos en la unidad anterior vamos a generar el formulario en nuestra plantilla:
-
+{%raw%}
 	<form action="{{url_for('upload')}}" method="POST" enctype="multipart/form-data">
     	{{ form.csrf_token }}
     	{{form.photo.label() }}{{form.photo()}}<br/>
 		<br/>
   		{{form.submit()}}
 	</form>
-
+{%endraw%}
 Al subir un fichero es necesario poner el atributo `enctype="multipart/form-data"` al definir el formulario.
 
 ## Tratamiento del fichero subido

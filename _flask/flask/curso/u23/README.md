@@ -41,7 +41,7 @@ Consideramos que la categoría 0:'Todos', debe existir al crear las tablas por l
 Podemos diferenciar dos partes:
 
 1. En primer lugar mostramos las categorías, como hemos enviado el nombre de la categoría seleccionada, podemos señalar la categoría por medio del CSS.
-
+{%raw%}
 		{% for cat in categorias %}
 	      {% if categoria.nombre==cat.nombre%}
 	        <a class="list-group-item active" href="{{url_for("inicio",id=cat.id)}}">{{cat.nombre}}</a>
@@ -49,12 +49,12 @@ Podemos diferenciar dos partes:
 	        <a class="list-group-item" href="{{url_for("inicio",id=cat.id)}}">{{cat.nombre}}</a>
 	      {% endif%}
 	    {% endfor %}
-
+{%endraw%}
 	Podemos seleccionar una categoría para filtrar los artículos.
 
 2. Mostramos los artículos seleccionados:
 
-		
+	{%raw%}	
 		{% for art in articulos %}	
 			<tr>
 		   	{% if art.image %}
@@ -68,7 +68,7 @@ Podemos diferenciar dos partes:
 		       	<td><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span> Comprar</a></td>
 			</tr>
 		{% endfor %}
-
+{%endraw%}
 	Mostramos los distintos campos de los artículos. Cada artículo tiene una imagen que podemos subir al darlo de alta. Si no hemos subido ninguna imagen se muestra una por defecto. Los imágenes se van a guardar en el directorio `static/upload`.
 
 	Hemos incluido un enlace en el listado de artículos para realizar la comprar aunque todavía no lo vamos a usar.
@@ -77,9 +77,9 @@ Podemos diferenciar dos partes:
 ## Listado de categorías
 
 Hemos creado una página donde vamos a mostrar todas las categorías, para ello hemos incluido en enlace en la plantilla `base.html`:
-
+{%raw%}
  	<a class="navbar-brand" href="{{url_for('categorias')}}">Categorías</a>
-
+{%endraw%}
 En el programa principal:
 
 	@app.route('/categorias')
@@ -89,7 +89,7 @@ En el programa principal:
 
 Y la plantilla `categorias.html`:
 
-
+{%raw%}
 	...
 	{% for cat in categorias %}
         <tr>
@@ -97,7 +97,7 @@ Y la plantilla `categorias.html`:
         </tr>
     {% endfor %}
     ...
-
+{%endraw%}
 ## Código ejemplo de esta unidad
 
 [Código](../../ejemplos/u23)
