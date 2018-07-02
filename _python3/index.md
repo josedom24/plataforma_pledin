@@ -1,9 +1,5 @@
 ---
 title: "Curso: Introducción a python3"
-sidebar:
-  nav: "python3"
-next: cursos/u1
-previous: cursos/u54
 ---
 
 ![python3](img/python.png)

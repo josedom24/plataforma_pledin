@@ -69,7 +69,7 @@ collections:
   cursos:
     output: true
     permalink: /:collection/:path
-  openwebinars:
+  python3:
     output: true
     permalink: /cursos/:path
 
@@ -90,7 +90,7 @@ defaults:
         nav: "cursos"
   - scope:
       path: ""
-      type: openwebinars
+      type: python3
     values:
       layout: single
       classes: wide
@@ -99,5 +99,5 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "cursos"
+        nav: "python3"
       
