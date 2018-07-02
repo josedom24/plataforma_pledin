@@ -53,7 +53,7 @@ html {
         font-size: 16px; // originally 20px
     }
 
-    @include breakpoint($x-large) {
+        @include breakpoint($x-large) {
         font-size: 18px; // originally 22px
     }
 }
