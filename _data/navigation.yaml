@@ -25,6 +25,20 @@ python3:
       - title: Mi primer programa en python3
         url: curso/u5
 
+  - title: Estructura del lenguaje
+    children:
+      - title: Estructura del programa
+        url: curso/u6
+      - title: Funciones y constantes predefinidas
+        url: curso/u7
+      - title: Datos
+        url: curso/u8
+      - title: Tipos de datos
+        url: curso/u9
+      - title: Trabajando con variables
+        url: curso/u10
+      - title: Entrada y salida estándar
+        url: curso/u11
 
 
 
