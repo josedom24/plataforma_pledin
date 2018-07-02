@@ -10,7 +10,7 @@ En nuestro caso vamos a crear una plantilla base de donde se van a heredar todas
 ## La plantilla base
 
 Vamos a crear una plantilla `base.html` donde indicaremos las partes comunes de todas nuestras páginas, e indicaremos los bloques que las otras plantillas pueden reescribir.
-
+{%raw%}
 	<!DOCTYPE html>
 	<html lang="es">
 	<head>
@@ -27,7 +27,7 @@ Vamos a crear una plantilla `base.html` donde indicaremos las partes comunes de 
 	    {% block content %}{% endblock %}
 	</body>
 	</html>
-
+{%endraw%}
 Algunas consideraciones:
 
 1. Hemos creado dos bloques (`title` y `content`) en las plantillas hijas vamos a poder rescribir esos dos bloque para poner el título de la página y el contenido. Podríamos indicar todos los bloques que necesitamos.
@@ -36,7 +36,7 @@ Algunas consideraciones:
 ## Herencia de plantillas
 
 A continuación, veamos la primera plantilla (`tample1.html`) utilizando la técnica de herencia:
-
+{%raw%}
 	{% extends "base.html" %}
 	{% block title %}Hola, que tal {{nombre}}{% endblock %}
 	{% block content %}
@@ -48,7 +48,7 @@ A continuación, veamos la primera plantilla (`tample1.html`) utilizando la téc
 	      <p>No has indicado un nombre</p>
 	    {% endif %}
 	{% endblock %}
-
+{%endraw%}
 Observamos cómo hemos reescrito los dos bloques.
 
 Ejecuta el programa y comprueba que se genera el documento HTML completo, comprueba también que se está usando una hoja de estilo.
