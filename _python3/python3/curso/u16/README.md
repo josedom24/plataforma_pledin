@@ -6,7 +6,7 @@ permalink: /cursos/python3/curso/u16/index.html
 
 Realiza un programa que pida dos números ‘a’ y ‘b’ e indique si su suma es positiva, negativa o cero.
 
-Solución
+[Solución](ejercicio1.py)
 
 	#!/usr/bin/env python
     num1=int(input("Número 1:"))
@@ -21,7 +21,7 @@ Solución
 
 Escribe un programa que lea un número e indique si es par o impar.
 
-Solución
+[Solución](ejercicio2.py)
 
 	#!/usr/bin/env python
     num=int(input("Número:"))		
@@ -32,7 +32,7 @@ Solución
 
 Escribe un programa que pida un número entero entre uno y doce e imprima el número de días que tiene el mes correspondiente.
 
-Solución
+[Solución](ejercicio3.py)
 
 	#!/usr/bin/env python
 	mes=int(input("Mes:"rrgf))		
@@ -47,7 +47,7 @@ Solución
 
 Escribe un programa que pida un nombre de usuario y una contraseña y si se ha introducido “pepe” y “asdasd” se indica “Has entrado al sistema”, sino se da un error.
 
-Solución
+[Solución](ejercicio4.py)
 
 	#!/usr/bin/env python
 	usuario=input("Usuario:")
@@ -59,7 +59,7 @@ Solución
 
 Escribir un programa que lea un año indicar si es bisiesto. Nota: un año es bisiesto si es un número divisible por 4, pero no si es divisible por 100, excepto que también sea divisible por 400.
 
-Solución
+[Solución](ejercicio5.py)
 
 	#!/usr/bin/env python
 	year=int(input("Año:"))		
@@ -70,7 +70,7 @@ Solución
 
 Programa que lea un carácter por teclado y compruebe si es una letra mayúscula.
 
-Solución
+[Solución](ejercicio6.py)
 
 	#!/usr/bin/env python
 	letra=input("Letra:")		

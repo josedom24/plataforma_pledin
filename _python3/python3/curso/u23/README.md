@@ -3,6 +3,8 @@ title: "Operaciones avanzadas con secuencias"
 permalink: /cursos/python3/curso/u23/index.html
 ---
 
+* [Presentación de la unidad](u23.pdf)
+
 Las funciones que vamos a estudiar en esta unidad nos acercan al paradigna de la programación funcional que también nos ofrece python. La programación funcional es un paradigma de programación declarativa basado en el uso de funciones matemáticas, en contraste con la programación imperativa, que enfatiza los cambios de estado mediante la mutación de variables.
 
 ## Función map

@@ -5,7 +5,7 @@ permalink: /cursos/python3/curso/u35/index.html
 
 Escribe un programa que lea una cadena y devuelva un diccionario con la cantidad de apariciones de cada palabra en la cadena. Por ejemplo, si recibe "Qué lindo día que hace hoy" debe devolver: 'que': 2, 'lindo': 1, 'día': 1, 'hace': 1, 'hoy': 1
 
-Solución
+[Solución](ejercicio1.py)
 
 	#!/usr/bin/env python
 	dict = {}
@@ -22,7 +22,7 @@ Solución
 
 Tenemos guardado en un diccionario los códigos morse corespondientes a cada caracter. Escribir un programa que lea una palabra y la muestre usando el código morse.
 
-Solución
+[Solución](ejercicio2.py)
 
 	#!/usr/bin/env pytho
 	codigo = {
@@ -54,9 +54,9 @@ Solución
 		lista_codigos.append(codigo[caracter])	
 	print (" ".join(lista_codigos))
 		
-Continuar el programa: ahora nos pide un cóigo morse donde cada letra esta separada por espacios y nos da la cadena correspondiente.
+Continuar el programa: ahora nos pide un código morse donde cada letra esta separada por espacios y nos da la cadena correspondiente.
 
-Solución
+[Solución](ejercicio3.py)
 
 	morse=input("Morse:")
 	lista_morse=morse.split(" ")
@@ -74,7 +74,7 @@ Suponga un diccionario que contiene como clave el nombre de una persona y como v
 
 Se deja de pedir personas cuando introducimos el carácter "*".
 
-Solución
+[Solución](ejercicio4.py)
 
 	#!/usr/bin/env python
 	gustos={}

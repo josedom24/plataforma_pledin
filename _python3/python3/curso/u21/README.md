@@ -2,6 +2,7 @@
 title: "Métodos principales de listas"
 permalink: /cursos/python3/curso/u21/index.html
 ---
+* [Presentación de la unidad](u21.pdf)
 
 Cuando creamos una lista estamos creando un objeto de la clase `list`, que tiene definido un conjunto de métodos:
 

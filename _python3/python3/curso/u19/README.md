@@ -3,6 +3,8 @@ title: "Tipo de datos secuencia"
 permalink: /cursos/python3/curso/u19/index.html
 ---
 
+* [Presentación de la unidad](u19.pdf)
+
 Los tipos de datos secuencia me permiten guardar una sucesión de datos de diferentes tipos. Los tipos de datos secuencias en python son: 
 
 * Las listas (`list`): Me permiten guardar un conjunto de datos que se pueden repetir y que pueden ser de distintos tipos. Es un tipo mutable.

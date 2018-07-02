@@ -23,3 +23,10 @@ La clase `Notas` nos permite guardar una serie de notas por asignatura.
 * Se debe definir el método `__str__` para imprimir las asignaturas y sus correspondientes notas.
 
 La clase `Alumno` se hereda de las clases anteriores: `Alumno` y `Notas`.
+
+## Ejercicios
+
+* [dni](dni.py)
+* [persona](persona.py)
+* [alumno](alumno.py)
+* [notas](notas.py)

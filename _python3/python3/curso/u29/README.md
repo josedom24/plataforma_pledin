@@ -5,7 +5,7 @@ permalink: /cursos/python3/curso/u29/index.html
 
 Crear un programa que lea por teclado una cadena y un carácter, e inserte el carácter entre cada letra de la cadena. Ej: separar y , debería devolver s,e,p,a,r,a,r
 
-Solución
+[Solución](ejercicio1.py)
 
 	#!/usr/bin/env python
 	cadena=input("Cadena:")
@@ -14,7 +14,7 @@ Solución
 
 Crear un programa que lea por teclado una cadena y un carácter, y reemplace todos los dígitos en la cadena por el carácter. Ej: su clave es: 1540 y X debería devolver su clave es: XXXX
 
-Solución
+[Solución](ejercicio2.py)
 
 	#!/usr/bin/env python
 	cadena=input("Cadena:")
@@ -30,7 +30,7 @@ Crea un programa python que lea una cadena de caracteres y muestre la siguiente 
  argentina debe devolver República Argentina.
 * Las palabras que comiencen con la letra A. Por ejemplo, si recibe Antes de ayer debe devolver Antes ayer.
 
-Solución
+[Solución](ejercicio3.py)
 
 	#!/usr/bin/env python
 	cad=input("Cadena:")				
@@ -53,9 +53,9 @@ Solución
 Escribir funciones que dadas dos cadenas de caracteres:
 
 * Indique si la segunda cadena es una subcadena de la primera. Por ejemplo, cadena es una subcadena de subcadena.
-* Devuelva la que sea anterior en orden alfábetico. Por ejemplo, si recibe kde y gnome debe devolver gnome.
+* Devuelva la que sea anterior en orden alfabético. Por ejemplo, si recibe kde y gnome debe devolver gnome.
 
-Solución
+[Solución](ejercicio4.py)
 
 	#!/usr/bin/env python
 	cad1=input("Cadena 1:")
@@ -69,7 +69,7 @@ Solución
 
 scribir un programa python que dado una palabra diga si es un palíndromo. Un palídromo Un palíndromo es una palabra, número o frase que se lee igual hacia adelante que hacia atrás. Ejemplo: reconocer
 
-Solución
+[Solución](ejercicio5.py)
 
 	#!/usr/bin/env python
 	cad1=input("Cadena:")	

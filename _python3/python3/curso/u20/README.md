@@ -2,6 +2,7 @@
 title: "Tipo de datos secuencia: listas"
 permalink: /cursos/python3/curso/u20/index.html
 ---
+* [Presentación de la unidad](u20.pdf)
 
 Las listas (`list`) me permiten guardar un conjunto de datos que se pueden repetir y que pueden ser de distintos tipos. Es un tipo mutable.
 

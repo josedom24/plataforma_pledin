@@ -2,6 +2,7 @@
 title: "Estructura de control: Alternativas"
 permalink: /cursos/python3/curso/u15/index.html
 ---
+* [Presentación de la unidad](u15.pdf)
 
 Si al evaluar la expresión lógica obtenermos el resultado True ejecuta un bloque de instrucciones, en otro caso ejecuta otro bloque.
 

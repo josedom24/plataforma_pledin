@@ -3,6 +3,8 @@ title: "Estructura de control: Repetitivas"
 permalink: /cursos/python3/curso/u17/index.html
 ---
 
+* [Presentación de la unidad](u17.pdf)
+
 ## while
 
 La estructura `while` nos permite repetir un bloque de instrucciones mientras al evaluar una expresión lógica nos devuelve True. Puede tener una estructura `else` que se ejecutará al terminar el bucle.

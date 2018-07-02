@@ -7,7 +7,7 @@ Escribir dos funciones que permitan calcular:
 * La cantidad de segundos en un tiempo dado en horas, minutos y segundos.
 * La cantidad de horas, minutos y segundos de un tiempo dado en segundos.
 
-Solución
+[Solución](ejercicio1.py)
 
 	#!/usr/bin/env python	
 
@@ -25,7 +25,7 @@ Realiza una función que dependiendo de los parámetros que reciba: convierte a 
 * Si recibe un argumento, supone que son segundos y convierte a horas, mintos y segundos.
 * Si recibe 3 argumentos, supone que son hora, minutos y segundos y los convierte a segundos.
 
-Solución
+[Solución](ejercicio2.py)
 
 	def calcular(*args):
 		if len(args)==1:
@@ -37,7 +37,7 @@ Solución
 
 Queremos hacer una función que añada a una lista los contactos de una agenda. Los contactos se van a guardar en un diccionario, y al menos debe tener el campo de nombre, el campo del teléfono, aunque puede tener más campos. Los datos se irán pidiendo por teclado, se pedirá de antemanos cuantos contactos se van a guardar. Si vamos a guardar más información en el contacto, se irán pidiendo introduciendo campos hasta que introduzcamos el "*".
 
-Solución 
+[Solución ](ejercicio3.py)
 
 #!/usr/bin/env python
 
@@ -64,7 +64,7 @@ Solución
 
 Amplía el programa anterior para hacer una función de búsqueda, que reciba un conjunto de parámetros keyword y devuelve los contactos (en una lista) que coincidan con los criterios de búsqueda.
 
-Solución
+[Solución](ejercicio4.py)
 
 	def buscar(l_agenda,**kwargs):
 		lista_aciertos=[]

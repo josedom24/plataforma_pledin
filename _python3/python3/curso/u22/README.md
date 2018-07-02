@@ -5,7 +5,7 @@ permalink: /cursos/python3/curso/u22/index.html
 
 Lee por teclado números y guardalo en una lista, el proceso finaliza cuando metamos un número negativo. Muestra el máximo de los números guardado en la lista, muestra los números pares.
 
-Solución
+[Solución](ejercicio1.py)
 
 	#!/usr/bin/env python
 	num=int(input("Número:"))
@@ -24,7 +24,7 @@ Solución
 
 Realizar un programa que, dada una lista, devuelva una nueva lista cuyo contenido sea igual a la original pero invertida. Así, dada la lista [‘Di’, ‘buen’, ‘día’, ‘a’, ‘papa’], deberá devolver [‘papa’, ‘a’, ‘día’, ‘buen’, ‘Di’].
 
-Solución
+[Solución](ejercicio2.py)
 
 	#!/usr/bin/env python
 	lista=['Di', 'buen', 'dia', 'a', 'papa']
@@ -32,7 +32,7 @@ Solución
 
 Dada una lista de cadenas, pide una cadenena por teclado e indica si está en la lista, indica cuantas veces aparece en la lista,  lee otra cadena y sustituye la primera por la segunda en la lista, y por último borra la cadena de la lista
 
-Solución
+[Solución](ejercicio3.py)
 
 	#!/usr/bin/env python
 	lista=['Di', 'buen', 'dia', 'a', 'papa',"hola","papa","buen","dia"]	
@@ -55,7 +55,7 @@ Solución
 
 Dado una lista, hacer un programa que indique si está ordenada o no.
 
-Solución
+[Solución](ejercicio4.py)
 
 	#!/usr/bin/env python
 	lista=[2,3,4,1]
