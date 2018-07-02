@@ -15,6 +15,7 @@ Los siguientes contenidos forman parte de un curso que he impartido para [OpenWe
 Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_python3).
 Todas las observaciones, mejoras y sugerncias son bienvenidas.
 
+* [Presentación del curso](presentacion.pdf)
 
 ## Unidades
 
