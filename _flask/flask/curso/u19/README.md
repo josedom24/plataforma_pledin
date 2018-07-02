@@ -72,7 +72,7 @@ Cada vez que generemos un formulario se incluirá un campo oculto que contendrá
 ## Generación de formularios
 
 En nuestra plantillas, podemos generar el formulario campo por campo, por ejemplo:
-
+{%raw%}
 	<form action={{url_for("calculadora_post")}} method="post">
 	    {{ form.csrf_token }}
 		{{form.num1.label() }}{{form.num1()}}<br/>
@@ -81,23 +81,23 @@ En nuestra plantillas, podemos generar el formulario campo por campo, por ejempl
   		<br/>
   		{{form.submit()}}
 	</form>
-
+{%endraw%}
 También tenemos la opción de recorrer el formulario:
-
+{%raw%}
 	<form action={{url_for("calculadora_post")}} method="post">    
 	    {% for field in form %}
 	    	{{field.label() }}{{field()}}<br/>
 	    {% endfor %}
 	</form>
-
+{%endraw%}
 Para mostrar los errores de validación podemos realizar un recorrido similar a este:
-
+{%raw%}
 	{% for field, errors in form.errors.items() %}
 		<div class="alert alert-danger">
     		{{ form[field].label }}: {{ ', '.join(errors) }}
 		</div>
 	{% endfor %}
-
+{%endraw%}
 ## Enviando y gestionando la información del formulario
 
 Vamos a usar un [patrón de diseño](http://flask.pocoo.org/docs/0.12/patterns/wtforms/) basado en la creación de una vista que se comporte de la siguiente manera:
