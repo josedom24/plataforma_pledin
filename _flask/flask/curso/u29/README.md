@@ -71,22 +71,22 @@ Por ejemplo la ruta `/articulos/new` que nos permite añadir un videojuego sólo
 		abort(404)
 
 Otro ejemplo, sólo podemos registrarnos si no estamos con un usuario logueado, por lo tanto en la ruta `registro` preguntamos:
-
+{%raw%}
 	if is_login():
 		return redirect(url_for("inicio"))
-
+{%endraw%}
 ## Generando contenido según el tipo de usuario
 
 Además del control de acceso anterior tenemos que hacer que las plantillas generen contenido distintos según le tipo de usuario que tengamos en el sistema.
 
 Por ejemplo, sólo le debemos mostrar el enlace de añadir videojuegos a los usuarios administradores, para ello en la plantilla `inicio.html`:
-
+{%raw%}
 	{% if is_admin %}
     	<a class="btn btn-primary" href="{{url_for('articulos_new')}}" role="button">Nuevo videojuego</a>
     {% endif %}
-
+{%endraw%}
 Otro ejemplo, mostramos la opción de "Registro" y "Login" para los usuarios invitados, y la opción de "Perfil" y de "Salir" para los usuarios logueados, para ello en la plantilla `base.html`:
-
+{%raw%}
 	{% if is_login %}
         <a class="navbar-brand " href="/perfil/{{ session["username"]}}"> Perfil</a>
         <a class="navbar-brand " href="/logout"> {{ session["username"]}} (Salir)</a>
@@ -94,9 +94,9 @@ Otro ejemplo, mostramos la opción de "Registro" y "Login" para los usuarios inv
         <a class="navbar-brand " href="/login">Login</a>
         <a class="navbar-brand " href="/registro">Registro</a>
     {% endif %} 
-
+{%endraw%}
 Para terminar con otro ejemplo, solo los administradores pueden modificar y borrar videojuegos, y los usuarios logueados pueden comprar, en la plantilla `inicio.html` tenemos el siguiente código:
-
+{%raw%}
 	{% if is_admin %}
         <td><a href="{{url_for('articulos_edit',id=art.id)}}"><span class="glyphicon glyphicon-pencil"></span> Modificar</a></td>
         <td><a href="{{url_for('articulos_delete',id=art.id)}}"><span class="glyphicon glyphicon-trash"></span> Borrar</a></td>
@@ -105,7 +105,7 @@ Para terminar con otro ejemplo, solo los administradores pueden modificar y borr
     {% if is_login %}
         <td><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span> Comprar</a></td>
     {% endif %}   
-
+{%endraw%}
 ## Código ejemplo de esta unidad
 
 [Código](../../ejemplos/u29)

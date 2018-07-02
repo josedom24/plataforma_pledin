@@ -8,9 +8,9 @@ En esta última unidad vamos a simular el final de la compra, en este caso hemos
 ## Realizar pedido
 
 En la plantilla `carrito.hrml` hemos introducido un enlace al la ruta `pedido`:
-
+{%raw%}
 	<a class="btn btn-primary" href="{{url_for('pedido')}}" role="button">Comprar</a>
-
+{%endraw%}
 En esta ruta vamos a realizar las siguientes acciones:
 
 * Vamos a leer los datos de la cookie
