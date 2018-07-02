@@ -1,6 +1,6 @@
 ---
 title: "Funciones y constantes predefinidas"
-permalink: /cursos/python3/curso/u7/index.html
+permalink: /cursos/python3/curso/u07/index.html
 ---
 
 ## Funciones predefinidas

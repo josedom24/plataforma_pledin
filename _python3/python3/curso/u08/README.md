@@ -1,6 +1,6 @@
 ---
 title: "Datos"
-permalink: /cursos/python3/curso/u8/index.html
+permalink: /cursos/python3/curso/u08/index.html
 ---
 
 ## Literales, variables y expresiones

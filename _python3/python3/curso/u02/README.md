@@ -1,6 +1,6 @@
 ---
 title: "Python2 us Python3"
-permalink: /cursos/python3/curso/u2/index.html
+permalink: /cursos/python3/curso/u02/index.html
 ---
 
 ## python 2.x y python 3.x

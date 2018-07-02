@@ -1,6 +1,6 @@
 ---
 title: "Mi primer programa en python3"
-permalink: /cursos/python3/curso/u5/index.html
+permalink: /cursos/python3/curso/u05/index.html
 ---
 
 La documentación de este curso esta escrita usando la distribución GNU/Linux Debian Jessie. Algunas particularidades pueden cambiar en otras versiones, distribuciones o sistemas operativos.

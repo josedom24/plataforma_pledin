@@ -1,6 +1,6 @@
 ---
 title: "Instalación de python3 "
-permalink: /cursos/python3/curso/u3/index.html
+permalink: /cursos/python3/curso/u03/index.html
 ---
 
 La página principal para descargar las distintas versiones es:[www.python.org/downloads/](https://www.python.org/downloads/).

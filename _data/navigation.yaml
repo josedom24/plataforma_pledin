@@ -46,7 +46,7 @@ python3:
       - title: Tipo de dato booleanos
         url: cursos/python3/curso/u13
       - title: Ejercicios de programas sencillo
-        url: cursos/python3/(curso/u14
+        url: cursos/python3/curso/u14
   - title: Estructuras de control
     children:
       - title: "Estructura de control: Alternativas"

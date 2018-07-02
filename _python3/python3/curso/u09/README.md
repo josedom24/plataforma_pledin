@@ -1,6 +1,6 @@
 ---
 title: "Tipos de datos"
-permalink: /cursos/python3/curso/u9/index.html
+permalink: /cursos/python3/curso/u09/index.html
 ---
 
 Podemos concreatar aún más los tipos de datos (o clases) de los objetos que manejamos en el lenguaje:

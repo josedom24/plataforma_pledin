@@ -1,6 +1,6 @@
 ---
 title: "Estructura del programa"
-permalink: /cursos/python3/curso/u6/index.html
+permalink: /cursos/python3/curso/u06/index.html
 ---
 
 * Un programa python está formado por instrucciones que acaban en un caracter de "salto de línea". 
