@@ -1,6 +1,6 @@
 ---
 title: "Curso: Introducción a python3"
-slidebar: python3
+sidebar: python3
 ---
 
 ![python3](img/python.png)
