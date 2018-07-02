@@ -1,4 +1,7 @@
-# Finalización de la compra 
+---
+title: "Finalización de la compra "
+permalink: /cursos/flask/curso/u32/index.html
+---
 
 En esta última unidad vamos a simular el final de la compra, en este caso hemos simplificado mucho este proceso, simplemente vamos a mostrar la lista de los artículos comprados, el precio final y vamos a actualizar el stock de cada uno de los artículos.
 

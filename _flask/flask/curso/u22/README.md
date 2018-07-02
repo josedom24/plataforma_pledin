@@ -1,4 +1,7 @@
-# El modelo de base de datos
+---
+title: "El modelo de base de datos"
+permalink: /cursos/flask/curso/u22/index.html
+---
 
 Los datos que guardamos en nuestra base de datos serán representados por una colección de clases que son referidas como modelos de base de datos. 
 

@@ -1,4 +1,7 @@
-# Introducción a flask
+---
+title: "Introducción a flask"
+permalink: /cursos/flask/curso/u05/index.html
+---
 
 Flask es un "micro" framework escrito en Python y concebido para facilitar el desarrollo de aplicaciones Web bajo el patrón MVC.
 

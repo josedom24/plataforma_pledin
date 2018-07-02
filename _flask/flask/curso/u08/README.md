@@ -1,4 +1,7 @@
-# Controlando nuestra aplicación con flask-script
+---
+title: "Controlando nuestra aplicación con flask-script"
+permalink: /cursos/flask/curso/u08/index.html
+---
 
 La extensión [flask-script](https://flask-script.readthedocs.io/en/latest/) nos proporciona la posibilidad de gestionar nuestra aplicación flask desde un comando (Interfaz de línea de comando).
 

@@ -1,4 +1,7 @@
-# Despliegue de aplicación flask en un contenedor docker
+---
+title: "Despliegue de aplicación flask en un contenedor docker"
+permalink: /cursos/flask/curso/u36/index.html
+---
 
 Vamos a desplegar nuestra aplicación web desarrollada con flask en docker. Vamos a utilizar dos contenedores: uno para la base de datos mysql y otro para nuestra aplicación.
 

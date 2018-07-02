@@ -72,6 +72,9 @@ collections:
   python3:
     output: true
     permalink: /cursos/:path
+  flask:
+    output: true
+    permalink: /cursos/:path
 
 
 
@@ -100,4 +103,16 @@ defaults:
       comments: false
       sidebar:
         nav: "python3"
+  - scope:
+      path: ""
+      type: flask
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "flask"
       

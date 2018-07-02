@@ -1,4 +1,7 @@
-# Plantillas con bootstrap (flask-bootstrap)
+---
+title: "Plantillas con bootstrap (flask-bootstrap)"
+permalink: /cursos/flask/curso/u17/index.html
+---
 
 Podemos utilizar la hoja de estilo que queramos, la podemos guardar en nuestro contenido estático o acceder por medio de una url.
 

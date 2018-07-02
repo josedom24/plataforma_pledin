@@ -1,4 +1,7 @@
-# Herencia de plantillas
+---
+title: "Herencia de plantillas"
+permalink: /cursos/flask/curso/u16/index.html
+---
 
 La herencia de plantillas nos permite hacer un esqueleto de plantilla, para que todas las páginas de nuestro sitio web sean similares. En la unidad anterior hicimos una plantilla independiente para cada página, eso tiene un problema: si queremos cambiar algo que es común a todas las páginas hay que cambiarlo en todos los ficheros.
 

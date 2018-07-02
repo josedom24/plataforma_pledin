@@ -1,4 +1,7 @@
-# Trabajando con formularios
+---
+title: "Trabajando con formularios"
+permalink: /cursos/flask/curso/u18/index.html
+---
 
 La manera más usual de enviar información a las distintas páginas de nuestra aplicación web es usando [formularios HTML5](https://www.w3schools.com/html/html_forms.asp). Es recomendable utilizar el método POST (la información se envía en el cuerpo de la petición) para el envío de información usando formularios, aunque si es necesario también podemos usar el método GET (la información se envía en la URL de la petición).
 

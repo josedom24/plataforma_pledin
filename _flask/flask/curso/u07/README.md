@@ -1,4 +1,7 @@
-# Corriendo una aplicación sencilla
+---
+title: "Corriendo una aplicación sencilla"
+permalink: /cursos/flask/curso/u07/index.html
+---
 
 Escribimos nuestra primera aplicación flask, en un fichero `app.py`:
 

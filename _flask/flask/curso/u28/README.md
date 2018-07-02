@@ -1,4 +1,7 @@
-# Registrando nuevos usuarios
+---
+title: "Registrando nuevos usuarios"
+permalink: /cursos/flask/curso/u28/index.html
+---
 
 En esta unidad vamos a estudiar como un usuario se puede registrar en nuestra aplicación, y una vez registrado podrá cambiar los datos de su perfil. En realidad lo que estamos haciendo es creando y modificando registros en la tabla de usuarios.
 

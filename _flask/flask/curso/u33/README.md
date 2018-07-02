@@ -1,4 +1,7 @@
-# Despliegue de aplicación flask en un servidor LAMP
+---
+title: "Despliegue de aplicación flask en un servidor LAMP"
+permalink: /cursos/flask/curso/u33/index.html
+---
 
 Vamos a desplegar nuestra aplicación web desarrollada con flask en un servidor LAMP (Linux+Apache2+mysql+python) en un sistema operativo GNU/Linux Ubuntu 16.04.
 

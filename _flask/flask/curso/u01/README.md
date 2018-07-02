@@ -1,4 +1,7 @@
-# Protocolo HTTP
+---
+title: "Protocolo HTTP"
+permalink: /cursos/flask/curso/u01/index.html
+---
 
 ## Descripción general
 

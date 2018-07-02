@@ -1,4 +1,7 @@
-# Creando registros en la base de datos
+---
+title: "Creando registros en la base de datos"
+permalink: /cursos/flask/curso/u24/index.html
+---
 
 En este apartado vamos a estudiar como insertar un registro en nuestra base de datos.
 

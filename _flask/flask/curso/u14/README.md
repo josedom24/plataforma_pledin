@@ -1,4 +1,7 @@
-# Plantillas con jinja2
+---
+title: "Plantillas con jinja2"
+permalink: /cursos/flask/curso/u14/index.html
+---
 
 [Jinja2](http://jinja.pocoo.org) es un motor de plantilla desarrollado en Python. Flask utiliza jinja2 para generar documentos HTML válidos de una manera muy sencilla y eficiente.
 

@@ -1,4 +1,7 @@
-# Despliegue de aplicación flask en un PaaS Heroku
+---
+title: "Despliegue de aplicación flask en un PaaS Heroku"
+permalink: /cursos/flask/curso/u35/index.html
+---
 
 En esta unidad vamos a desplegar nuestra aplicación web desarrollada en python utilizando el framework flask utilizando sólo la aplicación web Heroku (Heroku Dashboard) (no vamos a utilizar el comando `heroku-cli`).
 

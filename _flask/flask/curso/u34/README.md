@@ -1,4 +1,7 @@
-# Despliegue de aplicación flask en hosting pythonanywhere
+---
+title: "Despliegue de aplicación flask en hosting pythonanywhere"
+permalink: /cursos/flask/curso/u34/index.html
+---
 
 En este ejemplo vamos a desplegar nuestra aplicación en un hosting que nos permite trabajar con python llamado [PythonAnywhere](https://www.pythonanywhere.com/), que nos ofrece distintos [planes de contratación](https://www.pythonanywhere.com/pricing/), aunque nosotros vamos a usar el **Beginner** que es gratuito y para aplicaciones de prueba con pocos accesos es suficiente.
 

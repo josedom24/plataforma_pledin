@@ -1,4 +1,7 @@
-# Usando base de datos en Flask, flask-sqlalchemy
+---
+title: "Usando base de datos en Flask, flask-sqlalchemy"
+permalink: /cursos/flask/curso/u21/index.html
+---
 
 Aunque python nos ofrece diferentes módulos para conectarnos a los distintos motores de base de datos:
 

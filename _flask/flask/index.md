@@ -1,4 +1,6 @@
-# Curso flask (Miniframework python para desarrollar páginas web)
+---
+title: Curso flask (Miniframework python para desarrollar páginas web)
+---
 
 ## Unidades
 
@@ -6,21 +8,21 @@
 
 ### Introducción a la programación web
 
-1. [Protocolo HTTP](curso/u1) 
-2. [Programación web dinámica](curso/u2)
-3. [Patrón modelo-vista-controlador](curso/u3)
-4. [Introducción a la programación web con python](curso/u4)
+1. [Protocolo HTTP](curso/u01) 
+2. [Programación web dinámica](curso/u02)
+3. [Patrón modelo-vista-controlador](curso/u03)
+4. [Introducción a la programación web con python](curso/u04)
 
 ### Introducción a flask
 
-5. [Introducción a flask](curso/u5)
-6. [Instalación de flask](curso/u6)
-7. [Corriendo una aplicación sencilla](curso/u7)
-8. [Controlando nuestra aplicación con flask-script](curso/u8)
+5. [Introducción a flask](curso/u05)
+6. [Instalación de flask](curso/u06)
+7. [Corriendo una aplicación sencilla](curso/u07)
+8. [Controlando nuestra aplicación con flask-script](curso/u08)
 
 ### Controlador: Enrutamiento, peticiones y respuestas
 
-9. [Enrutamiento: Rutas](curso/u9)
+9. [Enrutamiento: Rutas](curso/u09)
 10. [Enrutamiento: Métodos](curso/u10)
 11. [Trabajando con peticiones HTTP](curso/u11)
 12. [Generando respuestas HTTP, respuestas de error y redirecciones](curso/u12)

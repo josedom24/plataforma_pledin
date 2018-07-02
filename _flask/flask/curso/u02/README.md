@@ -1,4 +1,7 @@
-# Programación web dinámica
+---
+title: "Programación web dinámica"
+permalink: /cursos/flask/curso/u02/index.html
+---
 
 ## Páginas web dinámicas
 

@@ -1,4 +1,7 @@
-# Gestión de usuarios con extensión Flask-Login
+---
+title: "Gestión de usuarios con extensión Flask-Login"
+permalink: /cursos/flask/curso/u30/index.html
+---
 
 En las unidades anteriores hemos gestionado las sesiones con Flask de manera manual, gestionando las variables de sesión (fichero `login.py`) directamente y comprobando su existencia para el control de acceso.
 

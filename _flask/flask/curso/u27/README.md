@@ -1,4 +1,7 @@
-# Gestión de usuarios con sesiones
+---
+title: "Gestión de usuarios con sesiones"
+permalink: /cursos/flask/curso/u27/index.html
+---
 
 En esta unidad vamos a introducir el concepto de sesión para posibilitar que los usuarios de nuestra página puedan loguearse en ella. Posteriormente veremos como autorizar el acceso a las distintas opciones de nuestra aplicación según el rol del usuario. En esta unidad vamos a trabajar directamente con sesiones, en una unidad posterior utilizarnos la extensión de Flask `flask-login` para realizar la autentificación.
 

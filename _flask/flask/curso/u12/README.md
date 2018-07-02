@@ -1,4 +1,7 @@
-# Generando respuestas HTTP, respuestas de error y redirecciones
+---
+title: "Generando respuestas HTTP, respuestas de error y redirecciones"
+permalink: /cursos/flask/curso/u12/index.html
+---
 
 El decorador `router` gestiona la petición HTTP recibida y crea un objeto `reponse` con la respuesta HTTP: el código de estado, las cabaceras y los datos devueltos. Esta respuesta la prepara a partir de lo que devuelve la función *vista* ejecutada con cada `route`. Estas funciones pueden devolver tres tipos de datos:
 

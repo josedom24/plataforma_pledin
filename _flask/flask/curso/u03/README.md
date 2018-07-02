@@ -1,4 +1,7 @@
-# Patrón modelo-vista-controlador
+---
+title: "Patrón modelo-vista-controlador"
+permalink: /cursos/flask/curso/u03/index.html
+---
 
 Modelo–vista–controlador (MVC) es un patrón de arquitectura de software, que separa los datos y la lógica de negocio de una aplicación de la interfaz de usuario y el módulo encargado de gestionar los eventos y las comunicaciones. Para ello MVC propone la construcción de tres componentes distintos que son el modelo, la vista y el controlador.
 

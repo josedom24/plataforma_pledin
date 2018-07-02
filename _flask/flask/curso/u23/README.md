@@ -1,4 +1,7 @@
-# Listando y filtrando los registros de la base de datos
+---
+title: "Listando y filtrando los registros de la base de datos"
+permalink: /cursos/flask/curso/u23/index.html
+---
 
 En esta unidad vamos a seguir trabando en nuestro proyecto, vamos a listar los artículos y las categorías. Además vamos a poder seleccionar los artículos por categoría.
 

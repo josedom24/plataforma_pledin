@@ -1,4 +1,7 @@
-# Gestión de permisos de usuarios
+---
+title: "Gestión de permisos de usuarios"
+permalink: /cursos/flask/curso/u29/index.html
+---
 
 En esta unidad vamos a estudiar como autorizar las distintas acciones que pueden hacer nuestros usuarios en la aplicación. Cuando accedemos a la aplicación podemos hacerlo de tres formas distintas:
 

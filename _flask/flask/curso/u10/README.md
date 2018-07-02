@@ -1,4 +1,7 @@
-# Enrutamiento: Métodos
+---
+title: "Enrutamiento: Métodos"
+permalink: /cursos/flask/curso/u10/index.html
+---
 
 Para acceder a las distintas URLs podemos utilizar varios métodos en nuestra petición HTTP. En nuestros ejemplos vamos a trabajar con el método GET y POST, que son los métodos que normalmente podemos utilizar desde un navegador web.
 

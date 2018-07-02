@@ -1,4 +1,7 @@
-# Enrutamiento: rutas
+---
+title: "Enrutamiento: rutas"
+permalink: /cursos/flask/curso/u09/index.html
+---
 
 El objeto Flask `app` nos proporciona un decorador `router` que es capaz de filtrar la función *vista* que se va ejecutar analizando la petición HTTP, fundamentalmente por la ruta y el método que se hace la petición.
 

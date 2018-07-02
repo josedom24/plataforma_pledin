@@ -1,4 +1,7 @@
-# Introducción a la programación web con python
+---
+title: "Introducción a la programación web con python"
+permalink: /cursos/flask/curso/u04/index.html
+---
 
 Aunque de forma general se utilizan distintos framework (por ejemplo Flask) para el desarrollo de aplicaciones web con Python. En esta unidad voy a introducir los conceptos necesarios para crear una página web desarrollada con python sin utilizar ningún framework. Para ello es necesario conocer el concepto de WSGI (Web Server Gateway Interface), que es una especificación de una interface simple y universal entre los servidores web y las aplicaciones web o frameworks desarrolladas con python.
 

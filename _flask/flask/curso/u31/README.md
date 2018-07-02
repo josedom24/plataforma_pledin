@@ -1,4 +1,7 @@
-# Uso de cookies para añadir artículos al carrito
+---
+title: "Uso de cookies para añadir artículos al carrito"
+permalink: /cursos/flask/curso/u31/index.html
+---
 
 Las cookie son ficheros de texto con información, que el navegador guarda en memoria o en el disco duro, a solicitud del servidor.
 

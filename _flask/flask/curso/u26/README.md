@@ -1,4 +1,7 @@
-# Borrando un registro de la base de datos
+---
+title: "Borrando un registro de la base de datos"
+permalink: /cursos/flask/curso/u26/index.html
+---
 
 En este apartado vamos a estudiar como borrar un registro en nuestra base de datos.
 

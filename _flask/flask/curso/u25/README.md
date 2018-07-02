@@ -1,4 +1,7 @@
-# Modificando registros en la base de datos
+---
+title: "Modificando registros en la base de datos"
+permalink: /cursos/flask/curso/u25/index.html
+---
 
 En este apartado vamos a estudiar como modificar un registro en nuestra base de datos.
 

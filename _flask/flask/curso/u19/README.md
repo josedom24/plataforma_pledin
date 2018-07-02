@@ -1,4 +1,7 @@
-# Generando formularios con flask-wtf
+---
+title: "Generando formularios con flask-wtf"
+permalink: /cursos/flask/curso/u19/index.html
+---
 
 [Flask-WTF](https://flask-wtf.readthedocs.io/en/stable/) es una extensión de Flask que nos permite trabajar con la librería [WTForm](https://wtforms.readthedocs.io/en/latest/) de python, que nos facilita la generación y validación de formularios HTML.
 

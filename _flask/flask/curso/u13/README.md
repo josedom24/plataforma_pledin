@@ -1,4 +1,7 @@
-# Contenido estático
+---
+title: "Contenido estático"
+permalink: /cursos/flask/curso/u13/index.html
+---
 
 Nuestra página web necesita tener contenido estático: hoja de estilo, ficheros java script, imágenes, documentos pdf, etc. Para acceder a eelos vamos a utilizar la función `url_for`.
 
