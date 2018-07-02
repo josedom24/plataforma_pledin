@@ -28,7 +28,7 @@ Está líneas generan una plantilla base de la que podemos extender las nuestras
 ## Uso de la plantilla base bootstrap
 
 Por ejemplo nuestra primera plantilla quedaría:
-
+{%raw%}
 	{% extends "bootstrap/base.html" %}
 	{% block title %}Hola, que tal {{nombre}}{% endblock %}
 	{% block content %}
@@ -40,7 +40,7 @@ Por ejemplo nuestra primera plantilla quedaría:
 	      <p>No has indicado un nombre</p>
 	    {% endif %}
 	{% endblock %}
-
+{%endraw%}
 La plantilla base de bootstrap ofrece los siguientes bloques que podemos sobreescribir:
 
 * `html`: Contiene el contenido completo de la etiqueta `<html>`.
@@ -58,23 +58,23 @@ La plantilla base de bootstrap ofrece los siguientes bloques que podemos sobrees
 ## Ejemplos
 
 Añadiendo otro fichero de hoja de estilo:
-
+{%raw%}
     {% block styles %}
     {{super()}}
     <link rel="stylesheet" href="{{url_for('.static', filename='mystyle.css')}}">
     {% endblock %}
-
+{%endraw%}
 Añadiendo otro fichero Javascript:
-
+{%raw%}
     {% block scripts %}
     <script src="{{url_for('.static', filename='myscripts.js')}}"></script>
     {{super()}}
     {% endblock %}
-
+{%endraw%}
 Añadiendo el idioma español en los atributos de `<html>`:
-
+{%raw%}
     {% block html_attribs %} lang="es"{% endblock %}
-
+{%endraw%}
 ## Código ejemplo de esta unidad
 
 [Código](../../ejemplos/u17)

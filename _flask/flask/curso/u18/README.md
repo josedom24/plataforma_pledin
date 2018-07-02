@@ -12,7 +12,7 @@ En el código ejemplo de esta unidad hemos desarrollado una calculadora, en una 
 ## Calculadora con POST
 
 Como hemos indicado anteriormente al enviar la información con un formulario se manda con el método POST. Cuando accedemos la primera vez a la ruta `/calculadora_post` lo estamos haciendo usando el método GET por lo tanto nos devuelve una plantilla donde mostramos el formulario (la plantilla se llama `calculadora_post.html`):
-
+{%raw%}
 	{% extends "base.html" %}
 	{% block title %}Calculadora{% endblock %}
 	{% block contenido %}
@@ -33,7 +33,7 @@ Como hemos indicado anteriormente al enviar la información con un formulario se
 	  		<input type="submit" value="Submit!" />
 			</form>
 	{% endblock %}
-
+{%endraw%}
 Mandamos tres datos: `num1`, `num2` y `operador` a la misma ruta `/calculadora_post` pero en esta ocasión se utiliza el método POST, en este caso se lee los datos del formulario, se calcula la operación y se muestra una plantilla con el resultado:
 
 	@app.route("/calculadora_post", methods=["get","post"])
