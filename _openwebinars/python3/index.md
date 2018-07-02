@@ -36,7 +36,7 @@ Todas las observaciones, mejoras y sugerncias son bienvenidas.
 	* Ejecución de programas usando shebang
 	* Guía de estilo
 
-	### Estructura del lenguaje
+### Estructura del lenguaje
 
 6. [Estructura del programa](curso/u6)
 	* Estructura de programa
