@@ -11,7 +11,10 @@ main:
     url: http://www2.josedomingo.org/pledin/about/
 
 python3:
-
+  - title: Curso Python3
+    children:
+      - title: Índice
+        url: cursos/python3/
   - title: Introducción
     children:
       - title: Introducción a python

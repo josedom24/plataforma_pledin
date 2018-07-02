@@ -1,5 +1,7 @@
 ---
 title: "Curso: Introducción a python3"
+page.next: "Introducción a Python"
+page.next.url: curso/u01/
 ---
 
 ![python3](img/python.png)
