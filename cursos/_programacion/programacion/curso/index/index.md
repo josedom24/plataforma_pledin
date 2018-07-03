@@ -5,7 +5,7 @@ permalink: /cursos/programacion/index.html
 
 ## Unidades
 
-0. [Introducción al curso](https://github.com/josedom24/curso_programacion/raw/master/curso/u0/u0.pdf)
+0. [Introducción al curso](curso/u0/u0.pdf)
 
     **Introducción a la programación**
 
