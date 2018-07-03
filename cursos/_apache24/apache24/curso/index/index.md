@@ -1,5 +1,5 @@
 ---
-title: Curso: servidor web Apache 2.4
+title: "Curso: servidor web Apache 2.4"
 permalink: /cursos/apache24/index.html
 ---
 
