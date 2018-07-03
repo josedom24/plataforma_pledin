@@ -3,6 +3,8 @@ title: "Resolución de problemas"
 permalink: /cursos/programacion/curso/u01/index.html
 ---
 
+* [Presentación de la unidad](u1.pdf)
+
 ## ¿Qué es un problema?
 
 Un problema es un asunto o un conjunto de cuestiones que se plantean para ser resueltas. La naturaleza de los problemas varía con el ámbito o el contexto: problemas matemáticos, químicos, filosóficos, etc.

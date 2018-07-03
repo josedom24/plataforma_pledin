@@ -3,6 +3,8 @@ title: "Análisis del problema"
 permalink: /cursos/programacion/curso/u02/index.html
 ---
 
+* [Presentación de la unidad](u2.pdf)
+
 El primer paso, análisis del problema, requiere un estudio a fondo del problema
 y de todo lo que hace falta para poder abordarlo.
 

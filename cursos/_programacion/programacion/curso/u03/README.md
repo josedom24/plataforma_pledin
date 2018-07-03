@@ -3,6 +3,8 @@ title: "Diseño de algoritmos"
 permalink: /cursos/programacion/curso/u03/index.html
 ---
 
+* [Presentación de la unidad](u3.pdf)
+
 A partir de los requerimientos, resultados del análisis, empieza la etapa de **diseño** donde tenemos que construir un **algoritmo** que resuelva el problema.
 
 ## Definición de algoritmo

@@ -93,4 +93,4 @@ Mostrar en pantalla los N primero número primos. Se pide por teclado la cantida
 
 # Ejercicios resueltos
 
-[Ejercicios estructuras repetitivas](../../ejercicios/repetitivas)
+[Ejercicios estructuras repetitivas](https://github.com/josedom24/curso_programacion/tree/master/ejercicios/repetitivas)

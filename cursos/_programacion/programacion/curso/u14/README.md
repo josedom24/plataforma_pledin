@@ -3,6 +3,8 @@ title: "Nuestro primer pseudocódigo completo"
 permalink: /cursos/programacion/curso/u14/index.html
 ---
 
+* [Presentación de la unidad](u14.pdf)
+
 Vamos a resolver un problema completo, siguiendo todas las etapas que hemos estudiado del cilo de desarrollo. El enunciado del problema es el siguiente:
 
 **Queremos saber que porcentaje de hombres y que porcentaje de mujeres hay en un grupo de estudiantes.**

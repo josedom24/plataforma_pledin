@@ -3,6 +3,8 @@ title: "Programas traductores"
 permalink: /cursos/programacion/curso/u36/index.html
 ---
 
+* [Presentación de la unidad](u36.pdf)
+
 Los traductores transforman programas escritos en un lenguaje de alto nivel en programas escritos en código máquina. Podemos indicar distintos tipos:
 
 ## Compiladores

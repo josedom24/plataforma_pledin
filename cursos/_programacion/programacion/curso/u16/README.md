@@ -91,4 +91,4 @@ Diseñar un algoritmo que nos diga el dinero que tenemos (en euros y céntimos) 
 
 # Ejercicios resueltos
 
-[Ejercicios estructura secuencial](../../ejercicios/secuencial)
+[Ejercicios estructura secuencial](https://github.com/josedom24/curso_programacion/tree/master/ejercicios/secuencial)

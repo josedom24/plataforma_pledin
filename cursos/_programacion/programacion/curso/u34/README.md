@@ -84,4 +84,4 @@ Escribe un programa para jugar al ahorcado.
 
 # Ejercicios resueltos
 
-[Más ejercicios](../../ejercicios/mas_ejercicios)
+[Más ejercicios](https://github.com/josedom24/curso_programacion/tree/master/ejercicios/mas_ejercicios)

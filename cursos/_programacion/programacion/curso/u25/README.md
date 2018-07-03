@@ -45,4 +45,4 @@ Introducir una cadena de caracteres e indicar si es un palíndromo. Una palabra 
 
 # Ejercicios resueltos
 
-[Ejercicios cadenas de caracteres](../../ejercicios/cadenas)
+[Ejercicios cadenas de caracteres](https://github.com/josedom24/curso_programacion/tree/master/ejercicios/cadenas)

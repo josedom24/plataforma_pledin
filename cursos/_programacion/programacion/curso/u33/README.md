@@ -125,4 +125,4 @@ En realizada nos sirven todas las funciones del ejercicio anterior menos la func
 
 # Ejercicios resueltos
 
-[Ejercicios de funciones](../../ejercicios/funciones)
+[Ejercicios de funciones](https://github.com/josedom24/curso_programacion/tree/master/ejercicios/funciones)

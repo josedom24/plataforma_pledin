@@ -127,4 +127,4 @@ Realice un algoritmo para determinar el cobro por la entrega de un paquete o, en
 
 # Ejercicios resueltos
 
-[Ejercicios estructuras alternativas](../../ejercicios/alternativas)
+[Ejercicios estructuras alternativas](https://github.com/josedom24/curso_programacion/tree/master/ejercicios/alternativas)

@@ -3,6 +3,8 @@ title: "Introducción a los lenguajes de programación"
 permalink: /cursos/programacion/curso/u35/index.html
 ---
 
+* [Presentación de la unidad](u35.pdf)
+
 ## Sistemas Informáticos
 
 ![programa](img/programa.png)
