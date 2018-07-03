@@ -17,18 +17,18 @@ Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://gi
 
     **Introducción a los servidores web**
 
-1. [Protocolo HTTP](curso/u1) 
-2. [Introducción al servidor web Apache 2.4](curso/u2)
-3. [Instalación del servidor web Apache 2.4](curso/u3)
-4. [Estructura de los ficheros de configuración](curso/u4)
-5. [Empezamos estudiando algunas directivas](curso/u5)
-6. [Probando nuestro servidor web](curso/u6)
+1. [Protocolo HTTP](curso/u10) 
+2. [Introducción al servidor web Apache 2.4](curso/u02)
+3. [Instalación del servidor web Apache 2.4](curso/u03)
+4. [Estructura de los ficheros de configuración](curso/u04)
+5. [Empezamos estudiando algunas directivas](curso/u05)
+6. [Probando nuestro servidor web](curso/u06)
 
     **Virtual Hosting en Apache 2.4**
 
-7. [Introducción a Virtual Hosting](curso/u7)
-8. [Configuración de Virtual Hosting](curso/u8)
-9. [Configuración de acceso a los servidores virtuales](curso/u9)
+7. [Introducción a Virtual Hosting](curso/u07)
+8. [Configuración de Virtual Hosting](curso/u08)
+9. [Configuración de acceso a los servidores virtuales](curso/u09)
 
     **Mapeo de URL**
 
