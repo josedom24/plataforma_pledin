@@ -77,6 +77,9 @@ collections:
   flask:
     output: true
     permalink: /cursos/:path
+  apache24:
+    output: true
+    permalink: /cursos/:path
 collections_dir: cursos
 
 
@@ -117,4 +120,16 @@ defaults:
       comments: false
       sidebar:
         nav: "flask"
+  - scope:
+      path: ""
+      type: apache24
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "apache24"
       

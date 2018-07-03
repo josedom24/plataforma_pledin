@@ -254,7 +254,7 @@ cursos:
       - title: "Introducción a la programación con pseudocódigo (2018)"
         url: #
       - title: "Curso Apache2.4 (2018)"
-        url: #
+        url: cursos/apache24/
       - title: "Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)"
         url: cursos/flask/
       - title: "Curso de python3 (2017)"
