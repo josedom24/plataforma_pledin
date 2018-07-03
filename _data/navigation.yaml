@@ -155,6 +155,8 @@ python3:
 flask:
   - title: Curso Flask
     children:
+      - title: Índice
+        url: cursos/flask/
       - title: Introducción al curso
         url: cursos/flask/curso/u0/u0.pdf 
   - title: Introducción a la programación web
@@ -254,9 +256,9 @@ cursos:
       - title: "Curso Apache2.4 (2018)"
         url: #
       - title: "Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)"
-        url: cursos/flask/curso/index/
+        url: cursos/flask/
       - title: "Curso de python3 (2017)"
-        url: cursos/python3/curso/index/
+        url: cursos/python3/
   - title: Cloud Computing y OpenStack
     children:
       - title: "Curso de infraestructura Cloud con OpenStack. Universidad de Almería (2017) (github)"

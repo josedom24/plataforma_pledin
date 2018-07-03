@@ -1,5 +1,6 @@
 ---
 title: Curso flask (Miniframework python para desarrollar páginas web)
+permalink: /cursos/flask/index.html
 ---
 
 ![flask](img/flask.svg)
