@@ -75,3 +75,18 @@ Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://gi
 32. [Configuración de un proxy inverso](curso/u32)
 33. [Analizador de logs: awstats](curso/u33)
 
+## Vídeos
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Pp7Z20f6myM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </td>
+
+      <td>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/muAKPiPqW6g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </td>
+    </tr>
+  </tbody>
+</table>
