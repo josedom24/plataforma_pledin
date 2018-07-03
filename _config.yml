@@ -80,6 +80,9 @@ collections:
   apache24:
     output: true
     permalink: /cursos/:path
+  programacion:
+    output: true
+    permalink: /cursos/:path
 collections_dir: cursos
 
 
@@ -132,4 +135,16 @@ defaults:
       comments: false
       sidebar:
         nav: "apache24"
+  - scope:
+      path: ""
+      type: programacion
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "programacion"
       

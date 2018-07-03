@@ -340,11 +340,115 @@ apache24:
       - title: "Analizador de logs: awstats"
         url: cursos/apache24/curso/u33
 
+programacion:
+  - title: Introducción a la programación en pseudocódigo
+    children:
+      - title: Índice
+        url: cursos/programacion/
+      - title: Introducción al curso
+        url: cursos/programacion/curso/u0/u0.pdf 
+
+  - title: Introducción a la programación
+    children:
+      - title: Resolución de problemas
+        url: curso/u01
+      - title: Análisis del problema
+        url: curso/u02
+      - title: Diseño de algoritmos
+        url: curso/u03
+  - title: "Entorno de trabajo: PSeInt"
+    children:
+      - title: Introducción a PSeInt
+        url: curso/u04
+  - title: "Pseudocódigo: Introducción"
+    children:
+      - title: Estructura del algoritmo
+        url: curso/u05
+      - title: Tipos de datos simples
+        url: curso/u06
+      - title: Variables
+        url: curso/u07
+      - title: Operadores y expresiones
+        url: curso/u08
+      - title: Asignación de variables
+        url: curso/u09
+      - title: Entrada y salida de información
+        url: curso/u10
+      - title: Otras instrucciones
+        url: curso/u11
+      - title: Funciones matemáticas
+        url: curso/u12
+      - title: Funciones de cadenas de texto
+        url: curso/u13
+      - title: Nuestro primer pseudocódigo completo
+        url: curso/u14
+      - title: Ejecución paso a paso
+        url: curso/u15
+      - title: Ejercicios estructura secuencial
+        url: curso/u16
+  - title: "Pseudocódigo: Estructuras alternativas"
+    children:
+      - title: "Estructuras alternativas: Si"
+        url: curso/u17
+      - title: "Estructuras alternativas: Segun"
+        url: curso/u18
+      - title: Ejercicios estructuras alternativas
+        url: curso/u19
+  - title: "Pseudocódigo: Estructuras repetitivas"
+    children:
+      - title: "Estructuras repetitivas: Mientras"
+        url: curso/u20
+      - title: "Estructuras repetitivas: Repetir-Hasta Que"
+        url: curso/u21
+      - title: "Estructuras repetitivas: Para"
+        url: curso/u22
+      - title: "Uso específico de variables: contadores, acumuladores e indicadores"
+        url: curso/u23
+      - title: Ejercicios estructuras repetitivas
+        url: curso/u24
+      - title: Ejercicios cadenas de caracteres
+        url: curso/u25
+  - title: "Pseudocódigo: Arreglos"
+    children:
+      - title: "Estructuras de datos: Arreglos (array)"
+        uel: curso/u26
+      - title: "Arreglos unidimensionales: Vectores"
+        uel: curso/u27
+      - title: "Arreglos multidimensionales: Tablas"
+        uel: curso/u28
+      - title: Ejercicios de arreglos
+        uel: curso/u29
+  - title: "Pseudocódigo: Programación estructurada"
+    children:
+      - title: Programación estructurada
+        url: curso/u30
+      - title: Funciones y procedimientos
+        url: curso/u31
+      - title: Funciones recursivas
+        url: curso/u32
+      - title: Ejercicios de funciones
+        url: curso/u33
+      - title: Más ejercicios
+        url: curso/u34
+  - title: Lenguajes de Programación
+    children:
+      - title: Introducción a los lenguajes de programación
+        url: curso/u35
+      - title: Programas traductores
+        url: curso/u36
+      - title: "Compilación y ejecución de un lenguaje compilado: C++"
+        url: curso/u37
+      - title: Compilación e interpretación de un programa Java
+        url: curso/u38
+      - title: Ejecución de programas interpretados con Python
+        url: curso/u39
+
+
 cursos:
   - title: OpenWebinars
     children:
       - title: "Introducción a la programación con pseudocódigo (2018)"
-        url: #
+        url: cursos/programacion/
       - title: "Curso Apache2.4 (2018)"
         url: cursos/apache24/
       - title: "Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)"
