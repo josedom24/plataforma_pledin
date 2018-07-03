@@ -1,7 +1,5 @@
 ---
 title: "Curso: Introducción a python3"
-next: "Introducción a Python"
-next.url: curso/u01/
 ---
 
 ![python3](img/python.png)

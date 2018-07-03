@@ -254,9 +254,9 @@ cursos:
       - title: "Curso Apache2.4 (2018)"
         url: #
       - title: "Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)"
-        url: cursos/flask/
+        url: cursos/flask/curso/index/
       - title: "Curso de python3 (2017)"
-        url: cursos/python3/
+        url: cursos/python3/curso/index/
   - title: Cloud Computing y OpenStack
     children:
       - title: "Curso de infraestructura Cloud con OpenStack. Universidad de Almería (2017) (github)"
