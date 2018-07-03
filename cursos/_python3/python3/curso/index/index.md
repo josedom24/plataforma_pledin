@@ -1,5 +1,6 @@
 ---
 title: "Curso: Introducción a python3"
+permalink: /cursos/python3/index.html
 ---
 
 ![python3](img/python.png)
