@@ -3,6 +3,8 @@ title: "Introducción al servidor web Apache 2.4"
 permalink: /cursos/apache24/curso/u02/index.html
 ---
 
+* [Presentación de la unidad](u2.pdf)
+
 ## Conceptos básicos
 
 * Servidor web HTTP de código abierto

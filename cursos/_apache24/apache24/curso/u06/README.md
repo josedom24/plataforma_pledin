@@ -3,6 +3,8 @@ title: "Probando nuestro servidor web"
 permalink: /cursos/apache24/curso/u06/index.html
 ---
 
+* [Presentación de la unidad](u6.pdf)
+
 El servidor web Apache 2.4 se instala por defecto con la configuración de un servidor virtual. La configuración de este sitio la podemos encontrar en:
 
     /etc/apache2/sites-available/000-default.conf

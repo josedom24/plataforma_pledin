@@ -3,6 +3,8 @@ title: "Introducción a HTTPS"
 permalink: /cursos/apache24/curso/u27/index.html
 ---
 
+* [Presentación de la unidad](u27.pdf)
+
 Cada vez es más necesario cifrar el contenido que se trasmite entre el cliente y el servidor, este proceso nos permite asegurar por ejemplo el proceso de autenticación
 de usuarios para evitar que alguien capture una contraseña de usuario y acceda de forma fraudulenta.
 

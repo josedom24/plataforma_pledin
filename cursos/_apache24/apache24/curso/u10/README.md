@@ -3,6 +3,8 @@ title: "Opciones de directorios"
 permalink: /cursos/apache24/curso/u10/index.html
 ---
 
+* [Presentación de la unidad](u10.pdf)
+
 Cuando indicamos la configuración de un servidor servidor por apache, por ejemplo con la directiva [`Directory`](http://httpd.apache.org/docs/2.4/mod/core.html#directory), podemos indicar algunas opciones con la directiva [`Options`](http://httpd.apache.org/docs/2.4/mod/core.html#options). Algunas de las opciones que podemos indicar son las siguientes:
 
 * `All`: Todas las opciones excepto `MultiViews`.

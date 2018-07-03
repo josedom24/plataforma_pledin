@@ -3,6 +3,8 @@ title: "Introducción a Virtual Hosting"
 permalink: /cursos/apache24/curso/u07/index.html
 ---
 
+* [Presentación de la unidad](u7.pdf)
+
 El término Hosting Virtual se refiere a hacer funcionar más de un sitio web (tales como `www.pagina1.com` y `www.pagina2.com`) en una sola máquina. Los sitios web virtuales pueden estar "basados en direcciones IP", lo que significa que cada sitio web tiene una dirección IP diferente, o "basados en nombres diferentes", lo que significa que con una sola dirección IP están funcionando sitios web con diferentes nombres (de dominio). Apache fue uno de los primeros servidores web en soportar hosting virtual basado en direcciones IP.
 
 Como hemos visto en la unidad anterior el servidor web Apache2 se instala por defecto con un host virtual en `/etc/apache2/sites-available/000-default.conf`.

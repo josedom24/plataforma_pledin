@@ -3,6 +3,8 @@ title: "Control de acceso. Autorización"
 permalink: /cursos/apache24/curso/u15/index.html
 ---
 
+* [Presentación de la unidad](u15.pdf)
+
 El control de acceso, hace referencia a todos los medios que proporcionan una forma de controlar el acceso a cualquier recurso. La directiva [`Require`](https://httpd.apache.org/docs/2.4/es/mod/mod_authz_core.html#require) proporciona una variedad de diferentes maneras de permitir o denegar el acceso a los recursos. Además puede ser usada junto con las directivas: [`RequireAll`](https://httpd.apache.org/docs/2.4/es/mod/mod_authz_core.html#requireall), [`RequireAny`](https://httpd.apache.org/docs/2.4/es/mod/mod_authz_core.html#requireany), y [`RequireNone`](https://httpd.apache.org/docs/2.4/es/mod/mod_authz_core.html#requirenone), estos requerimientos pueden ser combinados de forma compleja y arbitraria, para cumplir cualquiera que sean tus políticas de acceso.
 
 ## Directiva Require

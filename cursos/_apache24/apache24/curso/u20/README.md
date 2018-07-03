@@ -3,6 +3,8 @@ title: "Uso de módulos en Apache 2.4"
 permalink: /cursos/apache24/curso/u20/index.html
 ---
 
+* [Presentación de la unidad](u20.pdf)
+
 Uno de los aspectos característicos del servidor HTTP Apache es su modularidad, Apache tiene un sinfín de características adicionales que si estuvieran siempre incluidas, harían de él un programa demasiado grande y pesado. En lugar de esto, Apache se compila de forma modular y se cargan en memoria sólo los módulos necesarios en cada caso.
 
 Los módulos se guardan en la configuración de apache2 en dos directorios:

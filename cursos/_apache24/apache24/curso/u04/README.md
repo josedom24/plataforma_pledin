@@ -3,6 +3,8 @@ title: "Estructura de los ficheros de configuración"
 permalink: /cursos/apache24/curso/u04/index.html
 ---
 
+* [Presentación de la unidad](u4.pdf)
+
 El fichero principal de configuración de Apache2 es `/etc/apache2/apache2.conf`. En ese fichero se incluyen los ficheros que forman parte de la configuración de Apache2:
 
 	...

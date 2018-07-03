@@ -3,6 +3,8 @@ title: "Consejos de seguridad"
 permalink: /cursos/apache24/curso/u31/index.html
 ---
 
+* [Presentación de la unidad](u31.pdf)
+
 Además de utilizar HTTPS y activar y configurar modSecurity, podemos tener en cuanta algunos otros consejos de seguridad:
 
 ## Ocultar versión y sistema 

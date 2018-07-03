@@ -3,6 +3,8 @@ title: "Implementación de políticas de autentificación y acceso"
 permalink: /cursos/apache24/curso/u18/index.html
 ---
 
+* [Presentación de la unidad](u18.pdf)
+
 ## Políticas de acceso en Apache 2.2
 
 Como hemos visto anteriormente el control de acceso en versiones anteriores de Apache2, se hacía con las directivas `Order`, `Allow` y `Deny`. Además teníamos otra directiva [`Satisfy`](http://httpd.apache.org/docs/2.2/mod/core.html#satisfy) (**Nota: Esta directiva no existe en Apache 2.4**) que nos permitía controlar como el se debía comportar el servidor cuando tenemos varios instrucciones de control de acceso (`allow`, `deny` , `require`). de esta manera:

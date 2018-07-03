@@ -3,6 +3,8 @@ title: "Protocolo HTTP"
 permalink: /cursos/apache24/curso/u01/index.html
 ---
 
+* [Presentación de la unidad](u1.pdf)
+
 ## Descripción general
 
 Protocolo de comunicaciones estándar que comunica servidores, proxys y clientes. Permite la transferencia de documentos web, sin importar cual es el cliente o cual es el servidor.

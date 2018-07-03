@@ -3,6 +3,8 @@ title: "Empezamos estudiando algunas directivas"
 permalink: /cursos/apache24/curso/u05/index.html
 ---
 
+* [Presentación de la unidad](u5.pdf)
+
 Estudiemos algunas directivas que podemos encontrar en `/etc/apache2/apache2.conf`:
 
 ## Directivas de control de la conexión

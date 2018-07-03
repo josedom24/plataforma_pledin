@@ -3,6 +3,8 @@ title: "Configuración de Virtual Hosting"
 permalink: /cursos/apache24/curso/u08/index.html
 ---
 
+* [Presentación de la unidad](u8.pdf)
+
 Vamos a realizar un ejercicio para mostrar como podemos configurar distintos sitios virtuales en Apache 2.4 (basados en nombre). El objetivo es la puesta en marcha de dos sitios web utilizando el mismo servidor web apache. Hay que tener en cuenta lo siguiente:
 
 * Cada sitio web tendrá nombres distintos.
