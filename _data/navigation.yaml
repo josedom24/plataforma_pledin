@@ -249,7 +249,7 @@ flask:
         url: cursos/flask/curso/u36
 
 apache24:
-  - title: Curso Apache2
+  - title: Curso Apache 2.4
     children:
       - title: Índice
         url: cursos/apache24/
