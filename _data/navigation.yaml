@@ -248,6 +248,98 @@ flask:
       - title: Despliegue de aplicación flask en un contenedor docker
         url: cursos/flask/curso/u36
 
+apache24:
+  - title: Curso Apache2
+    children:
+      - title: Índice
+        url: cursos/apache24/
+      - title: Introducción al curso
+        url: cursos/apache24/curso/u0/u0.pdf 
+  - title: Introducción a los servidores web
+    children:
+      - title: Protocolo HTTP
+        url: curso/u1
+      - title: Introducción al servidor web Apache 2.4
+        url: curso/u2
+      - title: Instalación del servidor web Apache 2.4
+        url: curso/u3
+      - title: Estructura de los ficheros de configuración
+        url: curso/u4
+      - title: Empezamos estudiando algunas directivas
+        url: curso/u5
+      - title: Probando nuestro servidor web
+        url: curso/u6
+  - title: Virtual Hosting en Apache 2.4
+    children:
+      - title: Introducción a Virtual Hosting
+        url: curso/u7
+      - title: Configuración de Virtual Hosting
+        url: curso/u8
+      - title: Configuración de acceso a los servidores virtuales
+        url: curso/u9
+  - title: Mapeo de URL
+    children:
+      - title: Opciones de directorios
+        url: curso/u10
+      - title: Trabajando con alias
+        url: curso/u11
+      - title: Negociación de contenidos
+        url: curso/u12
+      - title: Redirecciones
+        url: curso/u13
+      - title: Páginas de errores personalizadas
+        url: curso/u14
+  - title: Control de acceso, autentificación y autorización
+    children:
+      - title: Control de acceso. Autorización
+        url: curso/u15
+      - title: Autentificación básica
+        url: curso/u16
+      - title: Autentificación digest
+        url: curso/u17
+      - title: Implementación de políticas de autentificación y acceso
+        url: curso/u18
+  - title: Ficheros .htaccess
+    children:
+      - title: Configuración de Apache mediante archivo .htaccess
+        url: curso/u19
+  - title: Módulos en Apache 2.4
+    children:
+      - title: Uso de módulos en Apache 2.4
+        url: curso/u20
+      - title: Módulo userdir
+        url: curso/u21
+      - title: Creación de un servidor WebDAV
+        url: curso/u22
+      - title: Módulo rewrite
+        url: curso/u23
+  - title: Gestión de peticiones
+    children:
+      - title: Módulos de Multiprocesamiento (MPM)
+        url: curso/u24
+      - title: Ejecución de script PHP
+        url: curso/u25
+      - title: Ejecución de script python
+        url: curso/u26
+  - title: Seguridad
+    children:
+      - title: Introducción a HTTPS
+        url: curso/u27
+      - title: Obtener un certificado en CAcert
+        url: curso/u28
+      - title: Configuración de HTTPS
+        url: curso/u29
+      - title: Introducción al módulo mod_security2
+        url: curso/u30
+      - title: Consejos de seguridad
+        url: curso/u31
+  - title: Otros temas
+    children:
+      - title: Configuración de un proxy inverso
+        url: curso/u32
+      - title: "Analizador de logs: awstats"
+        url: curso/u33
+
 cursos:
   - title: OpenWebinars
     children:
