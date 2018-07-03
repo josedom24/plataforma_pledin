@@ -31,13 +31,13 @@ python3:
   - title: Estructura del lenguaje
     children:
       - title: Estructura del programa
-        url: cursos/python3/curso/u6
+        url: cursos/python3/curso/u06
       - title: Funciones y constantes predefinidas
-        url: cursos/python3/curso/u7
+        url: cursos/python3/curso/u07
       - title: Datos
-        url: cursos/python3/curso/u8
+        url: cursos/python3/curso/u08
       - title: Tipos de datos
-        url: cursos/python3/curso/u9
+        url: cursos/python3/curso/u09
       - title: Trabajando con variables
         url: cursos/python3/curso/u10
       - title: Entrada y salida estándar
