@@ -258,25 +258,25 @@ apache24:
   - title: Introducción a los servidores web
     children:
       - title: Protocolo HTTP
-        url: cursos/apache24/curso/u1
+        url: cursos/apache24/curso/u01
       - title: Introducción al servidor web Apache 2.4
-        url: cursos/apache24/curso/u2
+        url: cursos/apache24/curso/u02
       - title: Instalación del servidor web Apache 2.4
-        url: cursos/apache24/curso/u3
+        url: cursos/apache24/curso/u03
       - title: Estructura de los ficheros de configuración
-        url: cursos/apache24/curso/u4
+        url: cursos/apache24/curso/u04
       - title: Empezamos estudiando algunas directivas
-        url: cursos/apache24/curso/u5
+        url: cursos/apache24/curso/u05
       - title: Probando nuestro servidor web
-        url: cursos/apache24/curso/u6
+        url: cursos/apache24/curso/u06
   - title: Virtual Hosting en Apache 2.4
     children:
       - title: Introducción a Virtual Hosting
-        url: cursos/apache24/curso/u7
+        url: cursos/apache24/curso/u07
       - title: Configuración de Virtual Hosting
-        url: cursos/apache24/curso/u8
+        url: cursos/apache24/curso/u08
       - title: Configuración de acceso a los servidores virtuales
-        url: cursos/apache24/curso/u9
+        url: cursos/apache24/curso/u09
   - title: Mapeo de URL
     children:
       - title: Opciones de directorios
