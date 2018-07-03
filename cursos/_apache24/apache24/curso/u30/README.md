@@ -37,3 +37,46 @@ Por defecto tenemos un conjunto de reglas activadas, que llamamos CRS (*Core Rul
 
 Las reglas se encuentran en el directorio `/usr/share/modsecurity-crs/rules`.
 
+## Demostración: evitar un ataque SQL Injection
+
+Tenemos preparado un [servidor LAMP](https://linuxconfig.org/how-to-install-a-lamp-server-on-debian-9-stretch-linux), donde hemos creado una tabla con usuarios y contraseñas:
+
+	# mysql -u root -p
+    mysql> create database sample;
+    mysql> use sample;
+    mysql> create table users(username VARCHAR(100),password VARCHAR(100));
+    mysql> insert into users values('pepe','password');
+    mysql> create user 'user'@'localhost';
+	mysql> grant all privileges on sample.* to 'user'@'localhost' identified by 'password';
+	mysql> flush privileges;
+
+Y una aplicación PHP (`login.php`) que realiza la operación de 'login':
+
+	<html>
+	<body>
+	<?php
+	    if(isset($_POST['login']))
+	    {
+	        $username = $_POST['username'];
+	        $password = $_POST['password'];
+	        $con = mysqli_connect('localhost','user','password','sample');
+	        $result = mysqli_query($con, "SELECT * FROM `users` WHERE username='$username' AND password='$password'");
+	        if(mysqli_num_rows($result) == 0)
+	            echo 'Invalid username or password';
+	        else
+	            echo '<h1>Logged in</h1><p>This is text that should only be displayed when logged in with valid credentials.</p>';
+	    }
+	    else
+	    {
+	?>
+	        <form action="" method="post">
+	            Username: <input type="text" name="username"/><br />
+	            Password: <input type="password" name="password"/><br />
+	            <input type="submit" name="login" value="Login"/>
+	        </form>
+	<?php
+	    }
+	?>
+	</body>
+	</html>
+
