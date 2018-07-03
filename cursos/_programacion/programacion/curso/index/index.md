@@ -3,6 +3,15 @@ title: Curso de introducción a la programación con pseudocódigo
 permalink: /cursos/programacion/index.html
 ---
 
+![pseint](img/pseint.png)
+
+Un algoritmo es un conjunto de acciones que especifican la secuencia de operaciones realizar, en orden, para resolver un problema. El pseudocódigo, nos permite una aproximación del algoritmo al lenguaje natural y por tanto un a redacción rápida del mismo. En este curso se presenta los fundamentos para analizar problemas y resolverlos a través de pseudocódigo.
+
+Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/introduccion-programacion/) en septiembre de 2017.
+
+Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_programacion).
+Todas las observaciones, mejoras y sugerencias son bienvenidas.
+
 ## Unidades
 
 0. [Introducción al curso](curso/u0/u0.pdf)
