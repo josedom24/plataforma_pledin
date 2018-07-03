@@ -51,7 +51,7 @@ Tenemos preparado un [servidor LAMP](https://linuxconfig.org/how-to-install-a-la
 	mysql> flush privileges;
 
 Y una aplicación PHP (`login.php`) que realiza la operación de 'login':
-
+```php
 	<html>
 	<body>
 	<?php
@@ -79,4 +79,19 @@ Y una aplicación PHP (`login.php`) que realiza la operación de 'login':
 	?>
 	</body>
 	</html>
+```
+El programa parece que funciona correctamente, pero sin necesidad de poner contraseña, podemos acceder si introducimos como nombre de usuario la cadena:
 
+	' or true -- 
+
+Nota: Es importante señalar que la cadena termina en un espacio.
+
+Si lo probamos y comprobamos el fichero de log de auditoria podemos encontrar que se ha detectado el ataque:
+
+	Message: Warning. detected SQLi using libinjection with fingerprint 's&1' [file "/usr/share/modsecurity-crs/rules/REQUEST-942-APPLICATION-ATTACK-SQLI.conf"] ...
+
+Como vemos la regla que detecta el *SQL injection* se encuentra definida en el fichero `/usr/share/modsecurity-crs/rules/REQUEST-942-APPLICATION-ATTACK-SQLI.conf`.
+
+Para terminar podemos evitar que se produzca el ataque habilitando el módulo en el fichero de configuración `/etc/modsecurity/modsecurity.conf`:
+
+	SecRuleEngine On
