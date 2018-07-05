@@ -1,5 +1,6 @@
 Options FollowSymLinks MultiViews
 RewriteEngine On
+
 RewriteCond %{QUERY_STRING} id=572
 RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/mv2006/files/temario.pdf? [R,L]
 RewriteCond %{QUERY_STRING} id=574
@@ -887,3 +888,6 @@ RewriteCond %{QUERY_STRING} id=1654
 RewriteRule ^mod/resource/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/files/jornadas-4.pdf? [R,L]
 RewriteCond %{QUERY_STRING} id=1655
 RewriteRule ^mod/page/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/cloud2013/doc/Debate_sobre_la_utilizacion_de_esta_tecnologia_en_nuestra_practica_docente.html? [R,L]
+
+RewriteCond %{QUERY_STRING} id=9
+RewriteRule ^course/view.php$ http://plataforma2.josedomingo.org/pledin/cursos/mv2006/? [R,L]
