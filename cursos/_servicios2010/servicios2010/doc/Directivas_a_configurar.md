@@ -4,7 +4,7 @@ title: "Directivas a configurar "
 
 Revisemos las directivas a tener en cuenta en nuestra configuración (`/etc/postfix/main.cf`): 
 
-!\[directivas\](../img/directivas.jpg "directivas") 
+![directivas](../img/directivas.jpg "directivas") 
 
 Observa que en la configuración anterior se usa el nombre `avatar.doesntexist.org` y no `avatar.dynalias.com`. Usaremos este nombre en toda esta unidad. 
 
