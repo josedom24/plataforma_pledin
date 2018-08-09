@@ -206,6 +206,6 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "servicios2010 cursos"
+        nav: "servicios2010"
         
       
