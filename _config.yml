@@ -89,6 +89,9 @@ collections:
   cloud2013:
     output: true
     permalink: /cursos/:path
+  servicios2011:
+    output: true
+    permalink: /cursos/:path
 collections_dir: cursos
 
 
@@ -177,5 +180,17 @@ defaults:
       comments: false
       sidebar:
         nav: "cloud2013"
+  - scope:
+      path: ""
+      type: servicios2011
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "servicios2011"
         
       

@@ -22,12 +22,12 @@ title: Servicios en GNU/Linux (Nivel Intermedio) (2011)
 
 Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domingo Muñoz Rodríguez y José Luis Rodríguez Rodríguez tiene licencia [Creative Commons Reconocimiento-Compartir bajo la misma licencia 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
-## Unidad 0.- Puesta en marcha
+## 0.- Puesta en marcha
 
 * [Preguntas y respuestas](doc/Preguntas_y_respuestas.html)
 * [Instalación del sistema operativo](doc/Instalacion_del_sistema_operativo.html)
 
-## Unidad 1.- Sincronización de ISC DHCP3 y Bind9: DNS dinámico
+## 1.- Sincronización de ISC DHCP3 y Bind9: DNS dinámico
 
 * [Índice: DNS dinámico](doc/Indice_DNS_dinamico.html)
     * [Utilización de DNS dinámico en una red local](doc/Utilizacion_de_DNS_dinamico_en_una_red_local.html)
@@ -43,7 +43,7 @@ Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domi
 * [Esquema: Servidor DHCP [jpeg]](files/EsquemaFicherosDHCP.jpeg)
 * [Esquema: Servidor DNS [jpeg]](files/EsquemaFicherosDNS.jpeg)
 
-## Unidad 2.- Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4
+## 2.- Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4
 
 * [Índice de Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4](doc/Indice_de_Sistema_centralizado_de_cuentas_Kerberos_OpenLDAP_y_NFS4.html)
     * [Sistema de cuentas de usuario centralizadas con Kerberos 5, OpenLDAP y NFS4](files/krb_ldap.pdf)
@@ -54,7 +54,7 @@ Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domi
 * [Apache Directory Studio. The Eclipse based LDAP browser and directory client](http://directory.apache.org/studio/)
 * [Wikipedia - Kerberos](http://es.wikipedia.org/wiki/Kerberos)
 
-## Servidor apache: Módulos. HTTPS
+## 3.- Servidor apache: Módulos. HTTPS
 
 * [Índice de Servidor apache: Módulos. HTTPS](doc/Indice_de_Servidor_apache_Modulos_HTTPS.html)
     * [Utilización de módulos en Apache](files/apache-modular.pdf)
@@ -66,7 +66,7 @@ Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domi
 
 * [Esquema: Ficheros HTTPS](files/EsquemaFicherosHTTPS.jpeg)
 
-## Servidor de correo
+## 4.- Servidor de correo
 
 * [Índice](doc/Indice.html)
     * [Correo electrónico](files/correo-e.pdf)
@@ -79,7 +79,7 @@ Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domi
 * [Esquema: Ficheros Postfix con smarthost](files/16-FicherosSmarthost.jpeg)
 * [Esquema: Ficheros Postfix + Dovecot (y smarthost)](files/18-FicherosDovecot.jpeg)
 
-## Unidad 5.- Gestión remota, estado del sistema, actualizaciones y copias de seguridad
+## 5.- Gestión remota, estado del sistema, actualizaciones y copias de seguridad
 
 * [Índice de gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Indice_de_gestion_remota_estado_del_sistema_actualizaciones_y_copias_de_seguridad.html)
     * [Utilización elemental de ssh](files/ssh.pdf)
@@ -89,7 +89,6 @@ Servicios en GNU/Linux (Nivel intermedio) de Alberto Molina Coballes, José Domi
     * [Ejercicio: Planificación y realización de copias de seguridad del servidor](doc/Ejercicio_Planificacion_y_realizacion_de_copias_de_seguridad_del_servidor.html)
     * [Ejercicio: Sincronización de directorios con Unison](doc/Ejercicio_Sincronizacion_de_directorios_con_Unison.html)
     * [Tarea: Gestión remota, estado del sistema, actualizaciones y copias de seguridad](doc/Tarea_Gestion_remota_estado_del_sistema_actualizaciones_y_copias_de_seguridad.html)
-
 
 ### Recursos de interés
 
