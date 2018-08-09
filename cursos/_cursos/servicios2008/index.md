@@ -126,7 +126,7 @@ Introducción a los servicios en GNU/Linux de Alberto Molina Coballes y José Do
 
 ![](img/plantilla5.jpg)
 
-## servidor de correo electrónico
+## Servidor de Correo Electrónico
 
 * [Índice de correo electrónico](doc/Indice_de_correo_electronico.html)
 
