@@ -444,6 +444,28 @@ programacion:
         url: cursos/programacion/curso/u39
 
 
+cloud2012:
+  - title: Proyecto Cloud Computing (2012) 
+    children:
+      - title: Presentación del proyecto
+        url: cursos/cloud2012#presentación-del-proyecto
+      - title: Virtualización
+        url: cursos/cloud2012#virtualización
+      - title: Cloud Computing en la educación
+        url: cursos/cloud2012#cloud-computing-en-la-educación
+      - title: Introducción al Cloud Computing
+        url: cursos/cloud2012#introducción-al-cloud-computing
+      - title: Utilización de OpenStack
+        url: cursos/cloud2012#utilización-de-openstack
+      - title: Infraestructura para el Cloud
+        url: cursos/cloud2012#infraestructura-para-el-cloud
+      - title: Instalación, configuración y administración de OpenStack
+        url: cursos/cloud2012#instalación-configuración-y-administración-de-openstack
+      - title: API de OpenStack
+        url: cursos/cloud2012#api-de-openstack
+      - title: Curso de formación
+        url: cursos/cloud2012#curso-de-formación
+
 cursos:
   - title: OpenWebinars
     children:
