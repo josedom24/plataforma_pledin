@@ -466,6 +466,15 @@ cloud2012:
       - title: Curso de formación
         url: cursos/cloud2012#curso-de-formación
 
+cloud2013:
+  - title: Jornadas Cloud Computing (2013) 
+    children:
+      - title: "1ª SESIÓN: 26 de febrero"
+        url: cursos/cloud2013#1ª-sesiÓn-26-de-febrero
+        children:
+          - title: Introducción al Cloud Computing
+            url: cursos/cloud2013#introducción-al-cloud-computing
+      
 cursos:
   - title: OpenWebinars
     children:
