@@ -533,6 +533,29 @@ servicios2010:
       - title: UNIDAD 10. Gestión remota, estado del sistema, actualizaciones y copias de seguridad
         url: cursos/servicios2010#unidad-10-gestión-remota-estado-del-sistema-actualizaciones-y-copias-de-seguridad
 
+servicios2008:
+  - title: Introducción a los Servicios en GNU/Linux (2008)
+    children:
+      - title: Introdución
+        url: cursos/servicios2008#introdución
+      - title: Servidor DNS
+        url: cursos/servicios2008#servidor-dns
+      - title: Servidor DHCP
+        url: cursos/servicios2008#servidor-dhcp
+      - title: Servidor LDAP
+        url: cursos/servicios2008#servidor-ldap
+      - title: Servidor de Correo Electrónico
+        url: cursos/servicios2008#servidor-de-correo-electrónico
+      - title: "LAMP: Linux, Apache, mySql, PHP"
+        url: cursos/servicios2008#lamp-linux-apache-mysql-php
+      - title: NAT y Proxy
+        url: cursos/servicios2008#nat-y-proxy
+      - title: NFS, SAMBA y Mdns
+        url: cursos/servicios2008#nfs-samba-y-mdns
+      - title: Cortafuegos con iptables
+        url: cursos/servicios2008#cortafuegos-con-iptables
+
+
 
 cursos:
   - title: OpenWebinars
