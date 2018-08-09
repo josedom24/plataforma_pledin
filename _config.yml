@@ -92,6 +92,9 @@ collections:
   servicios2011:
     output: true
     permalink: /cursos/:path
+  servicios2010:
+    output: true
+    permalink: /cursos/:path
 collections_dir: cursos
 
 
@@ -192,5 +195,17 @@ defaults:
       comments: false
       sidebar:
         nav: "servicios2011"
+  - scope:
+      path: ""
+      type: servicios2010
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "servicios2010"
         
       

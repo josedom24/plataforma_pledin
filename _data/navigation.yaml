@@ -499,7 +499,41 @@ servicios2011:
       - title: 5.- Gestión remota, estado del sistema, actualizaciones y copias de seguridad
         url: cursos/servicios2011#5--gestión-remota-estado-del-sistema-actualizaciones-y-copias-de-seguridad
 
-      
+servicios2010:
+  - title: Servicios en GNU/Linux. Portal Educativo (2010) 
+
+  - title: Unidades Comunes
+    children:
+      - title: UNIDAD 0. Puesta en marcha del entorno de trabajo
+        url: cursos/servicios2010#unidad-0-puesta-en-marcha-del-entorno-de-trabajo
+      - title: UNIDAD 1. NAT, LAMP, gestión de DNS externo
+        url: cursos/servicios2010#unidad-1-nat-lamp-gestión-de-dns-externo
+  
+  - title: Nivel Básico
+    children:
+      - title: UNIDAD 2. DHCP
+        url: cursos/servicios2010#unidad-2-dhcp
+      - title: "UNIDAD 3. DNS: Bind9"
+        url: cursos/servicios2010#unidad-3-dns-bind9
+      - title: "UNIDAD 4. Proxy web: Squid"
+        url: cursos/servicios2010#unidad-4-proxy-web-squid
+      - title: UNIDAD 5. Cortafuegos con iptables
+        url: cursos/servicios2010#unidad-5-cortafuegos-con-iptables
+      - title: "UNIDAD 6. Correo electrónico: postfix"
+        url: cursos/servicios2010#unidad-6-correo-electrónico-postfix
+
+  - title: Nivel Intermedio
+    children:
+      - title: UNIDAD 7. DNS Dinámico
+        url: cursos/servicios2010#unidad-7-dns-dinámico
+      - title: "UNIDAD 8. Web segura: https"
+        url: cursos/servicios2010#unidad-8-web-segura-https
+      - title: "UNIDAD 9. Sistema centralizado de cuentas: Kerberos, LDAP y NFS4"
+        url: cursos/servicios2010#unidad-9-sistema-centralizado-de-cuentas-kerberos-ldap-y-nfs4
+      - title: UNIDAD 10. Gestión remota, estado del sistema, actualizaciones y copias de seguridad
+        url: cursos/servicios2010#unidad-10-gestión-remota-estado-del-sistema-actualizaciones-y-copias-de-seguridad
+
+
 cursos:
   - title: OpenWebinars
     children:
