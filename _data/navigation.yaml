@@ -468,10 +468,9 @@ cloud2012:
 
 cloud2013:
   - title: Jornadas Cloud Computing (2013) 
+
+  - title: "1ª SESIÓN: 26 de febrero"
     children:
-      - title: "1ª SESIÓN: 26 de febrero"
-        text: "_____________________"
-        url: cursos/cloud2013#1ª-sesiÓn-26-de-febrero
       - title: Introducción al Cloud Computing
         url: cursos/cloud2013#introducción-al-cloud-computing
       
