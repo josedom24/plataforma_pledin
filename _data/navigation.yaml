@@ -483,7 +483,21 @@ cloud2013:
           url: cursos/cloud2013#introducción-a-paas-open-shift
         - title: Cloud Computing como herramienta didáctica. Posibilidades de uso/implantación en un centro educativo
           url: cursos/cloud2013#cloud-computing-como-herramienta-didáctica-posibilidades-de-usoimplantación-en-un-centro-educativo
-    
+servicios2011:
+  - title: Servicios en GNU/Linux (Nivel Intermedio) (2011) 
+    children:
+      - title: 0.- Puesta en marcha
+        url: cursos/servicios2011#0--puesta-en-marcha
+      - title: "1.- Sincronización de ISC DHCP3 y Bind9: DNS dinámico"
+        url: cursos/servicios2011#1--sincronización-de-isc-dhcp3-y-bind9-dns-dinámico
+      - title: "2.- Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4"
+        url: cursos/servicios2011#2--sistema-centralizado-de-cuentas-kerberos-openldap-y-nfs4
+      - title: "3.- Servidor apache: Módulos. HTTPS"
+        url: cursos/servicios2011#3--servidor-apache-módulos-https
+      - title: 4.- Servidor de correo
+        url: cursos/servicios2011#4--servidor-de-correo
+      - title: 5.- Gestión remota, estado del sistema, actualizaciones y copias de seguridad
+        url: cursos/servicios2011#5--gestión-remota-estado-del-sistema-actualizaciones-y-copias-de-seguridad
 
       
 cursos:
