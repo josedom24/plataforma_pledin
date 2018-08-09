@@ -83,6 +83,9 @@ collections:
   programacion:
     output: true
     permalink: /cursos/:path
+  cloud2012:
+    output: true
+    permalink: /cursos/:path
 collections_dir: cursos
 
 
@@ -138,6 +141,18 @@ defaults:
   - scope:
       path: ""
       type: programacion
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "programacion"
+  - scope:
+      path: ""
+      type: cloud2012
     values:
       layout: single
       classes: wide
