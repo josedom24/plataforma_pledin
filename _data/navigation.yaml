@@ -473,6 +473,18 @@ cloud2013:
     children:
       - title: Introducción al Cloud Computing
         url: cursos/cloud2013#introducción-al-cloud-computing
+      - title: OpenStack
+        url: cursos/cloud2013#openstack
+      - title: Utilización de instancias y almacenamiento en OpenStack
+        url: cursos/cloud2013#utilización-de-instancias-y-almacenamiento-en-openstack
+  - title: "2ª SESIÓN: 5 de "
+    children:
+        - title: "Introducción a PaaS: Open Shift"
+          url: cursos/cloud2013#introducción-a-paas-open-shift
+        - title: Cloud Computing como herramienta didáctica. Posibilidades de uso/implantación en un centro educativo
+          url: cursos/cloud2013#cloud-computing-como-herramienta-didáctica-posibilidades-de-usoimplantación-en-un-centro-educativo
+    
+
       
 cursos:
   - title: OpenWebinars
