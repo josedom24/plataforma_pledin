@@ -161,5 +161,6 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "programacion"
+        nav: "cloud2012"
+        
       
