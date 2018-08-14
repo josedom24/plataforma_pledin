@@ -603,6 +603,26 @@ tic2007:
       - title: Trabajo no presencial
         url: cursos/tic2007#trabajo-no-presencial
 
+helvia2007:
+  - title: Curso HELVIA - IES Gonzalo Nazareno (2007)
+    children:
+      - title: Introducción
+        url: cursos/helvia2007#introducción
+      - title: Uso de la plataforma como usuario
+        url: cursos/helvia2007#uso-de-la-plataforma-como-usuario
+      - title: Prácticas
+        url: cursos/helvia2007#prácticas
+      - title: Encuestas
+        url: cursos/helvia2007#encuestas
+      - title: Uso de la plataforma como administrador
+        url: cursos/helvia2007#uso-de-la-plataforma-como-administrador
+      - title: Prácticas
+        url: cursos/helvia2007#prácticas-1
+      - title: Trabajo no presencial
+        url: cursos/helvia2007#trabajo-no-presencial
+      - title: Recursos
+        url: cursos/helvia2007#recursos
+
 
 cursos:
   - title: OpenWebinars
