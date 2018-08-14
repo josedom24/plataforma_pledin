@@ -555,6 +555,30 @@ servicios2008:
       - title: Cortafuegos con iptables
         url: cursos/servicios2008#cortafuegos-con-iptables
 
+mv2006:
+  - title: Máquinas virtuales para la puesta en marcha de un portal educativo (2006) 
+    children:
+      - title: Máquinas Virtuales
+        url: cursos/mv2006#máquinas-virtuales
+      - title: Creación de una red virtual con DMZ y MZ
+        url: cursos/mv2006#creación-de-una-red-virtual-con-dmz-y-mz
+      - title: Cortafuegos con IPtables
+        url: cursos/mv2006#cortafuegos-con-iptables
+      - title: Servidor Apache. webalizer y awstats
+        url: cursos/mv2006#servidor-apache-webalizer-y-awstats
+      - title: Servidor ftp
+        url: cursos/mv2006#servidor-ftp
+      - title: Squid proxy-cache
+        url: cursos/mv2006#quid-proxy-cache
+      - title: Dnsmasq como servidor DNS para una RAL
+        url: cursos/mv2006#dnsmasq-como-servidor-dns-para-una-ral
+      - title: Páginas web dinámicas. Implantación del portal educativo
+        url: cursos/mv2006#páginas-web-dinámicas-implantación-del-portal-educativo
+      - title: Servidor de correo electrónico. Postfix
+        url: cursos/mv2006#servidor-de-correo-electrónico-postfix
+      - title: Seguridad
+        url: cursos/mv2006#seguridad
+        
 
 
 cursos:
