@@ -96,6 +96,10 @@ collections:
   mv2006:
     output: true
     permalink: /cursos/:path
+  tic2007:
+    output: true
+    permalink: /cursos/:path
+
 collections_dir: cursos
 
 
@@ -220,5 +224,17 @@ defaults:
       comments: false
       sidebar:
         nav: "mv2006"
+  - scope:
+      path: ""
+      type: tic2007
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "tic2007"
         
       
