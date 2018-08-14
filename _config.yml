@@ -65,12 +65,7 @@ author:
   twitter : "pledin_jd"
   location: "Utrera, Sevilla,ES" # null (default), "absolute or relative url to link to author home"
 
-
-
 collections:
-  cursos:
-    output: true
-    permalink: /:collection/:path
   python3:
     output: true
     permalink: /cursos/:path
@@ -105,18 +100,6 @@ collections_dir: cursos
 
 
 defaults:
-  - scope:
-      path: ""
-      type: cursos
-    values:
-      layout: single2
-      classes: wide
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "cursos"
   - scope:
       path: ""
       type: python3
