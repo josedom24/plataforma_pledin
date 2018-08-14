@@ -99,6 +99,9 @@ collections:
   tic2007:
     output: true
     permalink: /cursos/:path
+  helvia2007:
+    output: true
+    permalink: /cursos/:path
 
 collections_dir: cursos
 
@@ -236,5 +239,17 @@ defaults:
       comments: false
       sidebar:
         nav: "tic2007"
+  - scope:
+      path: ""
+      type: helvia2007
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "helvia2007"
         
       
