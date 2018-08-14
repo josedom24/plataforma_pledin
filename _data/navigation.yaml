@@ -578,7 +578,30 @@ mv2006:
         url: cursos/mv2006#servidor-de-correo-electrónico-postfix
       - title: Seguridad
         url: cursos/mv2006#seguridad
-        
+
+tic2007:
+  - title: Curso TIC - IES Gonzalo Nazareno (2007) 
+    children:
+      - title: Documentación General del Curso
+        url: cursos/tic2007#documentación-general-del-curso
+      - title: Motivación y presentación del proyecto GNU/Linux, Guadalinex, TIC, conocimiento libre,...
+        url: cursos/tic2007#motivación-y-presentación-del-proyecto-gnulinux-guadalinex-tic-conocimiento-libre-
+      - title: Conocimiento de los componentes hardware instalados en el centro
+        url: cursos/tic2007#conocimiento-de-los-componentes-hardware-instalados-en-el-centro
+      - title: Funcionamiento básico de un aula TIC
+        url: cursos/tic2007#funcionamiento-básico-de-un-aula-tic
+      - title: Recordatorio de algunos aspectos sobre Gudalinex
+        url: cursos/tic2007#recordatorio-de-algunos-aspectos-sobre-gudalinex
+      - title: Aplicaciones generales del sistema (Visión global)
+        url: cursos/tic2007#aplicaciones-generales-del-sistema-visión-global
+      - title: Estudio de las herramientas específicas de un centro TIC
+        url: cursos/tic2007#estudio-de-las-herramientas-específicas-de-un-centro-tic
+      - title: Presentación de los recursos y programa que nos ofrece Guadalinex para cada una de las asignaturas
+        url: cursos/tic2007#presentación-de-los-recursos-y-programa-que-nos-ofrece-guadalinex-para-cada-una-de-las-asignaturas
+      - title: Estrategias para preparar los contenidos de las distintas asignaturas utilizando las nuevas tecnologías
+        url: cursos/tic2007#estrategias-para-preparar-los-contenidos-de-las-distintas-asignaturas-utilizando-las-nuevas-tecnologías
+      - title: Trabajo no presencial
+        url: cursos/tic2007#trabajo-no-presencial
 
 
 cursos:
