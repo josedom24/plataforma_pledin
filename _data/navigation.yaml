@@ -1,14 +1,14 @@
 main:
   - title: "Inicio"
-    url: http://www2.josedomingo.org
+    url: https://www.josedomingo.org
   - title: "Blog"
-    url: http://www2.josedomingo.org/pledin/blog
+    url: https://www.josedomingo.org/pledin/blog
   - title: "Plataforma"
-    url: http://plataforma2.josedomingo.org
+    url: https://plataforma.josedomingo.org
   - title: "Módulos"
-    url: http://fp.josedomingo.org
+    url: #
   - title: "Presentación"
-    url: http://www2.josedomingo.org/pledin/about/
+    url: https://www.josedomingo.org/pledin/about/
 
 python3:
   - title: Curso Python3
