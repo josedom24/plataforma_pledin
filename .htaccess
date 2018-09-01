@@ -1,6 +1,8 @@
 Options FollowSymLinks MultiViews
 RewriteEngine On
 
+RewriteRule ^$ https://plataforma.josedomingo.org/pledin/ [L]
+
 RewriteCond %{QUERY_STRING} id=572$
 RewriteRule ^mod/resource/view.php$ https://plataforma.josedomingo.org/pledin/cursos/mv2006/files/temario.pdf? [R,L]
 RewriteCond %{QUERY_STRING} id=574$
