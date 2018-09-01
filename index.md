@@ -11,13 +11,21 @@ classes: wide
 
 Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está mantenida por [José Domingo Muñoz](https://www.josedomingo.org/pledin/about/) y aquí podéis encontrar cursos relacionados con el mundo informático y la educación. Puedes acceder también al [Blog PLEDIN](https://www.josedomingo.org/), donde encontrarás noticias y documentación relacionada con estos temas, y la página "módulos" donde estoy recopilando los contenidos de los distintos módulos que imparto en los ciclos formativos de informáticas del IES Gonzalo Nazareno. 
 
-## OpenWebinars
+## Otros cursos 
+
+Los cursos de las categorias: "Otros cursos", "IES Gonzalo Nazareno" y "Programación" todavía no están exportados a la nueva plataforma.
+
+## Cursos antiguos
+
+Los cursos más antiguos y desactualizados lo puedes encontrar en otra [plataforma](http://pledin.gnomio.com) que he creado.
+
+<!--## OpenWebinars
 
 * [Introducción a la programación con pseudocódigo (2018)](cursos/programacion/)
 * [Curso Apache2.4 (2018)](cursos/apache24/)
 * [Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)](cursos/flask/)
 * [Curso de python3 (2017)](cursos/python3/)
-
+-->
 ## Cloud Computing y OpenStack
 
 * [Curso de infraestructura Cloud con OpenStack. Universidad de Almería (2017) (github)](https://github.com/iesgn/curso-ual17)
