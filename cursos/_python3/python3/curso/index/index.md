@@ -12,7 +12,7 @@ Se trata de un lenguaje de programación multiparadigma, ya que soporta orientac
 Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/python-3/) en mayo de 2017.
 
 Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_python3).
-Todas las observaciones, mejoras y sugerncias son bienvenidas.
+Todas las observaciones, mejoras y sugerencias son bienvenidas.
 
 * [Presentación del curso](presentacion.pdf)
 
