@@ -19,13 +19,15 @@ Los cursos de las categorias: "Otros cursos", "IES Gonzalo Nazareno" y "Programa
 
 Los cursos más antiguos y desactualizados lo puedes encontrar en otra [plataforma](http://pledin.gnomio.com) que he creado.
 
-<!--## OpenWebinars
+## OpenWebinars
 
+<!--
 * [Introducción a la programación con pseudocódigo (2018)](cursos/programacion/)
 * [Curso Apache2.4 (2018)](cursos/apache24/)
 * [Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)](cursos/flask/)
-* [Curso de python3 (2017)](cursos/python3/)
 -->
+* [Curso de python3 (2017)](cursos/python3/)
+
 ## Cloud Computing y OpenStack
 
 * [Curso de infraestructura Cloud con OpenStack. Universidad de Almería (2017) (github)](https://github.com/iesgn/curso-ual17)
