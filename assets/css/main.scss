@@ -77,3 +77,13 @@ nav#site-nav
     width: auto;
 }
 
+
+.nav__list a {
+    display: block;
+      padding: 8px;
+      text-decoration: none;
+      font-size: 1.1em;
+  }
+  .nav__list a:hover {
+      background-color: #4d96eb;
+  }
