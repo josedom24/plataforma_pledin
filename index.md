@@ -22,7 +22,8 @@ Los cursos más antiguos y desactualizados lo puedes encontrar en otra [platafor
 ## OpenWebinars
 
 <!--
-* [Introducción a la programación con pseudocódigo (2018)](cursos/programacion/)-->>
+* [Introducción a la programación con pseudocódigo (2018)](cursos/programacion/)
+-->
 * [Curso Apache2.4 (2018)](cursos/apache24/)
 * [Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)](cursos/flask/)
 * [Curso de python3 (2017)](cursos/python3/)
