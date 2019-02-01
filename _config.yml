@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: PLEDIN 3.0
-email: josedom24@gmail.com
+email: josedom24@josedomingo.org
 description: >- # this means to ignore newlines until "baseurl:"
   Plataforma Educativa Informática. Página personal de José Domingo Muñoz
 baseurl: "/pledin" # the subpath of your site, e.g. /blog
