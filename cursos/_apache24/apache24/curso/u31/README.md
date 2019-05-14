@@ -42,11 +42,13 @@ Por ejemplo, por defecto tenemos activo el módulo `status` que nos permite ver 
 
  Por defecto de permite seguir los enlaces simbólicos dentro de nuestros Virtual Host. Esta funcionalidad puede traer consecuencias no deseables si por una mal configuración se filtran contenidos de ficheros que no deberían ser visibles para el servidor web. Por lo tanto en el fichero `/etc/apache2/apache2.conf` deberíamos tener:
 
- 	<Directory /var/www/>
+    ```
+    <Directory /var/www/>
         # Options Indexes FollowSymLinks 
         AllowOverride None
         Require all granted
 	</Directory>
+   ```
 
 Comentamos o quitamos la línea que permite mostrar el índice de ficheros y directorios y seguir enlaces simbólicos.
 
