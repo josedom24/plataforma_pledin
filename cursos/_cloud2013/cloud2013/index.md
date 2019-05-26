@@ -5,7 +5,7 @@ title: Jornadas Cloud Computing (2013)
 **CLOUD COMPUTING CON OPENSTACK COMO HERRAMIENTA DIDÁCTICA**
 
 * [Objetivos y contenidos de las jornadas](doc/Objetivos_y_contenidos_de_las_jornadas.html)
-* [Proyecto de innovación: Cloud Computing con OpenStack en educación](http://www.gonzalonazareno.org/cloud/)
+* [Proyecto de innovación: Cloud Computing con OpenStack en educación](http://informatica.gonzalonazareno.org/cloud/)
 
 ## 1ª SESIÓN: 26 de febrero
 

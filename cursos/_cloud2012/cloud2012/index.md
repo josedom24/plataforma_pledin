@@ -17,7 +17,7 @@ Los ficheros fuentes de todo el material generado en este proyecto en formato Do
 
 Puedes acceder a los contenidos de este curso mediante una página html:
 
-* [www.gonzalonazareno.org/cloud](http://www.gonzalonazareno.org/cloud)
+* [informatica.gonzalonazareno.org/cloud](http://informatica.gonzalonazareno.org/cloud)
 
 ## Presentación del proyecto
 
