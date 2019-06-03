@@ -18,7 +18,7 @@ Todas las observaciones, mejoras y sugerencias son bienvenidas.-->
 * [Presentación del curso](presentacion.pdf)
 * [Transparecias del curso](curso_programacion_python3.pdf)
 
-ntroducción a la programación
+    ## Introducción a la programación
 
 1. [Análisis de problemas y diseño de algoritmos](curso/u1)
 2. [Introducción a los lenguajes de programación](curso/u2)
