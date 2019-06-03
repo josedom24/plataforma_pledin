@@ -416,13 +416,13 @@ programacion:
   - title: "Pseudocódigo: Arreglos"
     children:
       - title: "Estructuras de datos: Arreglos (array)"
-        uel: curso/u26
+        url: cursos/programacion/curso/u26
       - title: "Arreglos unidimensionales: Vectores"
-        uel: curso/u27
+        url: cursos/programacion/curso/u27
       - title: "Arreglos multidimensionales: Tablas"
-        uel: curso/u28
+        url: cursos/programacion/curso/u28
       - title: Ejercicios de arreglos
-        uel: curso/u29
+        url: cursos/programacion/curso/u29
   - title: "Pseudocódigo: Programación estructurada"
     children:
       - title: Programación estructurada
