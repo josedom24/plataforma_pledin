@@ -18,19 +18,19 @@ Todas las observaciones, mejoras y sugerencias son bienvenidas.-->
 * [Presentación del curso](presentacion.pdf)
 * [Transparecias del curso](curso_programacion_python3.pdf)
 
-### Introducción a la programación
+**Introducción a la programación**
 
 1. [Análisis de problemas y diseño de algoritmos](curso/u1)
 2. [Introducción a los lenguajes de programación](curso/u2)
 3. [Introducción a python3](curso/u3)
 
-### Introducción a python3
+**Introducción a python3**
 
 4. [Instalación de python3](curso/u4)
 5. [Escribir y ejecutar programas python](curso/u5)
 6. [Mi primer programa en python3](curso/u6)
 
-### Tipos de datos básicos
+**Tipos de datos básicos**
 
 7. [Datos y tipos de datos](curso/u7)
 8. [Tipos de datos numéricos](curso/u8)
@@ -41,7 +41,7 @@ Todas las observaciones, mejoras y sugerencias son bienvenidas.-->
 13. [Pasando de pseudocódigo a python3](curso/u13)
 14. [Ejercicios estructura secuencial](curso/u14)
 
-    ## Estructuras de control
+**Estructuras de control**
 
 15. [Estructura de control: Alternativas](curso/u15)
 16. [Ejercicios estructura alternativas](curso/u16)
@@ -50,7 +50,7 @@ Todas las observaciones, mejoras y sugerencias son bienvenidas.-->
 19. [Uso específico de variables: contadores, acumuladores e indicadores](curso/u19)
 20. [Ejercicios estructuras repetitivas](curso/u20)
 
-    ## Tipos de datos secuencias
+**Tipos de datos secuencias**
 
 21. [Tipo de datos cadenas de caracteres](curso/u21)
 22. [Las cadenas de caracteres son inmutables](curso/u22)
@@ -62,28 +62,28 @@ Todas las observaciones, mejoras y sugerencias son bienvenidas.-->
 28. [Tipo de datos secuencia: Tuplas](curso/u28)
 29. [Ejercicios de listas](curso/u29)
 
-    ## Tipos de datos mapas
+**Tipos de datos mapas**
 
 30. [Tipo de datos mapa: diccionario](curso/u30)
 31. [Métodos principales de diccionarios](curso/u31)
 32. [Ejercicios de diccionarios](curso/u32)
 
-    ## Excepciones
+**Excepciones**
 
 33. [Excepciones](curso/u33)
 
-    ## Introducción a los módulos
+**Introducción a los módulos**
 
 34. [Introducción a los módulos](curso/u34)
 
-    ## Programación estructurada
+**Programación estructurada**
 
 35. [Introducción a las funciones](curso/u35)
 36. [Funciones recursivas](curso/u36)
 37. [Ejercicios con funciones](curso/u37)
 38. [Más ejercicios](curso/u38)
 
-    ## Programación orientada a objetos
+**Programación orientada a objetos**
 
 39. [Introducción a la programación orientada a objetos](curso/u39)
 40. [Encapsulamiento en la programación orientada a objetos](curso/u40)
