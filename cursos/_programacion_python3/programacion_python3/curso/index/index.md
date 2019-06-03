@@ -18,19 +18,19 @@ Todas las observaciones, mejoras y sugerencias son bienvenidas.-->
 * [Presentación del curso](presentacion.pdf)
 * [Transparecias del curso](curso_programacion_python3.pdf)
 
-    ## Introducción a la programación
+### Introducción a la programación
 
 1. [Análisis de problemas y diseño de algoritmos](curso/u1)
 2. [Introducción a los lenguajes de programación](curso/u2)
 3. [Introducción a python3](curso/u3)
 
-    ## Introducción a python3
+### Introducción a python3
 
 4. [Instalación de python3](curso/u4)
 5. [Escribir y ejecutar programas python](curso/u5)
 6. [Mi primer programa en python3](curso/u6)
 
-    ## Tipos de datos básicos
+### Tipos de datos básicos
 
 7. [Datos y tipos de datos](curso/u7)
 8. [Tipos de datos numéricos](curso/u8)
