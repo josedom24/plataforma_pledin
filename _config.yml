@@ -108,7 +108,7 @@ collections_dir: cursos
 
 
 defaults:
-   - scope:
+  - scope:
       path: ""
       type: programacion_python3
     values:
