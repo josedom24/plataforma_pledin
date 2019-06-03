@@ -10,6 +10,11 @@ main:
   - title: "Presentación"
     url: https://www.josedomingo.org/pledin/about/
 
+programacion_python3:
+  - title: Introducción a la programación con python3
+    children:
+      - title: Índice
+        url: cursos/programacion_python3/
 python3:
   - title: Curso Python3
     children:
