@@ -11,14 +11,6 @@ classes: wide
 
 Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está mantenida por [José Domingo Muñoz](https://www.josedomingo.org/pledin/about/) y aquí podéis encontrar cursos relacionados con el mundo informático y la educación. Puedes acceder también al [Blog PLEDIN](https://www.josedomingo.org/), donde encontrarás noticias y documentación relacionada con estos temas, y la página "módulos" donde estoy recopilando los contenidos de los distintos módulos que imparto en los ciclos formativos de informáticas del IES Gonzalo Nazareno. 
 
-## Otros cursos 
-
-Los cursos de las categorias: "Otros cursos", "IES Gonzalo Nazareno" y "Programación" todavía no están exportados a la nueva plataforma.
-
-## Cursos antiguos
-
-Los cursos más antiguos y desactualizados lo puedes encontrar en otra [plataforma](http://pledin.gnomio.com) que he creado.
-
 ## OpenWebinars
 
 * [Introducción a la programación con pseudocódigo (2018)](cursos/programacion/)
@@ -44,3 +36,7 @@ Los cursos más antiguos y desactualizados lo puedes encontrar en otra [platafor
 * [Curso TIC - IES Gonzalo Nazareno (2007)](cursos/tic2007)
 * [Curso HELVIA - IES Gonzalo Nazareno (2007)](cursos/helvia2007)
 * [Máquinas virtuales para la puesta en marcha de un portal educativo (2006)](cursos/mv2006)
+
+## Cursos antiguos
+
+Los cursos más antiguos y desactualizados lo puedes encontrar en otra [plataforma](http://pledin.gnomio.com) que he creado.
