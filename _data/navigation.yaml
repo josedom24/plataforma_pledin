@@ -17,7 +17,6 @@ programacion_python3:
         url: cursos/programacion_python3/
   - title: "Introducción a la programación"
     children:
-
       - title: "Análisis de problemas y diseño de algoritmos"
         url: curso/u01
       - title: "Introducción a los lenguajes de programación"
@@ -50,7 +49,7 @@ programacion_python3:
          url: curso/u13
        - title: "Ejercicios estructura secuencial"
          url: curso/u14
-    - title: "Estructuras de control"
+  - title: "Estructuras de control"
     children:
       - title: "Estructura de control: Alternativas"
         url: curso/u15
@@ -64,7 +63,6 @@ programacion_python3:
         url: curso/u19
       - title: "Ejercicios estructuras repetitivas"
         url: curso/u20
-
   - title: "Tipos de datos secuencias"
     children:
 
@@ -86,7 +84,6 @@ programacion_python3:
         url: curso/u28
       - title: "Ejercicios de listas"
         url: curso/u29
-
   - title: "Tipos de datos mapas"
     children:
       - title: "Tipo de datos mapa: diccionario"
@@ -95,17 +92,14 @@ programacion_python3:
         url: curso/u31
       - title: "Ejercicios de diccionarios"
         url: curso/u32
-
   - title: "Excepciones"
     children:
       - title: "Excepciones"
         url: curso/u33
-
   - title: "Introducción a los módulos"
     children:
       - title: "Introducción a los módulos"
         url: curso/u34
-
   - title: "Programación estructurada"
     children:
       - title: "Introducción a las funciones"
@@ -116,7 +110,6 @@ programacion_python3:
         url: curso/u37
       - title: "Más ejercicios"
         url: curso/u38
-
   - title: "Programación orientada a objetos"
     children:
       - title: "Introducción a la programación orientada a objetos"
