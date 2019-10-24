@@ -3,7 +3,7 @@ title: Curso de introducción a la programación con python3
 permalink: /cursos/programacion_python3/index.html
 ---
 
-![python3](../../_python3/python3/img/python.png)
+![python3](img/python.png)
 
 En este curso aprenderás los fundamentos del lenguaje de programación Python 3 desde cero, pensado para no programadores que se quieran iniciar en este mundo.
 
