@@ -1,8 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-
 layout: single
 author_profile: true
 classes: wide
@@ -14,6 +10,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## OpenWebinars
 
+* [Introducción a la programación con python3 (2019)](cursos/programacion_python3/)
 * [Introducción a la programación con pseudocódigo (2018)](cursos/programacion/)
 * [Curso Apache2.4 (2018)](cursos/apache24/)
 * [Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)](cursos/flask/)
