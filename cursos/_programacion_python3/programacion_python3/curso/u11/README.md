@@ -2,7 +2,6 @@
 title: "Entrada y salida estándar"
 permalink: /cursos/programacion_python3/curso/u11/index.html
 ---
-# 
 
 ## Función input
 

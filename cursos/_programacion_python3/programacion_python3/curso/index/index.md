@@ -3,20 +3,20 @@ title: Curso de introducción a la programación con python3
 permalink: /cursos/programacion_python3/index.html
 ---
 
-<!--![pseint](img/pseint.png)
+![python3](../../_python3/python3/img/python.png)
 
-Un algoritmo es un conjunto de acciones que especifican la secuencia de operaciones realizar, en orden, para resolver un problema. El pseudocódigo, nos permite una aproximación del algoritmo al lenguaje natural y por tanto un a redacción rápida del mismo. En este curso se presenta los fundamentos para analizar problemas y resolverlos a través de pseudocódigo.
+En este curso aprenderás los fundamentos del lenguaje de programación Python 3 desde cero, pensado para no programadores que se quieran iniciar en este mundo.
 
-Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/introduccion-programacion/) en mayo de 2018.
+El lenguaje de programación Python es uno de los más valorados por la comunidad de programadores, además de uno de los que más crecen en los últimos años. Este curso de Python está basado en la versión 3 del mismo, para que conozcas todas sus novedades y aprendas a utilizarlas en tus futuros desarrollos.
 
-Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_programacion).
-Todas las observaciones, mejoras y sugerencias son bienvenidas.-->
+Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/python-desde-cero/) en febrero de 2019.
+
+Puedes obtener todo el contenido del curso en el repositorio [GitLab](https://gitlab.com/josedom24/curso_programacion_python3).
+Todas las observaciones, mejoras y sugerencias son bienvenidas.
 
 ## Unidades
 
-
-* [Presentación del curso](presentacion.pdf)
-* [Transparecias del curso](curso_programacion_python3.pdf)
+* [Transparencias del curso](https://docs.google.com/presentation/d/e/2PACX-1vQFNORQfZymIauAJgFZyLK_FdsitQe9ZUFoF7G-0CiwnmNUzFoJSBLm_Sa8kmxlBa1v3l5aaaMzFNO8/pub?start=true&loop=false&delayms=3000#slide=id.p1)
 
     **Introducción a la programación**
 

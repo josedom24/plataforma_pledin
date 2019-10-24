@@ -2,7 +2,6 @@
 title: "Tipos de datos numéricos"
 permalink: /cursos/programacion_python3/curso/u08/index.html
 ---
-# 
 
 Python3 trabaja con varios tipos numéricos, pero en este curso sólo vamos a utilizar dos:
 
