@@ -20,21 +20,21 @@ Todas las observaciones, mejoras y sugerencias son bienvenidas.-->
 
     **Introducción a la programación**
 
-1. [Análisis de problemas y diseño de algoritmos](curso/u1)
-2. [Introducción a los lenguajes de programación](curso/u2)
-3. [Introducción a python3](curso/u3)
+1. [Análisis de problemas y diseño de algoritmos](curso/u01)
+2. [Introducción a los lenguajes de programación](curso/u02)
+3. [Introducción a python3](curso/u03)
 
     **Introducción a python3**
 
-4. [Instalación de python3](curso/u4)
-5. [Escribir y ejecutar programas python](curso/u5)
-6. [Mi primer programa en python3](curso/u6)
+4. [Instalación de python3](curso/u04)
+5. [Escribir y ejecutar programas python](curso/u05)
+6. [Mi primer programa en python3](curso/u06)
 
     **Tipos de datos básicos**
 
-7. [Datos y tipos de datos](curso/u7)
-8. [Tipos de datos numéricos](curso/u8)
-9. [Tipo de datos booleano](curso/u9)
+7. [Datos y tipos de datos](curso/u07)
+8. [Tipos de datos numéricos](curso/u08)
+9. [Tipo de datos booleano](curso/u09)
 10. [Trabajando con variables](curso/u10)
 11. [Entrada y salida estándar](curso/u11)
 12. [Introducción a las cadenas de caracteres](curso/u12)
