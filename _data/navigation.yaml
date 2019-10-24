@@ -39,16 +39,16 @@ programacion_python3:
         url: curso/u08
       - title: "Tipo de datos booleano"
         url: curso/u09
-       - title: "Trabajando con variables"
-         url: curso/u10
-       - title: "Entrada y salida estándar"
-         url: curso/u11
-       - title: "Introducción a las cadenas de caracteres"
-         url: curso/u12
-       - title: "Pasando de pseudocódigo a python3"
-         url: curso/u13
-       - title: "Ejercicios estructura secuencial"
-         url: curso/u14
+      - title: "Trabajando con variables"
+        url: curso/u10
+      - title: "Entrada y salida estándar"
+        url: curso/u11
+      - title: "Introducción a las cadenas de caracteres"
+        url: curso/u12
+      - title: "Pasando de pseudocódigo a python3"
+        url: curso/u13
+      - title: "Ejercicios estructura secuencial"
+        url: curso/u14
   - title: "Estructuras de control"
     children:
       - title: "Estructura de control: Alternativas"
