@@ -87,3 +87,7 @@ nav#site-nav
   .nav__list a:hover {
       background-color: #78ace9;
   }
+
+  a:link, a:visited, a:active {
+    text-decoration:none;
+}
