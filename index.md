@@ -28,6 +28,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## Servicios y TIC
 
+* [Introducción al uso de la plataforma moodle (2020)](cursos/moodle2020)
 * [Servicios en GNU/Linux (Nivel Intermedio) (2011)](cursos/servicios2011)
 * [Servicios en GNU/Linux. Portal Educativo (2010)](cursos/servicios2010)
 * [Introducción a los Servicios en GNU/Linux (2008)](cursos/servicios2008)
