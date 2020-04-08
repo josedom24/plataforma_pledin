@@ -29,7 +29,7 @@ Este curso surge como una necesidad formativa expresada por algunos profesores d
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/gwt76bxIKMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Actividades: Foro
+### Actividades: Foros
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/jz4EnD2vbPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

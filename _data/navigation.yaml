@@ -10,6 +10,16 @@ main:
   - title: "Presentación"
     url: https://www.josedomingo.org/pledin/about/
 
+moodle2020:
+  - title: "Introducción al uso de la plataforma moodle"
+    children:
+      - title: "Estructura de un curso moodle"
+      - title: "Gestión de usuarios"
+      - title: "Añadir recursos: ficheros y enlaces"
+      - title: "Actividades: Tareas"
+      - title: "Actividades: Foros"
+      - title: "Añadir recursos: Páginas y Etiquetas"
+
 programacion_python3:
   - title: "Introducción a la programación con python3"
     children:
