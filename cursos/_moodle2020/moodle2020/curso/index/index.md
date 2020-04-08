@@ -1,6 +1,6 @@
 ---
 title: Curso de introducción al uso de la plataforma moodle
-permalink: /cursos/moodle/index.html
+permalink: /cursos/moodle2020/index.html
 ---
 
 ![moodle](img/moodle.png)
@@ -15,14 +15,24 @@ Este curso surge como una necesidad formativa expresada por algunos profesores d
 
 ### Estructura de un curso moodle
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i95Ry6RveGU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/i95Ry6RveGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Gestión de usuarios
 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/4RYhG3JkRTg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Añadir recursos: ficheros y enlaces
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/i95Ry6RveGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Actividades: Tareas
 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/gwt76bxIKMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Actividades: Foro
 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/jz4EnD2vbPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Añadir recursos: Páginas y Etiquetas
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/z7DluNamXyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

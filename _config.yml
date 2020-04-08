@@ -64,7 +64,7 @@ author:
   location: "Utrera, Sevilla,ES" # null (default), "absolute or relative url to link to author home"
 
 collections:
-  moodle:
+  moodle2020:
     output: true
     permalink: /cursos/:path
   openshift:
@@ -116,7 +116,7 @@ collections_dir: cursos
 defaults:
   - scope:
       path: ""
-      type: moodle
+      type: moodle2020
     values:
       layout: single
       classes: wide
@@ -125,7 +125,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "moodle"
+        nav: "moodle2020"
   - scope:
       path: ""
       type: openshift
