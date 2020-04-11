@@ -16,11 +16,11 @@ Todas las observaciones, mejoras y sugerencias son bienvenidas.-->
 
 ## Unidades
 
-    **Bloque 1: Introducción a PaaS**
+### Bloque 1: Introducción a PaaS
 
 1. [Introducción a PaaS](curso/u01)
 
-    **Bloque 2: Contenedores. Docker**
+### Bloque 2: Contenedores. Docker
 
 2. [Desplegando nuestras aplicaciones en contenedores](curso/u02)
 3. [Introducción a docker](curso/u03)
