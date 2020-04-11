@@ -16,8 +16,6 @@ Todas las observaciones, mejoras y sugerencias son bienvenidas.-->
 
 ## Unidades
 
-0. [Presentación del curso](curso/u0/u0.pdf)
-
     **Bloque 1: Introducción a PaaS**
 
 1. [Introducción a PaaS](curso/u01)

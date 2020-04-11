@@ -15,6 +15,8 @@ Gestionamos un cluster:
 
 ## Recursos de Kubernetes
 
+![recursos](img/recursos.png)
+
 * **Pods**: La unidad mínima de computación, permite ejecutar contenedores. Representa un conjunto de contenedores y almacenamiento compartido que comparte una única IP.
 * **ReplicaSet**: Asegura que siempre se ejecute un número de réplicas de un pod determinado. Nos proporciona las siguientes características:
     * Que no haya caída del servicio
