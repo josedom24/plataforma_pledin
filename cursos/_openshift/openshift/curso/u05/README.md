@@ -2,7 +2,6 @@
 title: "Persistencia de la información en docker"
 permalink: /cursos/openshift/curso/u05/index.html
 ---
-# 
 
 ## Uso de volúmenes persistentes
 
