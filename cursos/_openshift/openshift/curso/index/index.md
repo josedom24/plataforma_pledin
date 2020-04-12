@@ -3,24 +3,24 @@ title: Curso de OpenShift
 permalink: /cursos/openshift/index.html
 ---
 
-<!--![python3](img/python.png)
+![os](img/os.jpg)
 
-En este curso aprenderás los fundamentos del lenguaje de programación Python 3 desde cero, pensado para no programadores que se quieran iniciar en este mundo.
+En este curso aprenderás a desplegar servicios con OpenShift desde cero y ampliar tus conocimientos sobre Cloud Computing y la capa de Plataforma como Servicio PaaS.
 
-El lenguaje de programación Python es uno de los más valorados por la comunidad de programadores, además de uno de los que más crecen en los últimos años. Este curso de Python está basado en la versión 3 del mismo, para que conozcas todas sus novedades y aprendas a utilizarlas en tus futuros desarrollos.
+Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/openshift/) en mayo de 2019.
 
-Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/python-desde-cero/) en febrero de 2019.
-
-Puedes obtener todo el contenido del curso en el repositorio [GitLab](https://gitlab.com/josedom24/curso_programacion_python3).
-Todas las observaciones, mejoras y sugerencias son bienvenidas.-->
+Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_openshift).
+Todas las observaciones, mejoras y sugerencias son bienvenidas.
 
 ## Unidades
 
-### Bloque 1: Introducción a PaaS
+* [Presentación del curso](curso/u0/u0.pdf)
+
+    **Bloque 1: Introducción a PaaS**
 
 1. [Introducción a PaaS](curso/u01)
-
-### Bloque 2: Contenedores. Docker
+    
+    **Bloque 2: Contenedores. Docker**
 
 2. [Desplegando nuestras aplicaciones en contenedores](curso/u02)
 3. [Introducción a docker](curso/u03)
