@@ -23,7 +23,7 @@ Este curso surge como una necesidad formativa expresada por algunos profesores d
 
 ### Añadir recursos: ficheros y enlaces
 
-<iframe width="400" height="225" src="https://www.youtube.com/watch?v=8ne4SP9HilE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/8ne4SP9HilE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Actividades: Tareas
 
