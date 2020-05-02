@@ -25,7 +25,8 @@ moodle2020:
         url: cursos/moodle2020/#actividades-foros
       - title: "Añadir recursos: Páginas y Etiquetas"
         url: cursos/moodle2020/#añadir-recursos-páginas-y-etiquetas
-
+      - title: "Actividades: Cuestionarios"
+        url: cursos/moodle2020/#actividades-cuestionarios
 openshift:
   - title: "Curso de OpenShift"
     children:
