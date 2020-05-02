@@ -29,6 +29,11 @@ Este curso surge como una necesidad formativa expresada por algunos profesores d
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/gwt76bxIKMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+##### Corrección de tareas mediante anotaciones PDF
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/RssSwcq7oyI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### Actividades: Foros
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/jz4EnD2vbPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -36,3 +41,18 @@ Este curso surge como una necesidad formativa expresada por algunos profesores d
 ### Añadir recursos: Páginas y Etiquetas
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/z7DluNamXyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Actividades: Cuestionarios
+
+#### Banco de preguntas
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/y6AHb3l6COs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Creación de custionarios
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/ZcbvEyCH9EM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Añadir preguntas a los cuestionarios
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/xhdw9DeBOug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
