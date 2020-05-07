@@ -10,6 +10,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## OpenWebinars
 
+* [Curso de Openshift (2019)](cursos/openshift/)
 * [Introducción a la programación con python3 (2019)](cursos/programacion_python3/)
 * [Introducción a la programación con pseudocódigo (2018)](cursos/programacion/)
 * [Curso Apache2.4 (2018)](cursos/apache24/)
