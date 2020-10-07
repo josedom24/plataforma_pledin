@@ -17,7 +17,7 @@ Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://gi
 
     **Introducción a los servidores web**
 
-1. [Protocolo HTTP](curso/u10) 
+1. [Protocolo HTTP](curso/u01) 
 2. [Introducción al servidor web Apache 2.4](curso/u02)
 3. [Instalación del servidor web Apache 2.4](curso/u03)
 4. [Estructura de los ficheros de configuración](curso/u04)

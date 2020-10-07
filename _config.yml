@@ -64,6 +64,12 @@ author:
   location: "Utrera, Sevilla,ES" # null (default), "absolute or relative url to link to author home"
 
 collections:
+  moodle2020:
+    output: true
+    permalink: /cursos/:path
+  openshift:
+    output: true
+    permalink: /cursos/:path
   programacion_python3:
     output: true
     permalink: /cursos/:path
@@ -108,6 +114,30 @@ collections_dir: cursos
 
 
 defaults:
+  - scope:
+      path: ""
+      type: moodle2020
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "moodle2020"
+  - scope:
+      path: ""
+      type: openshift
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "openshift"
   - scope:
       path: ""
       type: programacion_python3

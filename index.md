@@ -10,6 +10,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## OpenWebinars
 
+* [Curso de Openshift (2019)](cursos/openshift/)
 * [Introducción a la programación con python3 (2019)](cursos/programacion_python3/)
 * [Introducción a la programación con pseudocódigo (2018)](cursos/programacion/)
 * [Curso Apache2.4 (2018)](cursos/apache24/)
@@ -28,6 +29,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## Servicios y TIC
 
+* [Introducción al uso de la plataforma moodle (2020)](cursos/moodle2020)
 * [Servicios en GNU/Linux (Nivel Intermedio) (2011)](cursos/servicios2011)
 * [Servicios en GNU/Linux. Portal Educativo (2010)](cursos/servicios2010)
 * [Introducción a los Servicios en GNU/Linux (2008)](cursos/servicios2008)
