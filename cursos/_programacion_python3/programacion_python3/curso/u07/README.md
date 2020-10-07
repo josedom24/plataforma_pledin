@@ -66,7 +66,7 @@ La precedencia de operadores es la siguiente:
 4. Multiplicar, dividir, módulo y división entera (`*` `%` `//` )
 5. Suma y resta (`+` `-`)
 6. Operador binario AND (&)
-7. Operadores binario OR y XOR (^ |)
+7. Operadores binario OR y XOR (`^` `|`)
 8. Operadores de comparación (<= < > >=)
 9. Operadores de igualdad (<> == !=)
 10. Operadores de asignación (`=`)
