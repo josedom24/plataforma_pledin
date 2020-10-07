@@ -2,7 +2,6 @@
 title: "Tipo de datos booleano y expresiones lógicas"
 permalink: /cursos/programacion_python3/curso/u09/index.html
 ---
-# 
 
 ## Tipo booleano
 
