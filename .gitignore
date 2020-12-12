@@ -3,4 +3,3 @@ _site
 .jekyll-metadata
 post.sh
 __pycache__
-update.sh
