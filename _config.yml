@@ -120,6 +120,18 @@ collections_dir: cursos
 defaults:
   - scope:
       path: ""
+      type: curso_cpp1
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "curso_cpp1"
+  - scope:
+      path: ""
       type: moodle2020
     values:
       layout: single
