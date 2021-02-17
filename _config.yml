@@ -67,6 +67,9 @@ collections:
   curso_cpp1:
     output: true
     permalink: /cursos/:path
+  curso_cpp2:
+    output: true
+    permalink: /cursos/:path
 
   moodle2020:
     output: true
@@ -130,6 +133,18 @@ defaults:
       comments: false
       sidebar:
         nav: "curso_cpp1"
+  - scope:
+      path: ""
+      type: curso_cpp2
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "curso_cpp2"
   - scope:
       path: ""
       type: moodle2020
