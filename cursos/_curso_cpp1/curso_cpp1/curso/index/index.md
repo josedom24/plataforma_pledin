@@ -27,8 +27,9 @@ Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://gi
 5. [Estructura del programa](curso/u05)
 6. [Compilación y ejecución de programas](curso/u06)
 
-    **Tipos de datos básicos**
+### Tipos de datos básicos
 
+{:start="7"}
 7. [Datos y tipos de datos](curso/u07)
 8. [Literales y constantes](curso/u08)
 9. [Variables. Operadores de asignación.](curso/u09)
