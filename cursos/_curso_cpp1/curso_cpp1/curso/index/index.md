@@ -3,13 +3,14 @@ title: "Curso de C++: Introducción a C++"
 permalink: /cursos/curso_cpp1/index.html
 ---
 
-<!--
+![c++](img/c++.png)
 
-El servidor HTTP Apache es un servidor web HTTP de código abierto, para plataformas Unix (BSD, GNU/Linux, etc.), Microsoft Windows, Macintosh y otras, que implementa el protocolo HTTP/1.12​ y la noción de sitio virtual.
 
-Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/servidor-apache/) en febrero de 2018.
+Realizando este curso de introducción a C++ aprenderás las características y los fundamentos de este lenguaje de programación, ya que es un curso de C++ pensado para todos los que quieran comenzar a aprender este interesante lenguaje.
 
-Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_apache24).
+Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/cpp-introduccion/) en septiembre de 2020.
+
+Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_cplusplus).
 -->
 
 ## Unidades
