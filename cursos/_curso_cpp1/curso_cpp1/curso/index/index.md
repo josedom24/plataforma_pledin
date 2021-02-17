@@ -14,19 +14,19 @@ Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://gi
 
 ## Unidades
 
-## Introducción a la programación
+    **Introducción a la programación**
 
 1. [Análisis de problemas y diseño de algoritmos](curso/u01)
 2. [Introducción a los lenguajes de programación](curso/u02)
 3. [Introducción a C++](curso/u03)
 
-## Introducción a C++
+    **Introducción a C++**
 
 4. [Instalación del IDE Zinjai](curso/u04)
 5. [Estructura del programa](curso/u05)
 6. [Compilación y ejecución de programas](curso/u06)
 
-## Tipos de datos básicos
+    **Tipos de datos básicos**
 
 7. [Datos y tipos de datos](curso/u07)
 8. [Literales y constantes](curso/u08)
