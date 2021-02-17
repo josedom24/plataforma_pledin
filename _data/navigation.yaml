@@ -10,6 +10,54 @@ main:
   - title: "Presentación"
     url: https://www.josedomingo.org/pledin/about/
 
+
+curso_cpp2:
+  - title: "Curso C++: Estructuras de control y tipos de datos"
+    children:
+      - title: Índice
+        url: cursos/curso_cpp2/
+  - title: Estructuras alternativas
+    children:
+      - title: "Tipo de datos booleano. Operadores relacionales y lógicos"
+        url: cursos/curso_cpp2/curso/u01/
+      - title: "Estructuras alternativas: if"
+        url: cursos/curso_cpp2/curso/u02/
+      - title: "Estructuras alternativas: switch"
+        url: cursos/curso_cpp2/curso/u03/
+      - title: "Ejercicios estructuras alternativas"
+        url: cursos/curso_cpp2/curso/u04/
+  - title: Estructuras repetitivas
+    children:
+      - title: "Estructuras repetitivas: while"
+        url: cursos/curso_cpp/curso/u05/
+      - title: "Estructuras repetitivas: do-while"
+        url: cursos/curso_cpp/curso/u06/
+      - title: "Estructuras repetitivas: for"
+        url: cursos/curso_cpp/curso/u07/
+      - title: "Uso específico de variables: contadores, acumuladores e indicadores"
+        url: cursos/curso_cpp/curso/u08/
+      - title: "Ejercicios estructuras repetitivas"
+        url: cursos/curso_cpp/curso/u09/
+  - title: Cadenas de caracteres
+    children:
+      - title: "Cadenas de caracteres con la clase string"
+        url: cursos/curso_cpp2/curso/u10/
+      - title: "Ejercicios cadenas de caracteres"
+        url: cursos/curso_cpp2/curso/u11/
+  - title: Tipos de datos complejos: Arrays
+    children:
+      - title: "Introducción a los arrays"
+        url: cursos/curso_cpp2/curso/u12/
+      - title: "Arrays unidimensionales: Vectores"
+        url: cursos/curso_cpp2/curso/u13/
+      - title: "Cadenas de caracteres estilo C"
+        url: cursos/curso_cpp2/curso/u14/
+      - title: "Arrays multidimensionales: Tablas"
+        url: cursos/curso_cpp2/curso/u15/
+      - title: "Ejercicios de Arrays"
+        url: cursos/curso_cpp2/curso/u16/
+
+
 curso_cpp1:
   - title: Curso Introducción a cpp
     children:
