@@ -16,7 +16,7 @@ curso_cpp2:
     children:
       - title: Índice
         url: cursos/curso_cpp2/
-  - title: Estructuras alternativas
+  - title: "Estructuras alternativas"
     children:
       - title: "Tipo de datos booleano. Operadores relacionales y lógicos"
         url: cursos/curso_cpp2/curso/u01/
@@ -26,7 +26,7 @@ curso_cpp2:
         url: cursos/curso_cpp2/curso/u03/
       - title: "Ejercicios estructuras alternativas"
         url: cursos/curso_cpp2/curso/u04/
-  - title: Estructuras repetitivas
+  - title: "Estructuras repetitivas"
     children:
       - title: "Estructuras repetitivas: while"
         url: cursos/curso_cpp/curso/u05/
@@ -38,13 +38,13 @@ curso_cpp2:
         url: cursos/curso_cpp/curso/u08/
       - title: "Ejercicios estructuras repetitivas"
         url: cursos/curso_cpp/curso/u09/
-  - title: Cadenas de caracteres
+  - title: "Cadenas de caracteres"
     children:
       - title: "Cadenas de caracteres con la clase string"
         url: cursos/curso_cpp2/curso/u10/
       - title: "Ejercicios cadenas de caracteres"
         url: cursos/curso_cpp2/curso/u11/
-  - title: Tipos de datos complejos: Arrays
+  - title: "Tipos de datos complejos: Arrays"
     children:
       - title: "Introducción a los arrays"
         url: cursos/curso_cpp2/curso/u12/
