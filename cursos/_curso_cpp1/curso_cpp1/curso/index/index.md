@@ -14,7 +14,9 @@ Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://gi
 
 ## Unidades
 
-**Introducción a la programación**
+0. Introducción al curso
+
+    **Introducción a la programación**
 
 1. [Análisis de problemas y diseño de algoritmos](curso/u01)
 2. [Introducción a los lenguajes de programación](curso/u02)
