@@ -11,7 +11,7 @@ Realizando este curso de introducción a C++ aprenderás las características y 
 Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/cpp-introduccion/) en septiembre de 2020.
 
 Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_cplusplus).
--->
+
 
 ## Unidades
 
