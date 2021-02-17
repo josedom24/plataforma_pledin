@@ -16,39 +16,39 @@ curso_cpp1:
     children:
 
       - title: "Análisis de problemas y diseño de algoritmos"
-        url: cursos/curso_cpp1/u01/
+        url: cursos/curso_cpp1/curso/u01/
       - title: "Introducción a los lenguajes de programación"
-        url: cursos/curso_cpp1/u02/
+        url: cursos/curso_cpp1/curso/u02/
       - title: "Introducción a C++"
-        url: cursos/curso_cpp1/u03/
+        url: cursos/curso_cpp1/curso/u03/
 
   - title: "Introducción a C++"
     children:
       - title: "Instalación del IDE Zinjai"
-        url: cursos/curso_cpp1/u04/
+        url: cursos/curso_cpp1/curso/u04/
       - title: "Estructura del programa"
-        url: cursos/curso_cpp1/u05/
+        url: cursos/curso_cpp1/curso/u05/
       - title: "Compilación y ejecución de programas"
-        url: cursos/curso_cpp1/u06/
+        url: cursos/curso_cpp1/curso/u06/
 
   - title: "Tipos de datos básicos"
     children:
       - title: "Datos y tipos de datos"
-        url: cursos/curso_cpp1/u07/
+        url: cursos/curso_cpp1/curso/u07/
       - title: "Literales y constantes"
-        url: cursos/curso_cpp1/u08/
+        url: cursos/curso_cpp1/curso/u08/
       - title: "Variables. Operadores de asignación."
-        url: cursos/curso_cpp1/u09/
+        url: cursos/curso_cpp1/curso/u09/
       - title: "Tipos de datos numéricos. Operadores aritméticos"
-        url: cursos/curso_cpp1/u10/
+        url: cursos/curso_cpp1/curso/u10/
       - title: "Introducción a las cadenas de caracteres"
-        url: cursos/curso_cpp1/u11/
+        url: cursos/curso_cpp1/curso/u11/
       - title: "Entrada y salida estándar"
-        url: cursos/curso_cpp1/u12/
+        url: cursos/curso_cpp1/curso/u12/
       - title: "Pasando de pseudocódigo a C++"
-        url: cursos/curso_cpp1/u13/
+        url: cursos/curso_cpp1/curso/u13/
       - title: "Ejercicios estructura secuencial"
-        url: cursos/curso_cpp1/u14/
+        url: cursos/curso_cpp1/curso/u14/
 
 moodle2020:
   - title: "Introducción al uso de la plataforma moodle"
