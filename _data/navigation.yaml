@@ -11,7 +11,10 @@ main:
     url: https://www.josedomingo.org/pledin/about/
 
 curso_cpp1:
-
+  - title: Curso Introducción a cpp
+    children:
+      - title: Índice
+        url: cursos/curso_cpp1/
   - title: "Introducción a la programación"
     children:
 
@@ -136,6 +139,7 @@ openshift:
         url: cursos/openshift/curso/u27
 
 programacion_python3:
+  - title: 
   - title: "Introducción a la programación con python3"
     children:
       - title: "Índice"
