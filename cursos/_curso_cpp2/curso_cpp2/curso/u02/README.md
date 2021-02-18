@@ -1,4 +1,7 @@
-# Estructuras alternativas: Si
+---
+title: "Estructuras alternativas: Si"
+permalink: /cursos/curso_cpp2/curso/u02/index.html
+---
 
 ## Alternativa simple: if
 

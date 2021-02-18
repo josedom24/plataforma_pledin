@@ -1,4 +1,8 @@
-# Arrays unidimensionales: Vectores
+---
+title: "Arrays unidimensionales: Vectores"
+permalink: /cursos/curso_cpp2/curso/u13/index.html
+---
+
 
 Un **vector** es una array unidimensional. Para declarar un vector de 10 enteros:
 

@@ -1,4 +1,7 @@
-# Uso específico de variables: contadores, acumuladores e indicadores
+---
+title: "Uso específico de variables: contadores, acumuladores e indicadores"
+permalink: /cursos/curso_cpp2/curso/u08/index.html
+---
 
 ## Contadores
 

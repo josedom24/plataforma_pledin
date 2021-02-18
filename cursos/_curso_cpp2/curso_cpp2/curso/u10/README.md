@@ -1,4 +1,7 @@
-# Cadenas de caracteres con la clase string
+---
+title: "Cadenas de caracteres con la clase string"
+permalink: /cursos/curso_cpp2/curso/u10/index.html
+---
 
 En el apartado **Introducción a las cadenas de caracteres** estuvimos estudiando varios aspectos de las cadenas en c++ usando la clase `string`:
 

@@ -1,4 +1,8 @@
-# Estructuras repetitivas: for
+---
+title: "Estructuras repetitivas: for"
+permalink: /cursos/curso_cpp2/curso/u07/index.html
+---
+
 
 ![for](img/para.png)
 

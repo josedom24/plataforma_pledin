@@ -1,4 +1,7 @@
-# Ejercicios estructuras repetitivas
+---
+title: "Ejercicios estructuras repetitivas"
+permalink: /cursos/curso_cpp2/curso/u09/index.html
+---
 
 ### Ejercicio 1
 
@@ -90,4 +93,4 @@ Mostrar en pantalla los N primero número primos. Se pide por teclado la cantida
 
 # Ejercicios resueltos
 
-[Ejercicios estructuras repetitivas](../../ejercicios/repetitivas)
+[Ejercicios estructuras repetitivas](https://github.com/josedom24/curso_cplusplus/tree/master/ejercicios/repetitivas)

@@ -1,4 +1,7 @@
-# Introducción a los arrays
+---
+title: "Introducción a los arrays"
+permalink: /cursos/curso_cpp2/curso/u12/index.html
+---
 
 ## Estructura de datos
 

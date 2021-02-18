@@ -1,4 +1,7 @@
-# Ejercicios estructuras alternativas
+---
+title: "Ejercicios estructuras alternativas"
+permalink: /cursos/curso_cpp2/curso/u04/index.html
+---
 
 ### Ejercicio 1
 
@@ -124,4 +127,4 @@ Realice un algoritmo para determinar el cobro por la entrega de un paquete o, en
 
 # Ejercicios resueltos
 
-[Ejercicios estructuras alternativas](../../ejercicios/alternativas)
+[Ejercicios estructuras alternativas](https://github.com/josedom24/curso_cplusplus/tree/master/ejercicios/alternativas)

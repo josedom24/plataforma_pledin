@@ -1,4 +1,7 @@
-# Tipo de datos booleano. Operadores relacionales y lógicos
+---
+title: "Tipo de datos booleano. Operadores relacionales y lógicos"
+permalink: /cursos/curso_cpp2/curso/u01/index.html
+---
 
 El tipo booleano o lógico `bool` puede tener dos estados expresados por las constantes predefinidas `true` (lo que lo convierte en el entero 1) y `false` (lo que lo convierte en el entero 0). Realmente cualquier valor entero distinto de 0 será verdadero, y el 0 será falso.
 

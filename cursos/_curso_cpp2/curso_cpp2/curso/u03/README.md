@@ -1,4 +1,7 @@
-# Estructuras alternativas: switch
+---
+title: "Estructuras alternativas: switch"
+permalink: /cursos/curso_cpp2/curso/u03/index.html
+---
 
 ## Alternativa múltiple: switch
 

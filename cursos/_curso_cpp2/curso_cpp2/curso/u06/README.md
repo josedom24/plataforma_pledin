@@ -1,4 +1,7 @@
-# Estructuras repetitivas: do - while
+---
+title: "Estructuras repetitivas: do - while"
+permalink: /cursos/curso_cpp2/curso/u06/index.html
+---
 
 ![mientras](img/repetir.png)
 

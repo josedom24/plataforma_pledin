@@ -1,4 +1,7 @@
-# Cadenas de caracteres estilo C
+---
+title: "Cadenas de caracteres estilo C"
+permalink: /cursos/curso_cpp2/curso/u14/index.html
+---
 
 La cadena de caracteres de estilo C se originó en el lenguaje C y continúa siendo compatible con C++.
 

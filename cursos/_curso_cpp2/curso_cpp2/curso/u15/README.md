@@ -1,4 +1,7 @@
-# Arrays multidimensionales: Tablas
+---
+title: "Arrays multidimensionales: Tablas"
+permalink: /cursos/curso_cpp2/curso/u15/index.html
+---
 
 Una **tabla** en un array bidimensional. La primera dimensión indica el número de filas y el segundo el número de columnas.
 

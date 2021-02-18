@@ -1,4 +1,9 @@
-# Ejercicios de arrays
+---
+title: "Ejercicios de arrays"
+permalink: /cursos/curso_cpp2/curso/u01/index.html
+---
+
+# 
 
 ### Ejercicio 1
 
@@ -115,4 +120,4 @@ El programa ira pidiendo los nombres de los equipos de cada partido y el resulta
 
 # Ejercicios resueltos
 
-[Ejercicios de arrays](../../ejercicios/arrays)
+[Ejercicios de arrays](https://github.com/josedom24/curso_cplusplus/tree/master/ejercicios/arrays)

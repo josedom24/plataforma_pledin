@@ -1,4 +1,7 @@
-# Ejercicios cadena de caracteres
+---
+title: "Ejercicios cadena de caracteres"
+permalink: /cursos/curso_cpp2/curso/u11/index.html
+---
 
 ### Ejercicio 1
 
@@ -42,4 +45,4 @@ Introducir una cadena de caracteres e indicar si es un palíndromo. Una palabra 
 
 # Ejercicios resueltos
 
-[Ejercicios cadenas de caracteres](../../ejercicios/cadenas)
+[Ejercicios cadenas de caracteres](https://github.com/josedom24/curso_cplusplus/tree/master/ejercicios/cadenas)
