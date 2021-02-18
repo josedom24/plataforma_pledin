@@ -1,4 +1,7 @@
-# Introducción a las referencias en C++
+---
+title: "Introducción a las referencias en C++"
+permalink: /cursos/curso_cpp3/curso/u03/index.html
+---
 
 ## ¿Qué son los referencias?
 

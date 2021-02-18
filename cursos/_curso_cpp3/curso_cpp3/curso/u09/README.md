@@ -1,5 +1,7 @@
-# Más Ejercicios
-
+---
+title: "Más Ejercicios"
+permalink: /cursos/curso_cpp3/curso/u09/index.html
+---
 
 ### Ejercicio 1
 
@@ -81,4 +83,4 @@ Escribe un programa para jugar al ahorcado.
 
 # Ejercicios resueltos
 
-[Más ejercicios](../../ejercicios/mas_ejercicios)
+[Más ejercicios](https://github.com/josedom24/curso_cplusplus/tree/master/ejercicios/mas_ejercicios)

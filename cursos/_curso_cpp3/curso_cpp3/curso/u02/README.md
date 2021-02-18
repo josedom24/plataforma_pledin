@@ -1,4 +1,8 @@
-# Introducción a los punteros (II)
+---
+title: "Introducción a los punteros (II)"
+permalink: /cursos/curso_cpp3/curso/u02/index.html
+---
+
 
 ## ¿Qué son los punteros?
 

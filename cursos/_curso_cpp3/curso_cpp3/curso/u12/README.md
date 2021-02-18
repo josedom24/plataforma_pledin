@@ -1,4 +1,7 @@
-# Herencia y delegación
+---
+title: "Herencia y delegación"
+permalink: /cursos/curso_cpp3/curso/u12/index.html
+---
 
 ## Herencia
 

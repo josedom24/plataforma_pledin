@@ -1,4 +1,8 @@
-# Tipos de datos complejos: estructuras
+---
+title: "Tipos de datos complejos: estructuras"
+permalink: /cursos/curso_cpp3/curso/u04/index.html
+---
+
 
 El lenguaje C++ nos permite declarar nuevos tipos de datos. Las estructuras nos permiten declarar nuevos tipos de datos complejos.
 

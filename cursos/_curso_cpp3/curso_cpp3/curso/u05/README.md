@@ -1,4 +1,7 @@
-# Programación estructurada
+---
+title: "Programación estructurada"
+permalink: /cursos/curso_cpp3/curso/u05/index.html
+---
 
 La programación estructurada es un paradigma de programación orientado a mejorar la claridad, calidad y tiempo de desarrollo de un programa de ordenador o algoritmo, utilizando únicamente subrutinas (funciones o procedimientos) y tres estructuras: secuencia, alternativas y repetitivas.
 

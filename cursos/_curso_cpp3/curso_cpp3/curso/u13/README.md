@@ -1,4 +1,7 @@
-# Ejercicios de programación orientada a objetos
+---
+title: "Ejercicios de programación orientada a objetos"
+permalink: /cursos/curso_cpp3/curso/u13/index.html
+---
 
 ## Ejercicio 1
 
@@ -35,4 +38,4 @@ Piensa los métodos heredados de la clase madre que hay que reescribir.
 
 # Ejercicios resueltos
 
-[Ejercicios de Programación orientada a objetos](../../ejercicios/objetos)
+[Ejercicios de Programación orientada a objetos](https://github.com/josedom24/curso_cplusplus/tree/master/ejercicios/objetos)

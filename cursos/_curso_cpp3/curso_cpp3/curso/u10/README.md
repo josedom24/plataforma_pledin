@@ -1,4 +1,7 @@
-# Introducción a la programación orientada a objetos
+---
+title: "Introducción a la programación orientada a objetos"
+permalink: /cursos/curso_cpp3/curso/u10/index.html
+---
 
 La Programación Orientado a Objetos (POO) se basa en la agrupación de objetos de distintas clases que interactúan entre sí y que, en conjunto, consiguen que un programa cumpla su propósito.
 

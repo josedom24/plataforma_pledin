@@ -1,4 +1,7 @@
-# Encapsulamiento en la programación orientada a objetos
+---
+title: "Encapsulamiento en la programación orientada a objetos"
+permalink: /cursos/curso_cpp3/curso/u11/index.html
+---
 
 En la unidad anterior terminamos viendo que teníamos la posibilidad de cambiar los valores de los atributos de un objeto. En muchas ocasiones es necesario que esta modificación no se haga directamente, sino que tengamos utilizar un método para realizar la modificación y poder controlar esa operación. También puede ser deseable que la devolución del valor de los atributos se haga utilizando un método. La característica de no acceder o modificar  los valores de los atributos directamente y utilizar métodos para ello lo llamamos **encapsulamiento**.
 

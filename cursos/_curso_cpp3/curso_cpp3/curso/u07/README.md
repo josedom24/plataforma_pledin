@@ -1,4 +1,7 @@
-# Funciones recursivas
+---
+title: "Funciones recursivas"
+permalink: /cursos/curso_cpp3/curso/u07/index.html
+---
 
 Una función recursiva es aquella que al ejecutarse hace llamadas a ella misma. Por lo tanto tenemos que tener "un caso base" que hace terminar el bucle de llamadas. Veamos un ejemplo:
 

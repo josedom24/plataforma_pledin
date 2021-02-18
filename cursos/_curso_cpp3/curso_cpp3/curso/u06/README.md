@@ -1,4 +1,7 @@
-# Funciones y procedimientos
+---
+title: "Funciones y procedimientos"
+permalink: /cursos/curso_cpp3/curso/u06/index.html
+---
 
 Partimos del ejemplo anterior de función:
 

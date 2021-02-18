@@ -1,4 +1,7 @@
-# Ejercicios de funciones
+---
+title: "Ejercicios de funciones"
+permalink: /cursos/curso_cpp3/curso/u08/index.html
+---
 
 ### Ejercicio 1
 
@@ -122,4 +125,4 @@ En realizada nos sirven todas las funciones del ejercicio anterior menos la func
 
 # Ejercicios resueltos
 
-[Ejercicios de funciones](../../ejercicios/funciones)
+[Ejercicios de funciones](https://github.com/josedom24/curso_cplusplus/tree/master/ejercicios/funciones)
