@@ -1,47 +1,40 @@
 ---
-title: "Curso de C++: Estructuras de control y tipos de datos"
-permalink: /cursos/curso_cpp2/index.html
+title: "Curso de C++: Programación estructurada y orientación a objetos"
+permalink: /cursos/curso_cpp3/index.html
 ---
 
 ![c++](img/c++.png)
 
 
-Realizando este curso de C++ aprenderás a estructurar los programas en C++ usando estructuras de control, ya que es el segundo de los cursos que conforman el itinerario formativo que hemos preparado para aprender C++ desde cero, y que debes realizar tras finalizar el curso introductorio a este lenguaje de programación.
+En este curso seguirás aprendiendo los fundamentos del lenguaje de programación C++, en este caso las funciones y la Programación Orientada a Objetos, una de las características más importantes de C++.
 
-Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/cpp-estructuras-tipos-datos/) en septiembre de 2020.
+Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/cpp-estructurada-poo/) en septiembre de 2020.
 
 Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_cplusplus).
 
 
 ## Unidades
 
-### Estructuras alternativas
+### Punteros y estructuras
 
-1. [Tipo de datos booleano. Operadores relacionales y lógicos](curso/u01)
-2. [Estructuras alternativas: if](curso/u02)
-3. [Estructuras alternativas: switch](curso/u03)
-4. [Ejercicios estructuras alternativas](curso/u04)
+1. [Introducción a los punteros (I)](curso/u01)
+2. [Introducción a los punteros (II)](curso/u02)
+3. [Introducción a las referencias en C++](curso/u03)
+4. [Tipos de datos complejos: estructuras](curso/u04)
 
-### Estructuras repetitivas
+### Programación estructurada
 
 {:start="5"}
-5. [Estructuras repetitivas: while](curso/u05)
-6. [Estructuras repetitivas: do-while](curso/u06)
-7. [Estructuras repetitivas: for](curso/u07)
-8. [Uso específico de variables: contadores, acumuladores e indicadores](curso/u08)
-9. [Ejercicios estructuras repetitivas](curso/u09)
+5. [Programación estructurada](curso/u05)
+6. [Funciones y procedimientos](curso/u06)
+7. [Funciones recursivas](curso/u07)
+8. [Ejercicios con funciones](curso/u08)
+9. [Más ejercicios](curso/u09)
 
-### Cadenas de caracteres
+### Programación orientada a objetos
 
 {:start="10"}
-10. [Cadenas de caracteres con la clase string](curso/u10)
-11. [Ejercicios cadenas de caracteres](curso/u11)
-
-### Tipos de datos complejos: Arrays
-
-{:start="12"}
-12. [Introducción a los arrays](curso/u12)
-13. [Arrays unidimensionales: Vectores](curso/u13)
-14. [Cadenas de caracteres estilo C](curso/u14)
-15. [Arrays multidimensionales: Tablas](curso/u15)
-16. [Ejercicios de Arrays](curso/u16)
+10. [Introducción a la programación orientada a objetos](curso/u10)
+11. [Encapsulamiento en la programación orientada a objetos](curso/u11)
+12. [Herencia y delegación](curso/u12)
+13. [Ejercicios de programación orientada a objetos](curso/u13)
