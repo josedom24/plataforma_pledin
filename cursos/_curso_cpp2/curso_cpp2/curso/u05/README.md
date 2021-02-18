@@ -3,8 +3,6 @@ title: "Estructuras repetitivas: while"
 permalink: /cursos/curso_cpp2/curso/u05/index.html
 ---
 
-# 
-
 ![mientras](img/mientras.png)
 
 La instrucción `while` ejecuta una secuencia de instrucciones mientras una condición sea verdadera.
