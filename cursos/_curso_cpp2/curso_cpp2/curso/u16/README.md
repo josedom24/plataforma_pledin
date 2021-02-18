@@ -1,9 +1,7 @@
 ---
 title: "Ejercicios de arrays"
-permalink: /cursos/curso_cpp2/curso/u01/index.html
+permalink: /cursos/curso_cpp2/curso/u16/index.html
 ---
-
-# 
 
 ### Ejercicio 1
 
