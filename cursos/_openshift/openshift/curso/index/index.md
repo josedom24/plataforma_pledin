@@ -16,26 +16,29 @@ Todas las observaciones, mejoras y sugerencias son bienvenidas.
 
 * [Presentación del curso](curso/u0/u0.pdf)
 
-    **Bloque 1: Introducción a PaaS**
+### Bloque 1: Introducción a PaaS
 
 1. [Introducción a PaaS](curso/u01)
     
-    **Bloque 2: Contenedores. Docker**
+### Bloque 2: Contenedores. Docker
 
+{:start="2"}
 2. [Desplegando nuestras aplicaciones en contenedores](curso/u02)
 3. [Introducción a docker](curso/u03)
 4. [Ciclo de vida de nuestras aplicaciones en docker](curso/u04)
 5. [Persistencia de la información en docker](curso/u05)
 
-    **Bloque 3: Orquestación de contenedores. Kubernetes**
+### Bloque 3: Orquestación de contenedores. Kubernetes
 
+{:start="6"}
 6. [Introducción a Kubernetes](curso/u06)
 7. [¿Qué nos aporta Kubernetes?: Tolerancia a fallos,escalabilidad, balanceo de carga](curso/u07)
 8. [¿Qué nos aporta Kubernetes?: Actualizaciones continúas/Rollback y enrutamiento](curso/u08)
 9. [Persistencia de información en Kubernetes](curso/u09)
 
-    **Bloque 4: OpenShift**
+### Bloque 4: OpenShift
 
+{:start="10"}
 10. [Introducción a openshift](curso/u10)
 11. [OpenShift Online](curso/u11)
 12. [minishift: Instalación local de Openshift](curso/u12)
