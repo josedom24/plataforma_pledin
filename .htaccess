@@ -916,3 +916,5 @@ RewriteRule ^course/view.php$ https://plataforma.josedomingo.org/pledin/cursos/c
 
 RewriteCond %{QUERY_STRING} id=21$
 RewriteRule ^course/view.php$ https://plataforma.josedomingo.org/pledin/cursos/cloud2013? [R,L]
+
+ErrorDocument 404 /pledin/404.html
