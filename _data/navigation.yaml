@@ -104,11 +104,11 @@ curso_cpp1:
     children:
 
       - title: "Análisis de problemas y diseño de algoritmos"
-        url: //cursos/curso_cpp1/curso/u01/index.html
+        url: /cursos/curso_cpp1/curso/u01/index.html
       - title: "Introducción a los lenguajes de programación"
-        url: //cursos/curso_cpp1/curso/u02/index.html
+        url: /cursos/curso_cpp1/curso/u02/index.html
       - title: "Introducción a C++"
-        url: //cursos/curso_cpp1/curso/u03/index.html
+        url: /cursos/curso_cpp1/curso/u03/index.html
 
   - title: "Introducción a C++"
     children:
