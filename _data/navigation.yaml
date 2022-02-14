@@ -52,91 +52,91 @@ curso_cpp2:
   - title: "Curso C++: Estructuras de control y tipos de datos"
     children:
       - title: Índice
-        url: /cursos/curso_cpp2//index.html
+        url: /cursos/curso_cpp2/index.html
   - title: "Estructuras alternativas"
     children:
       - title: "Tipo de datos booleano. Operadores relacionales y lógicos"
-        url: /cursos/curso_cpp2/curso/u01//index.html
+        url: /cursos/curso_cpp2/curso/u01/index.html
       - title: "Estructuras alternativas: if"
-        url: /cursos/curso_cpp2/curso/u02//index.html
+        url: /cursos/curso_cpp2/curso/u02/index.html
       - title: "Estructuras alternativas: switch"
-        url: /cursos/curso_cpp2/curso/u03//index.html
+        url: /cursos/curso_cpp2/curso/u03/index.html
       - title: "Ejercicios estructuras alternativas"
-        url: /cursos/curso_cpp2/curso/u04//index.html
+        url: /cursos/curso_cpp2/curso/u04/index.html
   - title: "Estructuras repetitivas"
     children:
       - title: "Estructuras repetitivas: while"
-        url: /cursos/curso_cpp2/curso/u05//index.html
+        url: /cursos/curso_cpp2/curso/u05/index.html
       - title: "Estructuras repetitivas: do-while"
-        url: /cursos/curso_cpp2/curso/u06//index.html
+        url: /cursos/curso_cpp2/curso/u06/index.html
       - title: "Estructuras repetitivas: for"
-        url: /cursos/curso_cpp2/curso/u07//index.html
+        url: /cursos/curso_cpp2/curso/u07/index.html
       - title: "Uso específico de variables: contadores, acumuladores e indicadores"
-        url: /cursos/curso_cpp2/curso/u08//index.html
+        url: /cursos/curso_cpp2/curso/u08/index.html
       - title: "Ejercicios estructuras repetitivas"
-        url: /cursos/curso_cpp2/curso/u09//index.html
+        url: /cursos/curso_cpp2/curso/u09/index.html
   - title: "Cadenas de caracteres"
     children:
       - title: "Cadenas de caracteres con la clase string"
-        url: /cursos/curso_cpp2/curso/u10//index.html
+        url: /cursos/curso_cpp2/curso/u10/index.html
       - title: "Ejercicios cadenas de caracteres"
-        url: /cursos/curso_cpp2/curso/u11//index.html
+        url: /cursos/curso_cpp2/curso/u11/index.html
   - title: "Tipos de datos complejos: Arrays"
     children:
       - title: "Introducción a los arrays"
-        url: /cursos/curso_cpp2/curso/u12//index.html
+        url: /cursos/curso_cpp2/curso/u12/index.html
       - title: "Arrays unidimensionales: Vectores"
-        url: /cursos/curso_cpp2/curso/u13//index.html
+        url: /cursos/curso_cpp2/curso/u13/index.html
       - title: "Cadenas de caracteres estilo C"
-        url: /cursos/curso_cpp2/curso/u14//index.html
+        url: /cursos/curso_cpp2/curso/u14/index.html
       - title: "Arrays multidimensionales: Tablas"
-        url: /cursos/curso_cpp2/curso/u15//index.html
+        url: /cursos/curso_cpp2/curso/u15/index.html
       - title: "Ejercicios de Arrays"
-        url: /cursos/curso_cpp2/curso/u16//index.html
+        url: /cursos/curso_cpp2/curso/u16/index.html
 
 
 curso_cpp1:
   - title: Curso Introducción a cpp
     children:
       - title: Índice
-        url: /cursos/curso_cpp1//index.html
+        url: /cursos/curso_cpp1/index.html
   - title: "Introducción a la programación"
     children:
 
       - title: "Análisis de problemas y diseño de algoritmos"
-        url: //cursos/curso_cpp1/curso/u01/index.html/index.html
+        url: //cursos/curso_cpp1/curso/u01/index.html
       - title: "Introducción a los lenguajes de programación"
-        url: //cursos/curso_cpp1/curso/u02/index.html/index.html
+        url: //cursos/curso_cpp1/curso/u02/index.html
       - title: "Introducción a C++"
-        url: //cursos/curso_cpp1/curso/u03/index.html/index.html
+        url: //cursos/curso_cpp1/curso/u03/index.html
 
   - title: "Introducción a C++"
     children:
       - title: "Instalación del IDE Zinjai"
-        url: /cursos/curso_cpp1/curso/u04//index.html
+        url: /cursos/curso_cpp1/curso/u04/index.html
       - title: "Estructura del programa"
-        url: /cursos/curso_cpp1/curso/u05//index.html
+        url: /cursos/curso_cpp1/curso/u05/index.html
       - title: "Compilación y ejecución de programas"
-        url: /cursos/curso_cpp1/curso/u06//index.html
+        url: /cursos/curso_cpp1/curso/u06/index.html
 
   - title: "Tipos de datos básicos"
     children:
       - title: "Datos y tipos de datos"
-        url: /cursos/curso_cpp1/curso/u07//index.html
+        url: /cursos/curso_cpp1/curso/u07/index.html
       - title: "Literales y constantes"
-        url: /cursos/curso_cpp1/curso/u08//index.html
+        url: /cursos/curso_cpp1/curso/u08/index.html
       - title: "Variables. Operadores de asignación."
-        url: /cursos/curso_cpp1/curso/u09//index.html
+        url: /cursos/curso_cpp1/curso/u09/index.html
       - title: "Tipos de datos numéricos. Operadores aritméticos"
-        url: /cursos/curso_cpp1/curso/u10//index.html
+        url: /cursos/curso_cpp1/curso/u10/index.html
       - title: "Introducción a las cadenas de caracteres"
-        url: /cursos/curso_cpp1/curso/u11//index.html
+        url: /cursos/curso_cpp1/curso/u11/index.html
       - title: "Entrada y salida estándar"
-        url: /cursos/curso_cpp1/curso/u12//index.html
+        url: /cursos/curso_cpp1/curso/u12/index.html
       - title: "Pasando de pseudocódigo a C++"
-        url: /cursos/curso_cpp1/curso/u13//index.html
+        url: /cursos/curso_cpp1/curso/u13/index.html
       - title: "Ejercicios estructura secuencial"
-        url: /cursos/curso_cpp1/curso/u14//index.html
+        url: /cursos/curso_cpp1/curso/u14/index.html
 
 moodle2020:
   - title: "Introducción al uso de la plataforma moodle"
@@ -159,7 +159,7 @@ openshift:
   - title: "Curso de OpenShift"
     children:
       - title: "Índice"
-        url: /cursos/openshift//index.html
+        url: /cursos/openshift/index.html
   - title: "Introducción a PaaS"
     children:
       - title: "Introducción a PaaS"
@@ -228,7 +228,7 @@ programacion_python3:
   - title: "Introducción a la programación con python3"
     children:
       - title: "Índice"
-        url: /cursos/programacion_python3//index.html
+        url: /cursos/programacion_python3/index.html
   - title: "Introducción a la programación"
     children:
       - title: "Análisis de problemas y diseño de algoritmos"
@@ -341,7 +341,7 @@ python3:
   - title: Curso Python3
     children:
       - title: Índice
-        url: /cursos/python3//index.html
+        url: /cursos/python3/index.html
   - title: Introducción
     children:
       - title: Introducción a python
@@ -483,7 +483,7 @@ flask:
   - title: Curso Flask
     children:
       - title: Índice
-        url: /cursos/flask//index.html
+        url: /cursos/flask/index.html
       - title: Introducción al curso
         url: /cursos/flask/curso/u0/u0.pdf /index.html
   - title: Introducción a la programación web
