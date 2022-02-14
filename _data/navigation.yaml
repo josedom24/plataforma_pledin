@@ -173,7 +173,7 @@ openshift:
       - title: "Ciclo de vida de nuestras aplicaciones en docker"
         url: /cursos/openshift/curso/u04/index.html
       - title: "Persistencia de la información en docker"
-        url: /cursos/openshift/curso/u05 /index.html
+        url: /cursos/openshift/curso/u05/index.html
   - title: "Orquestación de contenedores. Kubernetes"
     children:
       - title: "Introducción a Kubernetes"
