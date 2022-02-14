@@ -15,14 +15,14 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 ## OpenWebinars
 
 * [Curso de C++: Introducción a C++ (2020)](cursos/curso_cpp1/index.html)
-* [Curso de C++: Estructuras de control y tipos de datos (2020)](cursos/curso_cpp2/)
-* [Curso de C++: Programación estructurada y orientación a objetos (2020)](cursos/curso_cpp3/)
-* [Curso de Openshift (2019)](cursos/openshift/)
-* [Introducción a la programación con python3 (2019)](cursos/programacion_python3/)
-* [Introducción a la programación con pseudocódigo (2018)](cursos/programacion/)
-* [Curso Apache2.4 (2018)](cursos/apache24/)
-* [Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)](cursos/flask/)
-* [Curso de python3 (2017)](cursos/python3/)
+* [Curso de C++: Estructuras de control y tipos de datos (2020)](cursos/curso_cpp2/index.html)
+* [Curso de C++: Programación estructurada y orientación a objetos (2020)](cursos/curso_cpp3/index.html)
+* [Curso de Openshift (2019)](cursos/openshift/index.html)
+* [Introducción a la programación con python3 (2019)](cursos/programacion_python3/index.html)
+* [Introducción a la programación con pseudocódigo (2018)](cursos/programacion/index.html)
+* [Curso Apache2.4 (2018)](cursos/apache24/index.html)
+* [Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)](cursos/flask/index.html)
+* [Curso de python3 (2017)](cursos/python3/index.html)
 
 ## Cloud Computing y OpenStack
 
@@ -31,18 +31,18 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 * [Introducción al Cloud Computing con OpenStack y OpenShift (2015) (github.io)](http://iesgn.github.io/cloud3/)
 * [Administración de infraestructura en la nube con OpenStack (2015) (github.io)](http://iesgn.github.io/cloud2/)
 * [Fundamentos de Cloud Computing con OpenStack y OpenShift (2014) (en github.io)](http://iesgn.github.com/cloud)
-* [Jornadas Cloud Computing (2013)](cursos/cloud2013)
-* [Proyecto Cloud Computing (2012)](cursos/cloud2012)
+* [Jornadas Cloud Computing (2013)](cursos/cloud2013/index.html)
+* [Proyecto Cloud Computing (2012)](cursos/cloud2012/index.html)
 
 ## Servicios y TIC
 
-* [Introducción al uso de la plataforma moodle (2020)](cursos/moodle2020)
-* [Servicios en GNU/Linux (Nivel Intermedio) (2011)](cursos/servicios2011)
-* [Servicios en GNU/Linux. Portal Educativo (2010)](cursos/servicios2010)
-* [Introducción a los Servicios en GNU/Linux (2008)](cursos/servicios2008)
-* [Curso TIC - IES Gonzalo Nazareno (2007)](cursos/tic2007)
-* [Curso HELVIA - IES Gonzalo Nazareno (2007)](cursos/helvia2007)
-* [Máquinas virtuales para la puesta en marcha de un portal educativo (2006)](cursos/mv2006)
+* [Introducción al uso de la plataforma moodle (2020)](cursos/moodle2020/index.html)
+* [Servicios en GNU/Linux (Nivel Intermedio) (2011)](cursos/servicios2011/index.html)
+* [Servicios en GNU/Linux. Portal Educativo (2010)](cursos/servicios2010/index.html)
+* [Introducción a los Servicios en GNU/Linux (2008)](cursos/servicios2008/index.html)
+* [Curso TIC - IES Gonzalo Nazareno (2007)](cursos/tic2007/index.html)
+* [Curso HELVIA - IES Gonzalo Nazareno (2007)](cursos/helvia2007/index.html)
+* [Máquinas virtuales para la puesta en marcha de un portal educativo (2006)](cursos/mv2006/index.html)
 
 ## Cursos antiguos
 
