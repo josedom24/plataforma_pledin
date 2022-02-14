@@ -84,10 +84,10 @@ nav#site-nav
       text-decoration: none;
       font-size: 1.1em;
   }
-  .nav__list a:hover {
+  .nav__list a:hover,  a:active {
       background-color: #78ace9;
   }
 
-  a:link, a:visited, a:active {
+  a:link, a:visited {
     text-decoration:none;
 }
