@@ -14,7 +14,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## OpenWebinars
 
-* [Curso de C++: Introducción a C++ (2020)](cursos/curso_cpp1/)
+* [Curso de C++: Introducción a C++ (2020)](cursos/curso_cpp1/index.html)
 * [Curso de C++: Estructuras de control y tipos de datos (2020)](cursos/curso_cpp2/)
 * [Curso de C++: Programación estructurada y orientación a objetos (2020)](cursos/curso_cpp3/)
 * [Curso de Openshift (2019)](cursos/openshift/)
