@@ -52,288 +52,288 @@ curso_cpp2:
   - title: "Curso C++: Estructuras de control y tipos de datos"
     children:
       - title: Índice
-        url: cursos/curso_cpp2/
+        url: /cursos/curso_cpp2//index.html
   - title: "Estructuras alternativas"
     children:
       - title: "Tipo de datos booleano. Operadores relacionales y lógicos"
-        url: cursos/curso_cpp2/curso/u01/
+        url: /cursos/curso_cpp2/curso/u01//index.html
       - title: "Estructuras alternativas: if"
-        url: cursos/curso_cpp2/curso/u02/
+        url: /cursos/curso_cpp2/curso/u02//index.html
       - title: "Estructuras alternativas: switch"
-        url: cursos/curso_cpp2/curso/u03/
+        url: /cursos/curso_cpp2/curso/u03//index.html
       - title: "Ejercicios estructuras alternativas"
-        url: cursos/curso_cpp2/curso/u04/
+        url: /cursos/curso_cpp2/curso/u04//index.html
   - title: "Estructuras repetitivas"
     children:
       - title: "Estructuras repetitivas: while"
-        url: cursos/curso_cpp2/curso/u05/
+        url: /cursos/curso_cpp2/curso/u05//index.html
       - title: "Estructuras repetitivas: do-while"
-        url: cursos/curso_cpp2/curso/u06/
+        url: /cursos/curso_cpp2/curso/u06//index.html
       - title: "Estructuras repetitivas: for"
-        url: cursos/curso_cpp2/curso/u07/
+        url: /cursos/curso_cpp2/curso/u07//index.html
       - title: "Uso específico de variables: contadores, acumuladores e indicadores"
-        url: cursos/curso_cpp2/curso/u08/
+        url: /cursos/curso_cpp2/curso/u08//index.html
       - title: "Ejercicios estructuras repetitivas"
-        url: cursos/curso_cpp2/curso/u09/
+        url: /cursos/curso_cpp2/curso/u09//index.html
   - title: "Cadenas de caracteres"
     children:
       - title: "Cadenas de caracteres con la clase string"
-        url: cursos/curso_cpp2/curso/u10/
+        url: /cursos/curso_cpp2/curso/u10//index.html
       - title: "Ejercicios cadenas de caracteres"
-        url: cursos/curso_cpp2/curso/u11/
+        url: /cursos/curso_cpp2/curso/u11//index.html
   - title: "Tipos de datos complejos: Arrays"
     children:
       - title: "Introducción a los arrays"
-        url: cursos/curso_cpp2/curso/u12/
+        url: /cursos/curso_cpp2/curso/u12//index.html
       - title: "Arrays unidimensionales: Vectores"
-        url: cursos/curso_cpp2/curso/u13/
+        url: /cursos/curso_cpp2/curso/u13//index.html
       - title: "Cadenas de caracteres estilo C"
-        url: cursos/curso_cpp2/curso/u14/
+        url: /cursos/curso_cpp2/curso/u14//index.html
       - title: "Arrays multidimensionales: Tablas"
-        url: cursos/curso_cpp2/curso/u15/
+        url: /cursos/curso_cpp2/curso/u15//index.html
       - title: "Ejercicios de Arrays"
-        url: cursos/curso_cpp2/curso/u16/
+        url: /cursos/curso_cpp2/curso/u16//index.html
 
 
 curso_cpp1:
   - title: Curso Introducción a cpp
     children:
       - title: Índice
-        url: cursos/curso_cpp1/
+        url: /cursos/curso_cpp1//index.html
   - title: "Introducción a la programación"
     children:
 
       - title: "Análisis de problemas y diseño de algoritmos"
-        url: /cursos/curso_cpp1/curso/u01/index.html
+        url: //cursos/curso_cpp1/curso/u01/index.html/index.html
       - title: "Introducción a los lenguajes de programación"
-        url: /cursos/curso_cpp1/curso/u02/index.html
+        url: //cursos/curso_cpp1/curso/u02/index.html/index.html
       - title: "Introducción a C++"
-        url: /cursos/curso_cpp1/curso/u03/index.html
+        url: //cursos/curso_cpp1/curso/u03/index.html/index.html
 
   - title: "Introducción a C++"
     children:
       - title: "Instalación del IDE Zinjai"
-        url: cursos/curso_cpp1/curso/u04/
+        url: /cursos/curso_cpp1/curso/u04//index.html
       - title: "Estructura del programa"
-        url: cursos/curso_cpp1/curso/u05/
+        url: /cursos/curso_cpp1/curso/u05//index.html
       - title: "Compilación y ejecución de programas"
-        url: cursos/curso_cpp1/curso/u06/
+        url: /cursos/curso_cpp1/curso/u06//index.html
 
   - title: "Tipos de datos básicos"
     children:
       - title: "Datos y tipos de datos"
-        url: cursos/curso_cpp1/curso/u07/
+        url: /cursos/curso_cpp1/curso/u07//index.html
       - title: "Literales y constantes"
-        url: cursos/curso_cpp1/curso/u08/
+        url: /cursos/curso_cpp1/curso/u08//index.html
       - title: "Variables. Operadores de asignación."
-        url: cursos/curso_cpp1/curso/u09/
+        url: /cursos/curso_cpp1/curso/u09//index.html
       - title: "Tipos de datos numéricos. Operadores aritméticos"
-        url: cursos/curso_cpp1/curso/u10/
+        url: /cursos/curso_cpp1/curso/u10//index.html
       - title: "Introducción a las cadenas de caracteres"
-        url: cursos/curso_cpp1/curso/u11/
+        url: /cursos/curso_cpp1/curso/u11//index.html
       - title: "Entrada y salida estándar"
-        url: cursos/curso_cpp1/curso/u12/
+        url: /cursos/curso_cpp1/curso/u12//index.html
       - title: "Pasando de pseudocódigo a C++"
-        url: cursos/curso_cpp1/curso/u13/
+        url: /cursos/curso_cpp1/curso/u13//index.html
       - title: "Ejercicios estructura secuencial"
-        url: cursos/curso_cpp1/curso/u14/
+        url: /cursos/curso_cpp1/curso/u14//index.html
 
 moodle2020:
   - title: "Introducción al uso de la plataforma moodle"
     children:
       - title: "Estructura de un curso moodle"
-        url: cursos/moodle2020/#estructura-de-un-curso-moodle
+        url: /cursos/moodle2020/#estructura-de-un-curso-moodle/index.html
       - title: "Gestión de usuarios"
-        url: cursos/moodle2020/#gestión-de-usuarios
+        url: /cursos/moodle2020/#gestión-de-usuarios/index.html
       - title: "Añadir recursos: ficheros y enlaces"
-        url: cursos/moodle2020/#añadir-recursos-ficheros-y-enlaces
+        url: /cursos/moodle2020/#añadir-recursos-ficheros-y-enlaces/index.html
       - title: "Actividades: Tareas"
-        url: cursos/moodle2020/#actividades-tareas
+        url: /cursos/moodle2020/#actividades-tareas/index.html
       - title: "Actividades: Foros"
-        url: cursos/moodle2020/#actividades-foros
+        url: /cursos/moodle2020/#actividades-foros/index.html
       - title: "Añadir recursos: Páginas y Etiquetas"
-        url: cursos/moodle2020/#añadir-recursos-páginas-y-etiquetas
+        url: /cursos/moodle2020/#añadir-recursos-páginas-y-etiquetas/index.html
       - title: "Actividades: Cuestionarios"
-        url: cursos/moodle2020/#actividades-cuestionarios
+        url: /cursos/moodle2020/#actividades-cuestionarios/index.html
 openshift:
   - title: "Curso de OpenShift"
     children:
       - title: "Índice"
-        url: cursos/openshift/
+        url: /cursos/openshift//index.html
   - title: "Introducción a PaaS"
     children:
       - title: "Introducción a PaaS"
-        url: cursos/openshift/curso/u01
+        url: /cursos/openshift/curso/u01/index.html
   - title: "Contenedores. Docker"
     children:
       - title: "Desplegando nuestras aplicaciones en contenedores"
-        url: cursos/openshift/curso/u02
+        url: /cursos/openshift/curso/u02/index.html
       - title: "Introducción a docker"
-        url: cursos/openshift/curso/u03
+        url: /cursos/openshift/curso/u03/index.html
       - title: "Ciclo de vida de nuestras aplicaciones en docker"
-        url: cursos/openshift/curso/u04
+        url: /cursos/openshift/curso/u04/index.html
       - title: "Persistencia de la información en docker"
-        url: cursos/openshift/curso/u05 
+        url: /cursos/openshift/curso/u05 /index.html
   - title: "Orquestación de contenedores. Kubernetes"
     children:
       - title: "Introducción a Kubernetes"
-        url: cursos/openshift/curso/u06
+        url: /cursos/openshift/curso/u06/index.html
       - title: "¿Qué nos aporta Kubernetes?: Tolerancia a fallos,escalabilidad, balanceo de carga"
-        url: cursos/openshift/curso/u07
+        url: /cursos/openshift/curso/u07/index.html
       - title: "¿Qué nos aporta Kubernetes?: Actualizaciones continúas/Rollback y enrutamiento"
-        url: cursos/openshift/curso/u08
+        url: /cursos/openshift/curso/u08/index.html
       - title: "Persistencia de información en Kubernetes"
-        url: cursos/openshift/curso/u09
+        url: /cursos/openshift/curso/u09/index.html
   - title: "OpenShift"
     children:
       - title: "Introducción a openshift"
-        url: cursos/openshift/curso/u10
+        url: /cursos/openshift/curso/u10/index.html
       - title: "OpenShift Online"
-        url: cursos/openshift/curso/u11
+        url: /cursos/openshift/curso/u11/index.html
       - title: "minishift: Instalación local de Openshift"
-        url: cursos/openshift/curso/u12
+        url: /cursos/openshift/curso/u12/index.html
       - title: "Despliegue de nuestra primera aplicación en OpenShift"
-        url: cursos/openshift/curso/u13
+        url: /cursos/openshift/curso/u13/index.html
       - title: "Recursos que nos ofrece Openshift"
-        url: cursos/openshift/curso/u14
+        url: /cursos/openshift/curso/u14/index.html
       - title: "Tolerancia a fallos, escalabilidad y balanceado de carga en OpenShift"
-        url: cursos/openshift/curso/u15
+        url: /cursos/openshift/curso/u15/index.html
       - title: "Actualizaciones continúas y Rollback de nuestra aplicación en OpenShift"
-        url: cursos/openshift/curso/u16
+        url: /cursos/openshift/curso/u16/index.html
       - title: "Despliegue continuo en OpenShift"
-        url: cursos/openshift/curso/u17
+        url: /cursos/openshift/curso/u17/index.html
       - title: "Autoescalado: Escalado automático en OpenShift"
-        url: cursos/openshift/curso/u18
+        url: /cursos/openshift/curso/u18/index.html
       - title: "Introducción a la utilidad de línea de comandos oc"
-        url: cursos/openshift/curso/u19
+        url: /cursos/openshift/curso/u19/index.html
       - title: "Despliegue de una aplicación con la utilidad de línea de comandos oc"
-        url: cursos/openshift/curso/u20
+        url: /cursos/openshift/curso/u20/index.html
       - title: "Operaciones avanzadas con la utilidad de línea de comandos oc"
-        url: cursos/openshift/curso/u21
+        url: /cursos/openshift/curso/u21/index.html
       - title: "Despliegue de aplicaciones Python en OpenShift"
-        url: cursos/openshift/curso/u22
+        url: /cursos/openshift/curso/u22/index.html
       - title: "Despliegue de aplicaciones PHP en OpenShift"
-        url: cursos/openshift/curso/u23
+        url: /cursos/openshift/curso/u23/index.html
       - title: "Despliegue de aplicaciones PHP en OpenShift con almacenamiento persistente"
-        url: cursos/openshift/curso/u24
+        url: /cursos/openshift/curso/u24/index.html
       - title: "Trabajando con bases de datos en OpenShift"
-        url: cursos/openshift/curso/u25
+        url: /cursos/openshift/curso/u25/index.html
       - title: "Despliegue de Wordpress en OpenShift"
-        url: cursos/openshift/curso/u26
+        url: /cursos/openshift/curso/u26/index.html
       - title: "Despliegue de Wordpress con un template en OpenShift"
-        url: cursos/openshift/curso/u27
+        url: /cursos/openshift/curso/u27/index.html
 
 programacion_python3:
   - title: 
   - title: "Introducción a la programación con python3"
     children:
       - title: "Índice"
-        url: cursos/programacion_python3/
+        url: /cursos/programacion_python3//index.html
   - title: "Introducción a la programación"
     children:
       - title: "Análisis de problemas y diseño de algoritmos"
-        url: cursos/programacion_python3/curso/u01
+        url: /cursos/programacion_python3/curso/u01/index.html
       - title: "Introducción a los lenguajes de programación"
-        url: cursos/programacion_python3/curso/u02
+        url: /cursos/programacion_python3/curso/u02/index.html
       - title: "Introducción a python3"
-        url: cursos/programacion_python3/curso/u03
+        url: /cursos/programacion_python3/curso/u03/index.html
   - title: "Introducción a python3"
     children:
       - title: "Instalación de python3"
-        url: cursos/programacion_python3/curso/u04
+        url: /cursos/programacion_python3/curso/u04/index.html
       - title: "Escribir y ejecutar programas python"
-        url: cursos/programacion_python3/curso/u05
+        url: /cursos/programacion_python3/curso/u05/index.html
       - title: "Mi primer programa en python3"
-        url: cursos/programacion_python3/curso/u06
+        url: /cursos/programacion_python3/curso/u06/index.html
   - title: "Tipos de datos básicos"
     children:
       - title: "Datos y tipos de datos"
-        url: cursos/programacion_python3/curso/u07
+        url: /cursos/programacion_python3/curso/u07/index.html
       - title: "Tipos de datos numéricos"
-        url: cursos/programacion_python3/curso/u08
+        url: /cursos/programacion_python3/curso/u08/index.html
       - title: "Tipo de datos booleano"
-        url: cursos/programacion_python3/curso/u09
+        url: /cursos/programacion_python3/curso/u09/index.html
       - title: "Trabajando con variables"
-        url: cursos/programacion_python3/curso/u10
+        url: /cursos/programacion_python3/curso/u10/index.html
       - title: "Entrada y salida estándar"
-        url: cursos/programacion_python3/curso/u11
+        url: /cursos/programacion_python3/curso/u11/index.html
       - title: "Introducción a las cadenas de caracteres"
-        url: cursos/programacion_python3/curso/u12
+        url: /cursos/programacion_python3/curso/u12/index.html
       - title: "Pasando de pseudocódigo a python3"
-        url: cursos/programacion_python3/curso/u13
+        url: /cursos/programacion_python3/curso/u13/index.html
       - title: "Ejercicios estructura secuencial"
-        url: cursos/programacion_python3/curso/u14
+        url: /cursos/programacion_python3/curso/u14/index.html
   - title: "Estructuras de control"
     children:
       - title: "Estructura de control: Alternativas"
-        url: cursos/programacion_python3/curso/u15
+        url: /cursos/programacion_python3/curso/u15/index.html
       - title: "Ejercicios estructura alternativas"
-        url: cursos/programacion_python3/curso/u16
+        url: /cursos/programacion_python3/curso/u16/index.html
       - title: "Estructuras de control repetitivas: while"
-        url: cursos/programacion_python3/curso/u17
+        url: /cursos/programacion_python3/curso/u17/index.html
       - title: "Estructuras de control repetitivas: for"
-        url: cursos/programacion_python3/curso/u18
+        url: /cursos/programacion_python3/curso/u18/index.html
       - title: "Uso específico de variables: contadores, acumuladores e indicadores"
-        url: cursos/programacion_python3/curso/u19
+        url: /cursos/programacion_python3/curso/u19/index.html
       - title: "Ejercicios estructuras repetitivas"
-        url: cursos/programacion_python3/curso/u20
+        url: /cursos/programacion_python3/curso/u20/index.html
   - title: "Tipos de datos secuencias"
     children:
 
       - title: "Tipo de datos cadenas de caracteres"
-        url: cursos/programacion_python3/curso/u21
+        url: /cursos/programacion_python3/curso/u21/index.html
       - title: "Las cadenas de caracteres son inmutables"
-        url: cursos/programacion_python3/curso/u22
+        url: /cursos/programacion_python3/curso/u22/index.html
       - title: "Métodos principales de cadenas"
-        url: cursos/programacion_python3/curso/u23
+        url: /cursos/programacion_python3/curso/u23/index.html
       - title: "Ejercicios cadena de caracteres"
-        url: cursos/programacion_python3/curso/u24
+        url: /cursos/programacion_python3/curso/u24/index.html
       - title: "Tipo de datos secuencia: Listas"
-        url: cursos/programacion_python3/curso/u25
+        url: /cursos/programacion_python3/curso/u25/index.html
       - title: "Las listas son mutables"
-        url: cursos/programacion_python3/curso/u26
+        url: /cursos/programacion_python3/curso/u26/index.html
       - title: "Métodos principales de listas"
-        url: cursos/programacion_python3/curso/u27
+        url: /cursos/programacion_python3/curso/u27/index.html
       - title: "Tipo de datos secuencia: Tuplas"
-        url: cursos/programacion_python3/curso/u28
+        url: /cursos/programacion_python3/curso/u28/index.html
       - title: "Ejercicios de listas"
-        url: cursos/programacion_python3/curso/u29
+        url: /cursos/programacion_python3/curso/u29/index.html
   - title: "Tipos de datos mapas"
     children:
       - title: "Tipo de datos mapa: diccionario"
-        url: cursos/programacion_python3/curso/u30
+        url: /cursos/programacion_python3/curso/u30/index.html
       - title: "Métodos principales de diccionarios"
-        url: cursos/programacion_python3/curso/u31
+        url: /cursos/programacion_python3/curso/u31/index.html
       - title: "Ejercicios de diccionarios"
-        url: cursos/programacion_python3/curso/u32
+        url: /cursos/programacion_python3/curso/u32/index.html
   - title: "Excepciones"
     children:
       - title: "Excepciones"
-        url: cursos/programacion_python3/curso/u33
+        url: /cursos/programacion_python3/curso/u33/index.html
   - title: "Introducción a los módulos"
     children:
       - title: "Introducción a los módulos"
-        url: cursos/programacion_python3/curso/u34
+        url: /cursos/programacion_python3/curso/u34/index.html
   - title: "Programación estructurada"
     children:
       - title: "Introducción a las funciones"
-        url: cursos/programacion_python3/curso/u35
+        url: /cursos/programacion_python3/curso/u35/index.html
       - title: "Funciones recursivas"
-        url: cursos/programacion_python3/curso/u36
+        url: /cursos/programacion_python3/curso/u36/index.html
       - title: "Ejercicios con funciones"
-        url: cursos/programacion_python3/curso/u37
+        url: /cursos/programacion_python3/curso/u37/index.html
       - title: "Más ejercicios"
-        url: cursos/programacion_python3/curso/u38
+        url: /cursos/programacion_python3/curso/u38/index.html
   - title: "Programación orientada a objetos"
     children:
       - title: "Introducción a la programación orientada a objetos"
-        url: cursos/programacion_python3/curso/u39
+        url: /cursos/programacion_python3/curso/u39/index.html
       - title: "Encapsulamiento en la programación orientada a objetos"
-        url: cursos/programacion_python3/curso/u40
+        url: /cursos/programacion_python3/curso/u40/index.html
       - title: "Herencia y delegación"
-        url: cursos/programacion_python3/curso/u41
+        url: /cursos/programacion_python3/curso/u41/index.html
       - title: "Ejercicios de programación orientada a objetos"
-        url: cursos/programacion_python3/curso/u42
+        url: /cursos/programacion_python3/curso/u42/index.html
 
 
 
@@ -341,457 +341,457 @@ python3:
   - title: Curso Python3
     children:
       - title: Índice
-        url: cursos/python3/
+        url: /cursos/python3//index.html
   - title: Introducción
     children:
       - title: Introducción a python
-        url: cursos/python3/curso/u01
+        url: /cursos/python3/curso/u01/index.html
       - title: Python2 us python3
-        url: cursos/python3/curso/u02
+        url: /cursos/python3/curso/u02/index.html
       - title: Instalación de python3
-        url: cursos/python3/curso/u03
+        url: /cursos/python3/curso/u03/index.html
       - title: Entornos de desarrollos y editores de texto
-        url: cursos/python3/curso/u04
+        url: /cursos/python3/curso/u04/index.html
       - title: Mi primer programa en python3
-        url: cursos/python3/curso/u05
+        url: /cursos/python3/curso/u05/index.html
 
   - title: Estructura del lenguaje
     children:
       - title: Estructura del programa
-        url: cursos/python3/curso/u06
+        url: /cursos/python3/curso/u06/index.html
       - title: Funciones y constantes predefinidas
-        url: cursos/python3/curso/u07
+        url: /cursos/python3/curso/u07/index.html
       - title: Datos
-        url: cursos/python3/curso/u08
+        url: /cursos/python3/curso/u08/index.html
       - title: Tipos de datos
-        url: cursos/python3/curso/u09
+        url: /cursos/python3/curso/u09/index.html
       - title: Trabajando con variables
-        url: cursos/python3/curso/u10
+        url: /cursos/python3/curso/u10/index.html
       - title: Entrada y salida estándar
-        url: cursos/python3/curso/u11
+        url: /cursos/python3/curso/u11/index.html
   - title: Tipos de datos numéricos
     children:
       - title: Tipo de datos numéricos
-        url: cursos/python3/curso/u12
+        url: /cursos/python3/curso/u12/index.html
       - title: Tipo de dato booleanos
-        url: cursos/python3/curso/u13
+        url: /cursos/python3/curso/u13/index.html
       - title: Ejercicios de programas sencillo
-        url: cursos/python3/curso/u14
+        url: /cursos/python3/curso/u14/index.html
   - title: Estructuras de control
     children:
       - title: "Estructura de control: Alternativas"
-        url: cursos/python3/curso/u15
+        url: /cursos/python3/curso/u15/index.html
       - title: Ejercicios de alternativas
-        url: cursos/python3/curso/u16
+        url: /cursos/python3/curso/u16/index.html
       - title: "Estructura de control: Repetitivas"
-        url: cursos/python3/curso/u17
+        url: /cursos/python3/curso/u17/index.html
       - title: Ejercicios de repetitivas
-        url: cursos/python3/curso/u18
+        url: /cursos/python3/curso/u18/index.html
   - title: Tipos de datos secuencia
     children:
       - title: Tipo de datos secuencia
-        url: cursos/python3/curso/u19
+        url: /cursos/python3/curso/u19/index.html
       - title: "Tipo de datos secuencia: listas"
-        url: cursos/python3/curso/u20
+        url: /cursos/python3/curso/u20/index.html
       - title: Métodos principales de listas
-        url: cursos/python3/curso/u21
+        url: /cursos/python3/curso/u21/index.html
       - title: Ejercicios de listas
-        url: cursos/python3/curso/u22
+        url: /cursos/python3/curso/u22/index.html
       - title: Operaciones avanzadas con secuencias
-        url: cursos/python3/curso/u23
+        url: /cursos/python3/curso/u23/index.html
       - title: "Tipo de datos secuencia: Tuplas"
-        url: cursos/python3/curso/u24
+        url: /cursos/python3/curso/u24/index.html
       - title: "Tipo de datos secuencia: Rangos"
-        url: cursos/python3/curso/u25
+        url: /cursos/python3/curso/u25/index.html
       - title: Codificación de caracteres
-        url: cursos/python3/curso/u26
+        url: /cursos/python3/curso/u26/index.html
       - title: Tipo de datos cadenas de caracteres
-        url: cursos/python3/curso/u27
+        url: /cursos/python3/curso/u27/index.html
       - title: Métodos principales de cadenas
-        url: cursos/python3/curso/u28
+        url: /cursos/python3/curso/u28/index.html
       - title: Ejercicios de cadenas
-        url: cursos/python3/curso/u29
+        url: /cursos/python3/curso/u29/index.html
       - title: "Tipo de datos binarios: bytes, bytearray"
-        url: cursos/python3/curso/u30
+        url: /cursos/python3/curso/u30/index.html
       - title: "Tipo de datos conjuntos: set, frozenset"
-        url: cursos/python3/curso/u31
+        url: /cursos/python3/curso/u31/index.html
       - title: Tipo de datos iterador y generador
-        url: cursos/python3/curso/u32
+        url: /cursos/python3/curso/u32/index.html
   - title: Tipos de datos mapas
     children:
       - title: "Tipo de datos mapa: diccionario"
-        url: cursos/python3/curso/u33
+        url: /cursos/python3/curso/u33/index.html
       - title: Métodos principales de diccionarios
-        url: cursos/python3/curso/u34
+        url: /cursos/python3/curso/u34/index.html
       - title: Ejercicios de diccionarios
-        url: cursos/python3/curso/u35
+        url: /cursos/python3/curso/u35/index.html
   - title: Trabajar con ficheros
     children:
       - title: Lectura y escritura de ficheros de textos
-        url: cursos/python3/curso/u36
+        url: /cursos/python3/curso/u36/index.html
       - title: Gestionar ficheros CSV
-        url: cursos/python3/curso/u37
+        url: /cursos/python3/curso/u37/index.html
       - title: Gestionar ficheros json
-        url: cursos/python3/curso/u38
+        url: /cursos/python3/curso/u38/index.html
   - title: Errores y Excepciones
     children:
       - title: Excepciones
-        url: cursos/python3/curso/u39
+        url: /cursos/python3/curso/u39/index.html
   - title: Módulos, paquetes y namespaces
     children:
       - title: Módulos y paquetes
-        url: cursos/python3/curso/u40
+        url: /cursos/python3/curso/u40/index.html
       - title: "Módulos estándares: módulos de sistema"
-        url: cursos/python3/curso/u41
+        url: /cursos/python3/curso/u41/index.html
       - title: "Módulos estándares: módulos matemáticos"
-        url: cursos/python3/curso/u42
+        url: /cursos/python3/curso/u42/index.html
       - title: "Módulos estándares: módulos de hora y fechas"
-        url: cursos/python3/curso/u43
+        url: /cursos/python3/curso/u43/index.html
       - title: Instalación de módulos
-        url: cursos/python3/curso/u44
+        url: /cursos/python3/curso/u44/index.html
   - title: Programación estructurada y modular
     children:
       - title: Introducción a las funciones
-        url: cursos/python3/curso/u45
+        url: /cursos/python3/curso/u45/index.html
       - title: Conceptos avanzados sobre funciones
-        url: cursos/python3/curso/u46
+        url: /cursos/python3/curso/u46/index.html
       - title: Tipos especiales de funciones
-        url: cursos/python3/curso/u47
+        url: /cursos/python3/curso/u47/index.html
   - title: Ejercicios programación estructurada y modular
     children:
       - title: Ejercicios con funciones
-        url: cursos/python3/curso/u48
+        url: /cursos/python3/curso/u48/index.html
       - title: "Programación estructurada y modular: Ejemplo completo"
-        url: cursos/python3/curso/u49
+        url: /cursos/python3/curso/u49/index.html
   - title: Programación orientada a objetos
     children:
       - title: Programación orientada a objetos
-        url: cursos/python3/curso/u50
+        url: /cursos/python3/curso/u50/index.html
       - title: Conceptos avanzados de programación orientada a objetos I
-        url: cursos/python3/curso/u51
+        url: /cursos/python3/curso/u51/index.html
       - title: Conceptos avanzados de programación orientada a objetos II
-        url: cursos/python3/curso/u52
+        url: /cursos/python3/curso/u52/index.html
       - title: Polimorfismo, herencia y delegación
-        url: cursos/python3/curso/u53
+        url: /cursos/python3/curso/u53/index.html
   - title: Ejercicios programación orientada a objetos
     children:
       - title: "Programación orientadas a objetos: Ejemplo completo"
-        url: cursos/python3/curso/u54
+        url: /cursos/python3/curso/u54/index.html
 
 
 flask:
   - title: Curso Flask
     children:
       - title: Índice
-        url: cursos/flask/
+        url: /cursos/flask//index.html
       - title: Introducción al curso
-        url: cursos/flask/curso/u0/u0.pdf 
+        url: /cursos/flask/curso/u0/u0.pdf /index.html
   - title: Introducción a la programación web
     children:
       - title: Protocolo HTTP
-        url: cursos/flask/curso/u01
+        url: /cursos/flask/curso/u01/index.html
       - title: Programación web dinámica
-        url: cursos/flask/curso/u02
+        url: /cursos/flask/curso/u02/index.html
       - title: Patrón modelo-vista-controlador
-        url: cursos/flask/curso/u03
+        url: /cursos/flask/curso/u03/index.html
       - title: Introducción a la programación web con python
-        url: cursos/flask/curso/u04
+        url: /cursos/flask/curso/u04/index.html
   - title: Introducción a flask
     children:
       - title: Introducción a flask
-        url: cursos/flask/curso/u05
+        url: /cursos/flask/curso/u05/index.html
       - title: Instalación de flask
-        url: cursos/flask/curso/u06
+        url: /cursos/flask/curso/u06/index.html
       - title: Corriendo una aplicación sencilla
-        url: cursos/flask/curso/u07
+        url: /cursos/flask/curso/u07/index.html
       - title: Controlando nuestra aplicación con flask-script
-        url: cursos/flask/curso/u08
+        url: /cursos/flask/curso/u08/index.html
   - title: "Controlador: Enrutamiento, peticiones y respuestas"
     children:
       - title: "Enrutamiento: Rutas"
-        url: cursos/flask/curso/u09
+        url: /cursos/flask/curso/u09/index.html
       - title: "Enrutamiento: Métodos"
-        url: cursos/flask/curso/u10
+        url: /cursos/flask/curso/u10/index.html
       - title: Trabajando con peticiones HTTP
-        url: cursos/flask/curso/u11
+        url: /cursos/flask/curso/u11/index.html
       - title: Generando respuestas HTTP, respuestas de error y redirecciones
-        url: cursos/flask/curso/u12
+        url: /cursos/flask/curso/u12/index.html
       - title: Contenido estático
-        url: cursos/flask/curso/u13
+        url: /cursos/flask/curso/u13/index.html
   - title: "Vista: Plantillas y formularios"
     children:
       - title: Plantillas con jinja2
-        url: cursos/flask/curso/u14
+        url: /cursos/flask/curso/u14/index.html
       - title: Generando páginas HTML con Flask y Jinja2
-        url: cursos/flask/curso/u15
+        url: /cursos/flask/curso/u15/index.html
       - title: Herencia de plantillas
-        url: cursos/flask/curso/u16
+        url: /cursos/flask/curso/u16/index.html
       - title: Plantillas con bootstrap (flask-bootstrap)
-        url: cursos/flask/curso/u17
+        url: /cursos/flask/curso/u17/index.html
       - title: Trabajando con formularios
-        url: cursos/flask/curso/u18
+        url: /cursos/flask/curso/u18/index.html
       - title: Generando formularios con flask-wtf
-        url: cursos/flask/curso/u19
+        url: /cursos/flask/curso/u19/index.html
       - title: Subida de ficheros
-        url: cursos/flask/curso/u20
+        url: /cursos/flask/curso/u20/index.html
   - title: "Modelo: Gestionando los datos"
     children:
       - title: Usando base de datos en Flask, flask-sqlalchemy
-        url: cursos/flask/curso/u21
+        url: /cursos/flask/curso/u21/index.html
       - title: El modelo de base de datos
-        url: cursos/flask/curso/u22
+        url: /cursos/flask/curso/u22/index.html
       - title: Listando y filtrando los registros de la base de datos
-        url: cursos/flask/curso/u23
+        url: /cursos/flask/curso/u23/index.html
       - title: Creando registros en la base de datos
-        url: cursos/flask/curso/u24
+        url: /cursos/flask/curso/u24/index.html
       - title: Modificando registros en la base de datos
-        url: cursos/flask/curso/u25
+        url: /cursos/flask/curso/u25/index.html
       - title: Borrando un registro de la base de datos
-        url: cursos/flask/curso/u26
+        url: /cursos/flask/curso/u26/index.html
   - title: Gestión de usuarios
     children:
       - title: Gestión de usuarios con sesiones
-        url: cursos/flask/curso/u27
+        url: /cursos/flask/curso/u27/index.html
       - title: Registrando nuevos usuarios
-        url: cursos/flask/curso/u28
+        url: /cursos/flask/curso/u28/index.html
       - title: Gestión de permisos de usuarios
-        url: cursos/flask/curso/u29
+        url: /cursos/flask/curso/u29/index.html
       - title: Gestión de usuarios con extensión Flask-Login
-        url: cursos/flask/curso/u30
+        url: /cursos/flask/curso/u30/index.html
   - title: Gestión carrito de la compra
     children:
       - title: Uso de cookies para añadir artículos al carrito
-        url: cursos/flask/curso/u31
+        url: /cursos/flask/curso/u31/index.html
       - title: Finalización de la compra
-        url: cursos/flask/curso/u32
+        url: /cursos/flask/curso/u32/index.html
   - title: Despliegue de la aplicación
     children:
       - title: Despliegue de aplicación flask en un servidor LAMP
-        url: cursos/flask/curso/u33
+        url: /cursos/flask/curso/u33/index.html
       - title: Despliegue de aplicación flask en hosting pythonanywhere
-        url: cursos/flask/curso/u34
+        url: /cursos/flask/curso/u34/index.html
       - title: Despliegue de aplicación flask en un PaaS Heroku
-        url: cursos/flask/curso/u35
+        url: /cursos/flask/curso/u35/index.html
       - title: Despliegue de aplicación flask en un contenedor docker
-        url: cursos/flask/curso/u36
+        url: /cursos/flask/curso/u36/index.html
 
 apache24:
   - title: Curso Apache 2.4
     children:
       - title: Índice
-        url: cursos/apache24/
+        url: /cursos/apache24/index.html
       - title: Introducción al curso
-        url: cursos/apache24/curso/u0/u0.pdf 
+        url: /cursos/apache24/curso/u0/u0.pdf 
   - title: Introducción a los servidores web
     children:
       - title: Protocolo HTTP
-        url: cursos/apache24/curso/u01
+        url: /cursos/apache24/curso/u01/index.html
       - title: Introducción al servidor web Apache 2.4
-        url: cursos/apache24/curso/u02
+        url: /cursos/apache24/curso/u02/index.html
       - title: Instalación del servidor web Apache 2.4
-        url: cursos/apache24/curso/u03
+        url: /cursos/apache24/curso/u03/index.html
       - title: Estructura de los ficheros de configuración
-        url: cursos/apache24/curso/u04
+        url: /cursos/apache24/curso/u04/index.html
       - title: Empezamos estudiando algunas directivas
-        url: cursos/apache24/curso/u05
+        url: /cursos/apache24/curso/u05/index.html
       - title: Probando nuestro servidor web
-        url: cursos/apache24/curso/u06
+        url: /cursos/apache24/curso/u06/index.html
   - title: Virtual Hosting en Apache 2.4
     children:
       - title: Introducción a Virtual Hosting
-        url: cursos/apache24/curso/u07
+        url: /cursos/apache24/curso/u07/index.html
       - title: Configuración de Virtual Hosting
-        url: cursos/apache24/curso/u08
+        url: /cursos/apache24/curso/u08/index.html
       - title: Configuración de acceso a los servidores virtuales
-        url: cursos/apache24/curso/u09
+        url: /cursos/apache24/curso/u09/index.html
   - title: Mapeo de URL
     children:
       - title: Opciones de directorios
-        url: cursos/apache24/curso/u10
+        url: /cursos/apache24/curso/u10/index.html
       - title: Trabajando con alias
-        url: cursos/apache24/curso/u11
+        url: /cursos/apache24/curso/u11/index.html
       - title: Negociación de contenidos
-        url: cursos/apache24/curso/u12
+        url: /cursos/apache24/curso/u12/index.html
       - title: Redirecciones
-        url: cursos/apache24/curso/u13
+        url: /cursos/apache24/curso/u13/index.html
       - title: Páginas de errores personalizadas
-        url: cursos/apache24/curso/u14
+        url: /cursos/apache24/curso/u14/index.html
   - title: Control de acceso, autentificación y autorización
     children:
       - title: Control de acceso. Autorización
-        url: cursos/apache24/curso/u15
+        url: /cursos/apache24/curso/u15/index.html
       - title: Autentificación básica
-        url: cursos/apache24/curso/u16
+        url: /cursos/apache24/curso/u16/index.html
       - title: Autentificación digest
-        url: cursos/apache24/curso/u17
+        url: /cursos/apache24/curso/u17/index.html
       - title: Implementación de políticas de autentificación y acceso
-        url: cursos/apache24/curso/u18
+        url: /cursos/apache24/curso/u18/index.html
   - title: Ficheros .htaccess
     children:
       - title: Configuración de Apache mediante archivo .htaccess
-        url: cursos/apache24/curso/u19
+        url: /cursos/apache24/curso/u19/index.html
   - title: Módulos en Apache 2.4
     children:
       - title: Uso de módulos en Apache 2.4
-        url: cursos/apache24/curso/u20
+        url: /cursos/apache24/curso/u20/index.html
       - title: Módulo userdir
-        url: cursos/apache24/curso/u21
+        url: /cursos/apache24/curso/u21/index.html
       - title: Creación de un servidor WebDAV
-        url: cursos/apache24/curso/u22
+        url: /cursos/apache24/curso/u22/index.html
       - title: Módulo rewrite
-        url: cursos/apache24/curso/u23
+        url: /cursos/apache24/curso/u23/index.html
   - title: Gestión de peticiones
     children:
       - title: Módulos de Multiprocesamiento (MPM)
-        url: cursos/apache24/curso/u24
+        url: /cursos/apache24/curso/u24/index.html
       - title: Ejecución de script PHP
-        url: cursos/apache24/curso/u25
+        url: /cursos/apache24/curso/u25/index.html
       - title: Ejecución de script python
-        url: cursos/apache24/curso/u26
+        url: /cursos/apache24/curso/u26/index.html
   - title: Seguridad
     children:
       - title: Introducción a HTTPS
-        url: cursos/apache24/curso/u27
+        url: /cursos/apache24/curso/u27/index.html
       - title: Obtener un certificado en CAcert
-        url: cursos/apache24/curso/u28
+        url: /cursos/apache24/curso/u28/index.html
       - title: Configuración de HTTPS
-        url: cursos/apache24/curso/u29
+        url: /cursos/apache24/curso/u29/index.html
       - title: Introducción al módulo mod_security2
-        url: cursos/apache24/curso/u30
+        url: /cursos/apache24/curso/u30/index.html
       - title: Consejos de seguridad
-        url: cursos/apache24/curso/u31
+        url: /cursos/apache24/curso/u31/index.html
   - title: Otros temas
     children:
       - title: Configuración de un proxy inverso
-        url: cursos/apache24/curso/u32
+        url: /cursos/apache24/curso/u32/index.html
       - title: "Analizador de logs: awstats"
-        url: cursos/apache24/curso/u33
+        url: /cursos/apache24/curso/u33/index.html
 
 programacion:
   - title: Introducción a la programación en pseudocódigo
     children:
       - title: Índice
-        url: cursos/programacion/
+        url: /cursos/programacion/index.html
       - title: Introducción al curso
-        url: cursos/programacion/curso/u0/u0.pdf 
+        url: /cursos/programacion/curso/u0/u0.pdf 
 
   - title: Introducción a la programación
     children:
       - title: Resolución de problemas
-        url: cursos/programacion/curso/u01
+        url: /cursos/programacion/curso/u01/index.html
       - title: Análisis del problema
-        url: cursos/programacion/curso/u02
+        url: /cursos/programacion/curso/u02/index.html
       - title: Diseño de algoritmos
-        url: cursos/programacion/curso/u03
+        url: /cursos/programacion/curso/u03/index.html
   - title: "Entorno de trabajo: PSeInt"
     children:
       - title: Introducción a PSeInt
-        url: cursos/programacion/curso/u04
+        url: /cursos/programacion/curso/u04/index.html
   - title: "Pseudocódigo: Introducción"
     children:
       - title: Estructura del algoritmo
-        url: cursos/programacion/curso/u05
+        url: /cursos/programacion/curso/u05/index.html
       - title: Tipos de datos simples
-        url: cursos/programacion/curso/u06
+        url: /cursos/programacion/curso/u06/index.html
       - title: Variables
-        url: cursos/programacion/curso/u07
+        url: /cursos/programacion/curso/u07/index.html
       - title: Operadores y expresiones
-        url: cursos/programacion/curso/u08
+        url: /cursos/programacion/curso/u08/index.html
       - title: Asignación de variables
-        url: cursos/programacion/curso/u09
+        url: /cursos/programacion/curso/u09/index.html
       - title: Entrada y salida de información
-        url: cursos/programacion/curso/u10
+        url: /cursos/programacion/curso/u10/index.html
       - title: Otras instrucciones
-        url: cursos/programacion/curso/u11
+        url: /cursos/programacion/curso/u11/index.html
       - title: Funciones matemáticas
-        url: cursos/programacion/curso/u12
+        url: /cursos/programacion/curso/u12/index.html
       - title: Funciones de cadenas de texto
-        url: cursos/programacion/curso/u13
+        url: /cursos/programacion/curso/u13/index.html
       - title: Nuestro primer pseudocódigo completo
-        url: cursos/programacion/curso/u14
+        url: /cursos/programacion/curso/u14/index.html
       - title: Ejecución paso a paso
-        url: cursos/programacion/curso/u15
+        url: /cursos/programacion/curso/u15/index.html
       - title: Ejercicios estructura secuencial
-        url: cursos/programacion/curso/u16
+        url: /cursos/programacion/curso/u16/index.html
   - title: "Pseudocódigo: Estructuras alternativas"
     children:
       - title: "Estructuras alternativas: Si"
-        url: cursos/programacion/curso/u17
+        url: /cursos/programacion/curso/u17/index.html
       - title: "Estructuras alternativas: Segun"
-        url: cursos/programacion/curso/u18
+        url: /cursos/programacion/curso/u18/index.html
       - title: Ejercicios estructuras alternativas
-        url: cursos/programacion/curso/u19
+        url: /cursos/programacion/curso/u19/index.html
   - title: "Pseudocódigo: Estructuras repetitivas"
     children:
       - title: "Estructuras repetitivas: Mientras"
-        url: cursos/programacion/curso/u20
+        url: /cursos/programacion/curso/u20/index.html
       - title: "Estructuras repetitivas: Repetir-Hasta Que"
-        url: cursos/programacion/curso/u21
+        url: /cursos/programacion/curso/u21/index.html
       - title: "Estructuras repetitivas: Para"
-        url: cursos/programacion/curso/u22
+        url: /cursos/programacion/curso/u22/index.html
       - title: "Uso específico de variables: contadores, acumuladores e indicadores"
-        url: cursos/programacion/curso/u23
+        url: /cursos/programacion/curso/u23/index.html
       - title: Ejercicios estructuras repetitivas
-        url: cursos/programacion/curso/u24
+        url: /cursos/programacion/curso/u24/index.html
       - title: Ejercicios cadenas de caracteres
-        url: cursos/programacion/curso/u25
+        url: /cursos/programacion/curso/u25/index.html
   - title: "Pseudocódigo: Arreglos"
     children:
       - title: "Estructuras de datos: Arreglos (array)"
-        url: cursos/programacion/curso/u26
+        url: /cursos/programacion/curso/u26/index.html
       - title: "Arreglos unidimensionales: Vectores"
-        url: cursos/programacion/curso/u27
+        url: /cursos/programacion/curso/u27/index.html
       - title: "Arreglos multidimensionales: Tablas"
-        url: cursos/programacion/curso/u28
+        url: /cursos/programacion/curso/u28/index.html
       - title: Ejercicios de arreglos
-        url: cursos/programacion/curso/u29
+        url: /cursos/programacion/curso/u29/index.html
   - title: "Pseudocódigo: Programación estructurada"
     children:
       - title: Programación estructurada
-        url: cursos/programacion/curso/u30
+        url: /cursos/programacion/curso/u30/index.html
       - title: Funciones y procedimientos
-        url: cursos/programacion/curso/u31
+        url: /cursos/programacion/curso/u31/index.html
       - title: Funciones recursivas
-        url: cursos/programacion/curso/u32
+        url: /cursos/programacion/curso/u32/index.html
       - title: Ejercicios de funciones
-        url: cursos/programacion/curso/u33
+        url: /cursos/programacion/curso/u33/index.html
       - title: Más ejercicios
-        url: cursos/programacion/curso/u34
+        url: /cursos/programacion/curso/u34/index.html
   - title: Lenguajes de Programación
     children:
       - title: Introducción a los lenguajes de programación
-        url: cursos/programacion/curso/u35
+        url: /cursos/programacion/curso/u35/index.html
       - title: Programas traductores
-        url: cursos/programacion/curso/u36
+        url: /cursos/programacion/curso/u36/index.html
       - title: "Compilación y ejecución de un lenguaje compilado: C++"
-        url: cursos/programacion/curso/u37
+        url: /cursos/programacion/curso/u37/index.html
       - title: Compilación e interpretación de un programa Java
-        url: cursos/programacion/curso/u38
+        url: /cursos/programacion/curso/u38/index.html
       - title: Ejecución de programas interpretados con Python
-        url: cursos/programacion/curso/u39
+        url: /cursos/programacion/curso/u39/index.html
 
 
 cloud2012:
   - title: Proyecto Cloud Computing (2012) 
     children:
       - title: Presentación del proyecto
-        url: cursos/cloud2012#presentación-del-proyecto
+        url: /cursos/cloud2012/index.html#presentación-del-proyecto
       - title: Virtualización
-        url: cursos/cloud2012#virtualización
+        url: /cursos/cloud2012/index.html#virtualización
       - title: Cloud Computing en la educación
-        url: cursos/cloud2012#cloud-computing-en-la-educación
+        url: /cursos/cloud2012/index.html#cloud-computing-en-la-educación
       - title: Introducción al Cloud Computing
-        url: cursos/cloud2012#introducción-al-cloud-computing
+        url: /cursos/cloud2012/index.html#introducción-al-cloud-computing
       - title: Utilización de OpenStack
-        url: cursos/cloud2012#utilización-de-openstack
+        url: /cursos/cloud2012/index.html#utilización-de-openstack
       - title: Infraestructura para el Cloud
-        url: cursos/cloud2012#infraestructura-para-el-cloud
+        url: /cursos/cloud2012/index.html#infraestructura-para-el-cloud
       - title: Instalación, configuración y administración de OpenStack
-        url: cursos/cloud2012#instalación-configuración-y-administración-de-openstack
+        url: /cursos/cloud2012/index.html#instalación-configuración-y-administración-de-openstack
       - title: API de OpenStack
-        url: cursos/cloud2012#api-de-openstack
+        url: /cursos/cloud2012/index.html#api-de-openstack
       - title: Curso de formación
-        url: cursos/cloud2012#curso-de-formación
+        url: /cursos/cloud2012/index.html#curso-de-formación
 
 cloud2013:
   - title: Jornadas Cloud Computing (2013) 
@@ -799,32 +799,32 @@ cloud2013:
   - title: "1ª SESIÓN: 26 de febrero"
     children:
       - title: Introducción al Cloud Computing
-        url: cursos/cloud2013#introducción-al-cloud-computing
+        url: /cursos/cloud2013/index.html#introducción-al-cloud-computing
       - title: OpenStack
-        url: cursos/cloud2013#openstack
+        url: /cursos/cloud2013/index.html#openstack
       - title: Utilización de instancias y almacenamiento en OpenStack
-        url: cursos/cloud2013#utilización-de-instancias-y-almacenamiento-en-openstack
+        url: /cursos/cloud2013/index.html#utilización-de-instancias-y-almacenamiento-en-openstack
   - title: "2ª SESIÓN: 5 de "
     children:
         - title: "Introducción a PaaS: Open Shift"
-          url: cursos/cloud2013#introducción-a-paas-open-shift
+          url: /cursos/cloud2013/index.html#introducción-a-paas-open-shift
         - title: Cloud Computing como herramienta didáctica. Posibilidades de uso/implantación en un centro educativo
-          url: cursos/cloud2013#cloud-computing-como-herramienta-didáctica-posibilidades-de-usoimplantación-en-un-centro-educativo
+          url: /cursos/cloud2013/index.html#cloud-computing-como-herramienta-didáctica-posibilidades-de-usoimplantación-en-un-centro-educativo
 servicios2011:
   - title: Servicios en GNU/Linux (Nivel Intermedio) (2011) 
     children:
       - title: 0.- Puesta en marcha
-        url: cursos/servicios2011#0--puesta-en-marcha
+        url: /cursos/servicios2011/index.html#0--puesta-en-marcha
       - title: "1.- Sincronización de ISC DHCP3 y Bind9: DNS dinámico"
-        url: cursos/servicios2011#1--sincronización-de-isc-dhcp3-y-bind9-dns-dinámico
+        url: /cursos/servicios2011/index.html#1--sincronización-de-isc-dhcp3-y-bind9-dns-dinámico
       - title: "2.- Sistema centralizado de cuentas: Kerberos, OpenLDAP y NFS4"
-        url: cursos/servicios2011#2--sistema-centralizado-de-cuentas-kerberos-openldap-y-nfs4
+        url: /cursos/servicios2011/index.html#2--sistema-centralizado-de-cuentas-kerberos-openldap-y-nfs4
       - title: "3.- Servidor apache: Módulos. HTTPS"
-        url: cursos/servicios2011#3--servidor-apache-módulos-https
+        url: /cursos/servicios2011/index.html#3--servidor-apache-módulos-https
       - title: 4.- Servidor de correo
-        url: cursos/servicios2011#4--servidor-de-correo
+        url: /cursos/servicios2011/index.html#4--servidor-de-correo
       - title: 5.- Gestión remota, estado del sistema, actualizaciones y copias de seguridad
-        url: cursos/servicios2011#5--gestión-remota-estado-del-sistema-actualizaciones-y-copias-de-seguridad
+        url: /cursos/servicios2011/index.html#5--gestión-remota-estado-del-sistema-actualizaciones-y-copias-de-seguridad
 
 servicios2010:
   - title: Servicios en GNU/Linux. Portal Educativo (2010) 
@@ -832,123 +832,123 @@ servicios2010:
   - title: Unidades Comunes
     children:
       - title: UNIDAD 0. Puesta en marcha del entorno de trabajo
-        url: cursos/servicios2010#unidad-0-puesta-en-marcha-del-entorno-de-trabajo
+        url: /cursos/servicios2010/index.html#unidad-0-puesta-en-marcha-del-entorno-de-trabajo
       - title: UNIDAD 1. NAT, LAMP, gestión de DNS externo
-        url: cursos/servicios2010#unidad-1-nat-lamp-gestión-de-dns-externo
+        url: /cursos/servicios2010/index.html#unidad-1-nat-lamp-gestión-de-dns-externo
   
   - title: Nivel Básico
     children:
       - title: UNIDAD 2. DHCP
-        url: cursos/servicios2010#unidad-2-dhcp
+        url: /cursos/servicios2010/index.html#unidad-2-dhcp
       - title: "UNIDAD 3. DNS: Bind9"
-        url: cursos/servicios2010#unidad-3-dns-bind9
+        url: /cursos/servicios2010/index.html#unidad-3-dns-bind9
       - title: "UNIDAD 4. Proxy web: Squid"
-        url: cursos/servicios2010#unidad-4-proxy-web-squid
+        url: /cursos/servicios2010/index.html#unidad-4-proxy-web-squid
       - title: UNIDAD 5. Cortafuegos con iptables
-        url: cursos/servicios2010#unidad-5-cortafuegos-con-iptables
+        url: /cursos/servicios2010/index.html#unidad-5-cortafuegos-con-iptables
       - title: "UNIDAD 6. Correo electrónico: postfix"
-        url: cursos/servicios2010#unidad-6-correo-electrónico-postfix
+        url: /cursos/servicios2010/index.html#unidad-6-correo-electrónico-postfix
 
   - title: Nivel Intermedio
     children:
       - title: UNIDAD 7. DNS Dinámico
-        url: cursos/servicios2010#unidad-7-dns-dinámico
+        url: /cursos/servicios2010/index.html#unidad-7-dns-dinámico
       - title: "UNIDAD 8. Web segura: https"
-        url: cursos/servicios2010#unidad-8-web-segura-https
+        url: /cursos/servicios2010/index.html#unidad-8-web-segura-https
       - title: "UNIDAD 9. Sistema centralizado de cuentas: Kerberos, LDAP y NFS4"
-        url: cursos/servicios2010#unidad-9-sistema-centralizado-de-cuentas-kerberos-ldap-y-nfs4
+        url: /cursos/servicios2010/index.html#unidad-9-sistema-centralizado-de-cuentas-kerberos-ldap-y-nfs4
       - title: UNIDAD 10. Gestión remota, estado del sistema, actualizaciones y copias de seguridad
-        url: cursos/servicios2010#unidad-10-gestión-remota-estado-del-sistema-actualizaciones-y-copias-de-seguridad
+        url: /cursos/servicios2010/index.html#unidad-10-gestión-remota-estado-del-sistema-actualizaciones-y-copias-de-seguridad
 
 servicios2008:
   - title: Introducción a los Servicios en GNU/Linux (2008)
     children:
       - title: Introdución
-        url: cursos/servicios2008#introdución
+        url: /cursos/servicios2008/index.html#introdución
       - title: Servidor DNS
-        url: cursos/servicios2008#servidor-dns
+        url: /cursos/servicios2008/index.html#servidor-dns
       - title: Servidor DHCP
-        url: cursos/servicios2008#servidor-dhcp
+        url: /cursos/servicios2008/index.html#servidor-dhcp
       - title: Servidor LDAP
-        url: cursos/servicios2008#servidor-ldap
+        url: /cursos/servicios2008/index.html#servidor-ldap
       - title: Servidor de Correo Electrónico
-        url: cursos/servicios2008#servidor-de-correo-electrónico
+        url: /cursos/servicios2008/index.html#servidor-de-correo-electrónico
       - title: "LAMP: Linux, Apache, mySql, PHP"
-        url: cursos/servicios2008#lamp-linux-apache-mysql-php
+        url: /cursos/servicios2008/index.html#lamp-linux-apache-mysql-php
       - title: NAT y Proxy
-        url: cursos/servicios2008#nat-y-proxy
+        url: /cursos/servicios2008/index.html#nat-y-proxy
       - title: NFS, SAMBA y Mdns
-        url: cursos/servicios2008#nfs-samba-y-mdns
+        url: /cursos/servicios2008/index.html#nfs-samba-y-mdns
       - title: Cortafuegos con iptables
-        url: cursos/servicios2008#cortafuegos-con-iptables
+        url: /cursos/servicios2008/index.html#cortafuegos-con-iptables
 
 mv2006:
   - title: Máquinas virtuales para la puesta en marcha de un portal educativo (2006) 
     children:
       - title: Máquinas Virtuales
-        url: cursos/mv2006#máquinas-virtuales
+        url: /cursos/mv2006/index.html#máquinas-virtuales
       - title: Creación de una red virtual con DMZ y MZ
-        url: cursos/mv2006#creación-de-una-red-virtual-con-dmz-y-mz
+        url: /cursos/mv2006/index.html#creación-de-una-red-virtual-con-dmz-y-mz
       - title: Cortafuegos con IPtables
-        url: cursos/mv2006#cortafuegos-con-iptables
+        url: /cursos/mv2006/index.html#cortafuegos-con-iptables
       - title: Servidor Apache. webalizer y awstats
-        url: cursos/mv2006#servidor-apache-webalizer-y-awstats
+        url: /cursos/mv2006/index.html#servidor-apache-webalizer-y-awstats
       - title: Servidor ftp
-        url: cursos/mv2006#servidor-ftp
+        url: /cursos/mv2006/index.html#servidor-ftp
       - title: Squid proxy-cache
-        url: cursos/mv2006#quid-proxy-cache
+        url: /cursos/mv2006/index.html#quid-proxy-cache
       - title: Dnsmasq como servidor DNS para una RAL
-        url: cursos/mv2006#dnsmasq-como-servidor-dns-para-una-ral
+        url: /cursos/mv2006/index.html#dnsmasq-como-servidor-dns-para-una-ral
       - title: Páginas web dinámicas. Implantación del portal educativo
-        url: cursos/mv2006#páginas-web-dinámicas-implantación-del-portal-educativo
+        url: /cursos/mv2006/index.html#páginas-web-dinámicas-implantación-del-portal-educativo
       - title: Servidor de correo electrónico. Postfix
-        url: cursos/mv2006#servidor-de-correo-electrónico-postfix
+        url: /cursos/mv2006/index.html#servidor-de-correo-electrónico-postfix
       - title: Seguridad
-        url: cursos/mv2006#seguridad
+        url: /cursos/mv2006/index.html#seguridad
 
 tic2007:
   - title: Curso TIC - IES Gonzalo Nazareno (2007) 
     children:
       - title: Documentación General del Curso
-        url: cursos/tic2007#documentación-general-del-curso
+        url: /cursos/tic2007/index.html#documentación-general-del-curso
       - title: Motivación y presentación del proyecto GNU/Linux, Guadalinex, TIC, conocimiento libre,...
-        url: cursos/tic2007#motivación-y-presentación-del-proyecto-gnulinux-guadalinex-tic-conocimiento-libre-
+        url: /cursos/tic2007/index.html#motivación-y-presentación-del-proyecto-gnulinux-guadalinex-tic-conocimiento-libre-
       - title: Conocimiento de los componentes hardware instalados en el centro
-        url: cursos/tic2007#conocimiento-de-los-componentes-hardware-instalados-en-el-centro
+        url: /cursos/tic2007/index.html#conocimiento-de-los-componentes-hardware-instalados-en-el-centro
       - title: Funcionamiento básico de un aula TIC
-        url: cursos/tic2007#funcionamiento-básico-de-un-aula-tic
+        url: /cursos/tic2007/index.html#funcionamiento-básico-de-un-aula-tic
       - title: Recordatorio de algunos aspectos sobre Gudalinex
-        url: cursos/tic2007#recordatorio-de-algunos-aspectos-sobre-gudalinex
+        url: /cursos/tic2007/index.html#recordatorio-de-algunos-aspectos-sobre-gudalinex
       - title: Aplicaciones generales del sistema (Visión global)
-        url: cursos/tic2007#aplicaciones-generales-del-sistema-visión-global
+        url: /cursos/tic2007/index.html#aplicaciones-generales-del-sistema-visión-global
       - title: Estudio de las herramientas específicas de un centro TIC
-        url: cursos/tic2007#estudio-de-las-herramientas-específicas-de-un-centro-tic
+        url: /cursos/tic2007/index.html#estudio-de-las-herramientas-específicas-de-un-centro-tic
       - title: Presentación de los recursos y programa que nos ofrece Guadalinex para cada una de las asignaturas
-        url: cursos/tic2007#presentación-de-los-recursos-y-programa-que-nos-ofrece-guadalinex-para-cada-una-de-las-asignaturas
+        url: /cursos/tic2007/index.html#presentación-de-los-recursos-y-programa-que-nos-ofrece-guadalinex-para-cada-una-de-las-asignaturas
       - title: Estrategias para preparar los contenidos de las distintas asignaturas utilizando las nuevas tecnologías
-        url: cursos/tic2007#estrategias-para-preparar-los-contenidos-de-las-distintas-asignaturas-utilizando-las-nuevas-tecnologías
+        url: /cursos/tic2007/index.html#estrategias-para-preparar-los-contenidos-de-las-distintas-asignaturas-utilizando-las-nuevas-tecnologías
       - title: Trabajo no presencial
-        url: cursos/tic2007#trabajo-no-presencial
+        url: /cursos/tic2007/index.html#trabajo-no-presencial
 
 helvia2007:
   - title: Curso HELVIA - IES Gonzalo Nazareno (2007)
     children:
       - title: Introducción
-        url: cursos/helvia2007#introducción
+        url: /cursos/helvia2007/index.html#introducción
       - title: Uso de la plataforma como usuario
-        url: cursos/helvia2007#uso-de-la-plataforma-como-usuario
+        url: /cursos/helvia2007/index.html#uso-de-la-plataforma-como-usuario
       - title: Prácticas
-        url: cursos/helvia2007#prácticas
+        url: /cursos/helvia2007/index.html#prácticas
       - title: Encuestas
-        url: cursos/helvia2007#encuestas
+        url: /cursos/helvia2007/index.html#encuestas
       - title: Uso de la plataforma como administrador
-        url: cursos/helvia2007#uso-de-la-plataforma-como-administrador
+        url: /cursos/helvia2007/index.html#uso-de-la-plataforma-como-administrador
       - title: Prácticas
-        url: cursos/helvia2007#prácticas-1
+        url: /cursos/helvia2007/index.html#prácticas-1
       - title: Trabajo no presencial
-        url: cursos/helvia2007#trabajo-no-presencial
+        url: /cursos/helvia2007/index.html#trabajo-no-presencial
       - title: Recursos
-        url: cursos/helvia2007#recursos
+        url: /cursos/helvia2007/index.html#recursos
 
 
 cursos:
