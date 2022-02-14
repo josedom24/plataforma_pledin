@@ -14,39 +14,39 @@ curso_cpp3:
   - title: "Curso C++: Programación estructurada y orientación a objetos"
     children:
       - title: Índice
-        url: cursos/curso_cpp3/
+        url: /cursos/curso_cpp3/index.html
   - title: "Punteros y estructuras"
     children:
       - title: "Introducción a los punteros (I)"
-        url: cursos/curso_cpp3/curso/u01/
+        url: /cursos/curso_cpp3/curso/u01/index.html
       - title: "Introducción a los punteros (II)"
-        url: cursos/curso_cpp3/curso/u02/
+        url: /cursos/curso_cpp3/curso/u02/index.html
       - title: "Introducción a las referencias en C++"
-        url: cursos/curso_cpp3/curso/u03/
+        url: /cursos/curso_cpp3/curso/u03/index.html
       - title: "Tipos de datos complejos: estructuras"
-        url: cursos/curso_cpp3/curso/u04/
+        url: /cursos/curso_cpp3/curso/u04/index.html
   - title: "Programación estructurada"
     children:
       - title: "Programación estructurada"
-        url: cursos/curso_cpp3/curso/u05/
+        url: /cursos/curso_cpp3/curso/u05/index.html
       - title: "Funciones y procedimientos"
-        url: cursos/curso_cpp3/curso/u06/
+        url: /cursos/curso_cpp3/curso/u06/index.html
       - title: "Funciones recursivas"
-        url: cursos/curso_cpp3/curso/u07/
+        url: /cursos/curso_cpp3/curso/u07/index.html
       - title: "Ejercicios con funciones"
-        url: cursos/curso_cpp3/curso/u08/
+        url: /cursos/curso_cpp3/curso/u08/index.html
       - title: "Más ejercicios"
-        url: cursos/curso_cpp3/curso/u09/
+        url: /cursos/curso_cpp3/curso/u09/index.html
   - title: "Programación orientada a objetos"
     children:
       - title: "Introducción a la programación orientada a objetos"
-        url: cursos/curso_cpp3/curso/u10/
+        url: /cursos/curso_cpp3/curso/u10/index.html
       - title: "Encapsulamiento en la programación orientada a objetos"
-        url: cursos/curso_cpp3/curso/u11/
+        url: /cursos/curso_cpp3/curso/u11/index.html
       - title: "Herencia y delegación"
-        url: cursos/curso_cpp3/curso/u12/
+        url: /cursos/curso_cpp3/curso/u12/index.html
       - title: "Ejercicios de programación orientada a objetos"
-        url: cursos/curso_cpp3/curso/u13/
+        url: /cursos/curso_cpp3/curso/u13/index.html
 
 curso_cpp2:
   - title: "Curso C++: Estructuras de control y tipos de datos"
