@@ -804,7 +804,7 @@ cloud2013:
         url: /cursos/cloud2013/index.html#openstack
       - title: Utilización de instancias y almacenamiento en OpenStack
         url: /cursos/cloud2013/index.html#utilización-de-instancias-y-almacenamiento-en-openstack
-  - title: "2ª SESIÓN: 5 de "
+  - title: "2ª SESIÓN: 5 de marzo"
     children:
         - title: "Introducción a PaaS: Open Shift"
           url: /cursos/cloud2013/index.html#introducción-a-paas-open-shift
