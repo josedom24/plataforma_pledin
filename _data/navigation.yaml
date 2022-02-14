@@ -142,19 +142,19 @@ moodle2020:
   - title: "Introducción al uso de la plataforma moodle"
     children:
       - title: "Estructura de un curso moodle"
-        url: /cursos/moodle2020/#estructura-de-un-curso-moodle/index.html
+        url: /cursos/moodle2020/index.html#estructura-de-un-curso-moodle
       - title: "Gestión de usuarios"
-        url: /cursos/moodle2020/#gestión-de-usuarios/index.html
+        url: /cursos/moodle2020/index.html#gestión-de-usuarios
       - title: "Añadir recursos: ficheros y enlaces"
-        url: /cursos/moodle2020/#añadir-recursos-ficheros-y-enlaces/index.html
+        url: /cursos/moodle2020/index.html#añadir-recursos-ficheros-y-enlaces
       - title: "Actividades: Tareas"
-        url: /cursos/moodle2020/#actividades-tareas/index.html
+        url: /cursos/moodle2020/index.html#actividades-tareas
       - title: "Actividades: Foros"
-        url: /cursos/moodle2020/#actividades-foros/index.html
+        url: /cursos/moodle2020/index.html#actividades-foros
       - title: "Añadir recursos: Páginas y Etiquetas"
-        url: /cursos/moodle2020/#añadir-recursos-páginas-y-etiquetas/index.html
+        url: /cursos/moodle2020/index.html#añadir-recursos-páginas-y-etiquetas
       - title: "Actividades: Cuestionarios"
-        url: /cursos/moodle2020/#actividades-cuestionarios/index.html
+        url: /cursos/moodle2020/index.html#actividades-cuestionarios
 openshift:
   - title: "Curso de OpenShift"
     children:
