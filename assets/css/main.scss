@@ -86,12 +86,11 @@ nav#site-nav
   }
 
   .nav__list .nav__items .active {
-    margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
     font-weight: bold;
     background-color: #78ace9;
-
+  }
   .nav__list a:hover {
       background-color: #78ace9;
   }
