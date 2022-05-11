@@ -26,7 +26,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## Cloud Computing y OpenStack
 
-* ["Mini" Curso: Virtualización y Cloud Computing en el IES Gonzalo Nazareno](https://www.josedomingo.org/pledin/2022/05/curso-cloud-iesgn)
+* ["Mini" Curso: Virtualización y Cloud Computing en el IES Gonzalo Nazareno (2022)](https://www.josedomingo.org/pledin/2022/05/curso-cloud-iesgn)
 * [Curso de infraestructura Cloud con OpenStack. Universidad de Almería (2017) (github)](https://github.com/iesgn/curso-ual17)
 * [Curso OpenStack (2016) (github.io)](http://iesgn.github.io/emergya/)
 * [Introducción al Cloud Computing con OpenStack y OpenShift (2015) (github.io)](http://iesgn.github.io/cloud3/)
