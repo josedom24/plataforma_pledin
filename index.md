@@ -10,6 +10,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## Contenedores
 
+* [Curso: Introducción a  Docker. CPR Badajoz. (2022)](https://josedom24.github.io/curso_docker_2022/)
 * [Curso: Introducción a Kubernetes. CEP Castilleja de la Cuesta. (2022)](https://github.com/iesgn/curso_kubernetes_cep)
 * [Curso: Introducción a  Docker. CPR Zafra. (2021)](https://iesgn.github.io/curso_docker_2021/)
 
