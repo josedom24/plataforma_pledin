@@ -25,7 +25,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 * [Curso Apache2.4 (2018)](cursos/apache24/index.html)
 * [Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017)](cursos/flask/index.html)
 * [Curso de python3 (2017)](cursos/python3/index.html)
-* [Curso de CLoud Computing con OpenStack (2015)](http://iesgn.github.io/ow1/)
+* [Curso de Cloud Computing con OpenStack (2015)](http://iesgn.github.io/ow1/)
 
 ## Cloud Computing y OpenStack
 
