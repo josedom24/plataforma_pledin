@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Plataforma Educativa Informática. Página personal de José Domingo Muñoz
 baseurl: "/pledin" # the subpath of your site, e.g. /blog
 url: "https://plataforma.josedomingo.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pledin_jd
+#twitter_username: pledin_jd
 github_username:  josedom24
 paginate: 0
 
