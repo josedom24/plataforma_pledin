@@ -23,6 +23,20 @@ osv4_k8s:
         url: /cursos/osv4_k8s/modulo1/openshift.html
       - title: "Plataformas para trabajar con OpenShift v4"
         url: /cursos/osv4_k8s/modulo1/plataformas.html
+  - title: "Red Hat OpenShift Dedicated Developer Sandbox"
+    children:
+      - title: "Red Hat OpenShift Dedicated Developer Sandbox"
+        url: /cursos/osv4_k8s/modulo2/sandbox.html
+	    - title: "Visión general de la consola web"
+        url: /cursos/osv4_k8s/modulo2/consola.html
+	    - title: "Visión general del proyecto de trabajo"
+        url: /cursos/osv4_k8s/modulo2/proyecto.html
+	    - title: "Instalación del CLI de OpenShift: oc"
+        url: /cursos/osv4_k8s/modulo2/oc.html
+	    - title: "Configuración de oc para el Developer Sandbox"
+        url: /cursos/osv4_k8s/modulo2/oclogin.html
+
+      
 curso_cpp3:
   - title: "Curso C++: Programación estructurada y orientación a objetos"
     children:
