@@ -1,6 +1,6 @@
 ---
 title: "Introducción a OpenShift v4"
-permalink: /cursos/osv4_k8s/modulo1/02_openshift.html
+permalink: /cursos/osv4_k8s/modulo1/openshift.html
 ---
 
 ## ¿Qué es OpenShift v4?

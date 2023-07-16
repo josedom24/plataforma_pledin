@@ -15,16 +15,16 @@ Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://gi
 ## Unidades
 
 1. Introducción a OpenShift v4
-	* [Implantación de aplicaciones web en contenedores](modulo1/01_contenedores.html)
-	* [Introducción a OpenShift v4](modulo1/02_openshift.html)
-	* [Plataformas para trabajar con OpenShift v4](modulo1/03_plataformas.html)
+	* [Implantación de aplicaciones web en contenedores](modulo1/contenedores.html)
+	* [Introducción a OpenShift v4](modulo1/openshift.html)
+	* [Plataformas para trabajar con OpenShift v4](modulo1/plataformas.html)
 
 2. Red Hat OpenShift Dedicated Developer Sandbox
-	* [Red Hat OpenShift Dedicated Developer Sandbox](modulo2/01_sandbox.html)
-	* [Visión general de la consola web](modulo2/02_consola.html)
-	* [Visión general del proyecto de trabajo](modulo2/03_proyecto.html)
-	* [Instalación del CLI de OpenShift: oc](modulo2/04_oc.html)
-	* [Configuración de oc para el Developer Sandbox](modulo2/05_oclogin.html)
+	* [Red Hat OpenShift Dedicated Developer Sandbox](modulo2/sandbox.html)
+	* [Visión general de la consola web](modulo2/consola.html)
+	* [Visión general del proyecto de trabajo](modulo2/proyecto.html)
+	* [Instalación del CLI de OpenShift: oc](modulo2/oc.html)
+	* [Configuración de oc para el Developer Sandbox](modulo2/oclogin.html)
 
 3. CRC (CodeReady Containers)
 	* [CRC (CodeReady Containers)](modulo3/introudccion_crc.html)
