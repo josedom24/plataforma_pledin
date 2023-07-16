@@ -1,6 +1,6 @@
 ---
 title: "Virtualización ligera o en contenedores"
-permalink: /cursos/osv4_k8s/modulo1/contenedores.html
+permalink: /cursos/osv4_k8s/curso/modulo1/contenedores.html
 ---
 
 En este tipo de virtualización, sobre el núcleo del sistema operativo de la máquina anfitriona se ejecuta una capa de virtualización que
