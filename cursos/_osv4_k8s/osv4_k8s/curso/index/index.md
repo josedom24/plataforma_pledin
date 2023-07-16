@@ -16,100 +16,73 @@ Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://gi
 ## Unidades
 
 1. Introducción a OpenShift v4
-	* [Implantación de aplicaciones web en contenedores (P)](modulo1/contenedores.md)
-	* [Introducción a OpenShift v4 (P)](modulo1/openshift.md)
-	* [Plataformas para trabajar con OpenShift v4 (P)](modulo1/plataformas.md)
+	* [Implantación de aplicaciones web en contenedores (P)](modulo1/contenedores.html)
+	* [Introducción a OpenShift v4 (P)](modulo1/openshift.html)
+	* [Plataformas para trabajar con OpenShift v4 (P)](modulo1/plataformas.html)
 
 2. Red Hat OpenShift Dedicated Developer Sandbox
-	* [Red Hat OpenShift Dedicated Developer Sandbox (P)](modulo2/sandbox.md)
-	* [Visión general de la consola web](modulo2/consola.md)
-	* [Visión general del proyecto de trabajo](modulo2/proyecto.md)
-	* [Instalación del CLI de OpenShift: oc](modulo2/oc.md)
-	* [Configuración de oc para el Developer Sandbox](modulo2/oclogin.md)
+	* [Red Hat OpenShift Dedicated Developer Sandbox (P)](modulo2/sandbox.html)
+	* [Visión general de la consola web](modulo2/consola.html)
+	* [Visión general del proyecto de trabajo](modulo2/proyecto.html)
+	* [Instalación del CLI de OpenShift: oc](modulo2/oc.html)
+	* [Configuración de oc para el Developer Sandbox](modulo2/oclogin.html)
 
 3. CRC (CodeReady Containers)
-	* [CRC (CodeReady Containers) (P)](modulo3/introudccion_crc.md)
-	* [Instalación en local con CRC](modulo3/instalacion_crc.md)
-	* [Configuración de oc para CRC](modulo3/oc.md)
-	* [Proyectos en OpenShift](modulo3/proyectos.md)
-	* [La consola web en CRC](modulo3/consola_web.md)
-	* [Similitudes y diferencias entre CRC y Developer Sandbox (P)](modulo3/crc_sandbox.md)
+	* [CRC (CodeReady Containers) (P)](modulo3/introudccion_crc.html)
+	* [Instalación en local con CRC](modulo3/instalacion_crc.html)
+	* [Configuración de oc para CRC](modulo3/oc.html)
+	* [Proyectos en OpenShift](modulo3/proyectos.html)
+	* [La consola web en CRC](modulo3/consola_web.html)
+	* [Similitudes y diferencias entre CRC y Developer Sandbox (P)](modulo3/crc_sandbox.html)
 	
 4. OpenShift como distribución de Kubernetes
-	* [Despliegues de aplicaciones en Kubernetes (P)](modulo4/aplicaciones.md)
-	* [Recursos que nos ofrece OpenShift para desplegar aplicaciones (P)](modulo4/recursos.md)
-	* [Trabajando con Pods](modulo4/pods.md)
-	* [Trabajando con Pods desde la consola web](modulo4/pods_web.md)
-	* [Ejemplo: Pod multicontenedor](modulo4/pod_multicontenedor.md)
-	* [Tolerancia a fallos, escalabilidad, balanceo de carga: ReplicaSet](modulo4/replicaset.md)
-	* [Trabajando con ReplicaSets desde la consola web](modulo4/replicaset_web.md)
-	* [Desplegando aplicaciones: Deployment](modulo4/deployment.md)
-	* [Trabajando con Deployment desde la consola web](modulo4/deployment_web.md)
-	* [Ejecución de Pods privilegiados](modulo4/pods_privilegiados.md)
-	* [Actualización de un Deployment (*rollout* y *rollback*)](modulo4/actualizacion_deployment.md)
+	* [Despliegues de aplicaciones en Kubernetes (P)](modulo4/aplicaciones.html)
+	* [Recursos que nos ofrece OpenShift para desplegar aplicaciones (P)](modulo4/recursos.html)
+	* [Trabajando con Pods](modulo4/pods.html)
+	* [Trabajando con Pods desde la consola web](modulo4/pods_web.html)
+	* [Ejemplo: Pod multicontenedor](modulo4/pod_multicontenedor.html)
+	* [Tolerancia a fallos, escalabilidad, balanceo de carga: ReplicaSet](modulo4/replicaset.html)
+	* [Trabajando con ReplicaSets desde la consola web](modulo4/replicaset_web.html)
+	* [Desplegando aplicaciones: Deployment](modulo4/deployment.html)
+	* [Trabajando con Deployment desde la consola web](modulo4/deployment_web.html)
+	* [Ejecución de Pods privilegiados](modulo4/pods_privilegiados.html)
+	* [Actualización de un Deployment (*rollout* y *rollback*)](modulo4/actualizacion_deployment.html)
 	
 5. Acceso a las aplicaciones 
 
-	* [Recursos que nos ofrece OpenShift para el acceso a las aplicaciones (P)](modulo5/recursos.md)
-	* [Trabajando con Services](modulo5/services.md)
-	* [Accediendo a las aplicaciones: ingress y routes](modulo5/routes.md)
-	* [Servicio DNS en Kubernetes](modulo5/dns.md)
-	* [Gestionando los recursos de acceso desde la consola web](modulo5/acceso_web.md)
+	* [Recursos que nos ofrece OpenShift para el acceso a las aplicaciones (P)](modulo5/recursos.html)
+	* [Trabajando con Services](modulo5/services.html)
+	* [Accediendo a las aplicaciones: ingress y routes](modulo5/routes.html)
+	* [Servicio DNS en Kubernetes](modulo5/dns.html)
+	* [Gestionando los recursos de acceso desde la consola web](modulo5/acceso_web.html)
 
 6. Despliegues parametrizados
-	* [Variables de entorno](modulo6/variables_entorno.md)
-    * [ConfigMaps](modulo6/configmaps.md)
-    * [Secrets](modulo6/secrets.md)
-	* [Gestionando las variables de entorno, los ConfigMap y los Secret desde la consola web](modulo6/web.md)
-    * [Ejemplo completo: Despliegue y acceso a Wordpress + MySql](modulo6/wordpress.md)
-	* [Agrupación de aplicaciones](modulo6/agrupamiento.md)
+	* [Variables de entorno](modulo6/variables_entorno.html)
+    * [ConfigMaps](modulo6/configmaps.html)
+    * [Secrets](modulo6/secrets.html)
+	* [Gestionando las variables de entorno, los ConfigMap y los Secret desde la consola web](modulo6/web.html)
+    * [Ejemplo completo: Despliegue y acceso a Wordpress + MySql](modulo6/wordpress.html)
+	* [Agrupación de aplicaciones](modulo6/agrupamiento.html)
 
 7. Almacenamiento en OpenShift v4
-	* [Introducción al almacenamiento (P)](modulo7/almacenamiento.md)
-	* [Almacenamiento en CRC](modulo7/almacenamiento_crc.md)
-	* [Volúmenes dentro de un pod](modulo7/volumen_pod.md)
-	* [Aprovisionamiento dinámico de volúmenes](modulo7/volumen_dinamico.md)
-	* [Gestionando el almacenamiento desde la consola web](modulo7/volumen_web.md)
-	* [Ejemplo completo: Haciendo persistente la aplicación Wordpress](modulo7/wordpress.md)
+	* [Introducción al almacenamiento (P)](modulo7/almacenamiento.html)
+	* [Almacenamiento en CRC](modulo7/almacenamiento_crc.html)
+	* [Volúmenes dentro de un pod](modulo7/volumen_pod.html)
+	* [Aprovisionamiento dinámico de volúmenes](modulo7/volumen_dinamico.html)
+	* [Gestionando el almacenamiento desde la consola web](modulo7/volumen_web.html)
+	* [Ejemplo completo: Haciendo persistente la aplicación Wordpress](modulo7/wordpress.html)
 
 8. Otros recursos para manejar nuestras aplicaciones
-	* [Otros recursos para manejar nuestras aplicaciones (P)](modulo8/introduccion.md)
-	* [StatefulSet](modulo8/statefulset.md)
-	* [DaemonSet](modulo8/daemonset.md)
-	* [Jobs y CronJobs](modulo8/jobs.md)
-	* [Horizontal Pod AutoScaler](modulo8/hpa.md)
+	* [Otros recursos para manejar nuestras aplicaciones (P)](modulo8/introduccion.html)
+	* [StatefulSet](modulo8/statefulset.html)
+	* [DaemonSet](modulo8/daemonset.html)
+	* [Jobs y CronJobs](modulo8/jobs.html)
+	* [Horizontal Pod AutoScaler](modulo8/hpa.html)
 		
 9. Ejemplo final: Citas
-	* [Despliegue de aplicación Citas en OpenShift v4 (P)](modulo9/citas.md)
-	* [Despliegues de citas-backend](modulo9/backend.md)
-	* [Despliegue de citas-frontend](modulo9/frontend.md)
-	* [Despliegue de la base de datos mysql](modulo9/mysql.md)
-	* [Actualización de la aplicación citas-backend](modulo9/backend_v2.md)
+	* [Despliegue de aplicación Citas en OpenShift v4 (P)](modulo9/citas.html)
+	* [Despliegues de citas-backend](modulo9/backend.html)
+	* [Despliegue de citas-frontend](modulo9/frontend.html)
+	* [Despliegue de la base de datos mysql](modulo9/mysql.html)
+	* [Actualización de la aplicación citas-backend](modulo9/backend_v2.html)
 
-
-
-
-### Introducción a la programación
-
-1. [Análisis de problemas y diseño de algoritmos](curso/u01)
-2. [Introducción a los lenguajes de programación](curso/u02)
-3. [Introducción a C++](curso/u03)
-
-### Introducción a C++
-
-{:start="4"}
-4. [Instalación del IDE Zinjai](curso/u04)
-5. [Estructura del programa](curso/u05)
-6. [Compilación y ejecución de programas](curso/u06)
-
-### Tipos de datos básicos
-
-{:start="7"}
-7. [Datos y tipos de datos](curso/u07)
-8. [Literales y constantes](curso/u08)
-9. [Variables. Operadores de asignación.](curso/u09)
-10. [Tipos de datos numéricos. Operadores aritméticos](curso/u10)
-11. [Introducción a las cadenas de caracteres](curso/u11)
-12. [Entrada y salida estándar](curso/u12)
-13. [Pasando de pseudocódigo a C++](curso/u13)
-14. [Ejercicios estructura secuencial](curso/u14)
