@@ -1,4 +1,6 @@
-# Red Hat OpenShift Dedicated Developer Sandbox
+---
+title: "Red Hat OpenShift Dedicated Developer Sandbox"
+---
 
 La versión **Developer Sandbox** de **OpenShift Dedicated** nos permite probar OpenShift v4 en una plataforma con las siguientes características:
 
