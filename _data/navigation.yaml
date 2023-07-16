@@ -35,6 +35,23 @@ osv4_k8s:
         url: /cursos/osv4_k8s/modulo2/oc.html
       - title: "Configuración de oc para el Developer Sandbox"
         url: /cursos/osv4_k8s/modulo2/oclogin.html
+  - title: "CRC (CodeReady Containers)"
+    children:
+      - title: "CRC (CodeReady Containers)"
+        url: /cursos/osv4_k8s/modulo3/introudccion_crc.html
+      - title: "Instalación en local con CRC"
+        url: /cursos/osv4_k8s/modulo3/instalacion_crc.html
+      - title: "Configuración de oc para CRC"
+        url: /cursos/osv4_k8s/modulo3/oc.html
+      - title: "Proyectos en OpenShift"
+        url: /cursos/osv4_k8s/modulo3/proyectos.html
+      - title: "La consola web en CRC"
+        url: /cursos/osv4_k8s/modulo3/consola_web.html
+      - title: "Similitudes y diferencias entre CRC y Developer Sandbox"
+        url: /cursos/osv4_k8s/modulo3/crc_sandbox.html
+
+      
+      
 
       
 curso_cpp3:
