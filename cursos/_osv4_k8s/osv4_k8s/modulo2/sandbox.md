@@ -1,5 +1,6 @@
 ---
 title: "Red Hat OpenShift Dedicated Developer Sandbox"
+permalink: /cursos/osv4_k8s/modulo2/sandbox.html
 ---
 
 La versión **Developer Sandbox** de **OpenShift Dedicated** nos permite probar OpenShift v4 en una plataforma con las siguientes características:

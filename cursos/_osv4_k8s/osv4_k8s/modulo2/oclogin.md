@@ -1,4 +1,7 @@
-# Configuración de oc para el Developer Sandbox
+---
+title: "Configuración de oc para el Developer Sandbox"
+permalink: /cursos/osv4_k8s/modulo2/oclogin.html
+---
 
 Una vez que tenemos instalado la herramienta `oc`, el siguiente paso el realizar el login en nuestro clúster. En el caso de **Red Hat OpenShift Dedicated Developer Sandbox**, la autentificación se hace por medio de un token.
 

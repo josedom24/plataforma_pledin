@@ -1,4 +1,7 @@
-# Visión general de la consola web
+---
+title: "Visión general de la consola web"
+permalink: /cursos/osv4_k8s/modulo2/consola.html
+---
 
 Tenemos varias formas de interactuar con nuestro clúster de OpenShift:
 
