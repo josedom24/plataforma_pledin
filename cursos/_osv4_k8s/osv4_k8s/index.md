@@ -2,16 +2,16 @@
 title: "Aprende Kubernetes con OpenShift v4"
 ---
 
-<!--![c++](img/c++.png)
+![osv4](https://www.josedomingo.org/pledin/assets/wp-content/uploads/2023/05/openshift.png)
 
 
-Realizando este curso de introducción a C++ aprenderás las características y los fundamentos de este lenguaje de programación, ya que es un curso de C++ pensado para todos los que quieran comenzar a aprender este interesante lenguaje.
+En esta formación aprenderemos los recursos principales de Kubernetes usando OpenShift v4, y hacia la parte final, desplegaremos una aplicación completa para poner en práctica todo lo aprendido.
 
-Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/cpp-introduccion/) en septiembre de 2020.
+Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/aprende-kubernetes-openshift-v4/) en mayo de 2023.
 
-Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_cplusplus).
+Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_openshift_v4/blob/main/curso1/README.md). Puedes acceder al [Repositorio con los ficheros de los ejercicios](https://github.com/josedom24/ficheros_osv4_curso1)
 
--->
+
 ## Unidades
 
 1. Introducción a OpenShift v4
