@@ -1,6 +1,6 @@
 ---
 title: "Plataformas para trabajar con OpenShift v4"
-permalink: /cursos/osv4_k8s/modulo1/plataformas.html
+permalink: /cursos/osv4_k8s/modulo1/03_plataformas.html
 ---
 
 ## Plataformas comerciales

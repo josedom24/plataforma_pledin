@@ -1,6 +1,6 @@
 ---
 title: "Instalación del CLI de OpenShift: oc"
-permalink: /cursos/osv4_k8s/modulo2/oc.html
+permalink: /cursos/osv4_k8s/modulo2/04_oc.html
 ---
 
 La herramienta `oc` nos permite gestionar los recursos de nuestro clúster de OpenShift desde la línea de comandos.

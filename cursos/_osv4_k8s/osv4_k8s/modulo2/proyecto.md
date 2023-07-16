@@ -1,6 +1,6 @@
 ---
 title: "Visión general del proyecto de trabajo"
-permalink: /cursos/osv4_k8s/modulo2/proyecto.html
+permalink: /cursos/osv4_k8s/modulo2/03_proyecto.html
 ---
 
 Un proyecto permite a OpenShift agrupar distintos recursos. Es similar al recurso **namespace** de Kubernetes, pero guarda información adicional.
