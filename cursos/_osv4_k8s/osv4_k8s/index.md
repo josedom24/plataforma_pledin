@@ -9,7 +9,7 @@ En esta formación aprenderemos los recursos principales de Kubernetes usando Op
 
 Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/aprende-kubernetes-openshift-v4/) en mayo de 2023.
 
-Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_openshift_v4/blob/main/curso1/README.md). Puedes acceder al [Repositorio con los ficheros de los ejercicios](https://github.com/josedom24/ficheros_osv4_curso1)
+Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_openshift_v4/blob/main/curso1/README.md). Puedes acceder al [Repositorio con los ficheros de los ejercicios](https://github.com/josedom24/ficheros_osv4_curso1).
 
 
 ## Unidades

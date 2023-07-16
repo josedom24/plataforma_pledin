@@ -1,0 +1,12 @@
+apiVersion: route.openshift.io/v1
+kind: Route
+metadata:
+  labels:
+    app: citasweb
+  name: citasweb
+spec:
+  port:
+    targetPort: 5000-tcp
+  to:
+    kind: Service
+    name: citasweb

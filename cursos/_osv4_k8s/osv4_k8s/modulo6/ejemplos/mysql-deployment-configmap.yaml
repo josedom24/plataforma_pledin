@@ -1,0 +1,44 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mysql-configmap
+  labels:
+    app: mysql2
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mysql2
+  template:
+    metadata:
+      labels:
+        app: mysql2
+    spec:
+      containers:
+        - name: contenedor-mysql
+          image: bitnami/mysql
+          ports:
+            - containerPort: 3306
+              name: db-port
+          env:
+            - name: MYSQL_ROOT_PASSWORD
+              valueFrom:
+                configMapKeyRef:
+                  name: mysql
+                  key: root_password
+            - name: MYSQL_USER
+              valueFrom:
+                configMapKeyRef:
+                  name: mysql
+                  key: mysql_usuario
+            - name: MYSQL_PASSWORD
+              valueFrom:
+                configMapKeyRef:
+                  name: mysql
+                  key: mysql_password
+            - name: MYSQL_DATABASE
+              valueFrom:
+                configMapKeyRef:
+                  name: mysql
+                  key: basededatos
+            
