@@ -18,11 +18,11 @@ osv4_k8s:
   - title: "Introducción a OpenShift v4"
     children:
       - title: "Implantación de aplicaciones web en contenedores"
-        url: /cursos/osv4_k8s/curso/modulo1/contenedores.html
+        url: /cursos/osv4_k8s/modulo1/contenedores.html
       - title: "Introducción a OpenShift v4"
-        url: /cursos/osv4_k8s/curso/modulo1/openshift.html
+        url: /cursos/osv4_k8s/modulo1/openshift.html
       - title: "Plataformas para trabajar con OpenShift v4"
-        url: /cursos/osv4_k8s/curso/modulo1/plataformas.html
+        url: /cursos/osv4_k8s/modulo1/plataformas.html
 curso_cpp3:
   - title: "Curso C++: Programación estructurada y orientación a objetos"
     children:
