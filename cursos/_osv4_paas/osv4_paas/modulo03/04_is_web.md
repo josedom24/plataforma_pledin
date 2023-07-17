@@ -1,4 +1,7 @@
-# Gestión de ImageStream desde la consola web
+---
+title: "Gestión de ImageStream desde la consola web"
+permalink: /cursos/osv4_paas/modulo03/is_web.html
+---
 
 En primer lugar podemos ver desde la consola web los objetos **ImageStream** que apuntan a las imágenes precargadas en OpenShift. Recordemos que se encuentran en el proyecto `openshift`. En la vista **Administrator**, en el apartado **Builds->ImageStream**, escogemos el proyecto **OpenShift** y accedemos:
 

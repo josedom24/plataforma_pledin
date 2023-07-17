@@ -1,4 +1,7 @@
-# ImageStream a imágenes del registro interno
+---
+title: "ImageStream a imágenes del registro interno"
+permalink: /cursos/osv4_paas/modulo03/registro_interno.html
+---
 
 OpenShift posee un registro interno con imágenes precargadas. Como hemos indicado no trabajamos directamente con esas imágenes, sino que tenemos a nuestra disposición el recurso **ImageStream** que apunta a estas imágenes, y serán las que utilicemos para crear nuevos despliegues o para construir nuevas imágenes.
 

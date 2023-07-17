@@ -1,4 +1,7 @@
-# Actualización automática de ImageStream
+---
+title: "Actualización automática de ImageStream"
+permalink: /cursos/osv4_paas/modulo03/update.html
+---
 
 Cuando creamos un nuevo **ImageStream** que apunta a una imagen, podemos activar una funcionalidad que periódicamente comprueba si la imagen ha cambiado, y en caso afirmativo, actualiza el **ImageStream** para que apunte a la nueva imagen. Por defecto, el periodo de comprobación es de 15 minutos.
 

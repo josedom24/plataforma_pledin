@@ -1,4 +1,7 @@
-# Gestión de las etiquetas en un ImageStream
+---
+title: "Gestión de las etiquetas en un ImageStream"
+permalink: /cursos/osv4_paas/modulo03/etiquetas.html
+---
 
 En el apartado anterior hemos visto como crear objetos **ImageStream** que nos referencian a imágenes externas o internas. Realmente un **ImageStream** es un conjunto de etiquetas, y cada una de ellas puede apuntar a una imagen distinta o a la misma imagen.
 

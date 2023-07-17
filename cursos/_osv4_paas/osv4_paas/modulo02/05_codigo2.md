@@ -1,4 +1,8 @@
-# Despliegue de aplicaciones desde código fuente con oc (2ª parte)
+---
+title: "Despliegue de aplicaciones desde código fuente con oc (2ª parte)"
+permalink: /cursos/osv4_paas/modulo02/codigo2.html
+---
+
 
 ## Despliegue de una página estática con un servidor nginx
 
