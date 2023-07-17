@@ -1,4 +1,7 @@
-# ConfigMaps
+---
+title: "ConfigMaps"
+permalink: /cursos/osv4_k8s/modulo6/configmaps.html
+---
 
 En el apartado anterior hemos estudiado como podemos definir las variables de entorno de los contenedores que vamos a desplegar. Sin embargo, la solución que presentamos puede tener alguna limitación:
 

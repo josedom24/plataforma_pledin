@@ -73,7 +73,7 @@ osv4_k8s:
         url: /cursos/osv4_k8s/modulo4/deployment_web.html
       - title: "Ejecución de Pods privilegiados"
         url: /cursos/osv4_k8s/modulo4/pods_privilegiados.html
-      - title: "Actualización de un Deployment (*rollout* y *rollback*)"
+      - title: "Actualización de un Deployment (rollout y rollback)"
         url: /cursos/osv4_k8s/modulo4/actualizacion_deployment.html
   - title: "Acceso a las aplicaciones"
     children:

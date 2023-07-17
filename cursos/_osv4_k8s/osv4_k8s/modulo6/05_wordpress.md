@@ -1,4 +1,7 @@
-# Ejemplo completo: Despliegue y acceso a Wordpress + MySql
+---
+title: "Ejemplo completo: Despliegue y acceso a Wordpress + MySql"
+permalink: /cursos/osv4_k8s/modulo6/wordpress.html
+---
 
 En este ejemplo vamos a desplegar la aplicación Wordpress, para ello será necesario realizar dos despliegues: uno para ejecutar los Pods que sirven la aplicación, y otro para desplegar la base de datos MySql necesaria para el funcionamiento. Veamos algunos aspectos antes de empezar:
 

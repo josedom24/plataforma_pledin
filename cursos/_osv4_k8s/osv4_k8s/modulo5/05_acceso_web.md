@@ -1,4 +1,7 @@
-# Gestionando los recursos de acceso desde la consola web
+---
+title: "Gestionando los recursos de acceso desde la consola web"
+permalink: /cursos/osv4_k8s/modulo5/acceso_web.html
+---
 
 ## Services
 

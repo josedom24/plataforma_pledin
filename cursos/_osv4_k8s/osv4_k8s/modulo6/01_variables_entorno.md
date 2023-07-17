@@ -1,4 +1,7 @@
-# Variables de entorno
+---
+title: "Variables de entorno"
+permalink: /cursos/osv4_k8s/modulo6/variables_entorno.html
+---
 
 Para añadir alguna configuración específica a la hora de lanzar un contenedor, se usan variables de entorno  del contenedor cuyos valores se especifican al crear el contenedor para realizar una configuración concreta del mismo.
 

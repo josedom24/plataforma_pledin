@@ -1,4 +1,7 @@
-# Gestionando las variables de entorno, los ConfigMap y los Secret desde la consola web
+---
+title: "Gestionando las variables de entorno, los ConfigMap y los Secret desde la consola web"
+permalink: /cursos/osv4_k8s/modulo6/web.html
+---
 
 ## ConfigMap
 

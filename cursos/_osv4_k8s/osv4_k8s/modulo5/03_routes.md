@@ -1,4 +1,7 @@
-# Accediendo a las aplicaciones: ingress y routes
+---
+title: "Accediendo a las aplicaciones: ingress y routes"
+permalink: /cursos/osv4_k8s/modulo5/routes.html
+---
 
 ## Ingress
 

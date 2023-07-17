@@ -1,4 +1,7 @@
-# Recursos que nos ofrece OpenShift para el acceso a las aplicaciones
+---
+title: "Recursos que nos ofrece OpenShift para el acceso a las aplicaciones"
+permalink: /cursos/osv4_k8s/modulo5/recursos.html
+---
 
 ## Services
 

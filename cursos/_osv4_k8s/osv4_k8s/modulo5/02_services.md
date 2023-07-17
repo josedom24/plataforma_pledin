@@ -1,4 +1,7 @@
-# Trabajando con Services
+---
+title: "Trabajando con Services"
+permalink: /cursos/osv4_k8s/modulo5/services.html
+---
 
 Suponemos que tenemos desplegado la aplicación `test-web` del capítulo anterior. Tenemos dos Pods ofreciendo el servidor web nginx, a los que queremos acceder desde el exterior y que se balancee la carga entre ellos.
 

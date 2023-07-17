@@ -1,4 +1,7 @@
-# Servicio DNS en OpenShift
+---
+title: "Servicio DNS en OpenShift"
+permalink: /cursos/osv4_k8s/modulo5/dns.html
+---
 
 Existe un componente en OpenShift que ofrece un servidor DNS interno para que los Pods puedan resolver diferentes nombres de recursos (Services, Pods, ...) a direcciones IP.
 

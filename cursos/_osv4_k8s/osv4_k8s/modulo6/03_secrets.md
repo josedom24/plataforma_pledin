@@ -1,4 +1,7 @@
-#  Secrets
+---
+title: "Secrets"
+permalink: /cursos/osv4_k8s/modulo6/secrets.html
+---
 
 Cuando en un variable de entorno indicamos una información sensible, como por ejemplo, una contraseña o una clave ssh, es mejor utilizar un
 nuevo recurso de Kubernetes/OpenShift llamado **Secret**.

@@ -1,4 +1,7 @@
-# Agrupación de aplicaciones
+---
+title: "Agrupación de aplicaciones"
+permalink: /cursos/osv4_k8s/modulo6/agrupamiento.html
+---
 
 En la topología de la consola web podemos visualizar los distintos despliegues que tenemos en nuestro proyecto. Para organizar los recursos tenemos la posibilidad de realizar dos operaciones:
 
