@@ -1,4 +1,7 @@
-# Construcción de imágenes con Dockerfile en línea
+---
+title: "Construcción de imágenes con Dockerfile en línea"
+permalink: /cursos/osv4_paas/modulo04/dockerfile_inline.html
+---
 
 En este tipo de construcción vamos a tener el contenido del fichero `Dockerfile` dentro de la definición del objeto **BuildConfig**.
 

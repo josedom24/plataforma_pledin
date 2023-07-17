@@ -1,4 +1,7 @@
-# Estrategias de despliegues
+---
+title: "Estrategias de despliegues"
+permalink: /cursos/osv4_paas/modulo05/estrategias.html
+---
 
 Cuando se actualiza un despliegue, la manera en cómo se van eliminando los Pods antiguos y se crean los nuevos, es lo que llamamos **estrategias de despliegue**. El objetivo, es que el tiempo de inactividad sea lo más bajo posible. Lo que vamos a explicar sobre las estrategias de despliegues en este apartado, nos sirve tanto para los objetos **Deployment** como para los objetos **DeploymentConfig**.
 

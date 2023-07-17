@@ -1,4 +1,7 @@
-# Actualización automática de un build
+---
+title: "Actualización automática de un build"
+permalink: /cursos/osv4_paas/modulo04/imagechange.html
+---
 
 Vamos a crear un nuevo objeto **BuildConfig** y nos vamos a centrar en su definición en la sección de **triggers**, donde se definen los distintos eventos que disparan la construcción de forma automática.
 

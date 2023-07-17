@@ -1,4 +1,7 @@
-# Introducción a la construcción automática de imágenes (build)
+---
+title: "Introducción a la construcción automática de imágenes (build)"
+permalink: /cursos/osv4_paas/modulo04/build.html
+---
 
 Un **build** es el proceso por el que OpenShift construye una nueva imagen Docker a partir de unos parámetros de entrada.
 

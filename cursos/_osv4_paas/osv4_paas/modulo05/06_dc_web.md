@@ -1,4 +1,7 @@
-# Trabajando con DeploymentConfig desde la consola web
+---
+title: "Trabajando con DeploymentConfig desde la consola web"
+permalink: /cursos/osv4_paas/modulo05/dc_web.html
+---
 
 Cuando creamos una nueva aplicación desde la consola web, y queremos utilizar como recurso de despliegue un **DeploymentConfig**, tenemos que seleccionar el recurso en el apartado **Resource type**:
 

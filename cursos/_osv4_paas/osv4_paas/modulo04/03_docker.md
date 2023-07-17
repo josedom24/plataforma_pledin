@@ -1,4 +1,7 @@
-# Construcción de imágenes con estrategia Docker + repositorio Git
+---
+title: "Construcción de imágenes con estrategia Docker + repositorio Git"
+permalink: /cursos/osv4_paas/modulo04/docker.html
+---
 
 En el apartado anterior, vimos que al desplegar una aplicación con `oc new-app` entre otros recursos, se creaba el **BuildConfig** responsable de construir la nueva imagen. Realmente, no es necesario desplegar la aplicación, podemos simplemente crear el objeto **BuildConfig** para construir la imagen y posteriormente crear la aplicación desde la **ImageStream** que se haya creado. Para ello vamos a usar el comando `oc new-build`.
 

@@ -1,4 +1,7 @@
-# Construcción de imágenes desde ficheros locales
+---
+title: "Construcción de imágenes desde ficheros locales"
+permalink: /cursos/osv4_paas/modulo04/binary.html
+---
 
 A este tipo de construcción de imágenes se la llama **Binary Build**, y nos permite cargar código fuente directamente en un build en lugar de indicar un repositorio Git.
 

@@ -1,4 +1,7 @@
-# Definición de un recurso DeploymentConfig
+---
+title: "Definición de un recurso DeploymentConfig"
+permalink: /cursos/osv4_paas/modulo05/deploymentconfig.html
+---
 
 Podemos ver la definición del recurso **DeploymentConfig** que hemos creado, ejecutando:
 
