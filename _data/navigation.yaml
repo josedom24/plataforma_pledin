@@ -51,11 +51,96 @@ osv4_k8s:
         url: /cursos/osv4_k8s/modulo3/consola_web.html
       - title: "Similitudes y diferencias entre CRC y Developer Sandbox"
         url: /cursos/osv4_k8s/modulo3/crc_sandbox.html
+  - title: "OpenShift como distribución de Kubernetes"
+    children:
+      - title: "Despliegues de aplicaciones en Kubernetes"
+        url: /cursos/osv4_k8s/modulo4/aplicaciones.html
+      - title: "Recursos que nos ofrece OpenShift para desplegar aplicaciones"
+        url: /cursos/osv4_k8s/modulo4/recursos.html
+      - title: "Trabajando con Pods"
+        url: /cursos/osv4_k8s/modulo4/pods.html
+      - title: "Trabajando con Pods desde la consola web"
+        url: /cursos/osv4_k8s/modulo4/pods_web.html
+      - title: "Ejemplo: Pod multicontenedor"
+        url: /cursos/osv4_k8s/modulo4/pod_multicontenedor.html
+      - title: "Tolerancia a fallos, escalabilidad, balanceo de carga: ReplicaSet"
+        url: /cursos/osv4_k8s/modulo4/replicaset.html
+      - title: "Trabajando con ReplicaSets desde la consola web"
+        url: /cursos/osv4_k8s/modulo4/replicaset_web.html
+      - title: "Desplegando aplicaciones: Deployment"
+        url: /cursos/osv4_k8s/modulo4/deployment.html
+      - title: "Trabajando con Deployment desde la consola web"
+        url: /cursos/osv4_k8s/modulo4/deployment_web.html
+      - title: "Ejecución de Pods privilegiados"
+        url: /cursos/osv4_k8s/modulo4/pods_privilegiados.html
+      - title: "Actualización de un Deployment (*rollout* y *rollback*)"
+        url: /cursos/osv4_k8s/modulo4/actualizacion_deployment.html
+  - title: "Acceso a las aplicaciones"
+    children:
+      - title: "Recursos que nos ofrece OpenShift para el acceso a las aplicaciones"
+        url: /cursos/osv4_k8s/modulo5/recursos.html
+      - title: "Trabajando con Services"
+        url: /cursos/osv4_k8s/modulo5/services.html
+      - title: "Accediendo a las aplicaciones: ingress y routes"
+        url: /cursos/osv4_k8s/modulo5/routes.html
+      - title: "Servicio DNS en Kubernetes"
+        url: /cursos/osv4_k8s/modulo5/dns.html
+      - title: "Gestionando los recursos de acceso desde la consola web"
+        url: /cursos/osv4_k8s/modulo5/acceso_web.html
+  - title: "Despliegues parametrizados"
+    children:
+      - title: "Variables de entorno"
+        url: /cursos/osv4_k8s/modulo6/variables_entorno.html
+      - title: "ConfigMaps"
+        url: /cursos/osv4_k8s/modulo6/configmaps.html
+      - title: "Secrets"
+        url: /cursos/osv4_k8s/modulo6/secrets.html
+      - title: "Gestionando las variables de entorno, los ConfigMap y los Secret desde la consola web"
+        url: /cursos/osv4_k8s/modulo6/web.html
+      - title: "Ejemplo completo: Despliegue y acceso a Wordpress + MySql"
+        url: /cursos/osv4_k8s/modulo6/wordpress.html
+      - title: "Agrupación de aplicaciones"
+        url: /cursos/osv4_k8s/modulo6/agrupamiento.html
+  - title: "Almacenamiento en OpenShift v4"
+    children:
+      - title: "Introducción al almacenamiento"
+        url: /cursos/osv4_k8s/modulo7/almacenamiento.html
+      - title: "Almacenamiento en CRC"
+        url: /cursos/osv4_k8s/modulo7/almacenamiento_crc.html
+      - title: "Volúmenes dentro de un pod"
+        url: /cursos/osv4_k8s/modulo7/volumen_pod.html
+      - title: "Aprovisionamiento dinámico de volúmenes"
+        url: /cursos/osv4_k8s/modulo7/volumen_dinamico.html
+      - title: "Gestionando el almacenamiento desde la consola web"
+        url: /cursos/osv4_k8s/modulo7/volumen_web.html
+      - title: "Ejemplo completo: Haciendo persistente la aplicación Wordpress"
+        url: /cursos/osv4_k8s/modulo7/wordpress.html
+  - title: "Otros recursos para manejar nuestras aplicaciones"
+    children:
+      - title: "Otros recursos para manejar nuestras aplicaciones"
+        url: /cursos/osv4_k8s/modulo8/introduccion.html
+      - title: "StatefulSet"
+        url: /cursos/osv4_k8s/modulo8/statefulset.html
+      - title: "DaemonSet"
+        url: /cursos/osv4_k8s/modulo8/daemonset.html
+      - title: "Jobs y CronJobs"
+        url: /cursos/osv4_k8s/modulo8/jobs.html
+      - title: "Horizontal Pod AutoScaler"
+        url: /cursos/osv4_k8s/modulo8/hpa.html
+  - title: "Ejemplo final: Citas"
+    children:
+      - title: "Despliegue de aplicación Citas en OpenShift v4"
+        url: /cursos/osv4_k8s/modulo9/citas.html
+      - title: "Despliegues de citas-backend"
+        url: /cursos/osv4_k8s/modulo9/backend.html
+      - title: "Despliegue de citas-frontend"
+        url: /cursos/osv4_k8s/modulo9/frontend.html
+      - title: "Despliegue de la base de datos mysql"
+        url: /cursos/osv4_k8s/modulo9/mysql.html
+      - title: "Actualización de la aplicación citas-backend"
+        url: /cursos/osv4_k8s/modulo9/backend_v2.html
 
-      
-      
 
-      
 curso_cpp3:
   - title: "Curso C++: Programación estructurada y orientación a objetos"
     children:
