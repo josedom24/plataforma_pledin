@@ -90,8 +90,8 @@ Veamos cada uno de los apartados que tiene la configuración:
 
 Como vemos los parámetros se pueden indicar de dos formas:
 
-* `${NOMBRE_PARÁMETRO}`: El valor se proporciona como una cadena de caracteres. Normalmente usamos esta forma.
-* `${{NOMBRE_PARÁMETRO}}`: El valor se puede proporcionar como un valor que no sea una cadena de caracteres. Lo hemos usado para indicar el número de replicas, que en la definición tiene que ser un número entero (no se entrecomilla).
+* `${NOMBRE_PARAMETRO}`: El valor se proporciona como una cadena de caracteres. Normalmente usamos esta forma.
+* `${{NOMBRE_PARAMETRO}}`: El valor se puede proporcionar como un valor que no sea una cadena de caracteres. Lo hemos usado para indicar el número de replicas, que en la definición tiene que ser un número entero (no se entrecomilla).
 
 Por último para crear el objeto **Template** a partir de su definición, ejecutamos:
 
