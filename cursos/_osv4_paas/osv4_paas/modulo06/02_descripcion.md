@@ -62,7 +62,7 @@ parameters:
   from: '[A-Z0-9]{8}'
   generate: expression
 - name: USER
-  description: Nombre del usuario mysql que se va acrear
+  description: Nombre del usuario mysql que se va a crear
   value: usuario
 - name: PASSWORD
   description: Contraseña del usuario de mysql
