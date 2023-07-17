@@ -1,4 +1,7 @@
-# StatefulSet
+---
+title: "StatefulSet"
+permalink: /cursos/osv4_k8s/modulo8/statefulset.html
+---
 
 A diferencia de un **Deployment**, un **StatefulSet** mantiene una identidad fija para cada uno de sus Pods.
 

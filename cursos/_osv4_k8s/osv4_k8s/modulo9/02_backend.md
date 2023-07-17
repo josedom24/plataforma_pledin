@@ -1,4 +1,7 @@
-# Despliegues de citas-backend
+---
+title: "Despliegues de citas-backend"
+permalink: /cursos/osv4_k8s/modulo9/backend.html
+---
 
 Vamos a desplegar la **versión 1** del microservicio **citas-backend**, para ello vamos a usar la definición del recurso **Deployment** guardada en el fichero `deployment.yaml`:
 

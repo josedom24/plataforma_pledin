@@ -1,4 +1,7 @@
-# Despliegue de citas-frontend
+---
+title: "Despliegue de citas-frontend"
+permalink: /cursos/osv4_k8s/modulo9/frontend.html
+---
 
 Este microservicio nos va a mostrar una aplicación web que hace una consulta al servicio anterior y muestra una cita aleatoria en pantalla. 
 

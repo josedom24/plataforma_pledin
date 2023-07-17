@@ -1,4 +1,7 @@
-# Ejemplo completo: Haciendo persistente la aplicación Wordpress
+---
+title: "Ejemplo completo: Haciendo persistente la aplicación Wordpress"
+permalink: /cursos/osv4_k8s/modulo7/wordpress.html
+---
 
 En este ejemplo vamos a volver e realizar el despliegue de Wordpress +  MySql, pero añadiendo el almacenamiento necesario para que la aplicación sea persistente.
 

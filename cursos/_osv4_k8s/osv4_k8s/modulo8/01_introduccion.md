@@ -1,4 +1,7 @@
-# Otros recursos para manejar nuestras aplicaciones
+---
+title: "Otros recursos para manejar nuestras aplicaciones"
+permalink: /cursos/osv4_k8s/modulo8/introduccion.html
+---
 
 En este apartado vamos a poner un ejemplo de distintos recursos que podemos usar en nuestro clúster de OpenShift. Vamos a estudiar los recursos que son comunes a Kubernetes y OpenShift, dejando para el próximo curso los recursos propios de OpenShift para desplegar aplicaciones.
 

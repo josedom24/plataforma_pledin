@@ -1,4 +1,7 @@
-# DaemonSet
+---
+title: "DaemonSet"
+permalink: /cursos/osv4_k8s/modulo8/daemonset.html
+---
 
 Un recurso **DaemonSet** garantiza que un Pod esté en ejecución en cada nodo del clúster OpenShift.
 

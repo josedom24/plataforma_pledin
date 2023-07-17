@@ -1,4 +1,7 @@
-# Introducción al almacenamiento
+---
+title: "Introducción al almacenamiento"
+permalink: /cursos/osv4_k8s/modulo7/almacenamiento.html
+---
 
 Lo primero que hay que recordar es que **los Pods son efímeros**, es decir, cuando un Pod se elimina se pierde toda la información que tenía. Evidentemente, cuando creamos un nuevo Pod no contendrá ninguna información adicional a la propia aplicación.
 

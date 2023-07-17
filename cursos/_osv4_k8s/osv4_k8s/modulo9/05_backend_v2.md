@@ -1,4 +1,7 @@
-# Actualización de la aplicación citas-backend
+---
+title: "Actualización de la aplicación citas-backend"
+permalink: /cursos/osv4_k8s/modulo9/backend_v2.html
+---
 
 Como hemos dicho anteriormente, la nueva versión lee la información de las cita de la base de datos. El programa hace una conexión a la base de datos, utilizando variables de entorno donde debemos guardar las credenciales de acceso. Podemos ver el fragmento del código donde se realiza la conexión:
 

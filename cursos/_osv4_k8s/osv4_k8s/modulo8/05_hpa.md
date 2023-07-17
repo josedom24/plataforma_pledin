@@ -1,4 +1,7 @@
-# Horizontal Pod AutoScaler
+---
+title: "Horizontal Pod AutoScaler"
+permalink: /cursos/osv4_k8s/modulo8/hpa.html
+---
 
 El recurso **Horizontal Pod AutoScaler** nos permite variar el número de Pods desplegados mediante un **Deployment** en función de diferentes métricas: por ejemplo el uso de la CPU o la memoria.
 

@@ -1,4 +1,7 @@
-# Despliegue de aplicación Citas en OpenShift v4
+---
+title: "Despliegue de aplicación Citas en OpenShift v4"
+permalink: /cursos/osv4_k8s/modulo9/citas.html
+---
 
 El ejemplo que vamos a desarrollar en este módulo se basa en el artículo [Learn Kubernetes using Red Hat Developer Sandbox for OpenShift](https://developers.redhat.com/developer-sandbox/activities/learn-kubernetes-using-red-hat-developer-sandbox-openshift).
 

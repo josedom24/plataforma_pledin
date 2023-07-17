@@ -1,4 +1,7 @@
-# Volúmenes dentro de un pod
+---
+title: "Volúmenes dentro de un pod"
+permalink: /cursos/osv4_k8s/modulo7/volumen_pod.html
+---
 
 Los volúmenes son objetos que permiten a los contenedores acceder y compartir datos entre ellos o con el host. Hay varios tipos de volúmenes disponibles, entre ellos:
 

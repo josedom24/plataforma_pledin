@@ -1,4 +1,7 @@
-# Almacenamiento en CRC
+---
+title: "Almacenamiento en CRC"
+permalink: /cursos/osv4_k8s/modulo7/almacenamiento_crc.html
+---
 
 Al usar la instalación local de OpenShift realizada con la herramienta CRC, tenemos todo el control del clúster, y con el usuario administrador tendremos acceso a todos los recursos relacionados con el almacenamiento.
 

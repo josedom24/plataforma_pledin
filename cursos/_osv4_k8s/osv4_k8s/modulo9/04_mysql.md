@@ -1,4 +1,7 @@
-# Despliegue de la base de datos mysql
+---
+title: "Despliegue de la base de datos mysql"
+permalink: /cursos/osv4_k8s/modulo9/mysql.html
+---
 
 La versión del microservicio `citas-backend` obtiene la información de las citas de una tabla de una base de datos en un servidor mysql, por lo tanto lo primero será el despliegue de la base de datos.
 

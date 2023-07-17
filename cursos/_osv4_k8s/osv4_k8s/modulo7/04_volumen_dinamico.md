@@ -1,4 +1,7 @@
-# Aprovisionamiento dinámico de volúmenes
+---
+title: "Aprovisionamiento dinámico de volúmenes"
+permalink: /cursos/osv4_k8s/modulo7/volumen_dinamico.html
+---
 
 Desde el punto de vista del desarrollador que necesita almacenamiento para su aplicación, este realizará una petición de un volumen (objeto **PersistentVolumeClaim**) y usando algún mecanismo que haya configurado el administrador del clúster se asociará un volumen a esa petición.
 

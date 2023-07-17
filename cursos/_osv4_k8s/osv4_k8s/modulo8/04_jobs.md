@@ -1,4 +1,7 @@
-# Jobs y CronJobs
+---
+title: "Jobs y CronJobs"
+permalink: /cursos/osv4_k8s/modulo8/jobs.html
+---
 
 Los recursos **Jobs** y **CronJobs** son recursos que permiten ejecutar tareas en un clúster. 
 

@@ -1,4 +1,7 @@
-# Gestionando el almacenamiento desde la consola web
+---
+title: "Gestionando el almacenamiento desde la consola web"
+permalink: /cursos/osv4_k8s/modulo7/volumen_web.html
+---
 
 ## Gestionando el almacenamiento desde la consola web como usuario sin privilegios
 
