@@ -1,4 +1,7 @@
-# Gestión de OpenShift Pipeline desde el terminal
+---
+title: "Gestión de OpenShift Pipeline desde el terminal"
+permalink: /cursos/osv4_paas/modulo08/pipeline_terminal.html
+---
 
 ## Disparar el pipeline
 

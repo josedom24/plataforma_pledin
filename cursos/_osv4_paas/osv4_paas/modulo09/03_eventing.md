@@ -1,4 +1,7 @@
-# Ejemplo de Serverless Eventing
+---
+title: "Ejemplo de Serverless Eventing"
+permalink: /cursos/osv4_paas/modulo09/eventing.html
+---
 
 En este ejemplo vamos a crear una aplicación Serverless muy sencilla, que responde a un evento periódico que vamos a producir con un componente (**Event sources**) llamado **PingSource**.
 

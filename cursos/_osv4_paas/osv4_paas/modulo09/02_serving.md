@@ -1,4 +1,7 @@
-# Ejemplo de Serverless Serving
+---
+title: "Ejemplo de Serverless Serving"
+permalink: /cursos/osv4_paas/modulo09/serving.html
+---
 
 ## Knative CLI
 

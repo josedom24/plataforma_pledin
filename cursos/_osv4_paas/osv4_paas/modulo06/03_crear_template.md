@@ -1,4 +1,7 @@
-# Crear objetos desde un Template
+---
+title: "Crear objetos desde un Template"
+permalink: /cursos/osv4_paas/modulo06/crear_template.html
+---
 
 Una vez que tenemos nuestro objeto **Template**, podemos utilizarlo crear los objetos que tiene definido. A ese proceso se le llama "instanciar" una plantilla y para ello utilizamos el comando `process`. Veamos algunos ejemplos de cómo usarlo.
 

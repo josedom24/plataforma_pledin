@@ -1,4 +1,7 @@
-# Ejemplo 1: Gestión de almacenamiento desde la consola web: phpsqlitecms (2ª parte)
+---
+title: "Ejemplo 1: Gestión de almacenamiento desde la consola web: phpsqlitecms (2ª parte)"
+permalink: /cursos/osv4_paas/modulo07/phpsqlitecms2.html
+---
 
 ## Estrategias de despliegue y almacenamiento
 

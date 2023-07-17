@@ -1,4 +1,7 @@
-# Despliegue de una aplicación con OpenShift Pipeline
+---
+title: "Despliegue de una aplicación con OpenShift Pipeline"
+permalink: /cursos/osv4_paas/modulo08/pipeline.html
+---
 
 ## Tekton CLI 
 

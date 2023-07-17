@@ -1,4 +1,7 @@
-# Almacenamiento en Red Hat OpenShift Dedicated Developer Sandbox
+---
+title: "Almacenamiento en Red Hat OpenShift Dedicated Developer Sandbox"
+permalink: /cursos/osv4_paas/modulo07/almacenamiento_sandbox.html
+---
 
 Al usar **Red Hat OpenShift Dedicated Developer Sandbox**, estamos usando un clúster compartido, multitenant, en que accedemos con un usuario sin privilegios administrativos.
 

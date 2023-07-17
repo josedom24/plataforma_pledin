@@ -1,4 +1,7 @@
-# Despliegue de aplicación Nationalparks en OpenShift v4 (2ª parte)
+---
+title: "Despliegue de aplicación Nationalparks en OpenShift v4 (2ª parte)"
+permalink: /cursos/osv4_paas/modulo10/parksmap2.html
+---
 
 En este apartado vamos a desplegar la aplicación escrita en Java **Nationalparks**, es el servicio backend, que expondrá varios endpoints que la aplicación **Parksmap** utilizará para obtener la información de los Parques Nacionales que visualizará en el mapa. Este servicio guarda la información de los Parques Nacionales en una base de datos **MongoDB**. Para hacer las peticiones a este servicio se utilizará una URL proporcionada por el objeto **Route** que crearemos a continuación.
 

@@ -1,4 +1,8 @@
-# Instalación de OpenShift Pipeline en CRC
+---
+title: "Instalación de OpenShift Pipeline en CRC"
+permalink: /cursos/osv4_paas/modulo08/operador.html
+---
+
 
 Por defecto la instalación de OpenShift en local no tiene ningún Operador instalado. Los Operadores nos permiten instalar componentes internos de OpenShift que añaden funcionalidades extras a nuestro clúster.
 

@@ -1,4 +1,7 @@
-# Despliegue de aplicación Citas en OpenShift v4 (2ª parte)
+---
+title: "Despliegue de aplicación Citas en OpenShift v4 (2ª parte)"
+permalink: /cursos/osv4_paas/modulo10/citas2.html
+---
 
 ## Despliegue de la base de datos mysql
 
