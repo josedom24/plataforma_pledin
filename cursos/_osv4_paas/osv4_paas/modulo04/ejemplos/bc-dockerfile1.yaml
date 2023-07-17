@@ -1,0 +1,26 @@
+apiVersion: build.openshift.io/v1
+kind: BuildConfig
+metadata:
+  labels:
+    app: app7
+  name: app7
+spec:
+  failedBuildsHistoryLimit: 5
+  output:
+    to:
+      kind: ImageStreamTag
+      name: imagen-app7:latest
+  runPolicy: Serial
+  source:
+    dockerfile: |
+      FROM centos:centos7
+      CMD echo 'Hola, estas probando un dockerfile inline' && exec sleep infinity
+    type: dockerfile
+  strategy:
+    dockerStrategy:
+    type: Docker
+  successfulBuildsHistoryLimit: 5
+  triggers:
+  - type: ConfigChange
+  - imageChange: {}
+    type: ImageChange
