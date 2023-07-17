@@ -1,4 +1,7 @@
-# Tolerancia a fallos, escalabilidad, balanceo de carga: ReplicaSet
+---
+title: "Tolerancia a fallos, escalabilidad, balanceo de carga: ReplicaSet"
+permalink: /cursos/osv4_k8s/modulo4/replicaset.html
+---
 
 Para trabajar con los objetos **ReplicaSet** vamos a seguir trabajando con el usuario `developer` pero vamos a crear un nuevo proyecto:
 

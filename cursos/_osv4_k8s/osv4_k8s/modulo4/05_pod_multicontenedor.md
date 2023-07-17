@@ -1,4 +1,7 @@
-# Ejemplo: Pod multicontenedor
+---
+title: "Ejemplo: Pod multicontenedor"
+permalink: /cursos/osv4_k8s/modulo4/pods_multicontenedor.html
+---
 
 La razón principal por la que los Pods pueden tener múltiples contenedores es para admitir aplicaciones auxiliares que ayudan a una aplicación primaria. Ejemplos típicos de estas aplicaciones pueden ser las que envían o recogen datos externos (por ejemplo de un repositorio) y los servidores proxy. El ayudante y las aplicaciones primarias a menudo necesitan comunicarse entre sí. Normalmente, esto se realiza a través de un sistema de archivos compartido o mediante la interfaz loopback (localhost).
 

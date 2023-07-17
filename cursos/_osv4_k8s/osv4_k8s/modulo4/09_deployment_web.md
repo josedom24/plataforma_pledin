@@ -1,4 +1,7 @@
-# Trabajando con Deployment desde la consola web
+---
+title: "Trabajando con Deployment desde la consola web"
+permalink: /cursos/osv4_k8s/modulo4/deployment_web.html
+---
 
 Tenemos varias formas para ver los **Deployments** que hemos creado en la unidad anterior. Por ejemplo desde la vista **Developer**, en la sección **Topology**, vemos todos los recursos que tenemos creado. 
 

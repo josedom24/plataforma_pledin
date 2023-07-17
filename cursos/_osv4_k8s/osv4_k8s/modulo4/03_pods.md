@@ -1,4 +1,7 @@
-# Trabajando con Pods
+---
+title: "Trabajando con Pods"
+permalink: /cursos/osv4_k8s/modulo4/pods.html
+---
 
 ## Creación de un proyecto
 

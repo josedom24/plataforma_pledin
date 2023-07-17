@@ -1,4 +1,7 @@
-# Despliegues de aplicaciones en Kubernetes
+---
+title: "Despliegues de aplicaciones en Kubernetes"
+permalink: /cursos/osv4_k8s/modulo4/aplicaciones.html
+---
 
 Vamos a resumir brevemente, con la ayuda de un par de imágenes, la forma que tiene OpenShift (y Kubernetes) de hacer despliegues de aplicaciones y lo vamos a comparar con un despliegue "tradicional".
 

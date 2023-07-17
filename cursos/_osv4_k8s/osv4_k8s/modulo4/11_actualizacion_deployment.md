@@ -1,4 +1,7 @@
-# Actualización de un Deployment (*rollout* y *rollback*)
+---
+title: "Actualización de un Deployment (*rollout* y *rollback*)"
+permalink: /cursos/osv4_k8s/modulo4/actualizacion_deployment.html
+---
 
 El ciclo de vida del desarrollo de aplicaciones cuando trabajamos con contenedores nos facilita la labor de versionar nuestros desarrollos. Por cada nueva versión que se desarrolla de nuestra aplicación podemos crear una nueva imagen del contenedor que podemos versionar utilizando la etiqueta del nombre de la imagen.
 

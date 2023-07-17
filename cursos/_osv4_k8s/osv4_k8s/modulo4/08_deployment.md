@@ -1,4 +1,7 @@
-# Desplegando aplicaciones: Deployment
+---
+title: "Desplegando aplicaciones: Deployment"
+permalink: /cursos/osv4_k8s/modulo4/deployment.html
+---
 
 Para trabajar con los objetos **Deployment** vamos a seguir trabajando con el usuario `developer` pero vamos a crear un nuevo proyecto:
 

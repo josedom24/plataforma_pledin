@@ -1,4 +1,7 @@
-# Ejecución de Pods privilegiados
+---
+title: "Ejecución de Pods privilegiados"
+permalink: /cursos/osv4_k8s/modulo4/pods_privilegiados.html
+---
 
 Como hemos indicado anteriormente, OpenShift configura por defecto una política de seguridad que sólo nos permite ejecutar contenedores no privilegiados, es decir, donde no se ejecuten procesos o acciones por el usuario con privilegio `root` (por ejemplo, no utilizan puertos no privilegiados, puertos menores a 1024, o no ejecuta operaciones con el usuario `root`). 
 

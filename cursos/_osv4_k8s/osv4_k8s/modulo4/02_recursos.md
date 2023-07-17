@@ -1,4 +1,7 @@
-# Recursos que nos ofrece OpenShift para desplegar aplicaciones
+---
+title: "Recursos que nos ofrece OpenShift para desplegar aplicaciones"
+permalink: /cursos/osv4_k8s/modulo4/recursos.html
+---
 
 ## Pods
 

@@ -1,4 +1,7 @@
-# Trabajando con ReplicaSets desde la consola web
+---
+title: "Trabajando con ReplicaSets desde la consola web"
+permalink: /cursos/osv4_k8s/modulo4/replicaset_web.html
+---
 
 En este caso, el recurso ReplicaSet no lo podemos ver desde la topología. Nos tendremos que ir a la la vista de **Administrator**, en el apartado **Workloads -> ReplicaSets**:
 
