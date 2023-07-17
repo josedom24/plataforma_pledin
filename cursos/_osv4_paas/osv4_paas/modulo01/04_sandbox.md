@@ -1,4 +1,7 @@
-# Introducción a  Red Hat OpenShift Dedicated Developer Sandbox
+---
+title: "Introducción a  Red Hat OpenShift Dedicated Developer Sandbox"
+permalink: /cursos/osv4_paas/modulo01/sandbox.html
+---
 
 [Acceso a Red Hat OpenShift Dedicated Developer Sandbox](https://developers.redhat.com/developer-sandbox)
 

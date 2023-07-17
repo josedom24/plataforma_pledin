@@ -1,4 +1,7 @@
-# Plataformas para trabajar con OpenShift v4
+---
+title: "Plataformas para trabajar con OpenShift v4"
+permalink: /cursos/osv4_paas/modulo01/plataformas.html
+---
 
 Tenemos varias soluciones para trabajar con OpenShift v4:
 

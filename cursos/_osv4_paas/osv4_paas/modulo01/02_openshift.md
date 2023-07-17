@@ -1,5 +1,7 @@
-# OpenShift, la plataforma PaaS de Red Hat
-
+---
+title: "OpenShift, la plataforma PaaS de Red Hat"
+permalink: /cursos/osv4_paas/modulo01/openshift.html
+---
 OpenShift v4 es una plataforma de contenedores de código abierto basada en Kubernetes que proporciona una solución completa de orquestación de contenedores y servicios de aplicaciones para desarrolladores y equipos de operaciones. 
 
 Por lo tanto nos ofrece muchas de las ventajas de usar un orquestador de contenedores como Kubernetes:
