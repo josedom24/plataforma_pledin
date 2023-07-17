@@ -12,6 +12,179 @@ main:
   - title: "Presentación"
     url: https://www.josedomingo.org/pledin/about/
 
+osv4_paas:
+
+  - title: "OpenShift v4 como PaaS"
+    children:
+      - title: Índice
+        url: /cursos/osv4_paas/index.html
+  - title: "Introducción a OpenShift v4"
+    children:
+      - title: "Cloud Computing PaaS: Plataforma como servicio"
+        url: /cursos/osv44_paas/modulo01/paas.html
+      - title: "OpenShift, la plataforma PaaS de Red Hat"
+        url: /cursos/osv44_paas/modulo01/openshift.html
+      - title: "Plataformas para trabajar con OpenShift v4"
+        url: /cursos/osv44_paas/modulo01/plataformas.html
+      - title: "Introducción a  Red Hat OpenShift Dedicated Developer Sandbox"
+        url: /cursos/osv44_paas/modulo01/sandbox.html
+
+  - title: "Despliegue de aplicaciones en OpenShift v4"
+    children:
+      - title: "Introducción al despliegue de aplicaciones en OpenShift v4"
+        url: /cursos/osv44_paas/modulo02/introduccion.html
+      - title: "Despliegue de aplicaciones desde imágenes con oc"
+        url: /cursos/osv44_paas/modulo02/imagen.html
+      - title: "Despliegue de aplicaciones desde imágenes desde la consola web"
+        url: /cursos/osv44_paas/modulo02/imagen_web.html
+      - title: "Despliegue de aplicaciones desde código fuente con oc"
+        url: /cursos/osv44_paas/modulo02/codigo.html
+      - title: "Despliegue de aplicaciones desde código fuente con oc (2ª parte)"
+        url: /cursos/osv44_paas/modulo02/codigo2.html
+      - title: "Despliegue de aplicaciones desde código fuente desde la consola web"
+        url: /cursos/osv44_paas/modulo02/codigo_web.html
+      - title: "Despliegue de aplicaciones desde Dockerfile con oc"
+        url: /cursos/osv44_paas/modulo02/docker.html
+      - title: "Despliegue de aplicaciones desde Dockerfile desde la consola web"
+        url: /cursos/osv44_paas/modulo02/docker_web.html
+      - title: "Despliegue de aplicaciones desde el catálogo con oc"
+        url: /cursos/osv44_paas/modulo02/catalogo.html
+      - title: "Despliegue de aplicaciones desde el catálogo desde la consola web"
+        url: /cursos/osv44_paas/modulo02/catalogo_web.html
+
+  - title: "ImageStreams: Gestión de imágenes en OpenShift v4"
+    children:
+      - title: "Introducción al recurso ImageStream"
+        url: /cursos/osv44_paas/modulo03/introduccion.html
+      - title: "ImageStream a imágenes del registro interno"
+        url: /cursos/osv44_paas/modulo03/registro_interno.html
+      - title: "Creación de ImageStream"
+        url: /cursos/osv44_paas/modulo03/crear_is.html
+      - title: "Gestión de ImageStream desde la consola web"
+        url: /cursos/osv44_paas/modulo03/is_web.html
+      - title: "Gestión de las etiquetas en un ImageStream"
+        url: /cursos/osv44_paas/modulo03/etiquetas.html
+      - title: "Actualización automática de ImageStream"
+        url: /cursos/osv44_paas/modulo03/update.html
+
+  - title: "Builds: Construcción automática de imágenes"
+    children:
+      - title: "Introducción a la construcción automática de imágenes (build)"
+        url: /cursos/osv44_paas/modulo04/build.html
+      - title: "Construcción de imágenes con estrategia Source-to-Image (S2I) + repositorio Git"
+        url: /cursos/osv44_paas/modulo04/s2i.html
+      - title: "Construcción de imágenes con estrategia Docker + repositorio Git"
+        url: /cursos/osv44_paas/modulo04/docker.html
+      - title: "Definición del objeto BuildConfig"
+        url: /cursos/osv44_paas/modulo04/buildconfig.html
+      - title: "Actualización manual de un build"
+        url: /cursos/osv44_paas/modulo04/actualizacion.html
+      - title: "Construcción de imágenes desde ficheros locales"
+        url: /cursos/osv44_paas/modulo04/binary.html
+      - title: "Construcción de imágenes con Dockerfile en línea"
+        url: /cursos/osv44_paas/modulo04/dockerfile_inline.html
+      - title: "Gestión de builds desde la consola web"
+        url: /cursos/osv44_paas/modulo04/build_web.html
+      - title: "Actualización automática de un build"
+        url: /cursos/osv44_paas/modulo04/imagechange.html
+      - title: "Actualización automática de un build por trigger webhook"
+        url: /cursos/osv44_paas/modulo04/webhook.html
+
+  - title: "Deployment us DeploymentConfig"
+    children:
+      - title: "Características del recurso DeploymentConfig"
+        url: /cursos/osv44_paas/modulo05/dc.html
+      - title: "Creación de un DeployConfig al crear una aplicación"
+        url: /cursos/osv44_paas/modulo05/newdc.html
+      - title: "Definición de un recurso DeploymentConfig"
+        url: /cursos/osv44_paas/modulo05/deploymentconfig.html
+      - title: "Actualización de un DeploymentConfig (rollout)"
+        url: /cursos/osv44_paas/modulo05/rollout.html
+      - title: "Rollback de un DeploymentConfig"
+        url: /cursos/osv44_paas/modulo05/rollback.html
+      - title: "Trabajando con DeploymentConfig desde la consola web"
+        url: /cursos/osv44_paas/modulo05/dc_web.html
+      - title: "Estrategias de despliegues"
+        url: /cursos/osv44_paas/modulo05/estretegias.html
+      - title: "Estrategias de despliegues basadas en rutas"
+        url: /cursos/osv44_paas/modulo05/estrategias_rutas.html
+
+  - title: "Plantillas: empaquetando los objetos en OpenShift"
+    children:
+      - title: "Introducción a los Templates"
+        url: /cursos/osv44_paas/modulo06/template.html
+      - title: "Descripción de un objeto Template"
+        url: /cursos/osv44_paas/modulo06/descripcion.html
+      - title: "Crear objetos desde un Template"
+        url: /cursos/osv44_paas/modulo06/crear_template.html
+      - title: "Crear objetos desde un Template desde la consola web"
+        url: /cursos/osv44_paas/modulo06/template_web.html
+      - title: "Creación de plantillas a partir de objetos existentes"
+        url: /cursos/osv44_paas/modulo06/crear_template2.html
+      - title: "Despliegue de una aplicación con plantillas"
+        url: /cursos/osv44_paas/modulo06/php-template.html
+      - title: "Uso de Helm en OpenShift desde la consola web"
+        url: /cursos/osv44_paas/modulo06/helm-web.html
+      - title: "Uso de Helm en OpenShift desde la línea de comandos"
+        url: /cursos/osv44_paas/modulo06/helm-cli.html
+
+  - title: "Almacenamiento en OpenShift v4"
+    children:
+      - title: "Introducción al almacenamiento en OpenShift v4"
+        url: /cursos/osv44_paas/modulo07/almacenamiento.html
+      - title: "Almacenamiento en Red Hat OpenShift Dedicated Developer Sandbox"
+        url: /cursos/osv44_paas/modulo07/almacenamiento_sandbox.html
+      - title: "Ejemplo 1: Gestión de almacenamiento desde la consola web: phpsqlitecms (1ª parte)"
+        url: /cursos/osv44_paas/modulo07/phpsqlitecms.html
+      - title: "Ejemplo 1: Gestión de almacenamiento desde la consola web: phpsqlitecms (2ª parte)"
+        url: /cursos/osv44_paas/modulo07/phpsqlitecms2.html
+      - title: "Ejemplo 2: Gestión de almacenamiento desde la línea de comandos: GuestBook"
+        url: /cursos/osv44_paas/modulo07/guestbook.html
+      - title: "Ejemplo 3: Haciendo persistente la aplicación Wordpress"
+        url: /cursos/osv44_paas/modulo07/wordpress.html
+      - title: "Instantáneas de volúmenes"
+        url: /cursos/osv44_paas/modulo07/snapshot.html
+
+  - title: "OpenShift Pipelines"
+    children:
+
+      - title: "Introducción a OpenShift Pipelines"
+        url: /cursos/osv44_paas/modulo08/introduccion_pipeline.html
+      - title: "Despliegue de una aplicación con OpenShift Pipeline"
+        url: /cursos/osv44_paas/modulo08/pipeline.html
+      - title: "Gestión de OpenShift Pipeline desde el terminal"
+        url: /cursos/osv44_paas/modulo08/pipeline_terminal.html
+      - title: "Gestión de OpenShift Pipeline desde la consola web"
+        url: /cursos/osv44_paas/modulo08/pipeline_web.html
+      - title: "Instalación de OpenShift Pipeline en CRC"
+        url: /cursos/osv44_paas/modulo08/operador.html
+
+  - title: "OpenShift Serverless"
+    children:
+
+      - title: "Introducción a OpenShift Serverless"
+        url: /cursos/osv44_paas/modulo09/serverless.html
+      - title: "Ejemplo de Serverless Serving"
+        url: /cursos/osv44_paas/modulo09/serving.html
+      - title: "Ejemplo de Serverless Eventing"
+        url: /cursos/osv44_paas/modulo09/eventing.html
+      - title: "Ejemplo de Serverless Function"
+        url: /cursos/osv44_paas/modulo09/function.html
+      - title: "Instalación de OpenShift Serverless en CRC"
+        url: /cursos/osv44_paas/modulo09/operador.html
+
+  - title: "Ejemplos de despliegues de aplicaciones web"
+    children:
+      - title: "Despliegue de aplicación Citas en OpenShift v4 (1ª parte)"
+        url: /cursos/osv44_paas/modulo10/citas.html
+      - title: "Despliegue de aplicación Citas en OpenShift v4 (2ª parte)"
+        url: /cursos/osv44_paas/modulo10/citas2.html
+      - title: "Despliegue de aplicación Parksmap en OpenShift v4 (1ª parte)"
+        url: /cursos/osv44_paas/modulo10/parksmap.html
+      - title: "Despliegue de aplicación Nationalparks en OpenShift v4 (2ª parte)"
+        url: /cursos/osv44_paas/modulo10/parksmap2.html
+
+
 osv4_k8s:
   - title: "Aprende Kubernetes con OpenShift v4"
     children:
