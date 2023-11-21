@@ -20,6 +20,9 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## OpenWebinars
 
+* [OpenShift v4 como PaaS  (2023)](cursos/osv4_paas/index.html)
+* [Aprende Kubernetes con OpenShift v4 (2023)](cursos/osv4_k8s/index.html)
+* [Curso de C++: Introducción a C++ (2020)](cursos/curso_cpp1/index.html)
 * [Curso de C++: Introducción a C++ (2020)](cursos/curso_cpp1/index.html)
 * [Curso de C++: Estructuras de control y tipos de datos (2020)](cursos/curso_cpp2/index.html)
 * [Curso de C++: Programación estructurada y orientación a objetos (2020)](cursos/curso_cpp3/index.html)
