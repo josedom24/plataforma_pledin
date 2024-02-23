@@ -1,4 +1,7 @@
-# Uso de Helm en OpenShift desde la línea de comandos
+---
+title: "Uso de Helm en OpenShift desde la línea de comandos"
+permalink: /cursos/osv4_paas/modulo06/helm-cli.html
+---
 
 Podemos instalar el cliente de Helm, para realizar la gestión de charts de Helm desde la línea de comandos.
 

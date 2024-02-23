@@ -1,4 +1,7 @@
-# Descripción de un objeto Template
+---
+title: "Descripción de un objeto Template"
+permalink: /cursos/osv4_paas/modulo06/descripcion.html
+---
 
 Vamos a crear un objeto **Template** desde su definición en un fichero YAML. En este ejemplo vamos a hacer un **Template** muy sencillo, que nos va a permitir crear un recurso **Deployment** usando la imagen `bitnami/mysql` y como veremos posteriormente hemos creado varios parámetros para permitir su configuración. Partimos del fichero `mysql-plantilla.yaml` con el siguiente contenido:
 
@@ -59,7 +62,7 @@ parameters:
   from: '[A-Z0-9]{8}'
   generate: expression
 - name: USER
-  description: Nombre del usuario mysql que se va acrear
+  description: Nombre del usuario mysql que se va a crear
   value: usuario
 - name: PASSWORD
   description: Contraseña del usuario de mysql
@@ -87,8 +90,8 @@ Veamos cada uno de los apartados que tiene la configuración:
 
 Como vemos los parámetros se pueden indicar de dos formas:
 
-* `${NOMBRE_PARÁMETRO}`: El valor se proporciona como una cadena de caracteres. Normalmente usamos esta forma.
-* `${{NOMBRE_PARÁMETRO}}`: El valor se puede proporcionar como un valor que no sea una cadena de caracteres. Lo hemos usado para indicar el número de replicas, que en la definición tiene que ser un número entero (no se entrecomilla).
+* `${NOMBRE_PARAMETRO}`: El valor se proporciona como una cadena de caracteres. Normalmente usamos esta forma.
+* `${{NOMBRE_PARAMETRO}}`: El valor se puede proporcionar como un valor que no sea una cadena de caracteres. Lo hemos usado para indicar el número de replicas, que en la definición tiene que ser un número entero (no se entrecomilla).
 
 Por último para crear el objeto **Template** a partir de su definición, ejecutamos:
 

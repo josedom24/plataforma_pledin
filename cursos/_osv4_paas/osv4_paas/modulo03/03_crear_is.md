@@ -1,4 +1,7 @@
-# Creación de ImageStream
+---
+title: "Creación de ImageStream"
+permalink: /cursos/osv4_paas/modulo03/crear_is.html
+---
 
 Tenemos tres maneras de crear recursos **ImageStream**:
 

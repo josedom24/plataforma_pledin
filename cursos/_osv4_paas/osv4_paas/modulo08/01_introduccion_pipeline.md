@@ -1,4 +1,7 @@
-# Introducción a OpenShift Pipelines
+---
+title: "Introducción a OpenShift Pipelines"
+permalink: /cursos/osv4_paas/modulo08/introduccion_pipeline.html
+---
 
 **OpenShift Pipelines** es una solución de integración y entrega continua (CI/CD) nativa de la nube para crear pipelines con Tekton. **Tekton** es un framework CI/CD flexible, nativo de Kubernetes y de código abierto que permite automatizar despliegues en distintas plataformas.
 

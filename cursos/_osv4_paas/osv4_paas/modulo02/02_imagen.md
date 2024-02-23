@@ -1,4 +1,7 @@
-# Despliegue de aplicaciones desde imágenes con oc
+---
+title: "Despliegue de aplicaciones desde imágenes con oc"
+permalink: /cursos/osv4_paas/modulo02/imagen.html
+---
 
 El esquema para ver los recursos que se crean en OpenShift al realizar un despliegue desde una imagen es el siguiente:
 

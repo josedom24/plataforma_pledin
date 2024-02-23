@@ -1,4 +1,7 @@
-# Gestión de OpenShift Pipeline desde la consola web
+---
+title: "Gestión de OpenShift Pipeline desde la consola web"
+permalink: /cursos/osv4_paas/modulo08/pipeline_web.html
+---
 
 Como hemos visto en el punto anterior, en el apartado **Pipelines** de la consola web podemos ver la lista de objetos **Pipleines** que tenemos definidos:
 

@@ -1,4 +1,7 @@
-# Definición del objeto BuildConfig
+---
+title: "Definición del objeto BuildConfig"
+permalink: /cursos/osv4_paas/modulo04/buildconfig.html
+---
 
 Como hemos visto el objeto **BuildConfig** guarda la configuración (estrategia y fuentes de entrada) para realizar la construcción de una nueva imagen.
 

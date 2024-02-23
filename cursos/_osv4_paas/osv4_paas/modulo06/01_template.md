@@ -1,4 +1,7 @@
-# Introducción a los Templates
+---
+title: "Introducción a los Templates"
+permalink: /cursos/osv4_paas/modulo06/template.html
+---
 
 Un **Template** o plantilla describe un conjunto de objetos que pueden ser parametrizados y procesados para producir una lista de recursos para su creación en OpenShift.
 

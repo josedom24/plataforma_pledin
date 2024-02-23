@@ -1,4 +1,7 @@
-# Despliegue de aplicación Parksmap en OpenShift v4 (1ª parte)
+---
+title: "Despliegue de aplicación Parksmap en OpenShift v4 (1ª parte)"
+permalink: /cursos/osv4_paas/modulo10/parksmap.html
+---
 
 Este ejercicio esta basado y es una adaptación del ejemplo que se muestra en la guía [OpenShift Starter Guides](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.9/index.html).
 

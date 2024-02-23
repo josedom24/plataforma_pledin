@@ -1,4 +1,7 @@
-# Instantáneas de volúmenes
+---
+title: "Instantáneas de volúmenes"
+permalink: /cursos/osv4_paas/modulo07/snapshot.html
+---
 
 Un recurso **VolumeSnapshot** representa una instantánea de un volumen en un sistema de almacenamiento. Las instantáneas de volumen nos proporciona una forma estandarizada de copiar el contenido de un volumen en un momento determinado sin crear un volumen completamente nuevo.
 

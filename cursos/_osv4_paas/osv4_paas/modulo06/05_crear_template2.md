@@ -1,4 +1,7 @@
-# Creación de plantillas a partir de objetos existentes
+---
+title: "Creación de plantillas a partir de objetos existentes"
+permalink: /cursos/osv4_paas/modulo06/crear_template2.html
+---
 
 En este apartado vamos a aprender a crear nuevos **Templates** a partir de recursos que ya tenemos creado. En concreto, crearemos plantillas a partir de plantillas que ya tenemos creadas, y crearemos plantillas a partir de un conjunto de objetos que ya tenemos creados.
 

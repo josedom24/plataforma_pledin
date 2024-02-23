@@ -1,4 +1,7 @@
-# Despliegue de aplicaciones desde imágenes desde la consola web
+---
+title: "Despliegue de aplicaciones desde imágenes desde la consola web"
+permalink: /cursos/osv4_paas/modulo02/imagen_web.html
+---
 
 Vamos a realizar el mismo ejercicio pero desde la consola web. Para ello accedemos desde la vista **Developer** a la opción de **+Add** y elegimos el apartado **Container Images**:
 

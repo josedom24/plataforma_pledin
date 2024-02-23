@@ -1,4 +1,7 @@
-# Actualización de un DeploymentConfig (rollout)
+---
+title: "Actualización de un DeploymentConfig (rollout)"
+permalink: /cursos/osv4_paas/modulo05/rollout.html
+---
 
 En este apartado vamos a estudiar las distintas causas que provocan la actualización de un **DeploymentConfig**. Cuando se produce una actualización se creará un nuevo **ReplicationController** que creará un nuevo conjunto de Pods con la nueva versión del despliegue.
 

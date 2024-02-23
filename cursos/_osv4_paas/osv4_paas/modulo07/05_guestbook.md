@@ -1,4 +1,7 @@
-# Ejemplo 2: Gestión de almacenamiento desde la línea de comandos: GuestBook
+---
+title: "Ejemplo 2: Gestión de almacenamiento desde la línea de comandos: GuestBook"
+permalink: /cursos/osv4_paas/modulo07/guestbook.html
+---
 
 En esta tarea vamos a desplegar una aplicación web que requiere de dos servicios para su ejecución. La aplicación se llama GuestBook y necesita los siguientes servicios:
 

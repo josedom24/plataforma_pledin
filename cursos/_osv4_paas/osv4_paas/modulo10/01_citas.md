@@ -1,4 +1,7 @@
-# Despliegue de aplicación Citas en OpenShift v4 (1ª parte)
+---
+title: "Despliegue de aplicación Citas en OpenShift v4 (1ª parte)"
+permalink: /cursos/osv4_paas/modulo10/citas.html
+---
 
 La aplicación **Citas** nos muestra citas celebres de distintos autores en una página web. Esta formada por dos microservicios (`citas-backend` y `citas-frontend`) y un servicio de base de datos mysql. La aplicación funciona de la siguiente manera:
 

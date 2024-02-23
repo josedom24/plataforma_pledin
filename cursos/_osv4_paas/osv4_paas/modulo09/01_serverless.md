@@ -1,4 +1,7 @@
-# Introducción a OpenShift Serverless
+---
+title: "Introducción a OpenShift Serverless"
+permalink: /cursos/osv4_paas/modulo09/serverless.html
+---
 
 **Serverless** es un modelo de desarrollo para aplicaciones nativas de la nube, que evita cualquier tarea de creación o mantenimiento de servidores, lo que permite a los desarrolladores centrarse en ofrecer aplicaciones sin preocuparse por la infraestructura sobre la que se ejecutan. 
 Serverless es más adecuado para aplicaciones asíncronas y sin estado, especialmente aquellas que tienen cargas de trabajo impredecibles.

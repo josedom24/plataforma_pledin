@@ -1,4 +1,7 @@
-# Despliegue de una aplicación con plantillas
+---
+title: "Despliegue de una aplicación con plantillas"
+permalink: /cursos/osv4_paas/modulo06/php-template.html
+---
 
 Continuamos creando nuestra nueva plantilla que nos va a permitir desplegar aplicaciones PHP guardadas en un repositorio GitHub. Partimos de un fichero `php-plantilla.yaml` con la lista de la definición de los objetos que habíamos creado en el punto anterior. Para convertir este fichero en la definición de un **Template** sigamos los siguientes pasos:
 

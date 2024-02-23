@@ -1,4 +1,8 @@
-# Introducción al despliegue de aplicaciones en OpenShift v4
+---
+title: "Introducción al despliegue de aplicaciones en OpenShift v4"
+permalink: /cursos/osv4_paas/modulo02/introduccion.html
+---
+
 
 ## Recursos que nos ofrece OpenShift v4 para el despliegue de aplicaciones
 

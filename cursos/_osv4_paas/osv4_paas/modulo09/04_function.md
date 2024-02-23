@@ -1,4 +1,7 @@
-# Ejemplo de Serverless Function
+---
+title: "Ejemplo de Serverless Function"
+permalink: /cursos/osv4_paas/modulo09/function.html
+---
 
 Serverless Functions nos permite crear e implementar funciones Serverless basadas en eventos como un servicio Knative.
 Una función Serverless, también conocida como función sin servidor, es un modelo de programación en la nube en el que nos centramos en escribir funciones que se ejecutan en una infraestructura que no tenemos que mantener, en nuestro caso OpenShift la ejecuta como aplicación Serverless.

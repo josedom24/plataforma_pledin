@@ -1,4 +1,7 @@
-# Creación de un DeployConfig al crear una aplicación
+---
+title: "Creación de un DeployConfig al crear una aplicación"
+permalink: /cursos/osv4_paas/modulo05/newdc.html
+---
 
 Como hemos indicado anteriormente al crear una nueva aplicación con `oc new-app`, por defecto se va a desplegar usando un recurso de tipo **Deployment**. Si queremos crear un despliegue usando un recurso **DeploymentConfig**, tenemos que indicarlo explícitamente cuando creamos la aplicación.
 

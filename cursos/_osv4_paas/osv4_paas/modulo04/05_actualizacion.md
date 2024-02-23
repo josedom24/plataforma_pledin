@@ -1,4 +1,7 @@
-# Actualización manual de un build
+---
+title: "Actualización manual de un build"
+permalink: /cursos/osv4_paas/modulo04/actualizacion.html
+---
 
 En este apartado vamos a aprender los comandos que nos permiten gestionar los procesos de construcción a partir de un objeto **BuildConfig**. Para ello vamos a crear un **BuildConfig** usando la estrategia Docker y los ficheros necesarios se encuentra en el repositorio [https://github.com/josedom24/osv4_python](https://github.com/josedom24/osv4_python).
 

@@ -1,4 +1,7 @@
-# Uso de Helm en OpenShift desde la consola web
+---
+title: "Uso de Helm en OpenShift desde la consola web"
+permalink: /cursos/osv4_paas/modulo06/helm-web.html
+---
 
 [Helm](https://helm.sh/) es un software que nos permite empaquetar aplicaciones completas y gestionar el ciclo completo de despliegue de dicha aplicación. Helm usa un formato de empaquetado llamado **charts**. Un chart es una colección de archivos que describen un conjunto de recursos que nos permite desplegar una aplicación en Kubernetes o en OpenShift.
 

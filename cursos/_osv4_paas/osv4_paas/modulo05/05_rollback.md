@@ -1,4 +1,7 @@
-# Rollback de un DeploymentConfig
+---
+title: "Rollback de un DeploymentConfig"
+permalink: /cursos/osv4_paas/modulo05/rollback.html
+---
 
 Tenemos la posibilidad de volver al estado del despliegue que teníamos en una revisión anterior (**Rollback**). Para realizar este ejercicio vamos a desplegar una nueva aplicación a partir de una imagen que tenemos en Docker Hub. La imagen `josedom24/test_web` tiene tres versiones, identificadas por etiquetas.
 

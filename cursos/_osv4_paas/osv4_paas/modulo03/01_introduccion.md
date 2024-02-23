@@ -1,4 +1,7 @@
-# Introducción al recurso ImageStream
+---
+title: "Introducción al recurso ImageStream"
+permalink: /cursos/osv4_paas/modulo03/introduccion.html
+---
 
 Los flujos de imágenes (**ImageStream**) permiten crear y actualizar imágenes de contenedores de forma continua. 
 

@@ -1,4 +1,7 @@
-# Despliegue de aplicaciones desde el catálogo desde la consola web
+---
+title: "Despliegue de aplicaciones desde el catálogo desde la consola web"
+permalink: /cursos/osv4_paas/modulo02/catalogo_web.html
+---
 
 Como hemos indicado, OpenShift nos ofrece un conjunto de **Templates** que podemos encontrar en el **catálogo de aplicaciones**. Para acceder al catálogo, desde la vista **Developer**, escogemos la opción de **+Add** y elegimos el apartado **Developer Catalog**:
 

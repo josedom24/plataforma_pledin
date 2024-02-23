@@ -1,4 +1,7 @@
-# Estrategias de despliegues basadas en rutas
+---
+title: "Estrategias de despliegues basadas en rutas"
+permalink: /cursos/osv4_paas/modulo05/estrategias_rutas.html
+---
 
 En este tipo de estrategia de despliegue configuramos el objeto **Route** para que enrute el tráfico a distintos Pods de distintos servicios.
 

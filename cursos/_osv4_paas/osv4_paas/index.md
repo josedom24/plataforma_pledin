@@ -9,7 +9,7 @@ En esta formación vamos a aprender las distintas estrategias de despliegues de 
 
 Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/openshift-v4-paas/) en mayo de 2023.
 
-Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_openshift_v4/blob/main/curso2/README.html). Puedes acceder al [Repositorio con los ficheros de los ejercicios](https://github.com/josedom24/ficheros_osv4_curso2).
+Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_openshift_v4/blob/main/curso2/README.md). Puedes acceder al [Repositorio con los ficheros de los ejercicios](https://github.com/josedom24/ficheros_osv4_curso2).
 
 
 ## Unidades

@@ -1,4 +1,7 @@
-# Despliegue de aplicaciones desde el catálogo con oc
+---
+title: "Despliegue de aplicaciones desde el catálogo con oc"
+permalink: /cursos/osv4_paas/modulo02/catalogo.html
+---
 
 En los apartados anteriores hemos usado distintas **Builder Images** para construir nuevas imágenes que queremos desplegar. Las **Builder Images** la encontramos almacenadas en el **catálogo de aplicaciones** de OpenShift. Además, en el catálogo encontramos otros elementos, por ejemplo, los **Templates** que nos permiten crear un conjunto de recursos en OpenShift de manera sencilla.
 

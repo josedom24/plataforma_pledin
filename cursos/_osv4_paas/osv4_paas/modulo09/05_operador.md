@@ -1,4 +1,7 @@
-# Instalación de OpenShift Serverless en CRC
+---
+title: "Instalación de OpenShift Serverless en CRC"
+permalink: /cursos/osv4_paas/modulo09/operador.html
+---
 
 ## Instalación del operador OpenShift Pipelines desde la consola web
 

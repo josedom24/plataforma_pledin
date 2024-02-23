@@ -1,4 +1,7 @@
-# Ejemplo 3: Haciendo persistente la aplicación Wordpress
+---
+title: "Ejemplo 3: Haciendo persistente la aplicación Wordpress"
+permalink: /cursos/osv4_paas/modulo07/wordpress.html
+---
 
 ## Base de datos persistente
 

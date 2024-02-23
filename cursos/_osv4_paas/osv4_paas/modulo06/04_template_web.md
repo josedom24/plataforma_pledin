@@ -1,4 +1,7 @@
-# Crear objetos desde un Template desde la consola web
+---
+title: "Crear objetos desde un Template desde la consola web"
+permalink: /cursos/osv4_paas/modulo06/template_web.html
+---
 
 Cuando hemos creado nuestra plantilla hemos comprobado que ha aparecido en el **catálogo de aplicaciones**:
 

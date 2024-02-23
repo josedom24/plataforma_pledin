@@ -1,4 +1,7 @@
-# Actualización automática de un build por trigger webhook
+---
+title: "Actualización automática de un build por trigger webhook"
+permalink: /cursos/osv4_paas/modulo04/webhook.html
+---
 
 Este tipo de actualización de un **BuildConfig** se realizará por medio de la configuración de un webhook en un servicio externo. El servicio externo hará una llamada a una URL de nuestro clúster de OpenShift cuando ocurra un evento. Esta llamada, provocará el inicio de un nuevo build.
 

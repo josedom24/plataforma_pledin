@@ -1,4 +1,7 @@
-# Gestión de builds desde la consola web
+---
+title: "Gestión de builds desde la consola web"
+permalink: /cursos/osv4_paas/modulo04/build_web.html
+---
 
 Para ver como podemos gestionar los objetos **BuildConfig** en la consola web, vamos a desplegar una de las aplicaciones que hemos visto en algún apartado anterior, desplegando el código del repositorio [https://github.com/josedom24/osv4_php](https://github.com/josedom24/osv4_php):
 

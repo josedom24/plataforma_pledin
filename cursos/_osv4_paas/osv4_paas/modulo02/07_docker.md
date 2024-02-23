@@ -1,4 +1,7 @@
-# Despliegue de aplicaciones desde Dockerfile con oc
+---
+title: "Despliegue de aplicaciones desde Dockerfile con oc"
+permalink: /cursos/osv4_paas/modulo02/docker.html
+---
 
 El esquema para ver los recursos que se crean en OpenShift al realizar un despliegue desde un fichero `Dockerfile` es el siguiente:
 

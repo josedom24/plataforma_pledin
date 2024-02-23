@@ -1,4 +1,7 @@
-# Despliegue de aplicaciones desde código fuente con oc
+---
+title: "Despliegue de aplicaciones desde código fuente con oc"
+permalink: /cursos/osv4_paas/modulo02/codigo.html
+---
 
 El esquema para ver los recursos que se crean en OpenShift al realizar un despliegue desde código fuente es el siguiente:
 
