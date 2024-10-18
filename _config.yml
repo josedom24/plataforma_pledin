@@ -64,6 +64,9 @@ author:
   location: "Utrera, Sevilla,ES" # null (default), "absolute or relative url to link to author home"
 
 collections:
+  docker2024:
+    output: true
+    permalink: /cursos/:path
   osv4_k8s:
     output: true
     permalink: /cursos/:path
@@ -130,6 +133,19 @@ collections_dir: cursos
 
 
 defaults:
+  - scope:
+      path: ""
+      type: docker2024
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docker2024"
+
   - scope:
       path: ""
       type: osv4_k8s

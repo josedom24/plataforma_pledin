@@ -14,6 +14,182 @@ main:
   - title: "Presentación"
     url: https://www.josedomingo.org/pledin/about/
 
+
+docker2024:
+  - title: "Introducción a Docker"
+    children:
+      - title: Índice
+        url: /cursos/docker2024/index.html
+
+  - title: "Introducción a Docker"
+    children:
+
+      - title: "Introducción a los contenedores"
+        url: /cursos/docker2024/contenido/modulo1/01_contenedores.html
+      - title: "Introducción a Docker"
+        url: /cursos/docker2024/contenido/modulo1/02_docker.html
+      - title: "Instalación de Docker Engine en Linux"
+        url: /cursos/docker2024/contenido/modulo1/03_instalacion_linux.html
+      - title: "Instalación de Docker Desktop en Linux"
+        url: /cursos/docker2024/contenido/modulo1/04_desktop_linux.html
+      - title: "Instalación de Docker Desktop en Windows"
+        url: /cursos/docker2024/contenido/modulo1/05_desktop_windows.html
+    
+  - title: "Ejecución de contenedores"
+    children:
+
+      - title: "El "Hola Mundo" de Docker"
+        url: /cursos/docker2024/contenido/modulo2/01_holamundo.html)
+      - title: "Ejecución simple de contenedores"
+        url: /cursos/docker2024/contenido/modulo2/02_contenedor.html)
+      - title: "Más opciones en la ejecución de contenedores (1ª parte)"
+        url: /cursos/docker2024/contenido/modulo2/03_masopciones.html
+      - title: "Más opciones en la ejecución de contenedores (2ª parte)"
+        url: /cursos/docker2024/contenido/modulo2/04_masopciones2.html
+      - title: "Gestión de contenedores Docker"
+        url: /cursos/docker2024/contenido/modulo2/05_gestion.html
+      - title: "Ejemplo: Creando un contenedor con un servidor web"
+        url: /cursos/docker2024/contenido/modulo2/06_web.html
+      - title: "Ejemplo: Configuración de un contenedor con la imagen MariaDB"
+        url: /cursos/docker2024/contenido/modulo2/07_mariadb.html
+      - title: "Etiquetando los contenedores con Labels"
+        url: /cursos/docker2024/contenido/modulo2/08_labels.html
+      - title: "Limitando los recursos utilizados por un contenedor Docker"
+        url: /cursos/docker2024/contenido/modulo2/09_limite.html
+
+  - title: "Gestión de imágenes en Docker"
+    children:
+
+      - title: "Imágenes Docker"
+        url: /cursos/docker2024/contenido/modulo3/01_imagenes.html
+      - title: "Registro de imágenes: Docker Hub"
+        url: /cursos/docker2024/contenido/modulo3/02_dockerhub.html
+      - title: "Gestión de Imágenes"
+        url: /cursos/docker2024/contenido/modulo3/03_gestion.html
+      - title: "¿Cómo se organizan las imágenes?"
+        url: /cursos/docker2024/contenido/modulo3/04_organizacion.html
+      - title: "Demostración: Almacenamiento de imágenes y contenedores"
+        url: /cursos/docker2024/contenido/modulo3/05_almacenamiento.html
+      - title: "Ejemplo: Desplegando la aplicación MediaWiki"
+        url: /cursos/docker2024/contenido/modulo3/06_mediawiki.html
+
+  - title: "Almacenamiento en Docker"
+    children:
+
+      - title: "Los contenedores son efímeros"
+        url: /cursos/docker2024/contenido/modulo4/01_efimeros.html
+      - title: "Almacenamiento en Docker"
+        url: /cursos/docker2024/contenido/modulo4/02_almacenamiento.html
+      - title: "Asociando almacenamiento a los contenedores: volúmenes Docker"
+        url: /cursos/docker2024/contenido/modulo4/03_volumen.html
+      - title: "Asociando almacenamiento a los contenedores: bind mount"
+        url: /cursos/docker2024/contenido/modulo4/04_bindmount.html
+      - title: "Ejemplo 1: Contenedor NextCloud con almacenamiento persistente"
+        url: /cursos/docker2024/contenido/modulo4/05_nextcloud.html
+      - title: "Ejemplo 2: Contenedor MariaDB con almacenamiento persistente"
+        url: /cursos/docker2024/contenido/modulo4/06_mariadb.html
+      - title: "Otros usos del almacenamiento en Docker"
+        url: /cursos/docker2024/contenido/modulo4/07_otrosusos.html
+
+  - title: "Redes en Docker"
+    children:
+
+      - title: "Introducción a las redes en Docker"
+        url: /cursos/docker2024/contenido/modulo5/01_redes.html
+      - title: "Uso de la red host en Docker"
+        url: /cursos/docker2024/contenido/modulo5/02_host.html
+      - title: "Uso de la red bridge por defecto"
+        url: /cursos/docker2024/contenido/modulo5/03_bridge.html
+      - title: "Redes bridge definidas por el usuario"
+        url: /cursos/docker2024/contenido/modulo5/04_usuario.html
+      - title: "Uso de la red bridge definidas por el usuario"
+        url: /cursos/docker2024/contenido/modulo5/05_usuario2.html
+      - title: "Ejemplo 1: Despliegue de la aplicación Guestbook"
+        url: /cursos/docker2024/contenido/modulo5/06ejemplo1.html
+      - title: "Ejemplo 2: Despliegue de la aplicación Temperaturas"
+        url: /cursos/docker2024/contenido/modulo5/07_ejemplo2.html
+      - title: "Ejemplo 3: Despliegue de WordPress + MariaDB"
+        url: /cursos/docker2024/contenido/modulo5/08_ejemplo3.html
+      - title: "Ejemplo 4: Despliegue de Apache Tomcat + nginx"
+        url: /cursos/docker2024/contenido/modulo5/09_ejemplo4.html)
+
+  - title: "Creando escenarios multicontenedor con Docker Compose"
+    children:
+
+      - title: "Creando escenarios multicontenedor con Docker Compose"
+        url: /cursos/docker2024/contenido/modulo6/01_compose.html
+      - title: "El fichero compose.yaml"
+        url: /cursos/docker2024/contenido/modulo6/02_docker_compose.html)
+      - title: "El comando docker compose"
+        url: /cursos/docker2024/contenido/modulo6/03_comando.html)
+      - title: "Almacenamiento con Docker Compose"
+        url: /cursos/docker2024/contenido/modulo6/04_almacenamiento.html
+      - title: "Redes con Docker Compose"
+        url: /cursos/docker2024/contenido/modulo6/05_redes.html
+      - title: "Ejemplo 1: Despliegue de la aplicación Guestbook"
+        url: /cursos/docker2024/contenido/modulo6/06_ejemplo1.html
+      - title: "Ejemplo 2: Despliegue de la aplicación Temperaturas"
+        url: /cursos/docker2024/contenido/modulo6/07_ejemplo2.html
+      - title: "Ejemplo 3: Despliegue de WordPress + MariaDB"
+        url: /cursos/docker2024/contenido/modulo6/08_ejemplo3.html
+      - title: "Ejemplo 4: Despliegue de Apache Tomcat + nginx"
+        url: /cursos/docker2024/contenido/modulo6/09_ejemplo4.html
+      - title: "Uso de parámetros con Docker Compose"
+        url: /cursos/docker2024/contenido/modulo6/10_variables.html
+      - title: "Ejemplos reales de despliegues usando Docker Compose"
+        url: /cursos/docker2024/contenido/modulo6/11_ejemplos.html)
+
+  - title: "Creación de imágenes en Docker"
+    children:
+
+      - title: "Introducción a la construcción y distribución de imágenes Docker"
+        url: /cursos/docker2024/contenido/modulo7/01_introduccion.html
+      - title: "Creación de imágenes a partir de un contenedor"
+        url: /cursos/docker2024/contenido/modulo7/02_contenedor.html
+      - title: "El fichero Dockerfile"
+        url: /cursos/docker2024/contenido/modulo7/03_docker-file.html
+      - title: "Creación de imágenes a partir de un Dockerfile"
+        url: /cursos/docker2024/contenido/modulo7/04_build.html
+      - title: "Distribución de imágenes"
+        url: /cursos/docker2024/contenido/modulo7/05_distribucion.html
+      - title: "Ejemplo 1: Construcción de imágenes con una página estática"
+        url: /cursos/docker2024/contenido/modulo7/06_ejemplo1.html
+      - title: "Ejemplo 2: Construcción de imágenes con una una aplicación PHP"
+        url: /cursos/docker2024/contenido/modulo7/07_ejemplo2.html
+      - title: "Ejemplo 3: Construcción de imágenes con una una aplicación Python"
+        url: /cursos/docker2024/contenido/modulo7/08_ejemplo3.html
+      - title: "Ejemplo 4: Construcción de imágenes configurables con variables de entorno"
+        url: /cursos/docker2024/contenido/modulo7/09_ejemplo4.html
+      - title: "Ejemplo 5: Configuración de imágenes con una aplicación Java"
+        url: /cursos/docker2024/contenido/modulo7/10_ejemplo5.html
+      - title: "Creación de imágenes con Docker Compose"
+        url: /cursos/docker2024/contenido/modulo7/11_compose_build.html
+      - title: "Uso de ficheros Dockerfile parametrizados"
+        url: /cursos/docker2024/contenido/modulo7/12_variables.html
+      - title: "Ciclo de vida de nuestras aplicaciones con Docker"
+        url: /cursos/docker2024/contenido/modulo7/13_ciclodevida.html
+      - title: "Eliminar objetos Docker no utilizados"
+        url: /cursos/docker2024/contenido/modulo7/14_prune.html
+
+  - title: "Docker Desktop"
+    children:
+
+      - title: "Introducción a la interfaz de Docker Desktop"
+        url: /cursos/docker2024/contenido/modulo8/01_introduccion.html
+      - title: "Gestión de imágenes en Docker Desktop"
+        url: /cursos/docker2024/contenido/modulo8/02_imagen.html
+      - title: "Gestión de contenedores en Docker Desktop"
+        url: /cursos/docker2024/contenido/modulo8/03_contenedor.html
+      - title: "Gestión de volúmenes en Docker Desktop"
+        url: /cursos/docker2024/contenido/modulo8/04_volumen.html
+      - title: "Gestión de creación de imágenes en Docker Desktop"
+        url: /cursos/docker2024/contenido/modulo8/05_build.html
+      - title: "Extensiones en Docker Desktop"
+        url: /cursos/docker2024/contenido/modulo8/06_extensiones.html
+
+
+
+
 osv4_paas:
 
   - title: "OpenShift v4 como PaaS"
