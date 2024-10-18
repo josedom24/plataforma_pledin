@@ -39,9 +39,9 @@ docker2024:
     children:
 
       - title: "El \"Hola Mundo\" de Docker"
-        url: /cursos/docker2024/contenido/modulo2/01_holamundo.html)
+        url: /cursos/docker2024/contenido/modulo2/01_holamundo.html
       - title: "Ejecución simple de contenedores"
-        url: /cursos/docker2024/contenido/modulo2/02_contenedor.html)
+        url: /cursos/docker2024/contenido/modulo2/02_contenedor.html
       - title: "Más opciones en la ejecución de contenedores (1ª parte)"
         url: /cursos/docker2024/contenido/modulo2/03_masopciones.html
       - title: "Más opciones en la ejecución de contenedores (2ª parte)"
@@ -111,7 +111,7 @@ docker2024:
       - title: "Ejemplo 3: Despliegue de WordPress + MariaDB"
         url: /cursos/docker2024/contenido/modulo5/08_ejemplo3.html
       - title: "Ejemplo 4: Despliegue de Apache Tomcat + nginx"
-        url: /cursos/docker2024/contenido/modulo5/09_ejemplo4.html)
+        url: /cursos/docker2024/contenido/modulo5/09_ejemplo4.html
 
   - title: "Creando escenarios multicontenedor con Docker Compose"
     children:
@@ -119,9 +119,9 @@ docker2024:
       - title: "Creando escenarios multicontenedor con Docker Compose"
         url: /cursos/docker2024/contenido/modulo6/01_compose.html
       - title: "El fichero compose.yaml"
-        url: /cursos/docker2024/contenido/modulo6/02_docker_compose.html)
+        url: /cursos/docker2024/contenido/modulo6/02_docker_compose.html
       - title: "El comando docker compose"
-        url: /cursos/docker2024/contenido/modulo6/03_comando.html)
+        url: /cursos/docker2024/contenido/modulo6/03_comando.html
       - title: "Almacenamiento con Docker Compose"
         url: /cursos/docker2024/contenido/modulo6/04_almacenamiento.html
       - title: "Redes con Docker Compose"
@@ -137,7 +137,7 @@ docker2024:
       - title: "Uso de parámetros con Docker Compose"
         url: /cursos/docker2024/contenido/modulo6/10_variables.html
       - title: "Ejemplos reales de despliegues usando Docker Compose"
-        url: /cursos/docker2024/contenido/modulo6/11_ejemplos.html)
+        url: /cursos/docker2024/contenido/modulo6/11_ejemplos.html
 
   - title: "Creación de imágenes en Docker"
     children:

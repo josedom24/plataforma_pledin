@@ -2,7 +2,7 @@
 title: Introducción a Docker
 ---
 
-![osv4](https://www.josedomingo.org/pledin/assets/wp-content/uploads/2024/10/docker.png)
+![osv4](https://www.josedomingo.org/pledin/assets/wp-content/uploads/2024/10/docker.png){: .align-center }
 
 En los últimos años se ha ido extendiendo el uso de contenedores como elementos esenciales para el uso de aplicaciones en entornos en producción, tanto más cuanto más variable sea la demanda, la frecuencia con la que se actualizan o la necesidad de que funcionen de forma ininterrumpida.
 Gestionar una aplicación sobre contenedores, que pueda actualizarse rápidamente, que sea escalable o tolerante a fallos, es una tarea compleja que se realiza mediante un software específico.
