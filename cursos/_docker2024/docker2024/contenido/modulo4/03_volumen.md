@@ -64,7 +64,7 @@ $ docker run -d --name my-apache-app --mount type=volume,src=miweb,dst=/usr/loca
 Podemos comprobar en la información del contenedor los puntos de montajes que tiene configurado:
 
 ```bash
-$ docker inspect --format='{ % raw %}{{json .Mounts}}{ % endraw %}' my-apache-app 
+$ docker inspect --format='{% raw %}{{json .Mounts}}{% endraw %}' my-apache-app 
 [{"Type":"volume","Name":"miweb","Source":"/var/lib/docker/volumes/miweb/_data","Destination":"/usr/local/apache2/htdocs","Driver":"local","Mode":"z","RW":true,"Propagation":""}]
 ```
 

@@ -22,7 +22,7 @@ $ docker port my-apache-app
 O utilizando el comando `docker inspect` con un filtro:
 
 ```bash
-docker inspect --format='{ % raw %}{{range $p, $conf := .NetworkSettings.Ports}}{ % endraw %}  { % raw %}{{(index $conf 0).HostPort}}{ % endraw %} -> { % raw %}{{$p}}{ % endraw %} { % raw %}{{end}}{ % endraw %}' my-apache-app
+docker inspect --format='{% raw %}{{range $p, $conf := .NetworkSettings.Ports}}{% endraw %}  {% raw %}{{(index $conf 0).HostPort}}{% endraw %} -> {% raw %}{{$p}}{% endraw %} {% raw %}{{end}}{% endraw %}' my-apache-app
 ```
 
 Para probarlo accedemos desde un navegador web:

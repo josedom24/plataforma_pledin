@@ -67,7 +67,7 @@ Podemos comprobar que el direccionamiento lo hemos configurado:
 
 
 ```bash
-$ docker network inspect --format='{ % raw %}{{range .IPAM.Config}}{ % endraw %}{ % raw %}{{.Subnet}}{ % endraw %}{ % raw %}{{end}}{ % endraw %}' red2
+$ docker network inspect --format='{% raw %}{{range .IPAM.Config}}{% endraw %}{% raw %}{{.Subnet}}{% endraw %}{% raw %}{{end}}{% endraw %}' red2
 192.168.0.0/24
 ```
 

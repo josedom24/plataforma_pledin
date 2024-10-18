@@ -89,31 +89,31 @@ Como nos devuelve mucha información podemos filtrar los campos que nos interesa
 El identificado del contenedor:
 
 ```bash
-$ docker inspect --format='{ % raw %}{{.Id}}{ % endraw %}' hora-container2
+$ docker inspect --format='{% raw %}{{.Id}}{% endraw %}' hora-container2
 ```
 
 El nombre de la imagen que hemos usado para crear el contenedor:
 
 ```bash
-$ docker inspect --format='{ % raw %}{{.Config.Image}}{ % endraw %}' hora-container2
+$ docker inspect --format='{% raw %}{{.Config.Image}}{% endraw %}' hora-container2
 ```
 
 El valor de las variables de entorno definidas en el contenedor:
 
 ```bash
-$ docker container inspect -f '{ % raw %}{{range .Config.Env}}{ % endraw %}{ % raw %}{{println .}}{ % endraw %}{ % raw %}{{end}}{ % endraw %}' hora-container2
+$ docker container inspect -f '{% raw %}{{range .Config.Env}}{% endraw %}{% raw %}{{println .}}{% endraw %}{% raw %}{{end}}{% endraw %}' hora-container2
 ```
 
 El comando que hemos ejecutado en el contenedor:
 
 ```bash
-$ docker inspect --format='{ % raw %}{{range .Config.Cmd}}{ % endraw %}{ % raw %}{{println .}}{ % endraw %}{ % raw %}{{end}}{ % endraw %}' hora-container2
+$ docker inspect --format='{% raw %}{{range .Config.Cmd}}{% endraw %}{% raw %}{{println .}}{% endraw %}{% raw %}{{end}}{% endraw %}' hora-container2
 ```
 
 La dirección IP que tiene el contenedor:
 
 ```bash
-$ docker inspect --format='{ % raw %}{{range .NetworkSettings.Networks}}{ % endraw %}{ % raw %}{{.IPAddress}}{ % endraw %}{ % raw %}{{end}}{ % endraw %}' hora-container2
+$ docker inspect --format='{% raw %}{{range .NetworkSettings.Networks}}{% endraw %}{% raw %}{{.IPAddress}}{% endraw %}{% raw %}{{end}}{% endraw %}' hora-container2
 ```
 
 

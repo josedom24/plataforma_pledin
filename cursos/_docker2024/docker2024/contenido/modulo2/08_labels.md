@@ -48,7 +48,7 @@ $ docker ps -a --filter="label=entorno=produccion" --filter="label=servicio=web"
 Para terminar este apartado veamos un filtro que nos devuelve las etiquetas usando el comando `docker inspect`, por ejemplo:
 
 ```bash
-$ docker inspect --format '{ % raw %}{{range $key, $value := .Config.Labels}}{ % endraw %}{ % raw %}{{$key}}{ % endraw %}: { % raw %}{{$value}}{ % endraw %}{ % raw %}{{"\n"}}{ % endraw %}{ % raw %}{{end}}{ % endraw %}' prueba_web
+$ docker inspect --format '{% raw %}{{range $key, $value := .Config.Labels}}{% endraw %}{% raw %}{{$key}}{% endraw %}: {% raw %}{{$value}}{% endraw %}{% raw %}{{"\n"}}{% endraw %}{% raw %}{{end}}{% endraw %}' prueba_web
 aplicacion: apache
 entorno: desarrollo
 org.opencontainers.image.ref.name: ubuntu
