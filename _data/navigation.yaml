@@ -38,7 +38,7 @@ docker2024:
   - title: "Ejecución de contenedores"
     children:
 
-      - title: "El "Hola Mundo" de Docker"
+      - title: "El \"Hola Mundo\" de Docker"
         url: /cursos/docker2024/contenido/modulo2/01_holamundo.html)
       - title: "Ejecución simple de contenedores"
         url: /cursos/docker2024/contenido/modulo2/02_contenedor.html)
