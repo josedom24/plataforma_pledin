@@ -1,3 +1,7 @@
+---
+title: "Introducción a Docker"
+permalink: /cursos/docker2024/contenido/modulo1/02_docker.html
+---
 # Introducción a Docker
 
 ## Docker

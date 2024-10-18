@@ -1,3 +1,7 @@
+---
+title: "Ejemplo 4: Construcción de imágenes configurables con variables de entorno"
+permalink: /cursos/docker2024/contenido/modulo7/09_ejemplo4.html
+---
 # Ejemplo 4: Construcción de imágenes configurables con variables de entorno
 
 En este ejemplo vamos a construir una imagen de una aplicación PHP que necesita conectarse a una base de datos MariaDB para guardar o leer información. Por lo tanto, vamos a construir la imagen que tendrá distintas variables de entorno para configurar las credenciales de acceso a la base de datos. 

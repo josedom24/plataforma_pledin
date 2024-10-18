@@ -1,3 +1,7 @@
+---
+title: "Instalación de Docker Desktop en Linux"
+permalink: /cursos/docker2024/contenido/modulo1/04_desktop_linux.html
+---
 # Instalación de Docker Desktop en Linux
 
 Podemos [instalar](https://docs.docker.com/desktop/install/linux-install/) **Docker Desktop** en distintas distribuciones Linux: Debian, Fedora, Ubuntu,... En este apartado vamos a realizar la instalación en la distribución [Ubuntu](https://docs.docker.com/desktop/install/ubuntu/).

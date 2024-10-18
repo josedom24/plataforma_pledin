@@ -1,3 +1,7 @@
+---
+title: "Uso de parámetros con Docker Compose"
+permalink: /cursos/docker2024/contenido/modulo6/10_variables.html
+---
 # Uso de parámetros con Docker Compose
 
 * Nuestro fichero `compose.yaml` se puede parametrizar. Determinados datos se pueden poner con una variable a la que daremos un valor en el momento de creación del escenario.

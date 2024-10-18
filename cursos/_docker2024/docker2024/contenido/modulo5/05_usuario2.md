@@ -1,3 +1,7 @@
+---
+title: "Uso de la red bridge definidas por el usuario"
+permalink: /cursos/docker2024/contenido/modulo5/05_usuario2.html
+---
 # Uso de la red bridge definidas por el usuario
 
 En este apartado vamos a trabajar con las dos redes que hemos creado en el apartado anterior.

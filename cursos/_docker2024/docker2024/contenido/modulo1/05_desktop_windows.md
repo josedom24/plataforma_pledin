@@ -1,3 +1,7 @@
+---
+title: "Instalación de Docker Desktop en Windows"
+permalink: /cursos/docker2024/contenido/modulo1/05_desktop_windows.html
+---
 # Instalación de Docker Desktop en Windows
 
 Podemos [instalar](https://docs.docker.com/desktop/install/windows-install/) **Docker Desktop** en distintas versiones del sistema operativo Windows:  En este apartado vamos a realizar la instalación en windows 10 Pro (versión 22H2). En sistemas Windows **Docker Desktop** instala el demonio Docker o sobre una máquina Linux usando WSL (Subsistema de Windows para Linux) o usando una máquina virtual ejecutada sobre el hipervisor Hyper-V. Nosotros vamos a usar la primera opción de instalación.

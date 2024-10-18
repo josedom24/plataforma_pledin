@@ -1,3 +1,7 @@
+---
+title: "Ciclo de vida de nuestras aplicaciones con Docker"
+permalink: /cursos/docker2024/contenido/modulo7/13_ciclodevida.html
+---
 # Ciclo de vida de nuestras aplicaciones con Docker
 
 **El ciclo de vida de una aplicación Docker** tendría los siguientes pasos:

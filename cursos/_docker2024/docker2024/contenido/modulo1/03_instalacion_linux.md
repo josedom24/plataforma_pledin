@@ -1,3 +1,7 @@
+---
+title: "Instalación de Docker Engine en Linux"
+permalink: /cursos/docker2024/contenido/modulo1/03_instalacion_linux.html
+---
 # Instalación de Docker Engine en Linux
 
 ## Instalación de Docker Engine

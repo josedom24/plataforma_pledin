@@ -1,3 +1,7 @@
+---
+title: "Ejemplo 3: Despliegue de WordPress + MariaDB"
+permalink: /cursos/docker2024/contenido/modulo6/08_ejemplo3.html
+---
 # Ejemplo 3: Despliegue de WordPress + MariaDB
 
 En este ejemplo vamos a desplegar con Docker Compose la aplicación WordPress + MariaDB, que estudiamos en un módulo anterior.

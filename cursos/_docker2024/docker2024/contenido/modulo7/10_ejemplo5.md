@@ -1,3 +1,7 @@
+---
+title: "Ejemplo 5: Configuración de imágenes con una aplicación Java"
+permalink: /cursos/docker2024/contenido/modulo7/10_ejemplo5.html
+---
 # Ejemplo 5: Configuración de imágenes con una aplicación Java
 
 En este ejemplo vamos a estudiar como podemos trabajar con el [Servidor de Aplicaciones Apache Tomcat](https://tomcat.apache.org/). Para hacer las pruebas vamos a usar la imagen Docker `bitnami/tomcat` cuya [documentación](https://hub.docker.com/r/bitnami/tomcatJava) puedes encontrar en Docker Hub.

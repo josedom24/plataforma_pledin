@@ -1,3 +1,7 @@
+---
+title: "Uso de la red bridge por defecto"
+permalink: /cursos/docker2024/contenido/modulo5/03_bridge.html
+---
 # Uso de la red bridge por defecto
 
 Hasta ahora todos los contenedores lo hemos conectado a la red **bridge** por defecto. Como ya hemos dicho las características más importantes de este tipo de red son las siguientes:

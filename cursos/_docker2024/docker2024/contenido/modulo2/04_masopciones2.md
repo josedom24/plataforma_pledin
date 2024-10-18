@@ -1,3 +1,7 @@
+---
+title: "Más opciones en la ejecución de contenedores (2ª parte)"
+permalink: /cursos/docker2024/contenido/modulo2/04_masopciones2.html
+---
 # Más opciones en la ejecución de contenedores (2ª parte)
 
 ## Ejecutando un contenedor demonio

@@ -1,3 +1,7 @@
+---
+title: "Ejemplo 1: Contenedor NextCloud con almacenamiento persistente"
+permalink: /cursos/docker2024/contenido/modulo4/06_nextcloud.html
+---
 # Ejemplo 1: Contenedor NextCloud con almacenamiento persistente
 
 [NextCloud](https://nextcloud.com/es/) en una aplicación escrita en PHP que nos posibilita construir una nube privada para guardar nuestros archivos, además de tener otros servicios como agenda, calendario, ...

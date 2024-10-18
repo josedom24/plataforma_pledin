@@ -1,3 +1,7 @@
+---
+title: "Ejemplo: Creando un contenedor con un servidor web"
+permalink: /cursos/docker2024/contenido/modulo2/06_web.html
+---
 # Ejemplo: Creando un contenedor con un servidor web
 
 En este ejemplo vamos a crear un contenedor demonio que ejecuta un servidor web Apache, para ello vamos a usar la imagen `httpd:2.4` del registro **Docker Hub** (en este caso hemos indicado el nombre de la imagen y su etiqueta `2.4` que nos indica la versión del servidor web que vamos a usar):

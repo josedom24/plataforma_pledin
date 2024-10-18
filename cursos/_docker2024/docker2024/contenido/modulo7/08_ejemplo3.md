@@ -1,3 +1,7 @@
+---
+title: "Ejemplo 3: Construcción de imágenes con una una aplicación Python"
+permalink: /cursos/docker2024/contenido/modulo7/08_ejemplo3.html
+---
 # Ejemplo 3: Construcción de imágenes con una una aplicación Python
 
 En este ejemplo vamos a construir una imagen Docker para servir una aplicación escrita en Python utilizando el framework Flask. La aplicación será servida en el puerto 3000/tcp. 

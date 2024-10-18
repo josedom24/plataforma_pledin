@@ -1,3 +1,7 @@
+---
+title: "Ejemplo 2: Despliegue de la aplicación Temperaturas"
+permalink: /cursos/docker2024/contenido/modulo5/07_ejemplo2.html
+---
 # Ejemplo 2: Despliegue de la aplicación Temperaturas
 
 Vamos a hacer un despliegue completo de una aplicación llamada Temperaturas. Esta aplicación nos permite consultar la temperatura mínima y máxima de todos los municipios de España. Esta aplicación está formada por dos **microservicios**:

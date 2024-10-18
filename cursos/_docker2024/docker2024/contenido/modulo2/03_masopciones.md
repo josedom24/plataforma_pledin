@@ -1,3 +1,7 @@
+---
+title: "Más opciones en la ejecución de contenedores (1ª parte)"
+permalink: /cursos/docker2024/contenido/modulo2/03_masopciones.html
+---
 # Más opciones en la ejecución de contenedores (1ª parte)
 
 Hemos usado el comando `docker run` para crear y ejecutar contenedores. Este comando tiene muchas opciones, veamos algunas de ellas:

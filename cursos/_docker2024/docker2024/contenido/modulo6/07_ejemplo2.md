@@ -1,3 +1,7 @@
+---
+title: "Ejemplo 2: Despliegue de la aplicación Temperaturas"
+permalink: /cursos/docker2024/contenido/modulo6/07_ejemplo2.html
+---
 # Ejemplo 2: Despliegue de la aplicación Temperaturas
 
 En este ejemplo vamos a desplegar con Docker Compose la aplicación Temperaturas, que estudiamos en un módulo anterior.

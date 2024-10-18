@@ -1,3 +1,7 @@
+---
+title: "Gestión de imágenes en Docker Desktop"
+permalink: /cursos/docker2024/contenido/modulo8/02_imagen.html
+---
 # Gestión de imágenes en Docker Desktop
 
 ## Descargas de imágenes

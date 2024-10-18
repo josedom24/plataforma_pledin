@@ -1,3 +1,7 @@
+---
+title: "Distribución de imágenes"
+permalink: /cursos/docker2024/contenido/modulo7/05_distribucion.html
+---
 # Distribución de imágenes
 
 Como hemos comentado, tenemos dos maneas de distribuir nuestras imágenes Docker:

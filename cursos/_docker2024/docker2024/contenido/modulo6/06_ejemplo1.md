@@ -1,3 +1,7 @@
+---
+title: "Ejemplo 1: Despliegue de la aplicación Guestbook"
+permalink: /cursos/docker2024/contenido/modulo6/06_ejemplo1.html
+---
 # Ejemplo 1: Despliegue de la aplicación Guestbook
 
 En este ejemplo vamos a desplegar con Docker Compose la aplicación Guestbook, que estudiamos en un módulo anterior.

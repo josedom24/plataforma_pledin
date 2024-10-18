@@ -1,3 +1,7 @@
+---
+title: "Introducción a los contenedores"
+permalink: /cursos/docker2024/contenido/modulo1/01_contenedores.html
+---
 # Introducción a los contenedores
 
 Según la Wikipedia: *La virtualización utiliza el software para imitar las características del hardware y crear un sistema informático virtual*.

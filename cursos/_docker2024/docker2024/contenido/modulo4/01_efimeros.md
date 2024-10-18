@@ -1,3 +1,7 @@
+---
+title: "Los contenedores son efímeros"
+permalink: /cursos/docker2024/contenido/modulo4/01_efimeros.html
+---
 # Los contenedores son efímeros
 
 **Los contenedores son efímeros**, es decir, los ficheros, datos y configuraciones que creamos en los contenedores sobreviven a las paradas de los mismos pero, sin embargo, son destruidos si el contenedor es destruido. 

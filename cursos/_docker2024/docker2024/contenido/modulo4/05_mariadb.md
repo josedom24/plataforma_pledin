@@ -1,3 +1,7 @@
+---
+title: "Ejemplo 2: Contenedor MariaDB con almacenamiento persistente"
+permalink: /cursos/docker2024/contenido/modulo4/05_mariadb.html
+---
 # Ejemplo 2: Contenedor MariaDB con almacenamiento persistente
 
 Si estudiamos la documentación de la imagen [`mariadb`](https://hub.docker.com/_/mariadb) en Docker Hub, nos indica que la información que hay que guardar de la base de datos se encuentra en el directorio `/var/lib/mysql`. Por lo tanto si queremos crear una contenedor de MariaDB donde no se pierda los datos de la base de datos, debemos ejecutar:

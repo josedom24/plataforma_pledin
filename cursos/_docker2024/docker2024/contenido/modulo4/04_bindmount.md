@@ -1,3 +1,7 @@
+---
+title: "Asociando almacenamiento a los contenedores: bind mount"
+permalink: /cursos/docker2024/contenido/modulo4/04_bindmount.html
+---
 # Asociando almacenamiento a los contenedores: bind mount
 
 ## Creación de contenedores con bind mount

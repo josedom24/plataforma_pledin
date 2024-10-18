@@ -1,3 +1,7 @@
+---
+title: "Ejemplo 2: Construcción de imágenes con una una aplicación PHP"
+permalink: /cursos/docker2024/contenido/modulo7/07_ejemplo2.html
+---
 # Ejemplo 2: Construcción de imágenes con una una aplicación PHP
 
 En este ejemplo vamos a crear una imagen Docker con una página desarrollada con PHP. 

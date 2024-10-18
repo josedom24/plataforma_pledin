@@ -1,3 +1,7 @@
+---
+title: "El comando docker compose"
+permalink: /cursos/docker2024/contenido/modulo6/03_comando.html
+---
 # El comando docker compose
 
 Vamos a usar la instrucción `docker compose` para gestionar el ciclo de vida del escenario que tenemos definido en el fichero `compose.yaml`. 

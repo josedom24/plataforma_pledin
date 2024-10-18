@@ -1,3 +1,7 @@
+---
+title: "Ejemplo 1: Despliegue de la aplicación Guestbook"
+permalink: /cursos/docker2024/contenido/modulo5/06_ejemplo1.html
+---
 # Ejemplo 1: Despliegue de la aplicación Guestbook
 
 En este ejemplo vamos a desplegar una aplicación web que requiere de dos servicios (servicio web y servicio de base de datos) para su ejecución. La aplicación se llama Guestbook y necesita los dos siguientes servicios:

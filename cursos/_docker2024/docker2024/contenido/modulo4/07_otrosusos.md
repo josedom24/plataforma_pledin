@@ -1,3 +1,7 @@
+---
+title: "Otros usos del almacenamiento en Docker"
+permalink: /cursos/docker2024/contenido/modulo4/07_otrosusos.html
+---
 # Otros usos del almacenamiento en Docker
 
 En los ejemplos anteriores hemos usado los volúmenes como copia de seguridad de la información, para hacer persistente los contenedores. En este apartado vamos a ver dos ejemplos explicando otros dos usos que le podemos dar al almacenamiento en Docker.

@@ -1,3 +1,7 @@
+---
+title: "Ejemplos reales de despliegues usando Docker Compose"
+permalink: /cursos/docker2024/contenido/modulo6/11_ejemplos.html
+---
 # Ejemplos reales de despliegues usando Docker Compose
 
 En la actualidad la mayoría de los despliegues reales que se hacen con Docker, se realizan usando la herramienta **Docker Compose**, veamos algunos ejemplos:

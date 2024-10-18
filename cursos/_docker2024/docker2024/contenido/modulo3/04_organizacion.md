@@ -1,3 +1,7 @@
+---
+title: "¿Cómo se organizan las imágenes?"
+permalink: /cursos/docker2024/contenido/modulo3/04_organizacion.html
+---
 # ¿Cómo se organizan las imágenes?
 
 Las imágenes se construyen a partir de **capas ordenadas**. 

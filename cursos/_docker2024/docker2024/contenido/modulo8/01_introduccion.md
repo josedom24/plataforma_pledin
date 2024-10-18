@@ -1,3 +1,7 @@
+---
+title: "Introducción a la interfaz de Docker Desktop"
+permalink: /cursos/docker2024/contenido/modulo8/01_introduccion.html
+---
 # Introducción a la interfaz de Docker Desktop
 
 Cuando abrimos la aplicación Docker Desktop, tenemos a nuestra disposición una aplicación gráfica llamada Docker Dashboard:

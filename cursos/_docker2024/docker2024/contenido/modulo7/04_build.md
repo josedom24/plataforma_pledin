@@ -1,3 +1,7 @@
+---
+title: "Creación de imágenes a partir de un Dockerfile"
+permalink: /cursos/docker2024/contenido/modulo7/04_build.html
+---
 # Creación de imágenes a partir de un Dockerfile
 
 Veamos como podemos automatizar la creación de imágenes Docker, usando un fichero `Dockerfile` y el comando `docker build`. Puedes encontrar los ficheros necesarios en el [Repositorio con el código de los ejemplos](https://github.com/josedom24/ejemplos_curso_docker_ow).

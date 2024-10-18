@@ -1,3 +1,7 @@
+---
+title: "Ejemplo 4: Despliegue de Apache Tomcat + nginx "
+permalink: /cursos/docker2024/contenido/modulo6/09_ejemplo4.html
+---
 # Ejemplo 4: Despliegue de Apache Tomcat + nginx 
 
 En este ejemplo vamos a desplegar con Docker Compose la aplicación Java con Tomcat y nginx como proxy inverso que vimos en un módulo anterior.
