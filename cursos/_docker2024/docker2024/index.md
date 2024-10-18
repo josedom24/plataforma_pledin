@@ -12,7 +12,7 @@ Docker permite gestionar contenedores a alto nivel, proporcionando todas las cap
 
 En este curso se va a introducir el concepto de la puesta en producción de aplicaciones web usando contenedores Docker.
 
-Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/docker-introduccion/) en mayo de 2023.
+Los siguientes contenidos forman parte de un curso que he impartido para [OpenWebinars](https://openwebinars.net/cursos/docker-introduccion/) en mayo de 2024.
 
 Puedes obtener todo el contenido del curso en el repositorio [GitHub](https://github.com/josedom24/curso_docker_ow). Puedes acceder al [Repositorio con los ficheros de los ejercicios](https://github.com/josedom24/ejemplos_curso_docker_ow).
 
