@@ -2,7 +2,6 @@
 title: "Ejemplo 1: Construcción de imágenes con una página estática"
 permalink: /cursos/docker2024/contenido/modulo7/06_ejemplo1.html
 ---
-# Ejemplo 1: Construcción de imágenes con una página estática
 
 En este ejemplo vamos a crear una imagen Docker que tenga un servidor web que nos sirva una página web estática.
 Puedes encontrar los ficheros necesarios en el [Repositorio con el código de los ejemplos](https://github.com/josedom24/ejemplos_curso_docker_ow).
@@ -19,7 +18,6 @@ Dockerfile  public_html
 En este caso vamos a usar una imagen base de un sistema operativo sin ningún servicio. El fichero `Dockerfile` será el siguiente:
 
 ```Dockerfile
-# syntax=docker/dockerfile:1
 FROM debian:stable-slim
 RUN apt-get update && apt-get install -y apache2 && apt-get clean && rm -rf /var/lib/apt/lists/*
 WORKDIR /var/www/html/
@@ -78,7 +76,6 @@ Y acceder con el navegador a nuestra página:
 En este caso el fichero `Dockerfile` sería el siguiente:
 
 ```Dockerfile
-# syntax=docker/dockerfile:1
 FROM httpd:2.4
 COPY public_html /usr/local/apache2/htdocs/
 EXPOSE 80
@@ -100,7 +97,6 @@ $ docker run -d -p 80:80 --name ejemplo1 josedom24/ejemplo1:v2
 En este caso el fichero `Dockerfile` sería:
 
 ```Dockerfile
-# syntax=docker/dockerfile:1
 FROM nginx:1.24
 COPY public_html /usr/share/nginx/html
 EXPOSE 80

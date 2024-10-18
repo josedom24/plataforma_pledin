@@ -2,7 +2,6 @@
 title: "El fichero compose.yaml"
 permalink: /cursos/docker2024/contenido/modulo6/02_docker_compose.html
 ---
-# El fichero compose.yaml
 
 En el fichero `compose.yaml` vamos a definir un escenario multicontenedor usando el formato YAML. **La instrucción `docker compose` se debe ejecutar en el directorio donde se encuentra ese fichero**. Por lo tanto tenderemos un directorio con un fichero `compose.yaml` para cada una de las aplicaciones que queremos desplegar. 
 

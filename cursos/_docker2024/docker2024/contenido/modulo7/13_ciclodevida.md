@@ -2,7 +2,6 @@
 title: "Ciclo de vida de nuestras aplicaciones con Docker"
 permalink: /cursos/docker2024/contenido/modulo7/13_ciclodevida.html
 ---
-# Ciclo de vida de nuestras aplicaciones con Docker
 
 **El ciclo de vida de una aplicación Docker** tendría los siguientes pasos:
 
@@ -26,7 +25,6 @@ Para realizar este ejercicio he hecho un fork del repositorio en mi cuenta de Gi
 Vamos a crear una imagen Docker a partir de un fichero `Dockerfile`:
 
 ```Dockerfile
-# syntax=docker/dockerfile:1
 FROM nginx
 WORKDIR /usr/share/nginx/html/
 ADD https://github.com/josedom24/2048.git .

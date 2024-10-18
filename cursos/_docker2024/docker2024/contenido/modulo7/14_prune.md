@@ -2,7 +2,6 @@
 title: "Eliminar objetos Docker no utilizados"
 permalink: /cursos/docker2024/contenido/modulo7/14_prune.html
 ---
-# Eliminar objetos Docker no utilizados
 
 ## Eliminar imágenes huérfanas
 

@@ -2,7 +2,6 @@
 title: "Creación de imágenes a partir de un contenedor"
 permalink: /cursos/docker2024/contenido/modulo7/02_contenedor.html
 ---
-# Creación de imágenes a partir de un contenedor
 
 La primera forma para crear nuevas imágenes Docker es partiendo de un contenedor que hayamos modificado. Veamos un ejemplo:
 

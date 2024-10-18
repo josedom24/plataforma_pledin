@@ -2,7 +2,6 @@
 title: "Ejemplo 4: Despliegue de Apache Tomcat + nginx"
 permalink: /cursos/docker2024/contenido/modulo5/09_ejemplo4.html
 ---
-# Ejemplo 4: Despliegue de Apache Tomcat + nginx
 
 En este ejemplo vamos a desplegar una aplicación muy sencilla escrita en Java en un servidor de aplicación Tomcat, a la que accederemos utilizando un proxy inverso nginx. En este ejercicio, además de seguir trabajando con las redes de tipo bridge definidas por el usuario, vamos a usar bind mount para montar los ficheros de configuración y de despliegue en los contenedores.
 

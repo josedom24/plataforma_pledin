@@ -2,7 +2,6 @@
 title: "Gestión de contenedores Docker"
 permalink: /cursos/docker2024/contenido/modulo2/05_gestion.html
 ---
-# Gestión de contenedores Docker
 
 ## Ciclo de vida de los contenedores
 

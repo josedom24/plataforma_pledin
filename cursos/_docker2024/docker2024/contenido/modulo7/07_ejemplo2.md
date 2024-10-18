@@ -2,7 +2,6 @@
 title: "Ejemplo 2: Construcción de imágenes con una una aplicación PHP"
 permalink: /cursos/docker2024/contenido/modulo7/07_ejemplo2.html
 ---
-# Ejemplo 2: Construcción de imágenes con una una aplicación PHP
 
 En este ejemplo vamos a crear una imagen Docker con una página desarrollada con PHP. 
 Puedes encontrar los ficheros necesarios en el [Repositorio con el código de los ejemplos](https://github.com/josedom24/ejemplos_curso_docker_ow).
@@ -14,7 +13,6 @@ En el contexto vamos a tener el fichero `Dockerfile` y un directorio, llamado `a
 En este caso vamos a usar una imagen base de un sistema operativo sin ningún servicio. El fichero `Dockerfile` será el siguiente:
 
 ```Dockerfile
-# syntax=docker/dockerfile:1
 FROM debian:stable-slim
 RUN apt-get update && apt-get install -y apache2 libapache2-mod-php php && apt-get clean && rm -rf /var/lib/apt/lists/*
 COPY app /var/www/html/
@@ -62,7 +60,6 @@ La aplicación tiene un fichero `info.php` que me da información sobre PHP, en 
 En este caso el fichero `Dockerfile` sería el siguiente:
 
 ```Dockerfile
-# syntax=docker/dockerfile:1
 FROM php:7.4-apache
 COPY app /var/www/html/
 EXPOSE 80

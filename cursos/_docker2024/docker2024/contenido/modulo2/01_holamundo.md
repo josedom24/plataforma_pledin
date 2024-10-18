@@ -2,7 +2,6 @@
 title: "El "Hola Mundo" de docker"
 permalink: /cursos/docker2024/contenido/modulo2/01_holamundo.html
 ---
-# El "Hola Mundo" de docker
 
 Vamos a crear nuestro primer contenedor, para comprobar que todo está funcionando y vamos a explicar el proceso que se va a realizar en la creación del contenedor.  
 

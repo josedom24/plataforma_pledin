@@ -2,7 +2,6 @@
 title: "Uso de ficheros Dockerfile parametrizados"
 permalink: /cursos/docker2024/contenido/modulo7/12_variables.html
 ---
-# Uso de ficheros Dockerfile parametrizados
 
 El uso de parámetros en la creación de ficheros `Dockerfile` es una buena forma de añadir flexibilidad a tus construcciones de imágenes Docker. El valor de estos parámetros se pueden pasar a la hora de construir la imagen con el comando `docker build` o indicados valores predeterminados si no se especifican en el momento de la construcción.
 
@@ -11,7 +10,6 @@ Puedes encontrar los ficheros necesarios en el [Repositorio con el código de lo
 Veamos un ejemplo:
 
 ```Dockerfile
-# syntax=docker/dockerfile:1
 ARG PHP_VERSION=8.2-apache
 FROM php:${PHP_VERSION}
 ARG APP_VERSION=desarrollo

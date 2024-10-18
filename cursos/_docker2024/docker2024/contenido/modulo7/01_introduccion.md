@@ -2,7 +2,6 @@
 title: "Introducción a la construcción y distribución de imágenes Docker"
 permalink: /cursos/docker2024/contenido/modulo7/01_introduccion.html
 ---
-# Introducción a la construcción y distribución de imágenes Docker
 
 ## Construcción de imágenes Docker
 

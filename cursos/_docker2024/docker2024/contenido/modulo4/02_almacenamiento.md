@@ -2,7 +2,6 @@
 title: "Almacenamiento en Docker"
 permalink: /cursos/docker2024/contenido/modulo4/02_almacenamiento.html
 ---
-# Almacenamiento en Docker
 
 ![docker](img/almacenamiento.png)
 

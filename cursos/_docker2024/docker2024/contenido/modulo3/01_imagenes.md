@@ -2,7 +2,6 @@
 title: "Imágenes Docker"
 permalink: /cursos/docker2024/contenido/modulo3/01_imagenes.html
 ---
-# Imágenes Docker
 
 ## ¿Qué es una imagen Docker?
 

@@ -2,7 +2,6 @@
 title: "Ejemplo: Desplegando la aplicación MediaWiki"
 permalink: /cursos/docker2024/contenido/modulo3/06_mediawiki.html
 ---
-# Ejemplo: Desplegando la aplicación MediaWiki
 
 [**MediaWiki**](https://www.mediawiki.org/wiki/MediaWiki/es) es una aplicación web escrita en PHP que nos permite elaborar una wiki. En este ejemplo vamos a crear contenedores usando la imagen [`mediawiki`](https://hub.docker.com/_/mediawiki) que encontramos en Docker Hub. 
 

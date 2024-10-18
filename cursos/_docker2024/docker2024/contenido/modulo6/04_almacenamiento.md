@@ -2,7 +2,6 @@
 title: "Almacenamiento con Docker Compose"
 permalink: /cursos/docker2024/contenido/modulo6/04_almacenamiento.html
 ---
-# Almacenamiento con Docker Compose
 
 ## Definiendo volúmenes Docker con Docker Compose
 

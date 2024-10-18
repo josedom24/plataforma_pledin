@@ -2,7 +2,6 @@
 title: "Uso de la red host en Docker"
 permalink: /cursos/docker2024/contenido/modulo5/02_host.html
 ---
-# Uso de la red host en Docker
 
 Si utilizamos el tipo de red **host** en un contenedor, la pila de red de ese contenedor no está aislada del Host Docker (el contenedor comparte el espacio de nombres de red del Host Docker), y el contenedor no tiene asignada su propia dirección IP. Por ejemplo, si ejecutas un contenedor que ofrece su servicio en al puerto 80/tcp y utilizas el modo de red del host, la aplicación del contenedor estará disponible en el puerto 80/tcp de la dirección IP del Host Docker.
 

@@ -2,7 +2,6 @@
 title: "Gestión de Imágenes"
 permalink: /cursos/docker2024/contenido/modulo3/03_gestion.html
 ---
-# Gestión de Imágenes
 
 Para crear un contenedor es necesario usar una imagen que tengamos descargada en nuestro registro local. Por lo tanto al ejecutar `docker run` se comprueba si tenemos la versión indicada de la imagen y si no es así, se procede a su descarga desde **Docker Hub**.
 

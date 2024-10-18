@@ -2,7 +2,6 @@
 title: "Gestión de creación de imágenes en Docker Desktop"
 permalink: /cursos/docker2024/contenido/modulo8/04_build.html
 ---
-# Gestión de creación de imágenes en Docker Desktop
 
 ## La vista de construcción de imágenes
 

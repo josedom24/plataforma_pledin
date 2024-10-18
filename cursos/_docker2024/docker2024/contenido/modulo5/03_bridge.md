@@ -2,7 +2,6 @@
 title: "Uso de la red bridge por defecto"
 permalink: /cursos/docker2024/contenido/modulo5/03_bridge.html
 ---
-# Uso de la red bridge por defecto
 
 Hasta ahora todos los contenedores lo hemos conectado a la red **bridge** por defecto. Como ya hemos dicho las características más importantes de este tipo de red son las siguientes:
     
@@ -26,13 +25,11 @@ docker run -it -p 8080:80 --name contenedor1 alpine ash
 Accedemos al contenedor y comprobamos su configuración de red:
 
 ```bash
-# ip a
 ...
 4: eth0@if5: <BROADCAST,MULTICAST,UP,LOWER_UP,M-DOWN> mtu 1500 qdisc noqueue state UP 
     link/ether 02:42:ac:11:00:02 brd ff:ff:ff:ff:ff:ff
     inet 172.17.0.2/16 brd 172.17.255.255 scope global eth0
 
-# ip r
 default via 172.17.0.1 dev eth0
 ...
 ```
@@ -40,7 +37,6 @@ default via 172.17.0.1 dev eth0
 Hemos visto que su dirección IP está en la red `172.17.0.0/16` y la puerta de enlace es la `172.17.0.1` que corresponde a la dirección IP del Host Docker en esta red. Además podemos ver que la configuración DNS, que se guarda en el fichero `/etc/resolv.conf`, es la misma que la del Host Docker.
 
 ```bash
-# cat /etc/resolv.conf
 ```
 
 En el Host Docker podemos comprobar que se ha creado un Linux Bridge al que esta conectado el Host Docker y el contenedor, esta instrucción la podemos ejecutar en otra terminal:
@@ -61,7 +57,6 @@ $ ip a
 Podemos comprobar que el contenedor tiene acceso al exterior:
 
 ```bash
-# ping www.docker.com
 PING www.docker.com (141.193.213.21): 56 data bytes
 64 bytes from 141.193.213.21: seq=0 ttl=53 time=10.403 ms
 ```
@@ -69,8 +64,6 @@ PING www.docker.com (141.193.213.21): 56 data bytes
 Además si instalamos un servidor web podemos acceder utilizando el puerto que hemos mapeado:
 
 ```bash
-# apk add apache2
-# httpd -D foreground
 ```
 
 Desde el Host Docker podemos probar el acceso:

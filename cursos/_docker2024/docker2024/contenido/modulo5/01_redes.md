@@ -2,7 +2,6 @@
 title: "Introducción a las redes en Docker"
 permalink: /cursos/docker2024/contenido/modulo5/01_redes.html
 ---
-# Introducción a las redes en Docker
 
 Cada vez que creamos un contenedor, esté se conecta a una red virtual y Docker hace una configuración del sistema (usando puentes virtuales e iptables) para que la máquina tenga una dirección IP interna, tenga acceso al exterior, podamos mapear (DNAT) puertos,...
 Por lo tanto, los contenedores tienen la capacidad de conectarse a otros contenedores y realizar conexiones a servicios de internet. 

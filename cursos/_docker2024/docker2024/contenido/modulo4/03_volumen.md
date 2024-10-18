@@ -2,7 +2,6 @@
 title: "Asociando almacenamiento a los contenedores: volúmenes Docker"
 permalink: /cursos/docker2024/contenido/modulo4/03_volumen.html
 ---
-# Asociando almacenamiento a los contenedores: volúmenes Docker
 
 Antes de usar volúmenes Docker en contenedores para hacer persistir sus datos, vamos a estudiar como podemos gestionar los volúmenes.
 

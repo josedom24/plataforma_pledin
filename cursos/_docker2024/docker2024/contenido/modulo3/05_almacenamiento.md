@@ -2,7 +2,6 @@
 title: "Demostración: Almacenamiento de imágenes y contenedores"
 permalink: /cursos/docker2024/contenido/modulo3/05_almacenamiento.html
 ---
-# Demostración: Almacenamiento de imágenes y contenedores
 
 ## Ejemplo de almacenamiento de imágenes
 

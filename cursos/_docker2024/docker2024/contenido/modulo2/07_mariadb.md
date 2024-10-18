@@ -2,7 +2,6 @@
 title: "Ejemplo: Configuración de un contenedor con la imagen MariaDB"
 permalink: /cursos/docker2024/contenido/modulo2/07_mariadb.html
 ---
-# Ejemplo: Configuración de un contenedor con la imagen MariaDB
 
 En ocasiones es obligatorio el inicializar alguna variable de entorno para que el contenedor pueda ser ejecutado. Si miramos la [documentación](https://hub.docker.com/_/mariadb) en Docker Hub de la imagen `mariadb`, observamos que podemos definir algunas variables de entorno para la creación y configuración del contenedor (por ejemplo: `MARIADB_DATABASE`,`MARIADB_USER`, `MARIADB_PASSWORD`,...). Pero hay una que la tenemos que indicar de forma obligatoria, la contraseña del usuario `root` (`MARIADB_ROOT_PASSWORD`), por lo tanto:
 

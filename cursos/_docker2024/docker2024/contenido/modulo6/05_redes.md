@@ -2,7 +2,6 @@
 title: "Redes con Docker Compose"
 permalink: /cursos/docker2024/contenido/modulo6/05_redes.html
 ---
-# Redes con Docker Compose
 
 Como hemos indicado anteriormente, cuando creamos un escenario con Docker Compose **se crea una nueva red bridge definida por el usuario donde se conectan los contenedores**, por lo tanto, obtenemos resolución por DNS que resuelve tanto el nombre del contenedor, como el nombre del servicio.
 

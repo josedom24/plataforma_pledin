@@ -2,7 +2,6 @@
 title: "Creando escenarios multicontenedor con Docker Compose"
 permalink: /cursos/docker2024/contenido/modulo6/01_compose.html
 ---
-# Creando escenarios multicontenedor con Docker Compose
 
 Como hemos visto hasta ahora, en muchas ocasiones necesitamos correr varios contenedores para que nuestra aplicación funcione. En cualquiera de estos casos es necesario tener varios contenedores:
 

@@ -2,7 +2,6 @@
 title: "El fichero Dockerfile"
 permalink: /cursos/docker2024/contenido/modulo7/03_docker-file.html
 ---
-# El fichero Dockerfile
 
 * Podemos automatizar la creación de imágenes Docker, declarando las instrucciones para crear la nueva imagen en un fichero llamado **Dockerfile**. A partir de este fichero y usando el comando **docker build** podemos construir una nueva imagen.
 * En el fichero `Dockerfile` tenemos un conjunto de instrucciones que serán ejecutadas de forma secuencial para construir una nueva imagen Docker. 
@@ -12,7 +11,6 @@ permalink: /cursos/docker2024/contenido/modulo7/03_docker-file.html
 ## Ejemplo de Dockerfile
 
 ```Dockerfile
-# syntax=docker/dockerfile:1
 FROM debian:stable-slim
 RUN apt-get update  && apt-get install -y  apache2 
 WORKDIR /var/www/html

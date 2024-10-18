@@ -2,7 +2,6 @@
 title: "Uso de la red bridge definidas por el usuario"
 permalink: /cursos/docker2024/contenido/modulo5/05_usuario2.html
 ---
-# Uso de la red bridge definidas por el usuario
 
 En este apartado vamos a trabajar con las dos redes que hemos creado en el apartado anterior.
 En primer lugar vamos a crear dos contenedores conectados a la primera red, para ello usaremos el parámetro `--network` en el comando `docker run`:
@@ -15,7 +14,6 @@ $ docker run -it --name cliente --network red1 alpine
 Lo primero que vamos a comprobar es la resolución DNS desde el contenedor `cliente`:
 
 ```bash
-# nslookup servidorweb
 Server:		127.0.0.11
 Address:	127.0.0.11:53
 
@@ -29,14 +27,12 @@ Address: 172.18.0.2
 Tenemos un servidor DNS en la dirección IP `172.0.0.11` que nos resuelve el nombre del primer contenedor con su dirección IP. Podemos comprobar que ese servidor DNS es el que tiene configurado el contenedor:
 
 ```bash
-# cat /etc/resolv.conf 
 nameserver 127.0.0.11
 ```
 
 Y por lo tanto podemos realizar conexiones usando el nombre de los contenedores:
 
 ```bash
-# ping servidorweb
 PING servidorweb (172.18.0.2): 56 data bytes
 64 bytes from 172.18.0.2: seq=0 ttl=64 time=0.399 ms
 ...
@@ -54,16 +50,13 @@ Comprobamos su dirección IP y su puerta de enlace, e intentamos acceder a uno d
 
 
 ```bash
-# ip a
 23: eth0@if24: <BROADCAST,MULTICAST,UP,LOWER_UP,M-DOWN> mtu 1500 qdisc noqueue state UP 
     inet 192.168.0.1/24 brd 192.168.0.255 scope global eth0
 ...
 
-# ip r
 default via 192.168.0.100 dev eth0 
 ...
 
-# ping servidorweb
 ping: bad address 'servidorweb'
 ```
 
@@ -78,7 +71,6 @@ $ docker attach cliente2
 Comprobamos que se ha creado una nueva interfaz de red con el direccionamiento de la red `red1`:
 
 ```bash
-# ip a
 25: eth0@if26: <BROADCAST,MULTICAST,UP,LOWER_UP,M-DOWN> mtu 1500 qdisc noqueue state UP 
     inet 192.168.0.1/24 brd 192.168.0.255 scope global eth0
 ...    
@@ -90,7 +82,6 @@ Comprobamos que se ha creado una nueva interfaz de red con el direccionamiento d
 Ahora podemos comprobar si tenemos conectividad con el contenedor `servidorweb`:
 
 ```bash
-# ping servidorweb
 PING servidorweb (172.18.0.2): 56 data bytes
 64 bytes from 172.18.0.2: seq=0 ttl=64 time=0.238 ms
 ...

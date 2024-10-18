@@ -2,7 +2,6 @@
 title: "Etiquetando los contenedores con Labels"
 permalink: /cursos/docker2024/contenido/modulo2/08_labels.html
 ---
-# Etiquetando los contenedores con Labels
 
 Las etiquetas son un mecanismo para guardar metadatos en los objetos Docker: en contenedores, imágenes, volúmenes, redes, etc. Podemos utilizar etiquetas para organizar los distintos objetos Docker que estemos utilizando.
 

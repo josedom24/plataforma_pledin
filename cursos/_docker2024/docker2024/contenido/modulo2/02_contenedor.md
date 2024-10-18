@@ -2,7 +2,6 @@
 title: "Ejecución simple de contenedores"
 permalink: /cursos/docker2024/contenido/modulo2/02_contenedor.html
 ---
-# Ejecución simple de contenedores
 
 En este apartado vamos a crear un contenedor especificando el comando que debe ejecutar a partir de la imagen `ubuntu`.
 En este caso vamos a descargar primero la imagen del registro público Docker Hub, y a continuación crearemos el contenedor.

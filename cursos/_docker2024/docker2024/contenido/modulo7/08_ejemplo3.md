@@ -2,7 +2,6 @@
 title: "Ejemplo 3: Construcción de imágenes con una una aplicación Python"
 permalink: /cursos/docker2024/contenido/modulo7/08_ejemplo3.html
 ---
-# Ejemplo 3: Construcción de imágenes con una una aplicación Python
 
 En este ejemplo vamos a construir una imagen Docker para servir una aplicación escrita en Python utilizando el framework Flask. La aplicación será servida en el puerto 3000/tcp. 
 
@@ -13,7 +12,6 @@ En el contexto vamos a tener el fichero `Dockerfile` y un directorio, llamado `a
 En este caso vamos a usar una imagen base de un sistema operativo sin ningún servicio. El fichero `Dockerfile` será el siguiente:
 
 ```Dockerfile
-# syntax=docker/dockerfile:1
 FROM debian:12
 RUN apt-get update && apt-get install -y python3-pip  && apt-get clean && rm -rf /var/lib/apt/lists/*
 WORKDIR /usr/share/app
@@ -60,7 +58,6 @@ Y acceder con el navegador a nuestra página:
 En este caso el fichero `Dockerfile` podría tener este contenido:
 
 ```Dockerfile
-# syntax=docker/dockerfile:1
 FROM python:3.12.1-bookworm
 WORKDIR /usr/share/app
 COPY app .

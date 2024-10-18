@@ -2,7 +2,6 @@
 title: "Creación de imágenes con Docker Compose"
 permalink: /cursos/docker2024/contenido/modulo7/11_compose_build.html
 ---
-# Creación de imágenes con Docker Compose
 
 En este ejemplo vamos a ver la configuración de Docker Compose para construir la imagen que va a utilizar en la creación del servicio. En este caso no se indica la imagen, se indica el directorio de contexto donde encontramos el fichero `Dockerfile` para la construcción de la imagen.
 
@@ -50,7 +49,6 @@ redis
 El fichero `Dockerfile` que vamos a usar para la construcción de la imagen tiene el siguiente contenido:
 
 ```Dockerfile
-# syntax=docker/dockerfile:1
 FROM python:3.10-alpine
 WORKDIR /code
 ENV FLASK_APP=app.py

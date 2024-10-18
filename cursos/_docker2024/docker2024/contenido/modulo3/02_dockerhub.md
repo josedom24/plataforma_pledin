@@ -2,7 +2,6 @@
 title: "Registro de imágenes: Docker Hub"
 permalink: /cursos/docker2024/contenido/modulo3/02_dockerhub.html
 ---
-# Registro de imágenes: Docker Hub
 
 ## Docker Hub
 

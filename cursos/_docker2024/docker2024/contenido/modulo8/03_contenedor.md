@@ -2,7 +2,6 @@
 title: "Gestión de contenedores en Docker Desktop"
 permalink: /cursos/docker2024/contenido/modulo8/03_contenedor.html
 ---
-# Gestión de contenedores en Docker Desktop
 
 ## Ejecución de contenedores
 
