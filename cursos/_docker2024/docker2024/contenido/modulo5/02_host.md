@@ -31,7 +31,7 @@ d1764a33c096   nginx     "/docker-entrypoint.…"   About a minute ago   Up Abou
 Podemos comprobar que no tiene asignada ninguna dirección IP:
 
 ```bash
-$ docker inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' my_nginx
+$ docker inspect --format='{ % raw %}{{range .NetworkSettings.Networks}}{ % endraw %}{ % raw %}{{.IPAddress}}{ % endraw %}{ % raw %}{{end}}{ % endraw %}' my_nginx
 ```
 
 Y en el Host Docker podemos comprobar quien está escuchando en el puerto 80/tcp:

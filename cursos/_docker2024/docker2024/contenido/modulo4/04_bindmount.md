@@ -22,7 +22,7 @@ $ docker run -d --name my-apache-app -v /home/usuario/web:/usr/local/apache2/htd
 Podemos comprobar en la información del contenedor los puntos de montaje que tiene configurado:
 
 ```bash
-$ docker inspect --format='{{json .Mounts}}' my-apache-app 
+$ docker inspect --format='{ % raw %}{{json .Mounts}}{ % endraw %}' my-apache-app 
 [{"Type":"bind","Source":"/home/usuario/web","Destination":"/usr/local/apache2/htdocs","Mode":"","RW":true,"Propagation":"rprivate"}]
 ```
 

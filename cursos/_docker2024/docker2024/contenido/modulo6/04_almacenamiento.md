@@ -52,7 +52,7 @@ local     mariadb_mariadb_data
 En la definición del servicio `db` hemos indicado que el contenedor montará el volumen en un directorio determinado con el parámetro `volumes`. Podemos comprobar que efectivamente se ha realizado el montaje:
 
 ```bash
-$ docker inspect -f '{{json .Mounts}}' contenedor_mariadb
+$ docker inspect -f '{ % raw %}{{json .Mounts}}{ % endraw %}' contenedor_mariadb
 [{"Type":"volume","Name":"mariadb_mariadb_data","Source":"/var/lib/docker/volumes/mariadb_mariadb_data/_data","Destination":"/var/lib/mysql","Driver":"local","Mode":"z","RW":true,"Propagation":""}]
 ```
 

@@ -51,29 +51,29 @@ La información más destacable que podemos ver:
 Podemos usar filtros, como en el caso de los contenedores. Por ejemplo, para mostrar el identificador de la imagen, ejecutamos
 
 ```bash
-$ docker inspect --format='{{.Id}}' nginx:stable
+$ docker inspect --format='{ % raw %}{{.Id}}{ % endraw %}' nginx:stable
 ```
 
 Consultar los puertos que expone el contenedor que creemos a a partir de esta imagen:
 
 ```bash
-$ docker inspect --format='{{range $port,$key := .Config.ExposedPorts}}{{$port}}{{end}}' nginx:stable
+$ docker inspect --format='{ % raw %}{{range $port,$key := .Config.ExposedPorts}}{ % endraw %}{ % raw %}{{$port}}{ % endraw %}{ % raw %}{{end}}{ % endraw %}' nginx:stable
 ```
 
 Consultar el sistema operativo y la arquitectura:
 
 ```bash
-$ docker inspect --format='{{.Os}} {{.Architecture}}' nginx:stable
+$ docker inspect --format='{ % raw %}{{.Os}}{ % endraw %} { % raw %}{{.Architecture}}{ % endraw %}' nginx:stable
 ```
 
 Consultar las variables de entorno definidas en la imagen:
 
 ```bash
-$ docker inspect --format='{{range .Config.Env}}{{println .}}{{end}}' nginx:stable
+$ docker inspect --format='{ % raw %}{{range .Config.Env}}{ % endraw %}{ % raw %}{{println .}}{ % endraw %}{ % raw %}{{end}}{ % endraw %}' nginx:stable
 ```
 
 Y por último, para consultar los identificadores de las capas que forman la imagen:
 
 ```bash
-$ docker inspect --format='{{range .RootFS.Layers}}{{println .}}{{end}}' nginx:stable
+$ docker inspect --format='{ % raw %}{{range .RootFS.Layers}}{ % endraw %}{ % raw %}{{println .}}{ % endraw %}{ % raw %}{{end}}{ % endraw %}' nginx:stable
 ```

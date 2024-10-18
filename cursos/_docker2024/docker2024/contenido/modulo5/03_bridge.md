@@ -115,7 +115,7 @@ Evidentemente los contenedores conectados a la red pode defecto podrán comunica
 En primer lugar vamos a averiguar que dirección IP ha tomado el `contenedor2`:
 
 ```bash
-$ docker inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' contenedor2
+$ docker inspect --format='{ % raw %}{{range .NetworkSettings.Networks}}{ % endraw %}{ % raw %}{{.IPAddress}}{ % endraw %}{ % raw %}{{end}}{ % endraw %}' contenedor2
 172.17.0.3
 ```
 

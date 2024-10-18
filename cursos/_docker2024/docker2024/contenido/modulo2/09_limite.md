@@ -24,7 +24,7 @@ Podríamos indicar que utilice medio núcleo (`--cpus=0.5`), o usar 2 núcleos (
 Cuando inspeccionas un contenedor Docker con el comando `docker inspect`, puedes utilizar el campo `NanoCpus` para ver la cantidad de CPU asignada al contenedor en unidades de *nanocpus*. Un *nanocpu* es una unidad de medida que representa la fracción de tiempo de CPU.
 
 ```bash
-$ docker inspect --format '{{.HostConfig.NanoCpus}}' servidor_web
+$ docker inspect --format '{ % raw %}{{.HostConfig.NanoCpus}}{ % endraw %}' servidor_web
 ```
 
 Este comando mostrará la cantidad de CPU asignada al contenedor en unidades de *nanocpus*. Ten en cuenta que la interpretación de estos valores puede no ser intuitiva, pero representan la capacidad de procesamiento relativa asignada al contenedor en comparación con la capacidad total del sistema.
@@ -32,7 +32,7 @@ Este comando mostrará la cantidad de CPU asignada al contenedor en unidades de 
 Si deseas obtener información más legible, puedes convertir los *nanocpus* a CPUs utilizando los siguientes comandos:
 
 ```bash
-nano_cpus=$(docker inspect --format '{{.HostConfig.NanoCpus}}' servidor_web)
+nano_cpus=$(docker inspect --format '{ % raw %}{{.HostConfig.NanoCpus}}{ % endraw %}' servidor_web)
 cpus=$(echo "scale=2; $nano_cpus / 1000000000" | bc)
 echo "CPUs asignadas al contenedor: $cpus"
 ```
@@ -60,13 +60,13 @@ fd2ee83e755a   servidor_web   0.01%     6MiB / 512MiB       1.17%     4.25kB / 0
 También podemos usar `docker inspect` para ver el límite de memoria que hemos configurado en un contenedor:
 
 ```bash
-$ docker inspect --format '{{.HostConfig.Memory}}' servidor_web
+$ docker inspect --format '{ % raw %}{{.HostConfig.Memory}}{ % endraw %}' servidor_web
 ```
 
 Este comando te dará el límite de memoria en bytes. Si deseas convertirlo a un formato más legible, puedes hacerlo utilizando las siguientes instrucciones en bash:
 
 ```bash
-memory_limit=$(docker inspect --format '{{.HostConfig.Memory}}' servidor_web)
+memory_limit=$(docker inspect --format '{ % raw %}{{.HostConfig.Memory}}{ % endraw %}' servidor_web)
 memory_limit_mb=$(echo "scale=2; $memory_limit / 1048576" | bc)
 echo "Límite de memoria asignado al contenedor: $memory_limit_mb MB"
 ```
