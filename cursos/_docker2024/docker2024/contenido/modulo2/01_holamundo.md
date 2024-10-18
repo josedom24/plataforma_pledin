@@ -1,5 +1,5 @@
 ---
-title: "El "Hola Mundo" de docker"
+title: "El \"Hola Mundo\" de docker"
 permalink: /cursos/docker2024/contenido/modulo2/01_holamundo.html
 ---
 
