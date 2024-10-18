@@ -1,6 +1,6 @@
 ---
 title: "Extensiones en Docker Desktop"
-permalink: /cursos/docker2024/contenido/modulo8/05_extensiones.html
+permalink: /cursos/docker2024/contenido/modulo8/06_extensiones.html
 ---
 
 Las extensiones nos permiten añadir nuevas funcionalidades a Docker Desktop. Al acceder a la vista de extensiones podemos [buscar en un repositorio](https://hub.docker.com/search?q=&type=extension) las distintas extensiones que distintas empresas han desarrollado y la podemos instalar. Veamos algunos ejemplos de extensiones:
