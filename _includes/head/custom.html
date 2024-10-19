@@ -12,6 +12,13 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
-
+ <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const activeElement = document.querySelector('li[active]');
+      if (activeElement) {
+        activeElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    });
+  </script>
 
 <!-- end custom head snippets 2 -->
