@@ -1,6 +1,6 @@
 ---
 title: "Gestión de creación de imágenes en Docker Desktop"
-permalink: /cursos/docker2024/contenido/modulo8/04_build.html
+permalink: /cursos/docker2024/contenido/modulo8/05_build.html
 ---
 
 ## La vista de construcción de imágenes

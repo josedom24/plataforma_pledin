@@ -1,6 +1,6 @@
 ---
 title: "Gestión de volúmenes en Docker Desktop"
-permalink: /cursos/docker2024/contenido/modulo8/03_volumen.html
+permalink: /cursos/docker2024/contenido/modulo8/04_volumen.html
 ---
 
 ## Listado de volúmenes
