@@ -29,7 +29,7 @@ CONTAINER ID  IMAGE                           COMMAND               CREATED     
 Podemos comprobar que no tiene asignada ninguna dirección IP:
 
 ```
-$ sudo podman inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' my_nginx
+$ sudo podman inspect --format='{% raw %}{{range .NetworkSettings.Networks}}{% endraw %}{% raw %}{{.IPAddress}}{% endraw %}{% raw %}{{end}}{% endraw %}' my_nginx
 ```
 
 Y en el host podemos comprobar quien está escuchando en el puerto 80/tcp:

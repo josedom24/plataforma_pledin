@@ -103,7 +103,7 @@ $ podman run -d -p 8081:80 --network=podman --name contenedor2 docker.io/nginx
 Y podemos averiguar la dirección IP que ha tomado este contenedor:
 
 ```
-$ podman inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' contenedor2
+$ podman inspect --format='{% raw %}{{range .NetworkSettings.Networks}}{% endraw %}{% raw %}{{.IPAddress}}{% endraw %}{% raw %}{{end}}{% endraw %}' contenedor2
 10.88.0.56
 ```
 
@@ -116,7 +116,7 @@ Iniciamos el `contenedor1` y obtenemos su dirección IP:
 ```
 $ sudo podman start contenedor1
 contenedor1
-$ sudo podman inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' contenedor1
+$ sudo podman inspect --format='{% raw %}{{range .NetworkSettings.Networks}}{% endraw %}{% raw %}{{.IPAddress}}{% endraw %}{% raw %}{{end}}{% endraw %}' contenedor1
 10.88.0.10
 ```
 

@@ -74,7 +74,7 @@ $ podman ps
 CONTAINER ID  IMAGE                           COMMAND               CREATED         STATUS         PORTS                 NAMES
 bb535bd81493  docker.io/library/mariadb:10.5  mysqld                16 minutes ago  Up 16 minutes                        contenedor_mariadb
 
-$ podman inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' contenedor_mariadb
+$ podman inspect --format='{% raw %}{{range .NetworkSettings.Networks}}{% endraw %}{% raw %}{{.IPAddress}}{% endraw %}{% raw %}{{end}}{% endraw %}' contenedor_mariadb
 192.168.100.2
 
 $ podman exec -it contenedor_mariadb bash -c "mariadb -u root -p -h 127.0.0.1"

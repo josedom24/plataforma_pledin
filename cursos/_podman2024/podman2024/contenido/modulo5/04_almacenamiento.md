@@ -37,10 +37,10 @@ $ podman run --pod pod5 -d --name sidecar docker.io/debian bash -c "while true; 
 Podemos comprobar que los dos contenedores tienen el volumen montado en el directorio indicado:
 
 ```
-$ podman inspect --format='{{json .Mounts}}' web
+$ podman inspect --format='{% raw %}{{json .Mounts}}{% endraw %}' web
 [{"Type":"volume","Name":"vol1","Source":"/var/lib/containers/storage/volumes/vol1/_data","Destination":"/usr/share/nginx/html","Driver":"local","Mode":"","Options":["nosuid","nodev","rbind"],"RW":true,"Propagation":"rprivate"}]
 
-$ podman inspect --format='{{json .Mounts}}' sidecar
+$ podman inspect --format='{% raw %}{{json .Mounts}}{% endraw %}' sidecar
 [{"Type":"volume","Name":"vol1","Source":"/var/lib/containers/storage/volumes/vol1/_data","Destination":"/usr/share/nginx/html","Driver":"local","Mode":"","Options":["nosuid","nodev","rbind"],"RW":true,"Propagation":"rprivate"}]
 ```
 

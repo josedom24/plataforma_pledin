@@ -88,7 +88,7 @@ local       almacenamiento_redes_volumen1
 Podemos ver los puntos de montajes que hemos creado:
 
 ```
-$ podman inspect -f '{{json .Mounts}}' contenedor1
+$ podman inspect -f '{% raw %}{{json .Mounts}}{% endraw %}' contenedor1
 [{"Type":"volume","Name":"redes_volumen1","Source":"/var/lib/containers/storage/volumes/almacenamiento_redes_volumen1/_data","Destination":"/data/volumen","Driver":"local","Mode":"","Options":["nosuid","nodev","rbind"],"RW":true,"Propagation":"rprivate"},{"Type":"bind","Source":"/home/usuario/compose/redes/.data","Destination":"/data/directorio","Driver":"","Mode":"","Options":["rbind"],"RW":true,"Propagation":"rprivate"}]
 ```
 
