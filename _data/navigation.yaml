@@ -32,173 +32,170 @@ podman2024:
             url: /cursos/podman2024/contenido/modulo1/04_linux.html
           - title: "Instalación de Podman en Windows/macOS"
             url: /cursos/podman2024/contenido/modulo1/05_windows.html
-      - title: "Ejecución de contenedores OCI con Podman"
-        children:
-          - title: "El \"Hola Mundo\" en Podman"
-            url: /cursos/podman2024/contenido/modulo2/01_holamundo.html
-          - title: "Ejecución simple de contenedores"
-            url: /cursos/podman2024/contenido/modulo2/02_contenedor.html
-          - title: "Ejecución de contenedores interactivos"
-            url: /cursos/podman2024/contenido/modulo2/03_interactivo.html
-          - title: "Ejecución de contenedores demonios"
-            url: /cursos/podman2024/contenido/modulo2/04_demonio.html
-          - title: "Ejecución de un contenedor demonio con un servidor web"
-            url: /cursos/podman2024/contenido/modulo2/05_web.html
-          - title: "Obteniendo información de los contenedores"
-            url: /cursos/podman2024/contenido/modulo2/06_informacion.html
-          - title: "Configuración de contenedores"
-            url: /cursos/podman2024/contenido/modulo2/07_configuracion.html    
-          - title: "Ejecución de un contenedor con un servidor de base de datos"
-            url: /cursos/podman2024/contenido/modulo2/08_mariadb.html    
-          - title: "Modos de funcionamiento de los contenedores"
-            url: /cursos/podman2024/contenido/modulo2/09_funcionamiento.html
-          - title: "¿Cómo funcionan los contenedores rootless?"
-            url: /cursos/podman2024/contenido/modulo2/10_rootless.html
-      - title: "Gestión de imágenes OCI en Podman"
-        children:
-          - title: "Introducción a las imágenes OCI"
-            url: /cursos/podman2024/contenido/modulo3/01_imagenes.html
-          - title: "Introducción al formato de imagen OCI"
-            url: /cursos/podman2024/contenido/modulo3/02_formato.html
-          - title: "Almacenamiento de imágenes"
-            url: /cursos/podman2024/contenido/modulo3/03_almacen_img.html
-          - title: "Ahorro de espacio de almacenamiento"
-            url: /cursos/podman2024/contenido/modulo3/04_ahorro_almacenamiento.html
-          - title: "Almacenamiento de contenedores"
-            url: /cursos/podman2024/contenido/modulo3/05_almacen_cont.html
-          - title: "Almacenamiento de contenedores rootless"
-            url: /cursos/podman2024/contenido/modulo3/06_rootless.html
-          - title: "Gestión de imágenes"
-            url: /cursos/podman2024/contenido/modulo3/07_gestion.html
-          - title: "Obteniendo información de las imágenes"
-            url: /cursos/podman2024/contenido/modulo3/08_informacion.html
-          - title: "Ejemplo: Desplegando la aplicación Drupal"
-            url: /cursos/podman2024/contenido/modulo3/09_drupal.html
-      - title: "Almacenamiento y redes en Podman"
-        children:
-          - title: "Almacenamiento en Podman"
-            url: /cursos/podman2024/contenido/modulo4/01_almacenamiento.html
-          - title: "Trabajando con volúmenes"
-            url: /cursos/podman2024/contenido/modulo4/02_volumen.html
-          - title: "Trabajando con bind mount"
-            url: /cursos/podman2024/contenido/modulo4/03_bindmount.html
-          - title: "Trabajando con almacenamiento en contenedores rootless"
-            url: /cursos/podman2024/contenido/modulo4/04_almacenamiento_rootless.html
-          - title: "Redes en Podman"
-            url: /cursos/podman2024/contenido/modulo4/05_redes.html
-          - title: "Uso de la red bridge por defecto"
-            url: /cursos/podman2024/contenido/modulo4/06_bridge.html
-          - title: "Gestión de redes definidas por el usuario"
-            url: /cursos/podman2024/contenido/modulo4/07_usuario.html
-          - title: "Uso de la red bridge definidas por el usuario"
-            url: /cursos/podman2024/contenido/modulo4/08_usuario2.html
-          - title: "Uso de la red host en Podman"
-            url: /cursos/podman2024/contenido/modulo4/09_host.html
-          - title: "Redes en contenedores rootless"
-            url: /cursos/podman2024/contenido/modulo4/10_red_rootless.html
-          - title: "Despliegue de la aplicación Guestbook"
-            url: /cursos/podman2024/contenido/modulo4/11_guestbook.html
-          - title: "Despliegue de la aplicación Temperaturas"
-            url: /cursos/podman2024/contenido/modulo4/12_temperaturas.html
-      - title: "Gestión de Pods en Podman"
-        children:
-          - title: "Trabajando con Pods en Podman"
-            url: /cursos/podman2024/contenido/modulo5/01_pod.html
-          - title: "Gestión de Pods"
-            url: /cursos/podman2024/contenido/modulo5/02_gestion.html
-          - title: "Funcionamiento de la red en un Pod"
-            url: /cursos/podman2024/contenido/modulo5/03_red.html
-          - title: "Almacenamiento compartido entre los contenedores de un Pod"
-            url: /cursos/podman2024/contenido/modulo5/04_almacenamiento.html
-          - title: "Ejemplo: Despliegue de WordPress + MariaDB en un Pod"
-            url: /cursos/podman2024/contenido/modulo5/05_wordpress.html
-          - title: "Ejemplo: Despliegue de WordPress + MariaDB en un escenario multipod"
-            url: /cursos/podman2024/contenido/modulo5/06_wordpress2.html
-          - title: "Ejemplo: nginx + fpm-php"
-            url: /cursos/podman2024/contenido/modulo5/07_nginx.html
-          - title: "Generación de un archivo YAML de Kubernetes con Podman"
-            url: /cursos/podman2024/contenido/modulo5/08_kubernetes.html
-          - title: "Ejecutando recursos de Kubernetes en Podman"
-            url: /cursos/podman2024/contenido/modulo5/09_kubernetes2.html
-      - title: "Gestionando recursos de Podman con Systemd y Quadlet"
-        children:
-          - title: "Introducción a Quadlet"
-            url: /cursos/podman2024/contenido/modulo6/01_quadlet.html
-          - title: "Ejecución de contenedores con Systemd y Quadlet"
-            url: /cursos/podman2024/contenido/modulo6/02_contenedor.html
-          - title: "Gestionando volúmenes y redes con Systemd y Quadlet"
-            url: /cursos/podman2024/contenido/modulo6/03_vol_redes.html
-          - title: "Ejecución de Pods con Systemd y Quadlet"
-            url: /cursos/podman2024/contenido/modulo6/04_pod.html
-          - title: "Ejemplo: Despliegue de WordPress + MariaDB con Systemd y Quadlet"
-            url: /cursos/podman2024/contenido/modulo6/05_wordpress.html
-      - title: "Gestionando escenarios multicontenedor con podman-compose"
-        children:
-          - title: "Creando escenarios multicontenedor con Compose"
-            url: /cursos/podman2024/contenido/modulo7/01_compose.html
-          - title: "El fichero compose.yaml"
-            url: /cursos/podman2024/contenido/modulo7/02_compose_yaml.html
-          - title: "El comando podman-compose"
-            url: /cursos/podman2024/contenido/modulo7/03_podman_compose.html
-          - title: "Almacenamiento y redes con Compose"
-            url: /cursos/podman2024/contenido/modulo7/04_almacenamiento_redes.html
-          - title: "Uso de parámetros con Compose"
-            url: /cursos/podman2024/contenido/modulo7/05_variables.html
-          - title: "Creación de contenedores rootless conectados a la red slirp4netns"
-            url: /cursos/podman2024/contenido/modulo7/06_rootless.html
-          - title: "Despliegue de la aplicación Guestbook"
-            url: /cursos/podman2024/contenido/modulo7/07_guestbook.html
-          - title: "Despliegue de la aplicación Temperaturas"
-            url: /cursos/podman2024/contenido/modulo7/08_temperaturas.html
-
-      - title: "Gestión de imágenes OCI con Podman"
-        children:
-          - title: "Construcción y distribución de imágenes OCI"
-            url: /cursos/podman2024/contenido/modulo8/01_introduccion.html
-          - title: "Construcción de imágenes a partir de un contenedor"
-            url: /cursos/podman2024/contenido/modulo8/02_contenedor.html
-          - title: "El fichero Containerfile"
-            url: /cursos/podman2024/contenido/modulo8/03_containerfile.html
-          - title: "Construcción de imágenes con podman build"
-            url: /cursos/podman2024/contenido/modulo8/04_build.html
-          - title: "Construcción de imágenes configurables con variables de entorno"
-            url: /cursos/podman2024/contenido/modulo8/05_configuracion.html
-          - title: "Construcción de imágenes con Compose"
-            url: /cursos/podman2024/contenido/modulo8/06_compose.html
-          - title: "Distribución de imágenes OCI"
-            url: /cursos/podman2024/contenido/modulo8/07_distribucion.html
-          - title: "Uso de ficheros Containerfile parametrizados"
-            url: /cursos/podman2024/contenido/modulo8/08_variables.html
-
-      - title: "Gestión de imágenes OCI con Buildah y Skopeo"
-        children:
-          - title: "Introducción a Buildah y Skopeo"
-            url: /cursos/podman2024/contenido/modulo9/01_introduccion.html
-          - title: "Construcción de imágenes desde una imagen base con Buildah"
-            url: /cursos/podman2024/contenido/modulo9/02_base.html
-          - title: "Construcción de imágenes desde cero con Buildah"
-            url: /cursos/podman2024/contenido/modulo9/03_scratch.html
-          - title: "Construcción de imágenes desde un Containerfile con Buildah"
-            url: /cursos/podman2024/contenido/modulo9/04_build.html
-          - title: "Distribución de imágenes con Buildah"
-            url: /cursos/podman2024/contenido/modulo9/05_distribucion.html
-          - title: "Gestión de imágenes con Skopeo"
-            url: /cursos/podman2024/contenido/modulo9/06_skopeo.html
-
-      - title: "Podman Desktop"
-        children:
-          - title: "Introducción a Podman Desktop"
-            url: /cursos/podman2024/contenido/modulo10/01_introduccion.html
-          - title: "Gestión de imágenes en Podman Desktop"
-            url: /cursos/podman2024/contenido/modulo10/02_imagenes.html
-          - title: "Gestión de contenedores en Podman Desktop"
-            url: /cursos/podman2024/contenido/modulo10/03_contenedor.html
-          - title: "Gestión de Pods en Podman Desktop"
-            url: /cursos/podman2024/contenido/modulo10/04_pod.html
-          - title: "Gestión de volúmenes en Podman Desktop"
-            url: /cursos/podman2024/contenido/modulo10/05_volumenes.html
-          - title: "Construcción de imágenes en Podman Desktop"
-            url: /cursos/podman2024/contenido/modulo10/06_build.html
+  - title: "Ejecución de contenedores OCI con Podman"
+    children:
+      - title: "El \"Hola Mundo\" en Podman"
+        url: /cursos/podman2024/contenido/modulo2/01_holamundo.html
+      - title: "Ejecución simple de contenedores"
+        url: /cursos/podman2024/contenido/modulo2/02_contenedor.html
+      - title: "Ejecución de contenedores interactivos"
+        url: /cursos/podman2024/contenido/modulo2/03_interactivo.html
+      - title: "Ejecución de contenedores demonios"
+        url: /cursos/podman2024/contenido/modulo2/04_demonio.html
+      - title: "Ejecución de un contenedor demonio con un servidor web"
+        url: /cursos/podman2024/contenido/modulo2/05_web.html
+      - title: "Obteniendo información de los contenedores"
+        url: /cursos/podman2024/contenido/modulo2/06_informacion.html
+      - title: "Configuración de contenedores"
+        url: /cursos/podman2024/contenido/modulo2/07_configuracion.html    
+      - title: "Ejecución de un contenedor con un servidor de base de datos"
+        url: /cursos/podman2024/contenido/modulo2/08_mariadb.html    
+      - title: "Modos de funcionamiento de los contenedores"
+        url: /cursos/podman2024/contenido/modulo2/09_funcionamiento.html
+      - title: "¿Cómo funcionan los contenedores rootless?"
+        url: /cursos/podman2024/contenido/modulo2/10_rootless.html
+  - title: "Gestión de imágenes OCI en Podman"
+    children:
+      - title: "Introducción a las imágenes OCI"
+        url: /cursos/podman2024/contenido/modulo3/01_imagenes.html
+      - title: "Introducción al formato de imagen OCI"
+        url: /cursos/podman2024/contenido/modulo3/02_formato.html
+      - title: "Almacenamiento de imágenes"
+        url: /cursos/podman2024/contenido/modulo3/03_almacen_img.html
+      - title: "Ahorro de espacio de almacenamiento"
+        url: /cursos/podman2024/contenido/modulo3/04_ahorro_almacenamiento.html
+      - title: "Almacenamiento de contenedores"
+        url: /cursos/podman2024/contenido/modulo3/05_almacen_cont.html
+      - title: "Almacenamiento de contenedores rootless"
+        url: /cursos/podman2024/contenido/modulo3/06_rootless.html
+      - title: "Gestión de imágenes"
+        url: /cursos/podman2024/contenido/modulo3/07_gestion.html
+      - title: "Obteniendo información de las imágenes"
+        url: /cursos/podman2024/contenido/modulo3/08_informacion.html
+      - title: "Ejemplo: Desplegando la aplicación Drupal"
+        url: /cursos/podman2024/contenido/modulo3/09_drupal.html
+   - title: "Almacenamiento y redes en Podman"
+     children:
+      - title: "Almacenamiento en Podman"
+        url: /cursos/podman2024/contenido/modulo4/01_almacenamiento.html
+      - title: "Trabajando con volúmenes"
+        url: /cursos/podman2024/contenido/modulo4/02_volumen.html
+      - title: "Trabajando con bind mount"
+        url: /cursos/podman2024/contenido/modulo4/03_bindmount.html
+      - title: "Trabajando con almacenamiento en contenedores rootless"
+        url: /cursos/podman2024/contenido/modulo4/04_almacenamiento_rootless.html
+      - title: "Redes en Podman"
+        url: /cursos/podman2024/contenido/modulo4/05_redes.html
+      - title: "Uso de la red bridge por defecto"
+        url: /cursos/podman2024/contenido/modulo4/06_bridge.html
+      - title: "Gestión de redes definidas por el usuario"
+        url: /cursos/podman2024/contenido/modulo4/07_usuario.html
+      - title: "Uso de la red bridge definidas por el usuario"
+        url: /cursos/podman2024/contenido/modulo4/08_usuario2.html
+      - title: "Uso de la red host en Podman"
+        url: /cursos/podman2024/contenido/modulo4/09_host.html
+      - title: "Redes en contenedores rootless"
+        url: /cursos/podman2024/contenido/modulo4/10_red_rootless.html
+      - title: "Despliegue de la aplicación Guestbook"
+        url: /cursos/podman2024/contenido/modulo4/11_guestbook.html
+      - title: "Despliegue de la aplicación Temperaturas"
+        url: /cursos/podman2024/contenido/modulo4/12_temperaturas.html
+   - title: "Gestión de Pods en Podman"
+     children:
+      - title: "Trabajando con Pods en Podman"
+        url: /cursos/podman2024/contenido/modulo5/01_pod.html
+      - title: "Gestión de Pods"
+        url: /cursos/podman2024/contenido/modulo5/02_gestion.html
+      - title: "Funcionamiento de la red en un Pod"
+        url: /cursos/podman2024/contenido/modulo5/03_red.html
+      - title: "Almacenamiento compartido entre los contenedores de un Pod"
+        url: /cursos/podman2024/contenido/modulo5/04_almacenamiento.html
+      - title: "Ejemplo: Despliegue de WordPress + MariaDB en un Pod"
+        url: /cursos/podman2024/contenido/modulo5/05_wordpress.html
+      - title: "Ejemplo: Despliegue de WordPress + MariaDB en un escenario multipod"
+        url: /cursos/podman2024/contenido/modulo5/06_wordpress2.html
+      - title: "Ejemplo: nginx + fpm-php"
+        url: /cursos/podman2024/contenido/modulo5/07_nginx.html
+      - title: "Generación de un archivo YAML de Kubernetes con Podman"
+        url: /cursos/podman2024/contenido/modulo5/08_kubernetes.html
+      - title: "Ejecutando recursos de Kubernetes en Podman"
+        url: /cursos/podman2024/contenido/modulo5/09_kubernetes2.html
+   - title: "Gestionando recursos de Podman con Systemd y Quadlet"
+     children:
+      - title: "Introducción a Quadlet"
+        url: /cursos/podman2024/contenido/modulo6/01_quadlet.html
+      - title: "Ejecución de contenedores con Systemd y Quadlet"
+        url: /cursos/podman2024/contenido/modulo6/02_contenedor.html
+      - title: "Gestionando volúmenes y redes con Systemd y Quadlet"
+        url: /cursos/podman2024/contenido/modulo6/03_vol_redes.html
+      - title: "Ejecución de Pods con Systemd y Quadlet"
+        url: /cursos/podman2024/contenido/modulo6/04_pod.html
+      - title: "Ejemplo: Despliegue de WordPress + MariaDB con Systemd y Quadlet"
+        url: /cursos/podman2024/contenido/modulo6/05_wordpress.html
+   - title: "Gestionando escenarios multicontenedor con podman-compose"
+     children:
+      - title: "Creando escenarios multicontenedor con Compose"
+        url: /cursos/podman2024/contenido/modulo7/01_compose.html
+      - title: "El fichero compose.yaml"
+        url: /cursos/podman2024/contenido/modulo7/02_compose_yaml.html
+      - title: "El comando podman-compose"
+        url: /cursos/podman2024/contenido/modulo7/03_podman_compose.html
+      - title: "Almacenamiento y redes con Compose"
+        url: /cursos/podman2024/contenido/modulo7/04_almacenamiento_redes.html
+      - title: "Uso de parámetros con Compose"
+        url: /cursos/podman2024/contenido/modulo7/05_variables.html
+      - title: "Creación de contenedores rootless conectados a la red slirp4netns"
+        url: /cursos/podman2024/contenido/modulo7/06_rootless.html
+      - title: "Despliegue de la aplicación Guestbook"
+        url: /cursos/podman2024/contenido/modulo7/07_guestbook.html
+      - title: "Despliegue de la aplicación Temperaturas"
+        url: /cursos/podman2024/contenido/modulo7/08_temperaturas.html
+  - title: "Gestión de imágenes OCI con Podman"
+    children:
+       - title: "Construcción y distribución de imágenes OCI"
+         url: /cursos/podman2024/contenido/modulo8/01_introduccion.html
+       - title: "Construcción de imágenes a partir de un contenedor"
+         url: /cursos/podman2024/contenido/modulo8/02_contenedor.html
+       - title: "El fichero Containerfile"
+         url: /cursos/podman2024/contenido/modulo8/03_containerfile.html
+       - title: "Construcción de imágenes con podman build"
+         url: /cursos/podman2024/contenido/modulo8/04_build.html
+       - title: "Construcción de imágenes configurables con variables de entorno"
+         url: /cursos/podman2024/contenido/modulo8/05_configuracion.html
+       - title: "Construcción de imágenes con Compose"
+         url: /cursos/podman2024/contenido/modulo8/06_compose.html
+       - title: "Distribución de imágenes OCI"
+         url: /cursos/podman2024/contenido/modulo8/07_distribucion.html
+       - title: "Uso de ficheros Containerfile parametrizados"
+         url: /cursos/podman2024/contenido/modulo8/08_variables.html
+  - title: "Gestión de imágenes OCI con Buildah y Skopeo"
+    children:
+       - title: "Introducción a Buildah y Skopeo"
+         url: /cursos/podman2024/contenido/modulo9/01_introduccion.html
+       - title: "Construcción de imágenes desde una imagen base con Buildah"
+         url: /cursos/podman2024/contenido/modulo9/02_base.html
+       - title: "Construcción de imágenes desde cero con Buildah"
+         url: /cursos/podman2024/contenido/modulo9/03_scratch.html
+       - title: "Construcción de imágenes desde un Containerfile con Buildah"
+         url: /cursos/podman2024/contenido/modulo9/04_build.html
+       - title: "Distribución de imágenes con Buildah"
+         url: /cursos/podman2024/contenido/modulo9/05_distribucion.html
+       - title: "Gestión de imágenes con Skopeo"
+         url: /cursos/podman2024/contenido/modulo9/06_skopeo.html
+  - title: "Podman Desktop"
+    children:
+       - title: "Introducción a Podman Desktop"
+         url: /cursos/podman2024/contenido/modulo10/01_introduccion.html
+       - title: "Gestión de imágenes en Podman Desktop"
+         url: /cursos/podman2024/contenido/modulo10/02_imagenes.html
+       - title: "Gestión de contenedores en Podman Desktop"
+         url: /cursos/podman2024/contenido/modulo10/03_contenedor.html
+       - title: "Gestión de Pods en Podman Desktop"
+         url: /cursos/podman2024/contenido/modulo10/04_pod.html
+       - title: "Gestión de volúmenes en Podman Desktop"
+         url: /cursos/podman2024/contenido/modulo10/05_volumenes.html
+       - title: "Construcción de imágenes en Podman Desktop"
+         url: /cursos/podman2024/contenido/modulo10/06_build.html
 docker2024:
   - title: "Introducción a Docker"
     children:
