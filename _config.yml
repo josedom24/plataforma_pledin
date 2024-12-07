@@ -64,6 +64,9 @@ author:
   location: "Utrera, Sevilla,ES" # null (default), "absolute or relative url to link to author home"
 
 collections:
+  podman2024:
+    output: true
+    permalink: /cursos/:path
   docker2024:
     output: true
     permalink: /cursos/:path
@@ -133,6 +136,19 @@ collections_dir: cursos
 
 
 defaults:
+  - scope:
+      path: ""
+      type: podman2024
+    values:
+      layout: single
+      classes: wide
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "podman2024"
+
   - scope:
       path: ""
       type: docker2024
