@@ -40,31 +40,31 @@ Como nos devuelve mucha información podemos filtrar los campos que nos interesa
 El identificado del contenedor:
 
 ```
-$ podman inspect --format='{{.Id}}' webserver
+$ podman inspect --format='{% raw %}{{.Id}}{% endraw %}' webserver
 ```
 
 El nombre de la imagen que hemos usado para crear el contenedor:
 
 ```
-$ podman inspect --format='{{.Config.Image}}' webserver
+$ podman inspect --format='{% raw %}{{.Config.Image}}{% endraw %}' webserver
 ```
 
 El valor de las variables de entorno definidas en el contenedor:
 
 ```
-$ podman container inspect --format '{{range .Config.Env}}{{println .}}{{end}}' webserver
+$ podman container inspect --format '{% raw %}{{range .Config.Env}}{% endraw %}{% raw %}{{println .}}{% endraw %}{% raw %}{{end}}{% endraw %}' webserver
 ```
 
 El comando que hemos ejecutado en el contenedor:
 
 ```
-$ podman inspect --format='{{range .Config.Cmd}}{{println .}}{{end}}' webserver
+$ podman inspect --format='{% raw %}{{range .Config.Cmd}}{% endraw %}{% raw %}{{println .}}{% endraw %}{% raw %}{{end}}{% endraw %}' webserver
 ```
 
 La dirección IP que tiene el contenedor:
 
 ```
-$ podman inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' webserver
+$ podman inspect --format='{% raw %}{{range .NetworkSettings.Networks}}{% endraw %}{% raw %}{{.IPAddress}}{% endraw %}{% raw %}{{end}}{% endraw %}' webserver
 ```
 
 ## Etiquetando los contenedores con Labels
@@ -80,7 +80,7 @@ $ podman run -l servicio=bd -l entorno=produccion --name contenedor ubuntu
 Hay que tener en cuenta que estos contenedores tendrán además de las etiquetas indicadas en su creación, las etiquetas que estén definidas en la imagen que hemos utilizado para su creación.
 
 ```
-$ podman inspect --format '{{range $key, $value := .Config.Labels}}{{$key}}: {{$value}}{{"\n"}}{{end}}' contenedor
+$ podman inspect --format '{% raw %}{{range $key, $value := .Config.Labels}}{% endraw %}{% raw %}{{$key}}{% endraw %}: {% raw %}{{$value}}{% endraw %}{% raw %}{{"\n"}}{% endraw %}{% raw %}{{end}}{% endraw %}' contenedor
 entorno: produccion
 org.opencontainers.image.ref.name: ubuntu
 org.opencontainers.image.version: 22.04
