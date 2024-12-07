@@ -1,5 +1,5 @@
 ---
-title: "El "Hola Mundo" de Podman"
+title: "El \"Hola Mundo\" de Podman"
 permalink: /cursos/podman2024/contenido/modulo2/01_holamundo.html
 ---
 

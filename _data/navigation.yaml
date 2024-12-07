@@ -34,7 +34,7 @@ podman2024:
             url: /cursos/podman2024/contenido/modulo1/05_windows.html
       - title: "Ejecución de contenedores OCI con Podman"
         children:
-          - title: "El "Hola Mundo" en Podman"
+          - title: "El \"Hola Mundo\" en Podman"
             url: /cursos/podman2024/contenido/modulo2/01_holamundo.html
           - title: "Ejecución simple de contenedores"
             url: /cursos/podman2024/contenido/modulo2/02_contenedor.html
