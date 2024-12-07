@@ -99,7 +99,7 @@ overlay on /var/lib/containers/storage/overlay/67b0c66296f7957a0d82c8e48442ee0d7
 También podemos ver los directorios que se usan para construir el sistema de archivo de unión examinando la configuración del contenedor:
 
 ```
-# podman inspect --format='{{range $key,$dir := .GraphDriver.Data}}{{$key}} = {{$dir}}\n{{end}}'  contenedor1
+# podman inspect --format='{% raw %}{{range $key,$dir := .GraphDriver.Data}}{% endraw %}{% raw %}{{$key}}{% endraw %} = {% raw %}{{$dir}}{% endraw %}\n{% raw %}{{end}}{% endraw %}'  contenedor1
 LowerDir = /var/lib/containers/storage/overlay/8853b21ed9ab4ab7fd6c118f5b1c11e974caa7e133a99981573434d3b6018cf0/diff:/var/lib/containers/storage/overlay/007d2037805f6ca87f969f06c81286a47d98664e3f62e5fd393ec3da08a55b3c/diff:/var/lib/containers/storage/overlay/53498d66ad83a29fcd7c7bcf4abbcc0def4fc912772aa8a4483b51e232309aee/diff
 MergedDir = /var/lib/containers/storage/overlay/67b0c66296f7957a0d82c8e48442ee0d7e3b3386dadde46cd8dadf3c90d40000/merged
 UpperDir = /var/lib/containers/storage/overlay/67b0c66296f7957a0d82c8e48442ee0d7e3b3386dadde46cd8dadf3c90d40000/diff

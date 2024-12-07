@@ -34,31 +34,31 @@ La información más destacable que podemos ver:
 Podemos usar filtros, como en el caso de los contenedores. Por ejemplo, para mostrar el identificador de la imagen, ejecutamos
 
 ```
-$ podman inspect --format='{{.Id}}' docker.io/nginx:stable
+$ podman inspect --format='{% raw %}{{.Id}}{% endraw %}' docker.io/nginx:stable
 ```
 
 Consultar los puertos que expone el contenedor que creemos a a partir de esta imagen:
 
 ```
-$ podman inspect --format='{{range $port,$key := .Config.ExposedPorts}}{{$port}}{{end}}' docker.io/nginx:stable
+$ podman inspect --format='{% raw %}{{range $port,$key := .Config.ExposedPorts}}{% endraw %}{% raw %}{{$port}}{% endraw %}{% raw %}{{end}}{% endraw %}' docker.io/nginx:stable
 ```
 
 Consultar el sistema operativo y la arquitectura:
 
 ```
-$ podman inspect --format='{{.Os}} {{.Architecture}}' docker.io/nginx:stable
+$ podman inspect --format='{% raw %}{{.Os}}{% endraw %} {% raw %}{{.Architecture}}{% endraw %}' docker.io/nginx:stable
 ```
 
 Consultar las variables de entorno definidas en la imagen:
 
 ```
-$ podman inspect --format='{{range .Config.Env}}{{println .}}{{end}}' docker.io/nginx:stable
+$ podman inspect --format='{% raw %}{{range .Config.Env}}{% endraw %}{% raw %}{{println .}}{% endraw %}{% raw %}{{end}}{% endraw %}' docker.io/nginx:stable
 ```
 
 Y por último, para consultar los identificadores de las capas que forman la imagen:
 
 ```
-$ podman inspect --format='{{range .RootFS.Layers}}{{println .}}{{end}}' docker.io/nginx:stable
+$ podman inspect --format='{% raw %}{{range .RootFS.Layers}}{% endraw %}{% raw %}{{println .}}{% endraw %}{% raw %}{{end}}{% endraw %}' docker.io/nginx:stable
 ```
 
 ## Visualizar las capas de una imagen

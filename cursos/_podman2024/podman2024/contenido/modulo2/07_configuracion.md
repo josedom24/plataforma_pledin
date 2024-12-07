@@ -120,7 +120,7 @@ Para limitar la cantidad de recursos de CPU que puede utilizar un contenedor, pu
 Cuando inspeccionas un contenedor con el comando `podman inspect`, puedes utilizar el campo `NanoCpus` para ver la cantidad de CPU asignada al contenedor en unidades de *nanocpus*. Un *nanocpu* es una unidad de medida que representa la fracción de tiempo de CPU.
 
 ```
-$ podman inspect --format '{{.HostConfig.NanoCpus}}' servidor_web
+$ podman inspect --format '{% raw %}{{.HostConfig.NanoCpus}}{% endraw %}' servidor_web
 ```
 
 Para limitar la cantidad de memoria que puede utilizar un contenedor, puedes utilizar la opción `--memory`. Puedes especificar la memoria en bytes, kilobytes, megabytes, gigabytes, o utilizando el formato abreviado con las letras *b, k, m, g*. Por ejemplo para limitar un contenedor a 512 megabytes de memoria:
@@ -136,5 +136,5 @@ ID            NAME          CPU %       MEM USAGE / LIMIT  MEM %       NET IO   
 También podemos usar `podman inspect` para ver el límite de memoria (en bytes) que hemos configurado en un contenedor:
 
 ```
-$ podman inspect --format '{{.HostConfig.Memory}}' servidor_web
+$ podman inspect --format '{% raw %}{{.HostConfig.Memory}}{% endraw %}' servidor_web
 ```

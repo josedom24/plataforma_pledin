@@ -50,7 +50,7 @@ overlay on / type overlay (rw,context="system_u:object_r:container_file_t:s0:c11
 Además podemos ver los ficheros que forman parte del sistema de fichero con los usuarios definidos dentro del contenedor. Para ello primero vamos a obtener el directorio donde se ha unido el sistema de archivos de unión:
 
 ```
-$ podman inspect --format='{{range $key,$dir := .GraphDriver.Data}}{{$key}} = {{$dir}}\n{{end}}'  contenedor1
+$ podman inspect --format='{% raw %}{{range $key,$dir := .GraphDriver.Data}}{% endraw %}{% raw %}{{$key}}{% endraw %} = {% raw %}{{$dir}}{% endraw %}\n{% raw %}{{end}}{% endraw %}'  contenedor1
 ...
 MergedDir = /home/usuario/.local/share/containers/storage/overlay/203cac195f25541ff30f4abc9b79ad972e6478f233499be6caf4a6a405d2cea9/merged
 ...
