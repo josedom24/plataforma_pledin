@@ -20,18 +20,18 @@ podman2024:
     children:
       - title: Índice
         url: /cursos/podman2024/index.html
-      - title: "Introducción a Podman"
-        children:
-          - title: "Introducción a los contenedores OCI"
-            url: /cursos/podman2024/contenido/modulo1/01_contenedores.html
-          - title: "Aplicaciones para trabajar con contenedores OCI"
-            url: /cursos/podman2024/contenido/modulo1/02_aplicaciones.html
-          - title: "Introducción de Podman"
-            url: /cursos/podman2024/contenido/modulo1/03_podman.html
-          - title: "Instalación de Podman en Linux"
-            url: /cursos/podman2024/contenido/modulo1/04_linux.html
-          - title: "Instalación de Podman en Windows/macOS"
-            url: /cursos/podman2024/contenido/modulo1/05_windows.html
+  - title: "Introducción a Podman"
+    children:
+      - title: "Introducción a los contenedores OCI"
+        url: /cursos/podman2024/contenido/modulo1/01_contenedores.html
+      - title: "Aplicaciones para trabajar con contenedores OCI"
+        url: /cursos/podman2024/contenido/modulo1/02_aplicaciones.html
+      - title: "Introducción de Podman"
+        url: /cursos/podman2024/contenido/modulo1/03_podman.html
+      - title: "Instalación de Podman en Linux"
+        url: /cursos/podman2024/contenido/modulo1/04_linux.html
+      - title: "Instalación de Podman en Windows/macOS"
+        url: /cursos/podman2024/contenido/modulo1/05_windows.html
   - title: "Ejecución de contenedores OCI con Podman"
     children:
       - title: "El \"Hola Mundo\" en Podman"
