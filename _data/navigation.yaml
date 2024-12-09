@@ -152,50 +152,51 @@ podman2024:
         url: /cursos/podman2024/contenido/modulo7/08_temperaturas.html
   - title: "Gestión de imágenes OCI con Podman"
     children:
-       - title: "Construcción y distribución de imágenes OCI"
-         url: /cursos/podman2024/contenido/modulo8/01_introduccion.html
-       - title: "Construcción de imágenes a partir de un contenedor"
-         url: /cursos/podman2024/contenido/modulo8/02_contenedor.html
-       - title: "El fichero Containerfile"
-         url: /cursos/podman2024/contenido/modulo8/03_containerfile.html
-       - title: "Construcción de imágenes con podman build"
-         url: /cursos/podman2024/contenido/modulo8/04_build.html
-       - title: "Construcción de imágenes configurables con variables de entorno"
-         url: /cursos/podman2024/contenido/modulo8/05_configuracion.html
-       - title: "Construcción de imágenes con Compose"
-         url: /cursos/podman2024/contenido/modulo8/06_compose.html
-       - title: "Distribución de imágenes OCI"
-         url: /cursos/podman2024/contenido/modulo8/07_distribucion.html
-       - title: "Uso de ficheros Containerfile parametrizados"
-         url: /cursos/podman2024/contenido/modulo8/08_variables.html
+      - title: "Construcción y distribución de imágenes OCI"
+        url: /cursos/podman2024/contenido/modulo8/01_introduccion.html
+      - title: "Construcción de imágenes a partir de un contenedor"
+        url: /cursos/podman2024/contenido/modulo8/02_contenedor.html
+      - title: "El fichero Containerfile"
+        url: /cursos/podman2024/contenido/modulo8/03_containerfile.html
+      - title: "Construcción de imágenes con podman build"
+        url: /cursos/podman2024/contenido/modulo8/04_build.html
+      - title: "Construcción de imágenes configurables con variables de entorno"
+        url: /cursos/podman2024/contenido/modulo8/05_configuracion.html
+      - title: "Construcción de imágenes con Compose"
+        url: /cursos/podman2024/contenido/modulo8/06_compose.html
+      - title: "Distribución de imágenes OCI"
+        url: /cursos/podman2024/contenido/modulo8/07_distribucion.html
+      - title: "Uso de ficheros Containerfile parametrizados"
+        url: /cursos/podman2024/contenido/modulo8/08_variables.html
   - title: "Gestión de imágenes OCI con Buildah y Skopeo"
     children:
-       - title: "Introducción a Buildah y Skopeo"
-         url: /cursos/podman2024/contenido/modulo9/01_introduccion.html
-       - title: "Construcción de imágenes desde una imagen base con Buildah"
-         url: /cursos/podman2024/contenido/modulo9/02_base.html
-       - title: "Construcción de imágenes desde cero con Buildah"
-         url: /cursos/podman2024/contenido/modulo9/03_scratch.html
-       - title: "Construcción de imágenes desde un Containerfile con Buildah"
-         url: /cursos/podman2024/contenido/modulo9/04_build.html
-       - title: "Distribución de imágenes con Buildah"
-         url: /cursos/podman2024/contenido/modulo9/05_distribucion.html
-       - title: "Gestión de imágenes con Skopeo"
-         url: /cursos/podman2024/contenido/modulo9/06_skopeo.html
+      - title: "Introducción a Buildah y Skopeo"
+        url: /cursos/podman2024/contenido/modulo9/01_introduccion.html
+      - title: "Construcción de imágenes desde una imagen base con Buildah"
+        url: /cursos/podman2024/contenido/modulo9/02_base.html
+      - title: "Construcción de imágenes desde cero con Buildah"
+        url: /cursos/podman2024/contenido/modulo9/03_scratch.html
+      - title: "Construcción de imágenes desde un Containerfile con Buildah"
+        url: /cursos/podman2024/contenido/modulo9/04_build.html
+      - title: "Distribución de imágenes con Buildah"
+        url: /cursos/podman2024/contenido/modulo9/05_distribucion.html
+      - title: "Gestión de imágenes con Skopeo"
+        url: /cursos/podman2024/contenido/modulo9/06_skopeo.html
   - title: "Podman Desktop"
     children:
-       - title: "Introducción a Podman Desktop"
-         url: /cursos/podman2024/contenido/modulo10/01_introduccion.html
-       - title: "Gestión de imágenes en Podman Desktop"
-         url: /cursos/podman2024/contenido/modulo10/02_imagenes.html
-       - title: "Gestión de contenedores en Podman Desktop"
-         url: /cursos/podman2024/contenido/modulo10/03_contenedor.html
-       - title: "Gestión de Pods en Podman Desktop"
-         url: /cursos/podman2024/contenido/modulo10/04_pod.html
-       - title: "Gestión de volúmenes en Podman Desktop"
-         url: /cursos/podman2024/contenido/modulo10/05_volumenes.html
-       - title: "Construcción de imágenes en Podman Desktop"
-         url: /cursos/podman2024/contenido/modulo10/06_build.html
+      - title: "Introducción a Podman Desktop"
+        url: /cursos/podman2024/contenido/modulo10/01_introduccion.html
+      - title: "Gestión de imágenes en Podman Desktop"
+        url: /cursos/podman2024/contenido/modulo10/02_imagenes.html
+      - title: "Gestión de contenedores en Podman Desktop"
+        url: /cursos/podman2024/contenido/modulo10/03_contenedor.html
+      - title: "Gestión de Pods en Podman Desktop"
+        url: /cursos/podman2024/contenido/modulo10/04_pod.html
+      - title: "Gestión de volúmenes en Podman Desktop"
+        url: /cursos/podman2024/contenido/modulo10/05_volumenes.html
+      - title: "Construcción de imágenes en Podman Desktop"
+        url: /cursos/podman2024/contenido/modulo10/06_build.html
+        
 docker2024:
   - title: "Introducción a Docker"
     children:
