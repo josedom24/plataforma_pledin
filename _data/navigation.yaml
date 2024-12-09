@@ -74,8 +74,8 @@ podman2024:
         url: /cursos/podman2024/contenido/modulo3/08_informacion.html
       - title: "Ejemplo: Desplegando la aplicación Drupal"
         url: /cursos/podman2024/contenido/modulo3/09_drupal.html
-   - title: "Almacenamiento y redes en Podman"
-     children:
+  - title: "Almacenamiento y redes en Podman"
+    children:
       - title: "Almacenamiento en Podman"
         url: /cursos/podman2024/contenido/modulo4/01_almacenamiento.html
       - title: "Trabajando con volúmenes"
@@ -100,8 +100,8 @@ podman2024:
         url: /cursos/podman2024/contenido/modulo4/11_guestbook.html
       - title: "Despliegue de la aplicación Temperaturas"
         url: /cursos/podman2024/contenido/modulo4/12_temperaturas.html
-   - title: "Gestión de Pods en Podman"
-     children:
+  - title: "Gestión de Pods en Podman"
+    children:
       - title: "Trabajando con Pods en Podman"
         url: /cursos/podman2024/contenido/modulo5/01_pod.html
       - title: "Gestión de Pods"
@@ -120,8 +120,8 @@ podman2024:
         url: /cursos/podman2024/contenido/modulo5/08_kubernetes.html
       - title: "Ejecutando recursos de Kubernetes en Podman"
         url: /cursos/podman2024/contenido/modulo5/09_kubernetes2.html
-   - title: "Gestionando recursos de Podman con Systemd y Quadlet"
-     children:
+  - title: "Gestionando recursos de Podman con Systemd y Quadlet"
+    children:
       - title: "Introducción a Quadlet"
         url: /cursos/podman2024/contenido/modulo6/01_quadlet.html
       - title: "Ejecución de contenedores con Systemd y Quadlet"
@@ -132,8 +132,8 @@ podman2024:
         url: /cursos/podman2024/contenido/modulo6/04_pod.html
       - title: "Ejemplo: Despliegue de WordPress + MariaDB con Systemd y Quadlet"
         url: /cursos/podman2024/contenido/modulo6/05_wordpress.html
-   - title: "Gestionando escenarios multicontenedor con podman-compose"
-     children:
+  - title: "Gestionando escenarios multicontenedor con podman-compose"
+    children:
       - title: "Creando escenarios multicontenedor con Compose"
         url: /cursos/podman2024/contenido/modulo7/01_compose.html
       - title: "El fichero compose.yaml"
@@ -196,7 +196,7 @@ podman2024:
         url: /cursos/podman2024/contenido/modulo10/05_volumenes.html
       - title: "Construcción de imágenes en Podman Desktop"
         url: /cursos/podman2024/contenido/modulo10/06_build.html
-        
+
 docker2024:
   - title: "Introducción a Docker"
     children:
