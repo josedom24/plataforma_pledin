@@ -13,12 +13,16 @@
 <meta name="theme-color" content="#ffffff">
 
  <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      const activeElement = document.querySelector('li[active]');
-      if (activeElement) {
-        activeElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      }
+    document.addEventListener("DOMContentLoaded", function () {
+  const activeElement = document.querySelector('li[active]');
+  if (activeElement) {
+    activeElement.scrollIntoView({
+      behavior: 'smooth', // Movimiento suave
+      block: 'center',    // Asegura que esté centrado verticalmente
+      inline: 'nearest'   // Centrado horizontalmente, si aplica
     });
+  }
+});
   </script>
 
 <!-- end custom head snippets 2 -->
