@@ -20,6 +20,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## OpenWebinars
 
+* [Introducción a Podman (2024)](cursos/podman2024/index.html)
 * [Introducción a Docker (2024)](cursos/docker2024/index.html)
 * [OpenShift v4 como PaaS  (2023)](cursos/osv4_paas/index.html)
 * [Aprende Kubernetes con OpenShift v4 (2023)](cursos/osv4_k8s/index.html)
