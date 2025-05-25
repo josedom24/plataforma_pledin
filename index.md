@@ -10,13 +10,13 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## Programación
 
-* [Curso de C++: Introducción a C++ (2020) **OpenWebinars**](cursos/curso_cpp1/index.html)
-* [Curso de C++: Estructuras de control y tipos de datos (2020) **OpenWebinars**](cursos/curso_cpp2/index.html)
-* [Curso de C++: Programación estructurada y orientación a objetos (2020) **OpenWebinars**](cursos/curso_cpp3/index.html)
-* [Introducción a la programación con python3 (2019) **OpenWebinars**](cursos/programacion_python3/index.html)
-* [Introducción a la programación con pseudocódigo (2018) **OpenWebinars**](cursos/programacion/index.html)
-* [Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017) **OpenWebinars**](cursos/flask/index.html)
-* [Curso de python3 (2017) **OpenWebinars**](cursos/python3/index.html)
+* [Curso de C++: Introducción a C++ (2020) <small>(**OpenWebinars**)</small>](cursos/curso_cpp1/index.html)
+* [Curso de C++: Estructuras de control y tipos de datos (2020) <small>(**OpenWebinars**)</small>](cursos/curso_cpp2/index.html)
+* [Curso de C++: Programación estructurada y orientación a objetos (2020) <small>(**OpenWebinars**)</small>](cursos/curso_cpp3/index.html)
+* [Introducción a la programación con python3 (2019) <small>(**OpenWebinars**)</small>](cursos/programacion_python3/index.html)
+* [Introducción a la programación con pseudocódigo (2018) <small>(**OpenWebinars**)</small>](cursos/programacion/index.html)
+* [Curso sobre Flask (Miniframework python para desarrollar páginas web) (2017) <small>(**OpenWebinars**)</small>](cursos/flask/index.html)
+* [Curso de python3 (2017) <small>(**OpenWebinars**)</small>](cursos/python3/index.html)
 
 ## Virtualización
 
@@ -24,21 +24,21 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## Contenedores
 
-* [Introducción a Podman (2024) **OpenWebinars**](cursos/podman2024/index.html)
-* [Introducción a Docker (2024) **OpenWebinars**](cursos/docker2024/index.html)
-* [OpenShift v4 como PaaS  (2023) **OpenWebinars**](cursos/osv4_paas/index.html)
-* [Aprende Kubernetes con OpenShift v4 (2023) **OpenWebinars**](cursos/osv4_k8s/index.html)
+* [Introducción a Podman (2024) <small>(**OpenWebinars**)</small>](cursos/podman2024/index.html)
+* [Introducción a Docker (2024) <small>(**OpenWebinars**)</small>](cursos/docker2024/index.html)
+* [OpenShift v4 como PaaS  (2023) <small>(**OpenWebinars**)</small>](cursos/osv4_paas/index.html)
+* [Aprende Kubernetes con OpenShift v4 (2023) <small>(**OpenWebinars**)</small>](cursos/osv4_k8s/index.html)
 * [Curso: Introducción a  Docker. CPR Badajoz (2022)](https://josedom24.github.io/curso_docker_2022/)
 * [Curso: Introducción a Kubernetes. CEP Castilleja de la Cuesta (2022)](https://github.com/iesgn/curso_kubernetes_cep)
 * [Curso: Introducción a  Docker. CPR Zafra (2021)](https://iesgn.github.io/curso_docker_2021/)
-* [Curso de Openshift (2019) **OpenWebinars**](cursos/openshift/index.html)
+* [Curso de Openshift (2019) <small>(**OpenWebinars**)</small>](cursos/openshift/index.html)
 
 ## Cloud Computing y OpenStack
 
 * ["Mini" Curso: Virtualización y Cloud Computing en el IES Gonzalo Nazareno (2022)](https://www.josedomingo.org/pledin/2022/05/curso-cloud-iesgn)
 * [Curso de infraestructura Cloud con OpenStack. Universidad de Almería (2017) (github)](https://github.com/iesgn/curso-ual17)
 * [Curso OpenStack (2016) (github.io)](http://iesgn.github.io/emergya/)
-* [Curso de Cloud Computing con OpenStack (2015) **OpenWebinars**](http://iesgn.github.io/ow1/)
+* [Curso de Cloud Computing con OpenStack (2015) <small>(**OpenWebinars**)</small>](http://iesgn.github.io/ow1/)
 * [Introducción al Cloud Computing con OpenStack y OpenShift (2015) (github.io)](http://iesgn.github.io/cloud3/)
 * [Administración de infraestructura en la nube con OpenStack (2015) (github.io)](http://iesgn.github.io/cloud2/)
 * [Fundamentos de Cloud Computing con OpenStack y OpenShift (2014) (en github.io)](http://iesgn.github.io/cloud)
@@ -47,7 +47,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## Servicios y TIC
 
-* [Curso Apache2.4 (2018) **OpenWebinars**](cursos/apache24/index.html)
+* [Curso Apache2.4 (2018) <small>(**OpenWebinars**)</small>](cursos/apache24/index.html)
 * [Introducción al uso de la plataforma moodle (2020)](cursos/moodle2020/index.html)
 * [Servicios en GNU/Linux (Nivel Intermedio) (2011)](cursos/servicios2011/index.html)
 * [Servicios en GNU/Linux. Portal Educativo (2010)](cursos/servicios2010/index.html)
