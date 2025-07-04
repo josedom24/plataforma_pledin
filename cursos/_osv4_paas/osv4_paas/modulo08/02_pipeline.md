@@ -47,6 +47,11 @@ Hay tareas predefinidas en el clúster de OpenShift, para obtener la lista podem
     oc get clustertasks
     tkn clustertasks ls
 
+Desde la versión 1.9.0 de Red Hat Openshift Pipelines (enero de 2023) el tipo de recurso `ClusterTask` está obsoleto y, actualmente, ya ha sido completamente eliminado. Como alternativa, Openshift propone el uso de Cluster Resolver. Las tareas anteriormente recogidas en las `ClusterTask` de Openshift se encuentran ahora almacenadas como recursos del tipo `Task` en el namespace `opanshift-pipelines`. Para verlas, se puede ejecutar la siguiente orden:
+
+    oc get tasks -n openshift-pipelines
+    tkn tasks ls -n openshift-pipelines
+
 ## Creando el pipeline
 
 En este ejemplo, vamos a crear un pipeline que toma el código fuente de la aplicación de GitHub y luego lo construye y despliega en OpenShift.
@@ -132,6 +137,53 @@ Veamos las diferentes tareas que se ejecutan en el pipeline:
 * Construye la imagen del contenedor de la aplicación utilizando la **ClusterTask** `buildah` que utiliza Buildah para construir la imagen.
 * La imagen de la aplicación se envía a un registro de imágenes (parámetro `image`).
 * La nueva imagen de la aplicación se despliega en OpenShift utilizando las tareas `apply-manifests` y `update-deployment`.
+
+Debido a la eliminación de los recursos de tipo `ClusterTask` en las versiones recientes de Openshift pipelines la ejecución del pipeline definido en este fichero no funciona actualmente. Para solucionar los errores que pueda generar, es necesrio modificar las etapas `fetch-repository` y `build-image` para que el pipeline use Cluster Resolvers en vez de `ClusterTasks`.
+
+```yaml
+...
+    - name: fetch-repository
+      taskRef:
+        params:
+          - name: kind
+            value: task
+          - name: name
+            value: git-clone
+          - name: namespace
+            value: openshift-pipelines
+        resolver: cluster
+      workspaces:
+      - name: output
+        workspace: shared-workspace
+      params:
+      - name: url
+        value: $(params.git-url)
+      - name: subdirectory
+        value: ""
+      - name: deleteExisting
+        value: "true"
+      - name: revision
+        value: $(params.git-revision)
+    - name: build-image
+      params:
+        - name: IMAGE
+          value: $(params.IMAGE)
+      runAfter:
+        - fetch-repository
+      taskRef:
+        params:
+          - name: kind
+            value: task
+          - name: name
+            value: buildah
+          - name: namespace
+            value: openshift-pipelines
+        resolver: cluster
+      workspaces:
+        - name: source
+          workspace: shared-workspace
+...
+```
 
 Es posible que haya notado que no hay referencias al repositorio git o al registro de imágenes que se utiliza en el pipeline. Esto se debe a que los pipelines en Tekton están diseñados para ser genéricos y reutilizables. Al activar un pipeline, puedes proporcionar diferentes repositorios git y registros de imágenes para ser utilizados durante la ejecución del pipeline. 
 
