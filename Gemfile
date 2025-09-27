@@ -9,10 +9,14 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 #gem "jekyll", "~> 4.1.1"
-gem "jekyll", github: "jekyll/jekyll"
-gem "liquid-c"
+
+#gem "jekyll", github: "jekyll/jekyll"
+#gem "liquid-c"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.0"
+#gem "minima", "~> 2.0"
+
+# This is the default theme for new Jekyll sites. You may change this to anything you like.
+#gem "minima", "~> 2.0"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -35,4 +39,5 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem "minimal-mistakes-jekyll", :git => "https://github.com/mmistakes/minimal-mistakes.git", :branch => "master"
+#gem "minimal-mistakes-jekyll", :git => "https://github.com/mmistakes/minimal-mistakes.git", :branch => "master"
+gem "minimal-mistakes-jekyll"
