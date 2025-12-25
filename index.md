@@ -10,7 +10,7 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## Programación
 
-* [Curso de preparación para el examen Pythonn PCEP - PCAP (2025)](https://github.com/josedom24/python_pcep_pcap)
+* [Curso de preparación para el examen Pythonn PCEP - PCAP (2025) <small>(**OpenWebinars**)</small>](https://github.com/josedom24/python_pcep_pcap)
 * [Curso de C++: Introducción a C++ (2020) <small>(**OpenWebinars**)</small>](cursos/curso_cpp1/index.html)
 * [Curso de C++: Estructuras de control y tipos de datos (2020) <small>(**OpenWebinars**)</small>](cursos/curso_cpp2/index.html)
 * [Curso de C++: Programación estructurada y orientación a objetos (2020) <small>(**OpenWebinars**)</small>](cursos/curso_cpp3/index.html)
@@ -21,8 +21,8 @@ Bienvenidos a PLEDIN, Plataforma Educativa Informática. Esta plataforma está m
 
 ## Virtualización
 
-* [Curso: Profundización a la virtualización con KVM/libvirt (2025)](https://github.com/josedom24/curso_kvm_ow/blob/main/curso2)
-* [Curso: Introducción a la virtualización con KVM/libvirt usando virt-manager (2025)](https://github.com/josedom24/curso_kvm_ow/blob/main/curso1)
+* [Curso: Profundización a la virtualización con KVM/libvirt (2025) <small>(**OpenWebinars**)</small>](https://github.com/josedom24/curso_kvm_ow/blob/main/curso2)
+* [Curso: Introducción a la virtualización con KVM/libvirt usando virt-manager (2025) <small>(**OpenWebinars**)</small>](https://github.com/josedom24/curso_kvm_ow/blob/main/curso1)
 * [Curso: Introducción a Proxmox VE. CEP Castilleja de la Cuesta. (2022)](https://github.com/iesgn/curso_proxmox_cep)
 
 ## Contenedores
